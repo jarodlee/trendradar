@@ -1,8 +1,26 @@
 {
-  "generated_at": "2025-10-16T16:53:12.790788+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2025-10-16T17:09:10.309977+08:00",
+  "total_titles_processed": 346,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "教育",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "长沙家长发文投诉，建议取消「家长护学岗」，教育局回应按照自愿原则，「自愿」会变成隐形强制吗？你怎么看？",
+          "url": "https://www.zhihu.com/question/1961877787154552696",
+          "source": "知乎",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时52分 ~ 17时09分]"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
@@ -12,11 +30,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%A1%AC%E5%88%9Asora2%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83Veo3.1",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 16时53分]"
+          "appearance_count": 4,
+          "time_info": "[16时52分 ~ 17时09分]"
         }
       ]
     },
@@ -31,7 +50,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         }
