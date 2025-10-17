@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T17:04:03.809976+08:00",
-  "total_titles_processed": 1083,
+  "generated_at": "2025-10-17T18:04:13.743710+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时19分 ~ 17时04分]"
+          "appearance_count": 13,
+          "time_info": "[10时19分 ~ 18时04分]"
         },
         {
           "title": "美股收盘：区域银行信贷“暴雷”引发担忧 三大指数集体收跌",
@@ -82,7 +82,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -93,7 +93,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         }
@@ -101,7 +101,7 @@
     },
     {
       "keyword_group": "教育",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "高速服务区现「野人小孩」，赤身裸体爬行奔跑，家人称教育方式不一样，怎样看待这种教育方式？",
@@ -114,8 +114,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时39分 ~ 17时04分]"
+          "appearance_count": 15,
+          "time_info": "[08时39分 ~ 18时04分]"
         },
         {
           "title": "马上评｜把孩子养成“野人”，慎言只是教育方式不同",
@@ -127,8 +127,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时06分 ~ 17时04分]"
+          "appearance_count": 7,
+          "time_info": "[15时06分 ~ 18时04分]"
+        },
+        {
+          "title": "多人跪地爬行学狗叫：教育公司团建",
+          "url": "https://www.toutiao.com/trending/7561798831013986345/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时03分 ~ 18时04分]"
         },
         {
           "title": "教育孩子应避免讲大道理吗",
@@ -153,11 +164,12 @@
           "source": "百度热搜",
           "ranks": [
             22,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时03分 ~ 17时04分]"
+          "appearance_count": 6,
+          "time_info": "[16时03分 ~ 18时04分]"
         },
         {
           "title": "日本一小学课间齐跳科目三",
@@ -186,8 +198,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时39分 ~ 17时04分]"
+          "appearance_count": 15,
+          "time_info": "[08时39分 ~ 18时04分]"
         },
         {
           "title": "OpenAI模型Sora 2上线微软Azure AI Foundry（国际版）",
