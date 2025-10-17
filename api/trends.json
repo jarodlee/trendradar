@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T12:03:01.620277+08:00",
-  "total_titles_processed": 621,
+  "generated_at": "2025-10-17T13:03:47.546117+08:00",
+  "total_titles_processed": 701,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时39分 ~ 12时03分]"
+          "appearance_count": 7,
+          "time_info": "[08时39分 ~ 13时03分]"
         },
         {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时19分 ~ 12时03分]"
+          "appearance_count": 5,
+          "time_info": "[10时19分 ~ 13时03分]"
         },
         {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，”恐慌指数“涨超20%",
@@ -79,8 +79,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时39分 ~ 12时03分]"
+          "appearance_count": 7,
+          "time_info": "[08时39分 ~ 13时03分]"
         },
         {
           "title": "教育孩子应避免讲大道理吗",
@@ -109,8 +109,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时39分 ~ 12时03分]"
+          "appearance_count": 7,
+          "time_info": "[08时39分 ~ 13时03分]"
         },
         {
           "title": "OpenAI模型Sora 2上线微软Azure AI Foundry（国际版）",
@@ -118,11 +118,29 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            14
+            14,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时29分 ~ 12时03分]"
+          "appearance_count": 3,
+          "time_info": "[11时29分 ~ 13时03分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小学",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "日本一小学课间齐跳科目三",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%97%A5%E6%9C%AC%E4%B8%80%E5%B0%8F%E5%AD%A6%E8%AF%BE%E9%97%B4%E9%BD%90%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26cate%3D5001%26dgr%3D0%26flag%3D1%26realpos%3D19%26stream_entry_id%3D31%26band_rank%3D19%26q%3D%2523%25E6%2597%25A5%25E6%259C%25AC%25E4%25B8%2580%25E5%25B0%258F%25E5%25AD%25A6%25E8%25AF%25BE%25E9%2597%25B4%25E9%25BD%2590%25E8%25B7%25B3%25E7%25A7%2591%25E7%259B%25AE%25E4%25B8%2589%2523%26pos%3D19%26lcate%3D5001%26filter_type%3Drealtimehot%26display_time%3D1760677297%26pre_seqid%3D1760677297138016952978",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
         }
       ]
     }
