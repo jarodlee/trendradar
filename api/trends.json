@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-10-17T08:40:11.235739+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2025-10-17T10:19:31.767200+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美股收盘：区域银行信贷“暴雷”引发担忧 三大指数集体收跌",
+          "url": "https://www.cls.cn/detail/2172108",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时39分 ~ 10时19分]"
+        },
         {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，”恐慌指数“涨超20%",
           "url": "https://wallstreetcn.com/articles/3757299",
@@ -19,15 +30,15 @@
           "time_info": "[08时39分 ~ 08时40分]"
         },
         {
-          "title": "美股收盘：区域银行信贷“暴雷”引发担忧 三大指数集体收跌",
-          "url": "https://www.cls.cn/detail/2172108",
-          "source": "财联社热门",
+          "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
+          "url": "https://wallstreetcn.com/articles/3757299",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时39分 ~ 08时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时19分"
         },
         {
           "title": "美股三大期指集体走高 台积电业绩领芯片股普涨 | 今夜看点",
@@ -37,19 +48,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时39分 ~ 08时40分]"
+          "appearance_count": 3,
+          "time_info": "[08时39分 ~ 10时19分]"
         },
         {
           "title": "美股三大股指齐收跌 金龙指数跌近1%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E9%BD%90%E6%94%B6%E8%B7%8C+%E9%87%91%E9%BE%99%E6%8C%87%E6%95%B0%E8%B7%8C%E8%BF%911%25",
           "source": "百度热搜",
           "ranks": [
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时39分 ~ 08时40分]"
+          "appearance_count": 3,
+          "time_info": "[08时39分 ~ 10时19分]"
         }
       ]
     },
@@ -62,11 +74,12 @@
           "url": "https://www.zhihu.com/question/1962179574336030563",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时39分 ~ 08时40分]"
+          "appearance_count": 3,
+          "time_info": "[08时39分 ~ 10时19分]"
         }
       ]
     },
@@ -79,11 +92,12 @@
           "url": "https://www.zhihu.com/question/1961867297695166783",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时39分 ~ 08时40分]"
+          "appearance_count": 3,
+          "time_info": "[08时39分 ~ 10时19分]"
         }
       ]
     }
