@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T13:03:47.546117+08:00",
-  "total_titles_processed": 701,
+  "generated_at": "2025-10-17T14:04:25.790947+08:00",
+  "total_titles_processed": 776,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2172108",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时39分 ~ 13时03分]"
+          "appearance_count": 8,
+          "time_info": "[08时39分 ~ 14时04分]"
         },
         {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
@@ -26,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时19分 ~ 13时03分]"
+          "appearance_count": 6,
+          "time_info": "[10时19分 ~ 14时04分]"
         },
         {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，”恐慌指数“涨超20%",
@@ -79,8 +80,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时39分 ~ 13时03分]"
+          "appearance_count": 8,
+          "time_info": "[08时39分 ~ 14时04分]"
         },
         {
           "title": "教育孩子应避免讲大道理吗",
@@ -109,8 +110,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时39分 ~ 13时03分]"
+          "appearance_count": 8,
+          "time_info": "[08时39分 ~ 14时04分]"
         },
         {
           "title": "OpenAI模型Sora 2上线微软Azure AI Foundry（国际版）",
@@ -138,7 +139,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         }
