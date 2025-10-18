@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T12:03:11.772043+08:00",
-  "total_titles_processed": 582,
+  "generated_at": "2025-10-18T13:03:50.974638+08:00",
+  "total_titles_processed": 650,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时39分 ~ 12时03分]"
+          "appearance_count": 8,
+          "time_info": "[08时39分 ~ 13时03分]"
         },
         {
           "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时39分 ~ 12时03分]"
+          "appearance_count": 8,
+          "time_info": "[08时39分 ~ 13时03分]"
         },
         {
           "title": "美元大逻辑的关键验证：下一次美股大跌",
@@ -40,19 +40,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时39分 ~ 12时03分]"
+          "appearance_count": 8,
+          "time_info": "[08时39分 ~ 13时03分]"
         },
         {
           "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
           "url": "https://www.cls.cn/detail/2173194",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时39分 ~ 12时03分]"
+          "appearance_count": 8,
+          "time_info": "[08时39分 ~ 13时03分]"
         },
         {
           "title": "美股三大指数集体收涨",
@@ -132,11 +133,12 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时39分 ~ 12时03分]"
+          "appearance_count": 8,
+          "time_info": "[08时39分 ~ 13时03分]"
         }
       ]
     },
@@ -170,8 +172,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时39分 ~ 12时03分]"
+          "appearance_count": 8,
+          "time_info": "[08时39分 ~ 13时03分]"
         }
       ]
     },
