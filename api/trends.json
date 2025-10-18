@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T19:02:41.867963+08:00",
-  "total_titles_processed": 993,
+  "generated_at": "2025-10-18T20:04:30.508194+08:00",
+  "total_titles_processed": 1054,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时39分 ~ 19时02分]"
+          "appearance_count": 17,
+          "time_info": "[08时39分 ~ 20时04分]"
         },
         {
           "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时39分 ~ 19时02分]"
+          "appearance_count": 17,
+          "time_info": "[08时39分 ~ 20时04分]"
         },
         {
           "title": "美元大逻辑的关键验证：下一次美股大跌",
@@ -60,11 +60,12 @@
           "url": "https://wallstreetcn.com/articles/3757414",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 19时02分]"
+          "appearance_count": 3,
+          "time_info": "[18时02分 ~ 20时04分]"
         },
         {
           "title": "“恐慌指数”飙升：美股平静期宣告结束？",
@@ -74,8 +75,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 19时02分]"
+          "appearance_count": 3,
+          "time_info": "[18时02分 ~ 20时04分]"
         },
         {
           "title": "美股三大指数集体收涨",
@@ -157,11 +158,12 @@
             6,
             7,
             8,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时03分 ~ 19时02分]"
+          "appearance_count": 9,
+          "time_info": "[14时03分 ~ 20时04分]"
         },
         {
           "title": "马上评｜把孩子养成“野人”，慎言只是教育方式不同",
