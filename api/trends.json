@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-18T17:02:32.408928+08:00",
-  "total_titles_processed": 879,
+  "generated_at": "2025-10-18T18:02:49.208489+08:00",
+  "total_titles_processed": 937,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时39分 ~ 17时02分]"
+          "appearance_count": 15,
+          "time_info": "[08时39分 ~ 18时02分]"
         },
         {
           "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时39分 ~ 17时02分]"
+          "appearance_count": 15,
+          "time_info": "[08时39分 ~ 18时02分]"
         },
         {
           "title": "美元大逻辑的关键验证：下一次美股大跌",
@@ -54,6 +54,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[08时39分 ~ 13时03分]"
+        },
+        {
+          "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
+          "url": "https://wallstreetcn.com/articles/3757414",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "“恐慌指数”飙升：美股平静期宣告结束？",
+          "url": "https://www.cls.cn/detail/2173450",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "美股三大指数集体收涨",
@@ -150,8 +172,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时03分 ~ 17时02分]"
+          "appearance_count": 7,
+          "time_info": "[14时03分 ~ 18时02分]"
         }
       ]
     },
