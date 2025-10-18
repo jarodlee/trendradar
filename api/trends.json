@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T18:02:49.208489+08:00",
-  "total_titles_processed": 937,
+  "generated_at": "2025-10-18T19:02:41.867963+08:00",
+  "total_titles_processed": 993,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时39分 ~ 18时02分]"
+          "appearance_count": 16,
+          "time_info": "[08时39分 ~ 19时02分]"
         },
         {
           "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时39分 ~ 18时02分]"
+          "appearance_count": 16,
+          "time_info": "[08时39分 ~ 19时02分]"
         },
         {
           "title": "美元大逻辑的关键验证：下一次美股大跌",
@@ -62,9 +62,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
         },
         {
           "title": "“恐慌指数”飙升：美股平静期宣告结束？",
@@ -73,9 +73,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
         },
         {
           "title": "美股三大指数集体收涨",
@@ -150,6 +150,20 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "清华大学发文悼念杨振宁，他对中国高等教育产生了哪些影响？物理学领域的学者眼中的杨振宁是什么样的？",
+          "url": "https://www.zhihu.com/question/1962860607301711253",
+          "source": "知乎",
+          "ranks": [
+            6,
+            7,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时03分 ~ 19时02分]"
+        },
+        {
           "title": "马上评｜把孩子养成“野人”，慎言只是教育方式不同",
           "url": "https://m.thepaper.cn/newsDetail_forward_31796875",
           "source": "澎湃新闻",
@@ -161,19 +175,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[08时39分 ~ 13时03分]"
-        },
-        {
-          "title": "清华大学发文悼念杨振宁，他对中国高等教育产生了哪些影响？物理学领域的学者眼中的杨振宁是什么样的？",
-          "url": "https://www.zhihu.com/question/1962860607301711253",
-          "source": "知乎",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时03分 ~ 18时02分]"
         }
       ]
     },
