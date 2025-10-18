@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T13:03:50.974638+08:00",
-  "total_titles_processed": 650,
+  "generated_at": "2025-10-18T14:04:10.196182+08:00",
+  "total_titles_processed": 723,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时39分 ~ 13时03分]"
+          "appearance_count": 10,
+          "time_info": "[08时39分 ~ 14时04分]"
         },
         {
           "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时39分 ~ 13时03分]"
+          "appearance_count": 10,
+          "time_info": "[08时39分 ~ 14时04分]"
         },
         {
           "title": "美元大逻辑的关键验证：下一次美股大跌",
@@ -40,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时39分 ~ 13时03分]"
+          "appearance_count": 10,
+          "time_info": "[08时39分 ~ 14时04分]"
         },
         {
           "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
@@ -125,7 +125,7 @@
     },
     {
       "keyword_group": "教育",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "马上评｜把孩子养成“野人”，慎言只是教育方式不同",
@@ -139,6 +139,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[08时39分 ~ 13时03分]"
+        },
+        {
+          "title": "清华大学发文悼念杨振宁，他对中国高等教育产生了哪些影响？物理学领域的学者眼中的杨振宁是什么样的？",
+          "url": "https://www.zhihu.com/question/1962860607301711253",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时03分 ~ 14时04分]"
         }
       ]
     },
