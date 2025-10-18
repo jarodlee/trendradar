@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T14:04:10.196182+08:00",
-  "total_titles_processed": 723,
+  "generated_at": "2025-10-18T15:02:46.541799+08:00",
+  "total_titles_processed": 772,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时39分 ~ 14时04分]"
+          "appearance_count": 11,
+          "time_info": "[08时39分 ~ 15时02分]"
         },
         {
           "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时39分 ~ 14时04分]"
+          "appearance_count": 11,
+          "time_info": "[08时39分 ~ 15时02分]"
         },
         {
           "title": "美元大逻辑的关键验证：下一次美股大跌",
@@ -148,8 +148,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时03分 ~ 14时04分]"
+          "appearance_count": 3,
+          "time_info": "[14时03分 ~ 15时02分]"
         }
       ]
     },
