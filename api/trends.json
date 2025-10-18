@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T15:02:46.541799+08:00",
-  "total_titles_processed": 772,
+  "generated_at": "2025-10-18T16:04:16.367183+08:00",
+  "total_titles_processed": 820,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时39分 ~ 15时02分]"
+          "appearance_count": 13,
+          "time_info": "[08时39分 ~ 16时04分]"
         },
         {
           "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时39分 ~ 15时02分]"
+          "appearance_count": 13,
+          "time_info": "[08时39分 ~ 16时04分]"
         },
         {
           "title": "美元大逻辑的关键验证：下一次美股大跌",
@@ -145,11 +145,12 @@
           "url": "https://www.zhihu.com/question/1962860607301711253",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时03分 ~ 15时02分]"
+          "appearance_count": 5,
+          "time_info": "[14时03分 ~ 16时04分]"
         }
       ]
     },
