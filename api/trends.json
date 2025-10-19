@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T11:40:56.829210+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2025-10-19T12:15:25.125325+08:00",
+  "total_titles_processed": 525,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时45分 ~ 11时40分]"
+          "appearance_count": 5,
+          "time_info": "[08时45分 ~ 12时15分]"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
@@ -49,11 +49,12 @@
           "source": "金十数据",
           "ranks": [
             10,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 11时40分]"
+          "appearance_count": 3,
+          "time_info": "[10时30分 ~ 12时15分]"
         }
       ]
     },
@@ -68,11 +69,12 @@
           "ranks": [
             9,
             7,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时45分 ~ 11时40分]"
+          "appearance_count": 5,
+          "time_info": "[08时45分 ~ 12时15分]"
         }
       ]
     },
@@ -87,11 +89,12 @@
           "ranks": [
             15,
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时45分 ~ 11时40分]"
+          "appearance_count": 5,
+          "time_info": "[08时45分 ~ 12时15分]"
         }
       ]
     },
@@ -104,11 +107,12 @@
           "url": "https://flash.jin10.com/detail/20251019102338888800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 12时15分]"
         }
       ]
     }
