@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-19T17:02:33.954089+08:00",
-  "total_titles_processed": 794,
+  "generated_at": "2025-10-19T18:04:12.437049+08:00",
+  "total_titles_processed": 859,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时45分 ~ 17时02分]"
+          "appearance_count": 14,
+          "time_info": "[08时45分 ~ 18时04分]"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
@@ -57,6 +57,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时45分 ~ 11时40分]"
+        },
+        {
+          "title": "担心“泡沫”，“赌性最大”的韩国人开始买“美股VIX”了",
+          "url": "https://wallstreetcn.com/articles/3757446",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时03分 ~ 18时04分]"
         }
       ]
     },
@@ -75,8 +86,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时45分 ~ 17时02分]"
+          "appearance_count": 14,
+          "time_info": "[08时45分 ~ 18时04分]"
         }
       ]
     },
