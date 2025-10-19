@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T10:30:49.957194+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2025-10-19T11:40:56.829210+08:00",
+  "total_titles_processed": 491,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2173368",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时45分 ~ 10时30分]"
+          "appearance_count": 4,
+          "time_info": "[08时45分 ~ 11时40分]"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
@@ -39,19 +40,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时45分 ~ 10时30分]"
+          "appearance_count": 4,
+          "time_info": "[08时45分 ~ 11时40分]"
         },
         {
           "title": "韩国散户押注杠杆VIX ，对冲美股高估值风险",
           "url": "https://flash.jin10.com/detail/20251019091747896800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 11时40分]"
         }
       ]
     },
@@ -65,11 +67,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时45分 ~ 10时30分]"
+          "appearance_count": 4,
+          "time_info": "[08时45分 ~ 11时40分]"
         }
       ]
     },
@@ -83,11 +86,29 @@
           "source": "知乎",
           "ranks": [
             15,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时45分 ~ 10时30分]"
+          "appearance_count": 4,
+          "time_info": "[08时45分 ~ 11时40分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "微软(MSFT.O)领导人担心，要满足OpenAI快速增长的计算需求，可能会导致服务器过度建设，而这可能无法产生经济回报。",
+          "url": "https://flash.jin10.com/detail/20251019102338888800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
         }
       ]
     }
