@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T18:04:12.437049+08:00",
-  "total_titles_processed": 859,
+  "generated_at": "2025-10-19T19:03:37.208593+08:00",
+  "total_titles_processed": 925,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时45分 ~ 18时04分]"
+          "appearance_count": 15,
+          "time_info": "[08时45分 ~ 19时03分]"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
@@ -30,6 +30,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时45分 ~ 10时30分]"
+        },
+        {
+          "title": "担心“泡沫”，“赌性最大”的韩国人开始买“美股VIX”了",
+          "url": "https://wallstreetcn.com/articles/3757446",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时03分 ~ 19时03分]"
         },
         {
           "title": "韩国散户押注杠杆VIX ，对冲美股高估值风险",
@@ -57,17 +69,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时45分 ~ 11时40分]"
-        },
-        {
-          "title": "担心“泡沫”，“赌性最大”的韩国人开始买“美股VIX”了",
-          "url": "https://wallstreetcn.com/articles/3757446",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时03分 ~ 18时04分]"
         }
       ]
     },
