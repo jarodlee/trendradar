@@ -1,71 +1,33 @@
 {
-  "generated_at": "2025-10-18T22:04:05.486697+08:00",
-  "total_titles_processed": 1163,
+  "generated_at": "2025-10-19T08:46:02.792121+08:00",
+  "total_titles_processed": 325,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
-          "url": "https://wallstreetcn.com/articles/3757385",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[08时39分 ~ 22时04分]"
-        },
         {
           "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
           "url": "https://www.cls.cn/detail/2173368",
           "source": "财联社热门",
           "ranks": [
-            5,
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[08时39分 ~ 22时04分]"
-        },
-        {
-          "title": "美元大逻辑的关键验证：下一次美股大跌",
-          "url": "https://wallstreetcn.com/articles/3757381",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时39分 ~ 14时04分]"
-        },
-        {
-          "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2173194",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时39分 ~ 13时03分]"
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 08时46分]"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
           "url": "https://wallstreetcn.com/articles/3757414",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时02分 ~ 22时04分]"
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 08时46分]"
         },
         {
           "title": "“恐慌指数”飙升：美股平静期宣告结束？",
@@ -75,173 +37,42 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时02分 ~ 22时04分]"
-        },
-        {
-          "title": "美股三大指数集体收涨",
-          "url": "https://www.toutiao.com/trending/7562026461385834537/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时39分"
-        },
-        {
-          "title": "大豆基金收涨0.8%，和纳指ETF领涨美股大类资产类ETF，黄金ETF跌约1.9%",
-          "url": "https://wallstreetcn.com/livenews/2989930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时39分"
-        },
-        {
-          "title": "区域银行ETF收涨1.6%，和银行业ETF领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/2989929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时39分"
-        },
-        {
-          "title": "金十图示：2025年10月17日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251018040735282800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时39分"
-        },
-        {
-          "title": "金十图示：2025年10月17日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251018040725341800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时39分"
-        },
-        {
-          "title": "美股收盘：三大股指集体收涨 明星科技股涨跌不一",
-          "url": "https://flash.jin10.com/detail/20251018040554537800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时39分"
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 08时46分]"
         }
       ]
     },
     {
       "keyword_group": "教育",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "清华大学发文悼念杨振宁，他对中国高等教育产生了哪些影响？物理学领域的学者眼中的杨振宁是什么样的？",
-          "url": "https://www.zhihu.com/question/1962860607301711253",
+          "title": "怎样看待杨振宁称中国教育缺乏「渗透」学法？这种学法有哪些优势？",
+          "url": "https://www.zhihu.com/question/1962582282410882711",
           "source": "知乎",
           "ranks": [
-            6,
-            7,
-            8,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时03分 ~ 22时04分]"
-        },
-        {
-          "title": "马上评｜把孩子养成“野人”，慎言只是教育方式不同",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31796875",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时39分 ~ 13时03分]"
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 08时46分]"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "gemini 毒奶",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3Dgemini+%E6%AF%92%E5%A5%B6&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26band_rank%3D9%26flag%3D1%26c_type%3D31%26pos%3D9%26realpos%3D9%26filter_type%3Drealtimehot%26cate%3D5001%26lcate%3D5001%26q%3Dgemini%2520%25E6%25AF%2592%25E5%25A5%25B6%26dgr%3D0%26display_time%3D1760793006%26pre_seqid%3D176079300598502732473105",
-          "source": "微博",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时15分 ~ 22时04分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收涨超2.4%，本周和谷歌、特斯拉、台积电涨超5%",
-          "url": "https://wallstreetcn.com/livenews/2989928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
         {
-          "title": "AI的危险信号：ChatGPT的欧洲付费用户增长或已停滞！",
-          "url": "https://wallstreetcn.com/articles/3757376",
-          "source": "华尔街见闻",
+          "title": "deepseek 本地部署能做到阅读几百万字文本吗？",
+          "url": "https://www.zhihu.com/question/11521332735",
+          "source": "知乎",
           "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时39分 ~ 13时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数17日上涨",
-          "url": "https://flash.jin10.com/detail/20251018041455494800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            29
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时39分 ~ 10时15分]"
+          "time_info": "[08时45分 ~ 08时46分]"
         }
       ]
     }
