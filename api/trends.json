@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T12:15:25.125325+08:00",
-  "total_titles_processed": 525,
+  "generated_at": "2025-10-19T13:08:56.562465+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时45分 ~ 12时15分]"
+          "appearance_count": 6,
+          "time_info": "[08时45分 ~ 13时08分]"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
@@ -32,6 +32,20 @@
           "time_info": "[08时45分 ~ 10时30分]"
         },
         {
+          "title": "韩国散户押注杠杆VIX ，对冲美股高估值风险",
+          "url": "https://flash.jin10.com/detail/20251019091747896800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            16,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时30分 ~ 13时08分]"
+        },
+        {
           "title": "“恐慌指数”飙升：美股平静期宣告结束？",
           "url": "https://www.cls.cn/detail/2173450",
           "source": "财联社热门",
@@ -42,19 +56,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时45分 ~ 11时40分]"
-        },
-        {
-          "title": "韩国散户押注杠杆VIX ，对冲美股高估值风险",
-          "url": "https://flash.jin10.com/detail/20251019091747896800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时30分 ~ 12时15分]"
         }
       ]
     },
@@ -73,8 +74,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时45分 ~ 12时15分]"
+          "appearance_count": 6,
+          "time_info": "[08时45分 ~ 13时08分]"
         }
       ]
     },
@@ -90,11 +91,12 @@
             15,
             10,
             11,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时45分 ~ 12时15分]"
+          "appearance_count": 6,
+          "time_info": "[08时45分 ~ 13时08分]"
         }
       ]
     },
@@ -108,11 +110,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 12时15分]"
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 13时08分]"
         }
       ]
     }
