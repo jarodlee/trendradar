@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-19T08:46:02.792121+08:00",
-  "total_titles_processed": 325,
+  "generated_at": "2025-10-19T10:30:49.957194+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
@@ -15,30 +15,43 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时45分 ~ 08时46分]"
+          "appearance_count": 3,
+          "time_info": "[08时45分 ~ 10时30分]"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
           "url": "https://wallstreetcn.com/articles/3757414",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时45分 ~ 08时46分]"
+          "appearance_count": 3,
+          "time_info": "[08时45分 ~ 10时30分]"
         },
         {
           "title": "“恐慌指数”飙升：美股平静期宣告结束？",
           "url": "https://www.cls.cn/detail/2173450",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时45分 ~ 08时46分]"
+          "appearance_count": 3,
+          "time_info": "[08时45分 ~ 10时30分]"
+        },
+        {
+          "title": "韩国散户押注杠杆VIX ，对冲美股高估值风险",
+          "url": "https://flash.jin10.com/detail/20251019091747896800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时30分"
         }
       ]
     },
@@ -51,11 +64,12 @@
           "url": "https://www.zhihu.com/question/1962582282410882711",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时45分 ~ 08时46分]"
+          "appearance_count": 3,
+          "time_info": "[08时45分 ~ 10时30分]"
         }
       ]
     },
@@ -68,11 +82,12 @@
           "url": "https://www.zhihu.com/question/11521332735",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时45分 ~ 08时46分]"
+          "appearance_count": 3,
+          "time_info": "[08时45分 ~ 10时30分]"
         }
       ]
     }
