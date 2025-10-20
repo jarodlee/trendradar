@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T12:16:48.385136+08:00",
-  "total_titles_processed": 638,
+  "generated_at": "2025-10-20T13:04:18.447417+08:00",
+  "total_titles_processed": 707,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时16分]"
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 13时04分]"
         },
         {
           "title": "多地中小学生11月喜提5天“小长假”",
@@ -28,19 +29,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时16分]"
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 13时04分]"
         },
         {
           "title": "多地中小学生11月喜提5天“小长假”：机票预订量增长超2倍，北京、西安成最受欢迎目的地",
           "url": "https://m.thepaper.cn/newsDetail_forward_31808232",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时16分]"
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 13时04分]"
         }
       ]
     },
@@ -56,8 +58,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时44分 ~ 12时16分]"
+          "appearance_count": 6,
+          "time_info": "[08时44分 ~ 13时04分]"
         }
       ]
     },
@@ -91,8 +93,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时16分]"
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 13时04分]"
         }
       ]
     }
