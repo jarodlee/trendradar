@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T12:04:23.976772+08:00",
-  "total_titles_processed": 595,
+  "generated_at": "2025-10-21T13:03:57.187970+08:00",
+  "total_titles_processed": 695,
   "failed_sources": [],
   "trends": [
     {
@@ -20,26 +20,28 @@
           "time_info": "[08时40分 ~ 11时33分]"
         },
         {
-          "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
-          "url": "https://wallstreetcn.com/articles/3757530",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时32分 ~ 12时04分]"
-        },
-        {
           "title": "DeepSeek新模型深度解读",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时23分"
+          "appearance_count": 2,
+          "time_info": "[10时23分 ~ 13时03分]"
+        },
+        {
+          "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
+          "url": "https://wallstreetcn.com/articles/3757530",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时32分 ~ 13时03分]"
         },
         {
           "title": "六大AI模型被扔进加密市场厮杀，DeepSeek暂为交易之王",
@@ -66,6 +68,47 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国政府继续停摆 OpenAI收紧Sora监管｜环球市场",
+          "url": "https://www.cls.cn/detail/2175118",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时23分 ~ 13时03分]"
+        },
+        {
+          "title": "日立与OpenAI建立战略合作伙伴关系",
+          "url": "https://flash.jin10.com/detail/20251021123730273800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "日立与OpenAI合作扩建全球人工智能数据中心。",
+          "url": "https://wallstreetcn.com/livenews/2991014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -77,8 +120,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时40分 ~ 12时04分]"
+          "appearance_count": 6,
+          "time_info": "[08时40分 ~ 13时03分]"
         },
         {
           "title": "美贸协议乐观情绪推动亚股走高，日经225指数逼近5万关口，买入信号显现；现货黄金重回4300美元关口后，多头仍在观望，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -125,25 +168,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时32分 ~ 12时04分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国政府继续停摆 OpenAI收紧Sora监管｜环球市场",
-          "url": "https://www.cls.cn/detail/2175118",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时23分 ~ 12时04分]"
         }
       ]
     }
