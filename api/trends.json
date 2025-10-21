@@ -1,26 +1,12 @@
 {
-  "generated_at": "2025-10-21T19:02:50.314766+08:00",
-  "total_titles_processed": 1288,
+  "generated_at": "2025-10-21T20:18:18.512625+08:00",
+  "total_titles_processed": 1399,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 8,
       "titles": [
-        {
-          "title": "DeepSeek新模型深度解读",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            5,
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时23分 ~ 19时02分]"
-        },
         {
           "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
           "url": "https://wallstreetcn.com/articles/3757530",
@@ -29,11 +15,27 @@
             10,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时32分 ~ 19时02分]"
+          "appearance_count": 13,
+          "time_info": "[11时32分 ~ 20时18分]"
+        },
+        {
+          "title": "DeepSeek新模型深度解读",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            5,
+            4,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时23分 ~ 20时18分]"
         },
         {
           "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
@@ -45,8 +47,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时03分 ~ 19时02分]"
+          "appearance_count": 6,
+          "time_info": "[16时03分 ~ 20时18分]"
         },
         {
           "title": "DeepSeek 团队发布视觉压缩 OCR 模型，哪些信息和技术亮点值得关注？",
@@ -67,7 +69,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -194,8 +196,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时40分 ~ 19时02分]"
+          "appearance_count": 15,
+          "time_info": "[08时40分 ~ 20时18分]"
         },
         {
           "title": "美贸协议乐观情绪推动亚股走高，日经225指数逼近5万关口，买入信号显现；现货黄金重回4300美元关口后，多头仍在观望，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
