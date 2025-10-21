@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T11:33:11.741685+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2025-10-21T12:04:23.976772+08:00",
+  "total_titles_processed": 595,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 11时33分]"
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 12时04分]"
         },
         {
           "title": "DeepSeek新模型深度解读",
@@ -77,8 +77,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时40分 ~ 11时33分]"
+          "appearance_count": 5,
+          "time_info": "[08时40分 ~ 12时04分]"
         },
         {
           "title": "美贸协议乐观情绪推动亚股走高，日经225指数逼近5万关口，买入信号显现；现货黄金重回4300美元关口后，多头仍在观望，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -87,7 +87,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         }
@@ -119,11 +119,12 @@
           "url": "https://www.zhihu.com/question/1917375398460781402",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 11时33分]"
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 12时04分]"
         }
       ]
     },
@@ -141,8 +142,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时23分 ~ 11时33分]"
+          "appearance_count": 4,
+          "time_info": "[10时23分 ~ 12时04分]"
         }
       ]
     }
