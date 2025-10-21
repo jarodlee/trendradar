@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T17:03:59.140701+08:00",
-  "total_titles_processed": 1110,
+  "generated_at": "2025-10-21T18:04:16.025894+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时32分 ~ 17时03分]"
+          "appearance_count": 11,
+          "time_info": "[11时32分 ~ 18时04分]"
         },
         {
           "title": "DeepSeek新模型深度解读",
@@ -28,11 +28,25 @@
           "ranks": [
             8,
             5,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时23分 ~ 17时03分]"
+          "appearance_count": 9,
+          "time_info": "[10时23分 ~ 18时04分]"
+        },
+        {
+          "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
+          "url": "https://wallstreetcn.com/articles/3757552",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时03分 ~ 18时04分]"
         },
         {
           "title": "DeepSeek 团队发布视觉压缩 OCR 模型，哪些信息和技术亮点值得关注？",
@@ -45,18 +59,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时40分 ~ 11时33分]"
-        },
-        {
-          "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
-          "url": "https://wallstreetcn.com/articles/3757552",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时03分 ~ 17时03分]"
         },
         {
           "title": "六大AI模型被扔进加密市场厮杀，DeepSeek暂为交易之王",
@@ -95,7 +97,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美国政府继续停摆 OpenAI收紧Sora监管｜环球市场",
@@ -117,7 +119,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -128,7 +130,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -154,6 +156,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
+        },
+        {
+          "title": "报道：英伟达讨论为OpenAI提供贷款担保",
+          "url": "https://wallstreetcn.com/livenews/2991154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         }
       ]
     },
@@ -170,8 +183,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时40分 ~ 17时03分]"
+          "appearance_count": 13,
+          "time_info": "[08时40分 ~ 18时04分]"
         },
         {
           "title": "美贸协议乐观情绪推动亚股走高，日经225指数逼近5万关口，买入信号显现；现货黄金重回4300美元关口后，多头仍在观望，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
