@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-22T14:04:34.700052+08:00",
-  "total_titles_processed": 804,
+  "generated_at": "2025-10-22T15:04:22.070824+08:00",
+  "total_titles_processed": 909,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时04分 ~ 14时04分]"
+          "appearance_count": 3,
+          "time_info": "[13时04分 ~ 15时04分]"
         },
         {
           "title": "DeepSeek暂列AI炒币大赛榜首",
@@ -116,6 +117,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
+          "url": "https://wallstreetcn.com/articles/3757591",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时24分 ~ 15时04分]"
+        },
+        {
           "title": "OpenAI推出AI浏览器Atlas 与谷歌Chrome正面竞争",
           "url": "https://www.cls.cn/detail/2176315",
           "source": "财联社热门",
@@ -127,18 +141,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时43分 ~ 13时04分]"
-        },
-        {
-          "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
-          "url": "https://wallstreetcn.com/articles/3757591",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时24分 ~ 14时04分]"
         }
       ]
     },
@@ -151,11 +153,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E8%AF%95%E7%82%B9%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83%EF%BC%9F%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
           "ranks": [
-            30
+            30,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时04分 ~ 15时04分]"
         }
       ]
     }
