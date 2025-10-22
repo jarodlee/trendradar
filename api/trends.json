@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-22T18:03:24.448575+08:00",
-  "total_titles_processed": 1214,
+  "generated_at": "2025-10-22T19:04:57.623683+08:00",
+  "total_titles_processed": 1324,
   "failed_sources": [],
   "trends": [
     {
@@ -70,7 +70,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "泽连斯基称已准备好结束俄乌冲突 OpenAI推出AI浏览器 | 环球市场",
@@ -120,6 +120,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
+        },
+        {
+          "title": "欧盟委员会发言人：欧盟委员会正在评估ChatGPT在欧洲的用户数量。",
+          "url": "https://flash.jin10.com/detail/20251022183455687800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         }
       ]
     },
@@ -134,11 +145,12 @@
           "ranks": [
             10,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时24分 ~ 18时03分]"
+          "appearance_count": 11,
+          "time_info": "[10时24分 ~ 19时04分]"
         },
         {
           "title": "OpenAI推出AI浏览器Atlas 与谷歌Chrome正面竞争",
@@ -176,11 +188,12 @@
           "source": "百度热搜",
           "ranks": [
             14,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时04分 ~ 18时03分]"
+          "appearance_count": 4,
+          "time_info": "[17时04分 ~ 19时04分]"
         },
         {
           "title": "成都试点取消中考？教育局回应",
@@ -207,11 +220,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时04分 ~ 18时03分]"
+          "appearance_count": 4,
+          "time_info": "[17时04分 ~ 19时04分]"
         }
       ]
     },
