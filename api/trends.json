@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-22T17:05:10.168891+08:00",
-  "total_titles_processed": 1131,
+  "generated_at": "2025-10-22T18:03:24.448575+08:00",
+  "total_titles_processed": 1214,
   "failed_sources": [],
   "trends": [
     {
@@ -117,7 +117,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         }
@@ -137,8 +137,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时24分 ~ 17时05分]"
+          "appearance_count": 10,
+          "time_info": "[10时24分 ~ 18时03分]"
         },
         {
           "title": "OpenAI推出AI浏览器Atlas 与谷歌Chrome正面竞争",
@@ -160,7 +160,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         }
@@ -170,6 +170,18 @@
       "keyword_group": "教育",
       "match_count": 2,
       "titles": [
+        {
+          "title": "教育局：成都试点取消中考系误读",
+          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E6%88%90%E9%83%BD%E8%AF%95%E7%82%B9%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83%E7%B3%BB%E8%AF%AF%E8%AF%BB",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时04分 ~ 18时03分]"
+        },
         {
           "title": "成都试点取消中考？教育局回应",
           "url": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E8%AF%95%E7%82%B9%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83%EF%BC%9F%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94",
@@ -182,17 +194,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时04分 ~ 16时02分]"
-        },
-        {
-          "title": "教育局：成都试点取消中考系误读",
-          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E6%88%90%E9%83%BD%E8%AF%95%E7%82%B9%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83%E7%B3%BB%E8%AF%AF%E8%AF%BB",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时04分 ~ 17时05分]"
         }
       ]
     },
@@ -205,11 +206,12 @@
           "url": "https://www.zhihu.com/question/1962478217018471304",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时04分 ~ 17时05分]"
+          "appearance_count": 3,
+          "time_info": "[17时04分 ~ 18时03分]"
         }
       ]
     },
@@ -224,7 +226,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         }
