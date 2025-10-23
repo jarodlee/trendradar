@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T14:02:36.100151+08:00",
-  "total_titles_processed": 811,
+  "generated_at": "2025-10-23T15:02:51.112107+08:00",
+  "total_titles_processed": 920,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时02分 ~ 14时02分]"
+          "appearance_count": 5,
+          "time_info": "[12时02分 ~ 15时02分]"
         },
         {
           "title": "教育局辟谣成都试点取消中考",
@@ -45,8 +45,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时21分 ~ 14时02分]"
+          "appearance_count": 7,
+          "time_info": "[10时21分 ~ 15时02分]"
         },
         {
           "title": "比超级计算机快1.3万倍！谷歌量子计算再现突破 诺奖得主送上关键助攻",
@@ -57,8 +57,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时02分 ~ 14时02分]"
+          "appearance_count": 5,
+          "time_info": "[12时02分 ~ 15时02分]"
         }
       ]
     }
