@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-10-23T08:40:49.001570+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2025-10-23T10:21:26.278360+08:00",
+  "total_titles_processed": 441,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
+          "url": "https://wallstreetcn.com/articles/3757674",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时21分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://git.aqde.net/trendradar/img/news.jpg"
 }
