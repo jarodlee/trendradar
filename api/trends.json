@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T14:02:57.401745+08:00",
-  "total_titles_processed": 835,
+  "generated_at": "2025-10-24T15:04:27.858894+08:00",
+  "total_titles_processed": 940,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             28,
-            29
+            29,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时38分 ~ 13时02分]"
+          "appearance_count": 9,
+          "time_info": "[08时38分 ~ 15时04分]"
         },
         {
           "title": "中小学春秋假来了，各地怎么放？",
@@ -31,6 +32,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[08时38分 ~ 13时02分]"
+        },
+        {
+          "title": "多地中小学生 11 月喜提 5 天「小长假」，机票预订量增长超 2 倍，会对旅游市场带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1963619692078961128",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时02分 ~ 15时04分]"
         },
         {
           "title": "鼓励中小学推行课间15分钟",
@@ -59,28 +72,18 @@
           "time_info": "[10时18分 ~ 14时02分]"
         },
         {
-          "title": "多地中小学生 11 月喜提 5 天「小长假」，机票预订量增长超 2 倍，会对旅游市场带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1963619692078961128",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        },
-        {
           "title": "教育部发布加强中小学生心理健康工作 10 条举措，包括不得以考试成绩对学生进行排名等，会带来哪些影响？",
           "url": "https://www.zhihu.com/question/1964982652814713049",
           "source": "知乎",
           "ranks": [
             16,
             9,
-            7
+            7,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时02分 ~ 14时02分]"
+          "appearance_count": 5,
+          "time_info": "[12时02分 ~ 15时04分]"
         },
         {
           "title": "教育部发布10条措施，进一步加强中小学生心理健康工作",
@@ -92,8 +95,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时02分 ~ 14时02分]"
+          "appearance_count": 5,
+          "time_info": "[12时02分 ~ 15时04分]"
         }
       ]
     },
@@ -107,11 +110,12 @@
           "source": "百度热搜",
           "ranks": [
             17,
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时27分 ~ 14时02分]"
+          "appearance_count": 7,
+          "time_info": "[11时27分 ~ 15时04分]"
         },
         {
           "title": "教育部：鼓励每周一天“无作业日”",
@@ -148,11 +152,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时18分 ~ 14时02分]"
+          "appearance_count": 8,
+          "time_info": "[10时18分 ~ 15时04分]"
         },
         {
           "title": "谷歌将向Anthropic供应最高100万枚专用AI芯片",
