@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T16:02:52.815065+08:00",
-  "total_titles_processed": 1056,
+  "generated_at": "2025-10-24T17:05:05.081491+08:00",
+  "total_titles_processed": 1155,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,18 @@
           "time_info": "[08时38分 ~ 15时04分]"
         },
         {
+          "title": "多地中小学生 11 月喜提 5 天「小长假」，机票预订量增长超 2 倍，会对旅游市场带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1963619692078961128",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时02分 ~ 17时05分]"
+        },
+        {
           "title": "中小学春秋假来了，各地怎么放？",
           "url": "https://m.thepaper.cn/newsDetail_forward_31826015",
           "source": "澎湃新闻",
@@ -34,16 +46,18 @@
           "time_info": "[08时38分 ~ 13时02分]"
         },
         {
-          "title": "多地中小学生 11 月喜提 5 天「小长假」，机票预订量增长超 2 倍，会对旅游市场带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1963619692078961128",
-          "source": "知乎",
+          "title": "教育部发布10条措施，进一步加强中小学生心理健康工作",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31829934",
+          "source": "澎湃新闻",
           "ranks": [
-            4,
-            3
+            18,
+            17,
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时02分 ~ 16时02分]"
+          "appearance_count": 8,
+          "time_info": "[12时02分 ~ 17时05分]"
         },
         {
           "title": "鼓励中小学推行课间15分钟",
@@ -72,20 +86,6 @@
           "time_info": "[10时18分 ~ 14时02分]"
         },
         {
-          "title": "教育部发布10条措施，进一步加强中小学生心理健康工作",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31829934",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时02分 ~ 16时02分]"
-        },
-        {
           "title": "教育部发布加强中小学生心理健康工作 10 条举措，包括不得以考试成绩对学生进行排名等，会带来哪些影响？",
           "url": "https://www.zhihu.com/question/1964982652814713049",
           "source": "知乎",
@@ -103,7 +103,7 @@
     },
     {
       "keyword_group": "教育",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "教育部：不得以考试成绩对学生排名",
@@ -112,11 +112,23 @@
           "ranks": [
             17,
             1,
-            5
+            5,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时27分 ~ 16时02分]"
+          "appearance_count": 10,
+          "time_info": "[11时27分 ~ 17时05分]"
+        },
+        {
+          "title": "教育部：严禁将手机带入课堂",
+          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E4%B8%A5%E7%A6%81%E5%B0%86%E6%89%8B%E6%9C%BA%E5%B8%A6%E5%85%A5%E8%AF%BE%E5%A0%82",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时04分 ~ 17时05分]"
         },
         {
           "title": "教育部：鼓励每周一天“无作业日”",
@@ -148,7 +160,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -159,7 +171,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         }
