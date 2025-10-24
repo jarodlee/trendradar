@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-10-24T11:28:08.091721+08:00",
-  "total_titles_processed": 566,
+  "generated_at": "2025-10-24T12:03:00.080066+08:00",
+  "total_titles_processed": 649,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小学",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "中小学春秋假来了 各地怎么放",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%98%A5%E7%A7%8B%E5%81%87%E6%9D%A5%E4%BA%86+%E5%90%84%E5%9C%B0%E6%80%8E%E4%B9%88%E6%94%BE",
           "source": "百度热搜",
           "ranks": [
-            1
+            1,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时38分 ~ 11时28分]"
+          "appearance_count": 7,
+          "time_info": "[08时38分 ~ 12时03分]"
         },
         {
           "title": "中小学春秋假来了，各地怎么放？",
@@ -26,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时38分 ~ 11时28分]"
+          "appearance_count": 7,
+          "time_info": "[08时38分 ~ 12时03分]"
         },
         {
           "title": "鼓励中小学推行课间15分钟",
@@ -38,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时18分 ~ 11时28分]"
+          "appearance_count": 5,
+          "time_info": "[10时18分 ~ 12时03分]"
         },
         {
           "title": "加强中小学生心理健康10条措施",
@@ -50,8 +51,59 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时18分 ~ 11时28分]"
+          "appearance_count": 5,
+          "time_info": "[10时18分 ~ 12时03分]"
+        },
+        {
+          "title": "教育部发布加强中小学生心理健康工作 10 条举措，包括不得以考试成绩对学生进行排名等，会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1964982652814713049",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 12时03分]"
+        },
+        {
+          "title": "教育部发布10条措施，进一步加强中小学生心理健康工作",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31829934",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 12时03分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "教育",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "教育部：不得以考试成绩对学生排名",
+          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E4%B8%8D%E5%BE%97%E4%BB%A5%E8%80%83%E8%AF%95%E6%88%90%E7%BB%A9%E5%AF%B9%E5%AD%A6%E7%94%9F%E6%8E%92%E5%90%8D",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时27分 ~ 12时03分]"
+        },
+        {
+          "title": "教育部：鼓励每周一天“无作业日”",
+          "url": "https://www.toutiao.com/trending/7564583439362703398/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 12时03分]"
         }
       ]
     },
@@ -64,11 +116,12 @@
           "url": "https://www.cls.cn/detail/2179066",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时18分 ~ 11时28分]"
+          "appearance_count": 5,
+          "time_info": "[10时18分 ~ 12时03分]"
         },
         {
           "title": "谷歌将向Anthropic供应最高100万枚专用AI芯片",
@@ -80,23 +133,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "教育",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "教育部：不得以考试成绩对学生排名",
-          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E4%B8%8D%E5%BE%97%E4%BB%A5%E8%80%83%E8%AF%95%E6%88%90%E7%BB%A9%E5%AF%B9%E5%AD%A6%E7%94%9F%E6%8E%92%E5%90%8D",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时27分 ~ 11时28分]"
         }
       ]
     },
