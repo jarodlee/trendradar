@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T18:04:37.030350+08:00",
-  "total_titles_processed": 1247,
+  "generated_at": "2025-10-24T19:02:50.025416+08:00",
+  "total_titles_processed": 1347,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时02分 ~ 18时04分]"
+          "appearance_count": 7,
+          "time_info": "[14时02分 ~ 19时02分]"
         },
         {
           "title": "中小学春秋假来了 各地怎么放",
@@ -46,8 +46,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时02分 ~ 18时04分]"
+          "appearance_count": 10,
+          "time_info": "[12时02分 ~ 19时02分]"
         },
         {
           "title": "中小学春秋假来了，各地怎么放？",
@@ -116,11 +116,12 @@
             1,
             5,
             20,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时27分 ~ 18时04分]"
+          "appearance_count": 12,
+          "time_info": "[11时27分 ~ 19时02分]"
         },
         {
           "title": "教育部：严禁将手机带入课堂",
@@ -128,11 +129,12 @@
           "source": "百度热搜",
           "ranks": [
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时04分 ~ 18时04分]"
+          "appearance_count": 4,
+          "time_info": "[17时04分 ~ 19时02分]"
         },
         {
           "title": "教育部：鼓励每周一天“无作业日”",
