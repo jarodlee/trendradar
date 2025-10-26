@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T20:04:01.243927+08:00",
-  "total_titles_processed": 1035,
+  "generated_at": "2025-10-26T21:18:12.565709+08:00",
+  "total_titles_processed": 1091,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,25 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时03分 ~ 20时04分]"
+          "appearance_count": 12,
+          "time_info": "[14时03分 ~ 21时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "教育",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "河南一幼儿园「硬核」体能课走红，孩子每天体能训练 1 小时，如何评价这种教育模式？有可能全国推广吗？",
+          "url": "https://www.zhihu.com/question/1965807420434511226",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时17分 ~ 21时18分]"
         }
       ]
     },
@@ -31,11 +48,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时04分 ~ 20时04分]"
+          "appearance_count": 6,
+          "time_info": "[18时04分 ~ 21时18分]"
         }
       ]
     },
