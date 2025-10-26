@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-10-26T13:02:48.003456+08:00",
-  "total_titles_processed": 560,
+  "generated_at": "2025-10-26T14:04:05.416645+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "小学",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "多地中小学生将迎来新假期「秋假」，怎样让孩子度过一个有意义的假期？秋季有哪些好去处推荐？",
+          "url": "https://www.zhihu.com/question/1964996319409043232",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时03分 ~ 14时04分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://git.aqde.net/trendradar/img/news.jpg"
 }
