@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T22:02:39.316321+08:00",
-  "total_titles_processed": 1138,
+  "generated_at": "2025-10-27T08:46:29.436591+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
@@ -8,71 +8,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "多地中小学生将迎来新假期「秋假」，怎样让孩子度过一个有意义的假期？秋季有哪些好去处推荐？",
-          "url": "https://www.zhihu.com/question/1964996319409043232",
-          "source": "知乎",
+          "title": "最长9天 这里中小学生将放“雪假”",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%80%E9%95%BF9%E5%A4%A9+%E8%BF%99%E9%87%8C%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%B0%86%E6%94%BE%E2%80%9C%E9%9B%AA%E5%81%87%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            20,
-            18
+            1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时03分 ~ 22时02分]"
+          "appearance_count": 1,
+          "time_info": "08时46分"
         }
       ]
     },
     {
-      "keyword_group": "教育",
+      "keyword_group": "人民币",
       "match_count": 1,
       "titles": [
         {
-          "title": "河南一幼儿园「硬核」体能课走红，孩子每天体能训练 1 小时，如何评价这种教育模式？有可能全国推广吗？",
-          "url": "https://www.zhihu.com/question/1965807420434511226",
-          "source": "知乎",
+          "title": "中国外汇交易中心（CFETS）：10月24日人民币汇率指数按周涨0.47至97.55。",
+          "url": "https://wallstreetcn.com/livenews/2993868",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            7
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时17分 ~ 22时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "AI 模型投资对决中，Qwen 后期交易回报率反超 DeepSeek 登顶，如何评价该比赛及最终结果？",
-          "url": "https://www.zhihu.com/question/1965049071443075345",
-          "source": "知乎",
-          "ranks": [
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时04分 ~ 22时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Sora做社交，ChatGPT上广告，OpenAI正在复刻早期的Facebook？",
-          "url": "https://wallstreetcn.com/articles/3757909",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时03分 ~ 20时04分]"
+          "appearance_count": 1,
+          "time_info": "08时46分"
         }
       ]
     }
