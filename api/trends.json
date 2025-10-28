@@ -1,70 +1,7 @@
 {
-  "generated_at": "2025-10-27T22:03:14.688846+08:00",
-  "total_titles_processed": 1549,
+  "generated_at": "2025-10-28T08:44:12.344715+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "小学",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "最长9天 这里中小学生将放“雪假”",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%80%E9%95%BF9%E5%A4%A9+%E8%BF%99%E9%87%8C%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%B0%86%E6%94%BE%E2%80%9C%E9%9B%AA%E5%81%87%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时46分"
-        },
-        {
-          "title": "小学成绩好的孩子，到了初中突然跟不上，问题到底出在课本难度还是学习习惯上？",
-          "url": "https://www.zhihu.com/question/1961838952840422755",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时02分 ~ 22时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据AXIOS网站：OpenAI在与Axios首次分享的一份新监管文件中预测，投资人工智能基础设施将在未来几年带来显著的GDP增长。",
-          "url": "https://flash.jin10.com/detail/20251027174708809800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国外汇交易中心（CFETS）：10月24日人民币汇率指数按周涨0.47至97.55。",
-          "url": "https://wallstreetcn.com/livenews/2993868",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时46分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://git.aqde.net/trendradar/img/news.jpg"
 }
