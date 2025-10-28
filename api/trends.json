@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-28T19:02:40.866147+08:00",
-  "total_titles_processed": 1326,
+  "generated_at": "2025-10-28T20:04:49.650241+08:00",
+  "total_titles_processed": 1438,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -76,6 +76,35 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Adobe(ADBE.O)首席执行官：Adobe将OpenAI和谷歌AI模型加入Photoshop及其他工具。",
+          "url": "https://flash.jin10.com/detail/20251028200047881800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时04分"
+        },
+        {
+          "title": "谷歌宣布重启一核电站为AI基础设施供电",
+          "url": "https://flash.jin10.com/detail/20251028124839536800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时04分 ~ 14时03分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "教育",
       "match_count": 1,
       "titles": [
@@ -89,24 +118,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌宣布重启一核电站为AI基础设施供电",
-          "url": "https://flash.jin10.com/detail/20251028124839536800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时04分 ~ 14时03分]"
         }
       ]
     }
