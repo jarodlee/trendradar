@@ -1,7 +1,42 @@
 {
-  "generated_at": "2025-10-28T12:03:08.261812+08:00",
-  "total_titles_processed": 628,
+  "generated_at": "2025-10-28T13:04:29.613515+08:00",
+  "total_titles_processed": 713,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌宣布重启一核电站为AI基础设施供电",
+          "url": "https://flash.jin10.com/detail/20251028124839536800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI：每周有超过100万的ChatGPT用户讨论自杀问题。公司正在努力改善AI对心理健康危机的反应，但面临着诉讼和安全审查。",
+          "url": "https://flash.jin10.com/detail/20251028123906600800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://git.aqde.net/trendradar/img/news.jpg"
 }
