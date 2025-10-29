@@ -1,124 +1,8 @@
 {
-  "generated_at": "2025-10-28T22:03:25.923849+08:00",
-  "total_titles_processed": 1628,
+  "generated_at": "2025-10-29T08:44:15.236995+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "市场消息：微软(MSFT.O)支持OpenAI推进公共利益公司（PBC）形式的成立。微软在OpenAI公共利益公司中的投资估值约为1350亿美元。",
-          "url": "https://flash.jin10.com/detail/20251028210205594800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时24分"
-        },
-        {
-          "title": "市场消息：微软(MSFT.O)与OpenAI签署了新协议。",
-          "url": "https://flash.jin10.com/detail/20251028210128191800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时24分"
-        },
-        {
-          "title": "微软美股盘前涨近5%，微软与OpenAI签署了一项新协议",
-          "url": "https://wallstreetcn.com/livenews/2995172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时24分"
-        },
-        {
-          "title": "PAYPAL美股盘前涨超15%，公司与OpenAI达成支付合作。",
-          "url": "https://wallstreetcn.com/livenews/2995062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "OpenAI：每周有超过100万的ChatGPT用户讨论自杀问题。公司正在努力改善AI对心理健康危机的反应，但面临着诉讼和安全审查。",
-          "url": "https://flash.jin10.com/detail/20251028123906600800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时04分"
-        },
-        {
-          "title": "微软美股盘前涨近5%！微软与OpenAI签署新协议，微软将获得OpenAI 27%的股权",
-          "url": "https://wallstreetcn.com/livenews/2995172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时03分"
-        },
-        {
-          "title": "特朗普东京晚宴聚焦日对美投资，OpenAI与Salesforce高管出席",
-          "url": "https://flash.jin10.com/detail/20251028173857141800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
-          "title": "Paypal(PYPL.O)：将把全球商户网络接入OpenAI的系统。",
-          "url": "https://flash.jin10.com/detail/20251028183047581800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "据CNBC：Paypal(PYPL.O)与OpenAI签署协议，成为ChatGPT的支付钱包。",
-          "url": "https://flash.jin10.com/detail/20251028182437625800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "OpenAI公司正为印度用户提供为期一年的免费ChatGPT Go服务",
-          "url": "https://flash.jin10.com/detail/20251028141734494800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        }
-      ]
-    },
     {
       "keyword_group": "教育",
       "match_count": 2,
@@ -128,51 +12,56 @@
           "url": "https://www.cls.cn/detail/2183814",
           "source": "财联社热门",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时03分"
-        },
-        {
-          "title": "十五五规划建议：稳步扩大免费教育范围，探索延长义务教育年限",
-          "url": "https://wallstreetcn.com/livenews/2994975",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Adobe(ADBE.O)首席执行官：Adobe将OpenAI和谷歌AI模型加入Photoshop及其他工具。",
-          "url": "https://flash.jin10.com/detail/20251028200047881800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时04分"
+          "appearance_count": 2,
+          "time_info": "[08时43分 ~ 08时44分]"
         },
         {
-          "title": "谷歌宣布重启一核电站为AI基础设施供电",
-          "url": "https://flash.jin10.com/detail/20251028124839536800",
-          "source": "金十数据",
+          "title": "家委会被举报多次用班费买礼物送老师，青羊区教育局：加强班主任培训",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31846729",
+          "source": "澎湃新闻",
           "ranks": [
-            4,
             19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时04分 ~ 14时03分]"
+          "time_info": "[08时43分 ~ 08时44分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小学",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "为什么小学四年级后，许多家长发现亲自辅导孩子不如培训班有效？是教育方法问题还是家长能力局限？",
+          "url": "https://www.zhihu.com/question/1885643283415426491",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时43分 ~ 08时44分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI重组落地！微软持股27% 并续签AI合作至2032年",
+          "url": "https://www.cls.cn/detail/2183967",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时43分 ~ 08时44分]"
         }
       ]
     }
