@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-29T12:17:09.169999+08:00",
-  "total_titles_processed": 643,
+  "generated_at": "2025-10-29T13:04:10.183977+08:00",
+  "total_titles_processed": 716,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时43分 ~ 12时17分]"
+          "appearance_count": 8,
+          "time_info": "[08时43分 ~ 13时04分]"
         },
         {
           "title": "“十五五”民生蓝图：就业、收入、教育等将迎哪些红利？",
@@ -37,6 +38,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "OpenAI达成重磅协议向营利组织转型，微软持股27%，AI模型授权延至2032年，Azure获2500亿订单",
+          "url": "https://wallstreetcn.com/articles/3758104",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时30分 ~ 13时04分]"
+        },
+        {
           "title": "OpenAI重组落地！微软持股27% 并续签AI合作至2032年",
           "url": "https://www.cls.cn/detail/2183967",
           "source": "财联社热门",
@@ -47,17 +60,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时43分 ~ 11时42分]"
-        },
-        {
-          "title": "OpenAI达成重磅协议向营利组织转型，微软持股27%，AI模型授权延至2032年，Azure获2500亿订单",
-          "url": "https://wallstreetcn.com/articles/3758104",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时30分 ~ 12时17分]"
         }
       ]
     },
