@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-30T17:03:20.945025+08:00",
-  "total_titles_processed": 1107,
+  "generated_at": "2025-10-30T18:04:09.790474+08:00",
+  "total_titles_processed": 1218,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI据悉计划最早明年下半年提交上市申请 | 环球市场",
@@ -33,6 +33,18 @@
           "time_info": "[08时44分 ~ 14时03分]"
         },
         {
+          "title": "史上最大IPO要来了？OpenAI据称筹备上市 冲击万亿美元估值",
+          "url": "https://www.cls.cn/detail/2185897",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时03分 ~ 18时04分]"
+        },
+        {
           "title": "OpenAI 宣布完成资本重组，如何看待这个精心设计的「新架构」？能否真正确立其非营利的使命？",
           "url": "https://www.zhihu.com/question/1966652250177893275",
           "source": "知乎",
@@ -45,16 +57,15 @@
           "time_info": "[13时03分 ~ 14时03分]"
         },
         {
-          "title": "史上最大IPO要来了？OpenAI据称筹备上市 冲击万亿美元估值",
-          "url": "https://www.cls.cn/detail/2185897",
-          "source": "财联社热门",
+          "title": "空降 OpenAI 智能体榜单第一名的 FM Agent 什么来头，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1967183428639266693",
+          "source": "知乎",
           "ranks": [
-            11,
-            7
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时03分 ~ 17时03分]"
+          "time_info": "[18时03分 ~ 18时04分]"
         },
         {
           "title": "OpenAI回应筹备IPO",
@@ -97,7 +108,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         }
