@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-30T18:04:09.790474+08:00",
-  "total_titles_processed": 1218,
+  "generated_at": "2025-10-30T19:03:11.273742+08:00",
+  "total_titles_processed": 1331,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时03分 ~ 18时04分]"
+          "appearance_count": 6,
+          "time_info": "[16时03分 ~ 19时03分]"
         },
         {
           "title": "OpenAI 宣布完成资本重组，如何看待这个精心设计的「新架构」？能否真正确立其非营利的使命？",
