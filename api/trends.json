@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-10-30T14:03:01.634859+08:00",
-  "total_titles_processed": 800,
+  "generated_at": "2025-10-30T15:02:51.134512+08:00",
+  "total_titles_processed": 904,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 4,
       "titles": [
+        {
+          "title": "OpenAI据悉计划最早明年下半年提交上市申请 | 环球市场",
+          "url": "https://www.cls.cn/detail/2185569",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时26分 ~ 15时02分]"
+        },
         {
           "title": "OpenAI计划于2027年上市",
           "url": "https://www.douyin.com/hot/2288033",
@@ -18,18 +31,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[08时44分 ~ 14时03分]"
-        },
-        {
-          "title": "OpenAI据悉计划最早明年下半年提交上市申请 | 环球市场",
-          "url": "https://www.cls.cn/detail/2185569",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时26分 ~ 14时03分]"
         },
         {
           "title": "OpenAI 宣布完成资本重组，如何看待这个精心设计的「新架构」？能否真正确立其非营利的使命？",
