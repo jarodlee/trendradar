@@ -1,133 +1,50 @@
 {
-  "generated_at": "2025-10-29T22:03:05.243227+08:00",
-  "total_titles_processed": 1603,
+  "generated_at": "2025-10-30T08:44:23.737861+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
-          "title": "OpenAI达成重磅协议向营利组织转型，微软持股27%，AI模型授权延至2032年，Azure获2500亿订单",
-          "url": "https://wallstreetcn.com/articles/3758104",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时30分 ~ 20时23分]"
-        },
-        {
-          "title": "OpenAI重组落地！微软持股27% 并续签AI合作至2032年",
-          "url": "https://www.cls.cn/detail/2183967",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时43分 ~ 11时42分]"
-        },
-        {
-          "title": "OpenAI首席财务官：我们希望与世界各国政府合作，推广我们的技术，这种技术也能为美国带来一种软实力。",
-          "url": "https://flash.jin10.com/detail/20251029144659448800",
+          "title": "OpenAI回应筹备IPO",
+          "url": "https://flash.jin10.com/detail/20251030082103049800",
           "source": "金十数据",
           "ranks": [
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时02分"
+          "time_info": "08时44分"
         },
         {
-          "title": "OpenAI首席财务官：周二与微软达成的协议使我们能够以一种复杂程度低得多的方式继续筹集资金。",
-          "url": "https://flash.jin10.com/detail/20251029144001597800",
-          "source": "金十数据",
+          "title": "OpenAI计划于2027年上市",
+          "url": "https://www.douyin.com/hot/2288033",
+          "source": "抖音",
           "ranks": [
-            11
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
-          "title": "美国总统特朗普：现代承诺投资260亿美元，美光承诺投资2000亿美元，软银、OpenAI、甲骨文承诺投资超过5000亿美元。",
-          "url": "https://flash.jin10.com/detail/20251029131152821800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时03分"
+          "time_info": "08时44分"
         }
       ]
     },
     {
       "keyword_group": "教育",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "家委会被举报多次用班费买礼物送老师，青羊区教育局：加强班主任培训",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31846729",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时43分 ~ 15时02分]"
-        },
-        {
-          "title": "“十五五”民生蓝图：就业、收入、教育等将迎哪些红利？",
-          "url": "https://www.cls.cn/detail/2183814",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时43分 ~ 08时44分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小学",
       "match_count": 1,
       "titles": [
         {
-          "title": "为什么小学四年级后，许多家长发现亲自辅导孩子不如培训班有效？是教育方法问题还是家长能力局限？",
-          "url": "https://www.zhihu.com/question/1885643283415426491",
+          "title": "大学课堂抬头率低成普遍现象，作为教育者，你有哪些切实可行的方法能让学生主动抬头听课？",
+          "url": "https://www.zhihu.com/question/1965044332710040309",
           "source": "知乎",
           "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时43分 ~ 11时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "市场消息：法国国民议会当地时间周二晚间通过了对2026年预算案的修正案，拟将对亚马逊、谷歌母公司Alphabet以及Meta等企业数字收入征收的税率从此前的3%提高至6%。此举可能招致特朗普的强烈反对。",
-          "url": "https://flash.jin10.com/detail/20251029173627647800",
-          "source": "金十数据",
-          "ranks": [
-            24
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时02分"
+          "time_info": "08时44分"
         }
       ]
     }
