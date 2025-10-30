@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-30T11:38:09.950905+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2025-10-30T12:02:31.108875+08:00",
+  "total_titles_processed": 621,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时44分 ~ 11时38分]"
+          "appearance_count": 5,
+          "time_info": "[08时44分 ~ 12时02分]"
         },
         {
           "title": "OpenAI据悉计划最早明年下半年提交上市申请 | 环球市场",
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 11时38分]"
+          "appearance_count": 4,
+          "time_info": "[10时26分 ~ 12时02分]"
         },
         {
           "title": "OpenAI回应筹备IPO",
