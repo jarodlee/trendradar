@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-30T12:02:31.108875+08:00",
-  "total_titles_processed": 621,
+  "generated_at": "2025-10-30T13:04:13.363501+08:00",
+  "total_titles_processed": 717,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI计划于2027年上市",
@@ -16,19 +16,31 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时44分 ~ 12时02分]"
+          "appearance_count": 7,
+          "time_info": "[08时44分 ~ 13时04分]"
         },
         {
           "title": "OpenAI据悉计划最早明年下半年提交上市申请 | 环球市场",
           "url": "https://www.cls.cn/detail/2185569",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时26分 ~ 12时02分]"
+          "appearance_count": 6,
+          "time_info": "[10时26分 ~ 13时04分]"
+        },
+        {
+          "title": "OpenAI 宣布完成资本重组，如何看待这个精心设计的「新架构」？能否真正确立其非营利的使命？",
+          "url": "https://www.zhihu.com/question/1966652250177893275",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时03分 ~ 13时04分]"
         },
         {
           "title": "OpenAI回应筹备IPO",
