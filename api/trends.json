@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-10-31T20:18:03.215384+08:00",
-  "total_titles_processed": 1351,
+  "generated_at": "2025-10-31T21:25:56.126652+08:00",
+  "total_titles_processed": 1440,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
+        {
+          "title": "谷歌前CEO：当年李鸿章访美被震了，如今外国人来华被惊了",
+          "url": "https://news.ifeng.com/c/8ntxAfWGS8b",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时03分 ~ 21时25分]"
+        },
         {
           "title": "美股三大期指集体走低 谷歌盘前大涨8% | 今夜看点",
           "url": "https://www.cls.cn/detail/2186836",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
-        },
-        {
-          "title": "谷歌前CEO：当年李鸿章访美被震了，如今外国人来华被惊了",
-          "url": "https://news.ifeng.com/c/8ntxAfWGS8b",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时03分 ~ 20时18分]"
         }
       ]
     },
@@ -48,8 +48,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时39分 ~ 20时18分]"
+          "appearance_count": 14,
+          "time_info": "[11时39分 ~ 21时25分]"
         }
       ]
     }
