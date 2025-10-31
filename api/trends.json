@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T21:25:56.126652+08:00",
-  "total_titles_processed": 1440,
+  "generated_at": "2025-10-31T22:03:09.707409+08:00",
+  "total_titles_processed": 1522,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时03分 ~ 21时25分]"
+          "appearance_count": 8,
+          "time_info": "[17时03分 ~ 22时03分]"
         },
         {
           "title": "美股三大期指集体走低 谷歌盘前大涨8% | 今夜看点",
@@ -48,8 +48,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时39分 ~ 21时25分]"
+          "appearance_count": 16,
+          "time_info": "[11时39分 ~ 22时03分]"
         }
       ]
     }
