@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T15:02:46.231175+08:00",
-  "total_titles_processed": 674,
+  "generated_at": "2025-11-02T16:02:42.025732+08:00",
+  "total_titles_processed": 731,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时44分 ~ 15时02分]"
+          "appearance_count": 8,
+          "time_info": "[08时44分 ~ 16时02分]"
         },
         {
           "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
@@ -36,11 +36,25 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时04分 ~ 16时02分]"
+        },
+        {
+          "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
+          "url": "https://wallstreetcn.com/articles/3758487",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时04分 ~ 15时02分]"
+          "appearance_count": 5,
+          "time_info": "[12时14分 ~ 16时02分]"
         },
         {
           "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
@@ -53,18 +67,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时44分 ~ 10时29分]"
-        },
-        {
-          "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
-          "url": "https://wallstreetcn.com/articles/3758487",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时14分 ~ 15时02分]"
         }
       ]
     }
