@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T16:02:42.025732+08:00",
-  "total_titles_processed": 731,
+  "generated_at": "2025-11-02T17:04:06.932673+08:00",
+  "total_titles_processed": 784,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时44分 ~ 16时02分]"
-        },
-        {
-          "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
-          "url": "https://wallstreetcn.com/articles/3758470",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时44分 ~ 10时29分]"
+          "appearance_count": 10,
+          "time_info": "[08时44分 ~ 17时04分]"
         },
         {
           "title": "OpenAI重组对AI产业链意味着什么",
@@ -40,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时04分 ~ 16时02分]"
+          "appearance_count": 5,
+          "time_info": "[14时04分 ~ 17时04分]"
         },
         {
           "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
@@ -53,8 +42,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时14分 ~ 16时02分]"
+          "appearance_count": 7,
+          "time_info": "[12时14分 ~ 17时04分]"
+        },
+        {
+          "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
+          "url": "https://wallstreetcn.com/articles/3758470",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时44分 ~ 10时29分]"
         },
         {
           "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
