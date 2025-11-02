@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T10:29:36.029729+08:00",
-  "total_titles_processed": 417,
+  "generated_at": "2025-11-02T11:41:55.575744+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
@@ -8,22 +8,23 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "微软和OpenAI CEO罕见同场对话：OpenAI重组、AI泡沫质疑、算力需求......",
+          "url": "https://wallstreetcn.com/articles/3758475",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时44分 ~ 11时41分]"
+        },
+        {
           "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
           "url": "https://wallstreetcn.com/articles/3758470",
           "source": "华尔街见闻",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时44分 ~ 10时29分]"
-        },
-        {
-          "title": "微软和OpenAI CEO罕见同场对话：OpenAI重组、AI泡沫质疑、算力需求......",
-          "url": "https://wallstreetcn.com/articles/3758475",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 2,
