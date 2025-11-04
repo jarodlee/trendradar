@@ -1,12 +1,35 @@
 {
-  "generated_at": "2025-11-04T08:41:15.313892+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2025-11-04T10:25:06.720529+08:00",
+  "total_titles_processed": 431,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
       "match_count": 3,
       "titles": [
+        {
+          "title": "马上评｜别因为一根淀粉肠，背离了教育的初心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31880503",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时40分 ~ 10时25分]"
+        },
+        {
+          "title": "别因一根淀粉肠背离教育初心",
+          "url": "https://www.baidu.com/s?wd=%E5%88%AB%E5%9B%A0%E4%B8%80%E6%A0%B9%E6%B7%80%E7%B2%89%E8%82%A0%E8%83%8C%E7%A6%BB%E6%95%99%E8%82%B2%E5%88%9D%E5%BF%83",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时40分 ~ 10时25分]"
+        },
         {
           "title": "“AI明星公司”Palantir认为大学教育无用，招聘了22名高中生，开启“洗脑式培训”",
           "url": "https://wallstreetcn.com/articles/3758514",
@@ -17,45 +40,52 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时40分 ~ 08时41分]"
-        },
-        {
-          "title": "马上评｜别因为一根淀粉肠，背离了教育的初心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31880503",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时40分 ~ 08时41分]"
-        },
-        {
-          "title": "别因一根淀粉肠背离教育初心",
-          "url": "https://www.baidu.com/s?wd=%E5%88%AB%E5%9B%A0%E4%B8%80%E6%A0%B9%E6%B7%80%E7%B2%89%E8%82%A0%E8%83%8C%E7%A6%BB%E6%95%99%E8%82%B2%E5%88%9D%E5%BF%83",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时40分 ~ 08时41分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "亚马逊与OpenAI签署380亿美元算力大单！AWS将供应英伟达芯片",
           "url": "https://wallstreetcn.com/articles/3758580",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时40分 ~ 10时25分]"
+        },
+        {
+          "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
+          "url": "https://www.cls.cn/detail/2190043",
+          "source": "财联社热门",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时40分 ~ 08时41分]"
+          "time_info": "[10时24分 ~ 10时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数四连阳 币圈再现黑客袭击以太坊跳水8% | 环球市场",
+          "url": "https://www.cls.cn/detail/2190136",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时24分 ~ 10时25分]"
         }
       ]
     }
