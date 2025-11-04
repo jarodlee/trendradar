@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T15:02:53.218052+08:00",
-  "total_titles_processed": 878,
+  "generated_at": "2025-11-04T16:02:54.394800+08:00",
+  "total_titles_processed": 975,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时40分 ~ 15时02分]"
+          "appearance_count": 10,
+          "time_info": "[08时40分 ~ 16时02分]"
         },
         {
           "title": "别因一根淀粉肠背离教育初心",
@@ -81,8 +81,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时40分 ~ 15时02分]"
+          "appearance_count": 10,
+          "time_info": "[08时40分 ~ 16时02分]"
         },
         {
           "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
@@ -133,8 +133,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时24分 ~ 15时02分]"
+          "appearance_count": 8,
+          "time_info": "[10时24分 ~ 16时02分]"
         }
       ]
     }
