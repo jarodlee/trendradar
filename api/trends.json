@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T13:04:17.569385+08:00",
-  "total_titles_processed": 698,
+  "generated_at": "2025-11-04T14:02:51.079268+08:00",
+  "total_titles_processed": 785,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时40分 ~ 13时04分]"
+          "appearance_count": 8,
+          "time_info": "[08时40分 ~ 14时02分]"
         },
         {
           "title": "媒体：别因一根淀粉肠背离教育初心",
@@ -33,6 +33,18 @@
         },
         {
           "title": "别因一根淀粉肠背离教育初心",
+          "url": "https://www.toutiao.com/trending/7568431680868847114/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时03分 ~ 14时02分]"
+        },
+        {
+          "title": "别因一根淀粉肠背离教育初心",
           "url": "https://www.baidu.com/s?wd=%E5%88%AB%E5%9B%A0%E4%B8%80%E6%A0%B9%E6%B7%80%E7%B2%89%E8%82%A0%E8%83%8C%E7%A6%BB%E6%95%99%E8%82%B2%E5%88%9D%E5%BF%83",
           "source": "百度热搜",
           "ranks": [
@@ -42,18 +54,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时40分 ~ 11时38分]"
-        },
-        {
-          "title": "别因一根淀粉肠背离教育初心",
-          "url": "https://www.toutiao.com/trending/7568431680868847114/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 13时04分]"
         },
         {
           "title": "“AI明星公司”Palantir认为大学教育无用，招聘了22名高中生，开启“洗脑式培训”",
@@ -81,8 +81,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时40分 ~ 13时04分]"
+          "appearance_count": 8,
+          "time_info": "[08时40分 ~ 14时02分]"
         },
         {
           "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
@@ -95,8 +95,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时24分 ~ 13时04分]"
+          "appearance_count": 6,
+          "time_info": "[10时24分 ~ 14时02分]"
         }
       ]
     },
@@ -129,11 +129,12 @@
           "ranks": [
             10,
             8,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时24分 ~ 13时04分]"
+          "appearance_count": 6,
+          "time_info": "[10时24分 ~ 14时02分]"
         }
       ]
     }
