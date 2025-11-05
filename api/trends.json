@@ -1,181 +1,56 @@
 {
-  "generated_at": "2025-11-04T22:03:04.704794+08:00",
-  "total_titles_processed": 1496,
+  "generated_at": "2025-11-05T08:44:31.122798+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
         {
-          "title": "马上评｜别因为一根淀粉肠，背离了教育的初心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31880503",
-          "source": "澎湃新闻",
+          "title": "「十五五」规划将探索延长义务教育年限，有何影响？如果延长，你支持向学前延伸，还是向高中延伸？",
+          "url": "https://www.zhihu.com/question/1968799553198229200",
+          "source": "知乎",
           "ranks": [
-            15,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时40分 ~ 16时02分]"
-        },
-        {
-          "title": "别因一根淀粉肠背离教育初心",
-          "url": "https://www.toutiao.com/trending/7568431680868847114/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时03分 ~ 15时02分]"
-        },
-        {
-          "title": "媒体：别因一根淀粉肠背离教育初心",
-          "url": "https://www.toutiao.com/trending/7568431680868847114/",
-          "source": "今日头条",
-          "ranks": [
-            1
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "别因一根淀粉肠背离教育初心",
-          "url": "https://www.baidu.com/s?wd=%E5%88%AB%E5%9B%A0%E4%B8%80%E6%A0%B9%E6%B7%80%E7%B2%89%E8%82%A0%E8%83%8C%E7%A6%BB%E6%95%99%E8%82%B2%E5%88%9D%E5%BF%83",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时40分 ~ 11时38分]"
-        },
-        {
-          "title": "多地已有扩大免费教育范围初步探索",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B7%B2%E6%9C%89%E6%89%A9%E5%A4%A7%E5%85%8D%E8%B4%B9%E6%95%99%E8%82%B2%E8%8C%83%E5%9B%B4%E5%88%9D%E6%AD%A5%E6%8E%A2%E7%B4%A2",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时28分 ~ 22时03分]"
-        },
-        {
-          "title": "“AI明星公司”Palantir认为大学教育无用，招聘了22名高中生，开启“洗脑式培训”",
-          "url": "https://wallstreetcn.com/articles/3758514",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时40分 ~ 08时41分]"
+          "time_info": "08时44分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "谷歌(GOOG.O)：实时车道导航功能将拓展至更多道路类型及合作车企车型。",
-          "url": "https://flash.jin10.com/detail/20251104210818012800",
-          "source": "金十数据",
+          "title": "亚马逊清仓AMD 谷歌将测试太空数据中心构想 | 环球市场",
+          "url": "https://www.cls.cn/detail/2191270",
+          "source": "财联社热门",
           "ranks": [
-            2
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：谷歌地图为内置谷歌系统的汽车推出基于人工智能的实时车道指引功能，首发车型为极星4。",
-          "url": "https://flash.jin10.com/detail/20251104210638002800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时29分"
+          "time_info": "08时44分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "亚马逊与OpenAI签署380亿美元算力大单！AWS将供应英伟达芯片",
-          "url": "https://wallstreetcn.com/articles/3758580",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[08时40分 ~ 22时03分]"
-        },
-        {
-          "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
-          "url": "https://www.cls.cn/detail/2190043",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时24分 ~ 15时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
         {
-          "title": "AI投资大赛落下帷幕，阿里千问Qwen夺冠，DeepSeek亚军",
-          "url": "https://wallstreetcn.com/livenews/2998954",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI 禁止 ChatGPT 提供专业医疗、法律、金融建议，这背后的原因是什么？",
+          "url": "https://www.zhihu.com/question/1968690991750967598",
+          "source": "知乎",
           "ranks": [
-            7,
-            11
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 12时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数四连阳 币圈再现黑客袭击以太坊跳水8% | 环球市场",
-          "url": "https://www.cls.cn/detail/2190136",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时24分 ~ 17时12分]"
+          "appearance_count": 1,
+          "time_info": "08时44分"
         }
       ]
     }
