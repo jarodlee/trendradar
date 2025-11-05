@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T20:02:56.189179+08:00",
-  "total_titles_processed": 1352,
+  "generated_at": "2025-11-05T21:26:00.995317+08:00",
+  "total_titles_processed": 1468,
   "failed_sources": [],
   "trends": [
     {
@@ -78,8 +78,19 @@
     },
     {
       "keyword_group": "教育",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "Apple高管谈如何做编程教育",
+          "url": "https://search.bilibili.com/all?keyword=Apple%E9%AB%98%E7%AE%A1%E8%B0%88%E5%A6%82%E4%BD%95%E5%81%9A%E7%BC%96%E7%A8%8B%E6%95%99%E8%82%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 21时26分]"
+        },
         {
           "title": "「十五五」规划将探索延长义务教育年限，有何影响？如果延长，你支持向学前延伸，还是向高中延伸？",
           "url": "https://www.zhihu.com/question/1968799553198229200",
