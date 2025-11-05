@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T12:13:11.774850+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2025-11-05T13:02:47.721632+08:00",
+  "total_titles_processed": 707,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时26分 ~ 12时13分]"
+          "appearance_count": 5,
+          "time_info": "[10时26分 ~ 13时02分]"
         },
         {
           "title": "软银和OpenAI将于11月成立新公司。（日经新闻）",
@@ -86,8 +86,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时44分 ~ 12时13分]"
+          "appearance_count": 6,
+          "time_info": "[08时44分 ~ 13时02分]"
         }
       ]
     }
