@@ -1,12 +1,34 @@
 {
-  "generated_at": "2025-11-06T17:04:13.531592+08:00",
-  "total_titles_processed": 1067,
+  "generated_at": "2025-11-06T18:02:59.238671+08:00",
+  "total_titles_processed": 1166,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "谷歌(GOOG.O)：（即将宣布的在德国）投资将涵盖基础设施、数据中心以及利用可再生能源和余热的项目。",
+          "url": "https://flash.jin10.com/detail/20251106174631511800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：将于下周二宣布公司在德国的最大一笔投资。",
+          "url": "https://flash.jin10.com/detail/20251106174536782800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
         {
           "title": "谷歌洽谈加大投资Anthropic 后者估值或超3500亿美元",
           "url": "https://flash.jin10.com/detail/20251106111258842800",
@@ -94,8 +116,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时28分 ~ 17时04分]"
+          "appearance_count": 11,
+          "time_info": "[10时28分 ~ 18时02分]"
         }
       ]
     },
