@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T21:22:04.728695+08:00",
-  "total_titles_processed": 1446,
+  "generated_at": "2025-11-07T22:04:07.981850+08:00",
+  "total_titles_processed": 1522,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时26分 ~ 21时22分]"
+          "appearance_count": 17,
+          "time_info": "[10时26分 ~ 22时04分]"
         },
         {
           "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
@@ -172,6 +173,17 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "如何看待教育部等六部委发文「为高校青年教师减负，松绑行政事务、破除称号依赖、淡化论文和奖项数量指标」?",
+          "url": "https://www.zhihu.com/question/1969538647230482047",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时16分 ~ 22时04分]"
+        },
+        {
           "title": "土耳其央行行长：租金和教育价格在年度通胀过程中尤为突出。",
           "url": "https://flash.jin10.com/detail/20251107154502222800",
           "source": "金十数据",
@@ -181,17 +193,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
-        },
-        {
-          "title": "如何看待教育部等六部委发文「为高校青年教师减负，松绑行政事务、破除称号依赖、淡化论文和奖项数量指标」?",
-          "url": "https://www.zhihu.com/question/1969538647230482047",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时16分 ~ 21时22分]"
         }
       ]
     }
