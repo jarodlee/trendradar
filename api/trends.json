@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T12:15:17.562994+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2025-11-07T13:02:35.258402+08:00",
+  "total_titles_processed": 682,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时52分 ~ 12时15分]"
+          "appearance_count": 5,
+          "time_info": "[08时52分 ~ 13时02分]"
         },
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -27,8 +27,33 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时52分 ~ 13时02分]"
+        },
+        {
+          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
+          "url": "https://wallstreetcn.com/articles/3758853",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[08时52分 ~ 12时15分]"
+          "time_info": "[10时26分 ~ 13时02分]"
+        },
+        {
+          "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
+          "url": "https://www.cls.cn/detail/2193718",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时26分 ~ 13时02分]"
         },
         {
           "title": "OpenAI高管言论引风暴 纳指跌近2%",
@@ -42,30 +67,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时52分 ~ 12时15分]"
-        },
-        {
-          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
-          "url": "https://wallstreetcn.com/articles/3758853",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 12时15分]"
-        },
-        {
-          "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
-          "url": "https://www.cls.cn/detail/2193718",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 12时15分]"
         }
       ]
     },
@@ -82,8 +83,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时52分 ~ 12时15分]"
+          "appearance_count": 5,
+          "time_info": "[08时52分 ~ 13时02分]"
         },
         {
           "title": "如何评价 gemini-3-pro-preview-11-2025？",
@@ -92,11 +93,12 @@
           "ranks": [
             5,
             14,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 12时15分]"
+          "appearance_count": 4,
+          "time_info": "[10时26分 ~ 13时02分]"
         }
       ]
     },
