@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T19:02:04.484251+08:00",
-  "total_titles_processed": 1271,
+  "generated_at": "2025-11-07T20:16:57.299400+08:00",
+  "total_titles_processed": 1353,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股收盘：OpenAI高管言论引发风暴 纳指跌近2%",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时26分 ~ 19时02分]"
+          "appearance_count": 13,
+          "time_info": "[10时26分 ~ 20时16分]"
         },
         {
           "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
@@ -70,6 +70,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时52分 ~ 12时15分]"
+        },
+        {
+          "title": "OpenAI CFO 表达希望美国政府对当前的 AI 算力基础设施投资提供担保，如何评价这一表述？",
+          "url": "https://www.zhihu.com/question/1970068977905525926",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
         }
       ]
     },
@@ -87,8 +98,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时52分 ~ 19时02分]"
+          "appearance_count": 14,
+          "time_info": "[08时52分 ~ 20时16分]"
         },
         {
           "title": "如何评价 gemini-3-pro-preview-11-2025？",
@@ -158,7 +169,7 @@
     },
     {
       "keyword_group": "教育",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "土耳其央行行长：租金和教育价格在年度通胀过程中尤为突出。",
@@ -170,6 +181,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
+        },
+        {
+          "title": "如何看待教育部等六部委发文「为高校青年教师减负，松绑行政事务、破除称号依赖、淡化论文和奖项数量指标」?",
+          "url": "https://www.zhihu.com/question/1969538647230482047",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
         }
       ]
     }
