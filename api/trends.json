@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T17:02:51.464635+08:00",
-  "total_titles_processed": 1075,
+  "generated_at": "2025-11-07T18:02:52.135558+08:00",
+  "total_titles_processed": 1190,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,19 @@
           "time_info": "[08时52分 ~ 15时02分]"
         },
         {
+          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
+          "url": "https://wallstreetcn.com/articles/3758853",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时26分 ~ 18时02分]"
+        },
+        {
           "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
           "url": "https://www.cls.cn/detail/2193718",
           "source": "财联社热门",
@@ -28,18 +41,6 @@
             9,
             7,
             5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时26分 ~ 17时02分]"
-        },
-        {
-          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
-          "url": "https://wallstreetcn.com/articles/3758853",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -82,11 +83,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时52分 ~ 17时02分]"
+          "appearance_count": 11,
+          "time_info": "[08时52分 ~ 18时02分]"
         },
         {
           "title": "如何评价 gemini-3-pro-preview-11-2025？",
@@ -131,6 +133,17 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "比小学生说烂梗更可怕的是大人也说",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%AF%B4%E7%83%82%E6%A2%97%E6%9B%B4%E5%8F%AF%E6%80%95%E7%9A%84%E6%98%AF%E5%A4%A7%E4%BA%BA%E4%B9%9F%E8%AF%B4",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时02分 ~ 18时02分]"
+        },
+        {
           "title": "官方通报小学老师开车进校学生敬礼",
           "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%E5%BC%80%E8%BD%A6%E8%BF%9B%E6%A0%A1%E5%AD%A6%E7%94%9F%E6%95%AC%E7%A4%BC",
           "source": "百度热搜",
@@ -140,17 +153,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
-        },
-        {
-          "title": "比小学生说烂梗更可怕的是大人也说",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%AF%B4%E7%83%82%E6%A2%97%E6%9B%B4%E5%8F%AF%E6%80%95%E7%9A%84%E6%98%AF%E5%A4%A7%E4%BA%BA%E4%B9%9F%E8%AF%B4",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时02分"
         }
       ]
     },
