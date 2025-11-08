@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T13:02:42.808547+08:00",
-  "total_titles_processed": 606,
+  "generated_at": "2025-11-08T14:02:43.275713+08:00",
+  "total_titles_processed": 666,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "微博",
           "ranks": [
             5,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时31分 ~ 13时02分]"
+          "appearance_count": 4,
+          "time_info": "[11时31分 ~ 14时02分]"
         },
         {
           "title": "香港一小学允许学生用简体字答题，梁振英发文回应",
           "url": "https://v.ifeng.com/c/8o61H5snkDG",
           "source": "凤凰网",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时17分 ~ 13时02分]"
+          "appearance_count": 6,
+          "time_info": "[10时17分 ~ 14时02分]"
         }
       ]
     },
@@ -42,11 +44,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 13时02分]"
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 14时02分]"
         }
       ]
     },
