@@ -1,8 +1,25 @@
 {
-  "generated_at": "2025-11-08T08:41:16.246435+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2025-11-08T10:18:00.052303+08:00",
+  "total_titles_processed": 411,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "小学",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "香港一小学允许学生用简体字答题，梁振英发文回应",
+          "url": "https://v.ifeng.com/c/8o61H5snkDG",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时17分 ~ 10时18分]"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
