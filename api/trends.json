@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T14:02:43.275713+08:00",
-  "total_titles_processed": 666,
+  "generated_at": "2025-11-08T15:02:30.643078+08:00",
+  "total_titles_processed": 723,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时31分 ~ 14时02分]"
+          "appearance_count": 5,
+          "time_info": "[11时31分 ~ 15时02分]"
         },
         {
           "title": "香港一小学允许学生用简体字答题，梁振英发文回应",
@@ -29,8 +29,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时17分 ~ 14时02分]"
+          "appearance_count": 7,
+          "time_info": "[10时17分 ~ 15时02分]"
         }
       ]
     },
@@ -45,11 +45,12 @@
           "ranks": [
             4,
             9,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时02分 ~ 14时02分]"
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 15时02分]"
         }
       ]
     },
