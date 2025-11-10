@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T21:26:24.371480+08:00",
-  "total_titles_processed": 1406,
+  "generated_at": "2025-11-10T22:03:02.138875+08:00",
+  "total_titles_processed": 1495,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             4,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时02分 ~ 21时26分]"
+          "appearance_count": 6,
+          "time_info": "[18时02分 ~ 22时03分]"
         },
         {
           "title": "中小学教师减负 8 条措施公布，严控借调借用教师、不得要求教师上街执勤等，会带来怎样的影响？",
@@ -26,11 +27,26 @@
           "source": "知乎",
           "ranks": [
             15,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时02分 ~ 21时26分]"
+          "appearance_count": 4,
+          "time_info": "[20时02分 ~ 22时03分]"
+        },
+        {
+          "title": "中小学教师减负8条措施",
+          "url": "https://www.douyin.com/hot/2300945",
+          "source": "抖音",
+          "ranks": [
+            24,
+            15,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时02分 ~ 22时03分]"
         },
         {
           "title": "126斤小学生尿酸飙到440 医生提醒",
@@ -45,19 +61,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时02分 ~ 20时02分]"
-        },
-        {
-          "title": "中小学教师减负8条措施",
-          "url": "https://www.douyin.com/hot/2300945",
-          "source": "抖音",
-          "ranks": [
-            24,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时02分 ~ 21时26分]"
         },
         {
           "title": "126斤小学生尿酸飙到440",
