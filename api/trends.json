@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-10T08:44:41.978911+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-10T10:30:48.327216+08:00",
+  "total_titles_processed": 444,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "如何评价教育部新规：奥赛生原则上只能保送至对应学科?",
+          "url": "https://www.zhihu.com/question/1969926558018962069",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时30分"
+        },
         {
           "title": "如何教育孩子要爱自己？",
           "url": "https://www.zhihu.com/question/1968923784762357738",
@@ -17,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
+        },
+        {
+          "title": "52岁日照市教育科学研究院院长宋国安逝世，今年刚获全国先进工作者称号",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31927523",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时30分"
         }
       ]
     },
