@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T12:15:05.761052+08:00",
-  "total_titles_processed": 613,
+  "generated_at": "2025-11-11T13:02:31.467836+08:00",
+  "total_titles_processed": 683,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%95%99%E5%B8%88%E5%87%8F%E8%B4%9F8%E6%9D%A1%E6%8E%AA%E6%96%BD",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时27分 ~ 12时15分]"
+          "appearance_count": 5,
+          "time_info": "[10时27分 ~ 13时02分]"
         },
         {
           "title": "严管借调借用、精简数据填报，教育部进一步为中小学教师减负",
@@ -28,6 +29,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "韩国相关部门表示，韩国方面暂未就谷歌(GOOG.O)提出的地图数据传输请求作出决定。",
+          "url": "https://flash.jin10.com/detail/20251111115436400800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "韩国相关部门表示，韩国将待谷歌(GOOG.O)提交补充文件后作出最终决定。",
+          "url": "https://flash.jin10.com/detail/20251111115423827800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         }
       ]
     },
