@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T16:02:42.616243+08:00",
-  "total_titles_processed": 939,
+  "generated_at": "2025-11-11T17:03:12.312369+08:00",
+  "total_titles_processed": 1054,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "软银集团：OpenAI的共同投资者承诺参与全部100亿美元的银团融资。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
+        },
+        {
+          "title": "软银集团CFO：我们对OpenAI的投资非常巨大，因此我们必须利用现有资产为投资提供资金。",
+          "url": "https://flash.jin10.com/detail/20251111164357600800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
         },
         {
           "title": "软银：已于10月以58.3亿美元的价格出售了英伟达的股份。 在6月至9月期间出售了价值91.7亿美元的T-MOBILE股份。 与OpenAI签署了修订协议，承诺将追加投资225亿美元。 将于12月通过愿景基金2完成全部投资。",
@@ -36,7 +47,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -65,11 +76,12 @@
             1,
             2,
             11,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时27分 ~ 15时03分]"
+          "appearance_count": 10,
+          "time_info": "[10时27分 ~ 17时03分]"
         },
         {
           "title": "严管借调借用、精简数据填报，教育部进一步为中小学教师减负",
