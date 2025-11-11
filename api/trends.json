@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T20:03:55.884558+08:00",
-  "total_titles_processed": 1349,
+  "generated_at": "2025-11-11T21:25:13.947791+08:00",
+  "total_titles_processed": 1462,
   "failed_sources": [],
   "trends": [
     {
@@ -34,11 +34,12 @@
           "url": "https://wallstreetcn.com/articles/3759120",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 20时03分]"
+          "appearance_count": 4,
+          "time_info": "[19时02分 ~ 21时25分]"
         },
         {
           "title": "软银：已于10月以58.3亿美元的价格出售了英伟达的股份。 在6月至9月期间出售了价值91.7亿美元的T-MOBILE股份。 与OpenAI签署了修订协议，承诺将追加投资225亿美元。 将于12月通过愿景基金2完成全部投资。",
