@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T13:02:31.467836+08:00",
-  "total_titles_processed": 683,
+  "generated_at": "2025-11-11T14:03:04.023896+08:00",
+  "total_titles_processed": 758,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            2
+            2,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时27分 ~ 13时02分]"
+          "appearance_count": 7,
+          "time_info": "[10时27分 ~ 14时03分]"
         },
         {
           "title": "严管借调借用、精简数据填报，教育部进一步为中小学教师减负",
@@ -43,7 +44,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -54,7 +55,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         }
