@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T21:27:04.120576+08:00",
-  "total_titles_processed": 1434,
+  "generated_at": "2025-11-12T22:04:22.075778+08:00",
+  "total_titles_processed": 1505,
   "failed_sources": [],
   "trends": [
     {
@@ -135,11 +135,12 @@
           "source": "微博",
           "ranks": [
             30,
-            14
+            14,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时02分 ~ 21时27分]"
+          "appearance_count": 4,
+          "time_info": "[20时02分 ~ 22时04分]"
         },
         {
           "title": "光明日报关注“小学没毕业初二课程已学完”：超前学真无解？",
@@ -150,8 +151,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时02分 ~ 21时27分]"
+          "appearance_count": 4,
+          "time_info": "[20时02分 ~ 22时04分]"
         }
       ]
     },
@@ -220,11 +221,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时02分 ~ 21时27分]"
+          "appearance_count": 6,
+          "time_info": "[18时02分 ~ 22时04分]"
         }
       ]
     }
