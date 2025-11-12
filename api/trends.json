@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T10:26:18.598883+08:00",
-  "total_titles_processed": 437,
+  "generated_at": "2025-11-12T11:39:55.917585+08:00",
+  "total_titles_processed": 555,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时43分 ~ 10时26分]"
+          "appearance_count": 3,
+          "time_info": "[08时43分 ~ 11时39分]"
         },
         {
           "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
           "url": "https://www.cls.cn/detail/2197744",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时43分 ~ 10时26分]"
+          "appearance_count": 3,
+          "time_info": "[08时43分 ~ 11时39分]"
         }
       ]
     },
@@ -42,11 +44,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时43分 ~ 10时26分]"
+          "appearance_count": 3,
+          "time_info": "[08时43分 ~ 11时39分]"
         }
       ]
     },
@@ -60,11 +63,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时43分 ~ 10时26分]"
+          "appearance_count": 3,
+          "time_info": "[08时43分 ~ 11时39分]"
         }
       ]
     }
