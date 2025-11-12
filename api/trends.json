@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T17:12:43.061428+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2025-11-12T18:02:45.807810+08:00",
+  "total_titles_processed": 1118,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 17时12分]"
+          "appearance_count": 3,
+          "time_info": "[16时02分 ~ 18时02分]"
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
@@ -50,7 +50,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
         }
@@ -70,8 +70,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时43分 ~ 17时12分]"
+          "appearance_count": 11,
+          "time_info": "[08时43分 ~ 18时02分]"
         },
         {
           "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
@@ -108,6 +108,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "教育",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "教育教学工作之外，老师们的时间都去哪了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31907809",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            10,
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[08时43分 ~ 18时02分]"
+        },
+        {
+          "title": "忽然觉得我似乎把孩子养废了，女孩青春期对父母很不尊重和礼貌，我是教育出了问题吗？",
+          "url": "https://www.zhihu.com/question/660280143",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         }
       ]
     },
@@ -155,28 +188,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时43分 ~ 12时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "教育",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "教育教学工作之外，老师们的时间都去哪了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31907809",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12,
-            10,
-            11,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时43分 ~ 17时12分]"
         }
       ]
     }
