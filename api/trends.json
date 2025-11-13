@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T13:02:29.241602+08:00",
-  "total_titles_processed": 643,
+  "generated_at": "2025-11-13T14:03:11.126415+08:00",
+  "total_titles_processed": 720,
   "failed_sources": [],
   "trends": [
     {
@@ -51,6 +51,20 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "宁波妈妈高铁清洁袋上写下教育焦虑，引发网友「漂流瓶」式温暖回应，对此你有哪些感触？",
+          "url": "https://www.zhihu.com/question/1971533024630907577",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17,
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时28分 ~ 14时03分]"
+        },
+        {
           "title": "忽然觉得我似乎把孩子养废了，女孩青春期对父母很不尊重和礼貌，我是教育出了问题吗？",
           "url": "https://www.zhihu.com/question/660280143",
           "source": "知乎",
@@ -61,19 +75,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时42分 ~ 13时02分]"
-        },
-        {
-          "title": "宁波妈妈高铁清洁袋上写下教育焦虑，引发网友「漂流瓶」式温暖回应，对此你有哪些感触？",
-          "url": "https://www.zhihu.com/question/1971533024630907577",
-          "source": "知乎",
-          "ranks": [
-            20,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时28分 ~ 13时02分]"
         }
       ]
     },
