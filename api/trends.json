@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-13T20:19:39.186518+08:00",
-  "total_titles_processed": 1343,
+  "generated_at": "2025-11-13T21:27:12.792892+08:00",
+  "total_titles_processed": 1439,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 12,
       "titles": [
+        {
+          "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
+          "url": "https://wallstreetcn.com/articles/3759294",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时02分 ~ 21时27分]"
+        },
         {
           "title": "阿里股价直线拉升！“通义千问”全面对标ChatGPT，进军C端市场",
           "url": "https://wallstreetcn.com/articles/3759294",
@@ -18,17 +29,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时02分 ~ 18时02分]"
-        },
-        {
-          "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
-          "url": "https://wallstreetcn.com/articles/3759294",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 20时19分]"
         },
         {
           "title": "OpenAI发布GPT-5.1",
@@ -44,6 +44,19 @@
           "time_info": "[10时28分 ~ 13时02分]"
         },
         {
+          "title": "阿里秘密启动“千问”项目 将推出国际版与ChatGPT竞争",
+          "url": "https://www.cls.cn/detail/2199601",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时02分 ~ 21时27分]"
+        },
+        {
           "title": "OpenAI 发布 GPT-5.1 模型，主打「更温暖」「说人话」，如何看待这一升级？",
           "url": "https://www.zhihu.com/question/1972154575545955995",
           "source": "知乎",
@@ -57,16 +70,16 @@
           "time_info": "[11时40分 ~ 13时02分]"
         },
         {
-          "title": "阿里秘密启动“千问”项目 将推出国际版与ChatGPT竞争",
-          "url": "https://www.cls.cn/detail/2199601",
-          "source": "财联社热门",
+          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            8
+            20,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时02分 ~ 20时19分]"
+          "time_info": "[20时19分 ~ 21时27分]"
         },
         {
           "title": "阿里股价直线拉升！报道：公司计划全面改版“通义”AI应用，新一代Qwen直接对标ChatGPT",
@@ -100,17 +113,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
-        },
-        {
-          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时19分"
         },
         {
           "title": "恒生科技指数转涨，阿里巴巴港股直线拉升，现涨1%，消息称阿里秘密启动“千问”项目，全面对标ChatGPT。",
@@ -191,7 +193,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
         },
@@ -202,7 +204,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
         }
@@ -222,11 +224,12 @@
             18,
             12,
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时28分 ~ 20时19分]"
+          "appearance_count": 15,
+          "time_info": "[10时28分 ~ 21时27分]"
         },
         {
           "title": "忽然觉得我似乎把孩子养废了，女孩青春期对父母很不尊重和礼貌，我是教育出了问题吗？",
