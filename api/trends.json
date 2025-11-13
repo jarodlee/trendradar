@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T11:41:23.020168+08:00",
-  "total_titles_processed": 539,
+  "generated_at": "2025-11-13T12:16:42.487592+08:00",
+  "total_titles_processed": 583,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时28分 ~ 11时41分]"
+          "appearance_count": 4,
+          "time_info": "[10时28分 ~ 12时16分]"
         },
         {
           "title": "OpenAI 发布 GPT-5.1 模型，主打「更温暖」「说人话」，如何看待这一升级？",
           "url": "https://www.zhihu.com/question/1972154575545955995",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 11时41分]"
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 12时16分]"
         },
         {
           "title": "OpenAI宣布推出GPT-5.1系列模型，新版本将从本周开始向用户推送。",
@@ -56,8 +57,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时42分 ~ 11时41分]"
+          "appearance_count": 5,
+          "time_info": "[08时42分 ~ 12时16分]"
         },
         {
           "title": "宁波妈妈高铁清洁袋上写下教育焦虑，引发网友「漂流瓶」式温暖回应，对此你有哪些感触？",
@@ -65,11 +66,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时28分 ~ 11时41分]"
+          "appearance_count": 4,
+          "time_info": "[10时28分 ~ 12时16分]"
         }
       ]
     },
@@ -98,8 +100,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时42分 ~ 11时41分]"
+          "appearance_count": 5,
+          "time_info": "[08时42分 ~ 12时16分]"
         }
       ]
     },
