@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T21:27:12.792892+08:00",
-  "total_titles_processed": 1439,
+  "generated_at": "2025-11-13T22:02:45.973224+08:00",
+  "total_titles_processed": 1538,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时02分 ~ 21时27分]"
+          "appearance_count": 5,
+          "time_info": "[19时02分 ~ 22时02分]"
         },
         {
           "title": "阿里股价直线拉升！“通义千问”全面对标ChatGPT，进军C端市场",
@@ -53,8 +53,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时02分 ~ 21时27分]"
+          "appearance_count": 6,
+          "time_info": "[18时02分 ~ 22时02分]"
+        },
+        {
+          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时19分 ~ 22时02分]"
         },
         {
           "title": "OpenAI 发布 GPT-5.1 模型，主打「更温暖」「说人话」，如何看待这一升级？",
@@ -68,18 +81,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时40分 ~ 13时02分]"
-        },
-        {
-          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时19分 ~ 21时27分]"
         },
         {
           "title": "阿里股价直线拉升！报道：公司计划全面改版“通义”AI应用，新一代Qwen直接对标ChatGPT",
@@ -228,8 +229,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时28分 ~ 21时27分]"
+          "appearance_count": 16,
+          "time_info": "[10时28分 ~ 22时02分]"
         },
         {
           "title": "忽然觉得我似乎把孩子养废了，女孩青春期对父母很不尊重和礼貌，我是教育出了问题吗？",
