@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-15T16:02:31.603386+08:00",
-  "total_titles_processed": 777,
+  "generated_at": "2025-11-15T17:02:15.964791+08:00",
+  "total_titles_processed": 844,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "桥水Q3大砍英伟达持仓65%，谷歌、Meta持仓腰斩，加仓美国大盘指数，清仓新兴市场ETF",
@@ -16,19 +16,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时40分 ~ 16时02分]"
+          "appearance_count": 12,
+          "time_info": "[08时40分 ~ 17时02分]"
         },
         {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
           "url": "https://wallstreetcn.com/articles/3759431",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时34分 ~ 16时02分]"
+          "appearance_count": 9,
+          "time_info": "[11时34分 ~ 17时02分]"
         },
         {
           "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
@@ -38,11 +39,12 @@
             9,
             7,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时21分 ~ 16时02分]"
+          "appearance_count": 11,
+          "time_info": "[10时21分 ~ 17时02分]"
         },
         {
           "title": "伯克希尔哈撒韦披露罕见科技股持仓，Q3建仓谷歌母公司Alphabet",
@@ -59,6 +61,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时22分 ~ 15时02分]"
+        },
+        {
+          "title": "印度官员：谷歌预计将把印度数据中心项目投资金额提高至逾150亿美元",
+          "url": "https://flash.jin10.com/detail/20251115162742778800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，建仓谷歌",
@@ -108,7 +121,7 @@
     },
     {
       "keyword_group": "小学",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "山西忻州一小学要求填写“家长可提供的社会资源”，校方致歉",
@@ -121,6 +134,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时21分 ~ 12时01分]"
+        },
+        {
+          "title": "山西忻州一小学要求填写“家长可提供的社会资源”，校方致歉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31971647",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
         },
         {
           "title": "教育局回应小学生穿裙装敬礼",
