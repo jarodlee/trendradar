@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T21:17:02.450722+08:00",
-  "total_titles_processed": 1113,
+  "generated_at": "2025-11-15T22:02:30.627008+08:00",
+  "total_titles_processed": 1165,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时34分 ~ 21时17分]"
+          "appearance_count": 16,
+          "time_info": "[11时34分 ~ 22时02分]"
         },
         {
           "title": "桥水Q3大砍英伟达持仓65%，谷歌、Meta持仓腰斩，加仓美国大盘指数，清仓新兴市场ETF",
@@ -44,8 +44,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时21分 ~ 21时17分]"
+          "appearance_count": 18,
+          "time_info": "[10时21分 ~ 22时02分]"
         },
         {
           "title": "伯克希尔哈撒韦披露罕见科技股持仓，Q3建仓谷歌母公司Alphabet",
@@ -128,6 +128,19 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "中小学秋假火了亲子游，四川、浙江多景区因游客量饱和限流",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31972717",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时01分 ~ 22时02分]"
+        },
+        {
           "title": "去年小学专任教师减少6.62万 ，农村“富余”的老师去哪里",
           "url": "https://news.ifeng.com/c/8oIwdKrJdva",
           "source": "凤凰网",
@@ -135,20 +148,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时01分 ~ 21时17分]"
-        },
-        {
-          "title": "中小学秋假火了亲子游，四川、浙江多景区因游客量饱和限流",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31972717",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时01分 ~ 21时17分]"
+          "appearance_count": 6,
+          "time_info": "[19时01分 ~ 22时02分]"
         },
         {
           "title": "山西忻州一小学要求填写“家长可提供的社会资源”，校方致歉",
