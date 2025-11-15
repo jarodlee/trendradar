@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T12:01:49.666611+08:00",
-  "total_titles_processed": 554,
+  "generated_at": "2025-11-15T13:02:07.200477+08:00",
+  "total_titles_processed": 609,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时40分 ~ 12时01分]"
+          "appearance_count": 7,
+          "time_info": "[08时40分 ~ 13时02分]"
         },
         {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
@@ -27,21 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 12时01分]"
-        },
-        {
-          "title": "伯克希尔哈撒韦披露罕见科技股持仓，Q3建仓谷歌母公司Alphabet",
-          "url": "https://flash.jin10.com/detail/20251115093238774800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时22分 ~ 12时01分]"
+          "appearance_count": 4,
+          "time_info": "[11时34分 ~ 13时02分]"
         },
         {
           "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
@@ -52,8 +39,22 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时21分 ~ 13时02分]"
+        },
+        {
+          "title": "伯克希尔哈撒韦披露罕见科技股持仓，Q3建仓谷歌母公司Alphabet",
+          "url": "https://flash.jin10.com/detail/20251115093238774800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            8,
+            12,
+            14
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时21分 ~ 12时01分]"
+          "time_info": "[10时22分 ~ 13时02分]"
         },
         {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，建仓谷歌",
