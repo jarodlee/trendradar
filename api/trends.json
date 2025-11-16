@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-16T18:02:30.737637+08:00",
-  "total_titles_processed": 873,
+  "generated_at": "2025-11-16T19:02:24.639110+08:00",
+  "total_titles_processed": 935,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "教育部发布第4号留学预警",
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             3,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时02分 ~ 18时02分]"
+          "appearance_count": 5,
+          "time_info": "[16时02分 ~ 19时02分]"
         },
         {
           "title": "教育部提醒中国公民谨慎赴日留学",
@@ -28,8 +29,21 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时02分 ~ 18时02分]"
+          "appearance_count": 7,
+          "time_info": "[14时02分 ~ 19时02分]"
+        },
+        {
+          "title": "教育部发布留学预警：建议中国公民谨慎规划赴日留学安排",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31977811",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时02分 ~ 19时02分]"
         },
         {
           "title": "教育部发布留学预警：中国公民谨慎规划赴日留学安排",
@@ -46,18 +60,6 @@
           "time_info": "[14时02分 ~ 17时02分]"
         },
         {
-          "title": "教育部发布留学预警：建议中国公民谨慎规划赴日留学安排",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31977811",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时02分 ~ 18时02分]"
-        },
-        {
           "title": "教育部发布赴日留学预警",
           "url": "https://www.toutiao.com/trending/7573183892543488041/",
           "source": "今日头条",
@@ -69,6 +71,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时02分 ~ 16时02分]"
+        },
+        {
+          "title": "教育部预警：中国公民谨慎赴日留学",
+          "url": "https://www.cls.cn/detail/2201732",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         }
       ]
     },
@@ -112,11 +125,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时45分 ~ 18时02分]"
+          "appearance_count": 13,
+          "time_info": "[08时45分 ~ 19时02分]"
         },
         {
           "title": "Gemini3.0能碾压GPT-5.1吗",
@@ -126,8 +140,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时01分 ~ 18时02分]"
+          "appearance_count": 4,
+          "time_info": "[17时01分 ~ 19时02分]"
         }
       ]
     }
