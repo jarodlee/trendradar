@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T16:02:31.721748+08:00",
-  "total_titles_processed": 737,
+  "generated_at": "2025-11-16T17:02:10.707423+08:00",
+  "total_titles_processed": 809,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%83%E7%AC%AC4%E5%8F%B7%E7%95%99%E5%AD%A6%E9%A2%84%E8%AD%A6",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时02分 ~ 17时02分]"
         },
         {
           "title": "教育部发布留学预警：中国公民谨慎规划赴日留学安排",
@@ -25,11 +26,35 @@
           "ranks": [
             4,
             7,
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时02分 ~ 17时02分]"
+        },
+        {
+          "title": "教育部提醒中国公民谨慎赴日留学",
+          "url": "https://www.douyin.com/hot/2308030",
+          "source": "抖音",
+          "ranks": [
             11
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时02分 ~ 17时02分]"
+        },
+        {
+          "title": "教育部发布留学预警：建议中国公民谨慎规划赴日留学安排",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31977811",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时02分 ~ 16时02分]"
+          "time_info": "[16时02分 ~ 17时02分]"
         },
         {
           "title": "教育部发布赴日留学预警",
@@ -43,28 +68,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时02分 ~ 16时02分]"
-        },
-        {
-          "title": "教育部提醒中国公民谨慎赴日留学",
-          "url": "https://www.douyin.com/hot/2308030",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时02分 ~ 16时02分]"
-        },
-        {
-          "title": "教育部发布留学预警：建议中国公民谨慎规划赴日留学安排",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31977811",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
         }
       ]
     },
@@ -100,7 +103,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
@@ -111,8 +114,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时45分 ~ 16时02分]"
+          "appearance_count": 11,
+          "time_info": "[08时45分 ~ 17时02分]"
+        },
+        {
+          "title": "Gemini3.0能碾压GPT-5.1吗",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E8%83%BD%E7%A2%BE%E5%8E%8BGPT-5.1%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
         }
       ]
     }
