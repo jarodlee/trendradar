@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T21:16:40.219031+08:00",
-  "total_titles_processed": 1058,
+  "generated_at": "2025-11-16T22:02:17.009192+08:00",
+  "total_titles_processed": 1104,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             16,
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时02分 ~ 21时16分]"
+          "appearance_count": 9,
+          "time_info": "[16时02分 ~ 22时02分]"
         },
         {
           "title": "教育部发布第4号留学预警",
@@ -30,11 +31,12 @@
             10,
             13,
             18,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时02分 ~ 21时16分]"
+          "appearance_count": 9,
+          "time_info": "[16时02分 ~ 22时02分]"
         },
         {
           "title": "教育部提醒中国公民谨慎赴日留学",
@@ -46,6 +48,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[14时02分 ~ 19时02分]"
+        },
+        {
+          "title": "教育部预警：中国公民谨慎赴日留学",
+          "url": "https://www.cls.cn/detail/2201732",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时02分 ~ 22时02分]"
         },
         {
           "title": "教育部发布留学预警：中国公民谨慎规划赴日留学安排",
@@ -60,19 +75,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时02分 ~ 17时02分]"
-        },
-        {
-          "title": "教育部预警：中国公民谨慎赴日留学",
-          "url": "https://www.cls.cn/detail/2201732",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时02分 ~ 21时16分]"
         },
         {
           "title": "教育部发布赴日留学预警",
@@ -125,8 +127,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时02分 ~ 21时16分]"
+          "appearance_count": 4,
+          "time_info": "[20时02分 ~ 22时02分]"
         }
       ]
     },
@@ -156,8 +158,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时01分 ~ 21时16分]"
+          "appearance_count": 8,
+          "time_info": "[17时01分 ~ 22时02分]"
         }
       ]
     }
