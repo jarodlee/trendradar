@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T17:02:10.707423+08:00",
-  "total_titles_processed": 809,
+  "generated_at": "2025-11-16T18:02:30.737637+08:00",
+  "total_titles_processed": 873,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            3
+            3,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 17时02分]"
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 18时02分]"
+        },
+        {
+          "title": "教育部提醒中国公民谨慎赴日留学",
+          "url": "https://www.douyin.com/hot/2308030",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时02分 ~ 18时02分]"
         },
         {
           "title": "教育部发布留学预警：中国公民谨慎规划赴日留学安排",
@@ -34,17 +46,6 @@
           "time_info": "[14时02分 ~ 17时02分]"
         },
         {
-          "title": "教育部提醒中国公民谨慎赴日留学",
-          "url": "https://www.douyin.com/hot/2308030",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时02分 ~ 17时02分]"
-        },
-        {
           "title": "教育部发布留学预警：建议中国公民谨慎规划赴日留学安排",
           "url": "https://m.thepaper.cn/newsDetail_forward_31977811",
           "source": "澎湃新闻",
@@ -53,8 +54,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 17时02分]"
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 18时02分]"
         },
         {
           "title": "教育部发布赴日留学预警",
@@ -114,8 +115,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时45分 ~ 17时02分]"
+          "appearance_count": 12,
+          "time_info": "[08时45分 ~ 18时02分]"
         },
         {
           "title": "Gemini3.0能碾压GPT-5.1吗",
@@ -125,8 +126,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
+          "appearance_count": 3,
+          "time_info": "[17时01分 ~ 18时02分]"
         }
       ]
     }
