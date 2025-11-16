@@ -1,23 +1,35 @@
 {
-  "generated_at": "2025-11-16T15:02:18.240444+08:00",
-  "total_titles_processed": 678,
+  "generated_at": "2025-11-16T16:02:31.721748+08:00",
+  "total_titles_processed": 737,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "教育部发布第4号留学预警",
+          "url": "https://search.bilibili.com/all?keyword=%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%83%E7%AC%AC4%E5%8F%B7%E7%95%99%E5%AD%A6%E9%A2%84%E8%AD%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
         {
           "title": "教育部发布留学预警：中国公民谨慎规划赴日留学安排",
           "url": "https://wallstreetcn.com/livenews/3005260",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时02分 ~ 15时02分]"
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 16时02分]"
         },
         {
           "title": "教育部发布赴日留学预警",
@@ -25,11 +37,12 @@
           "source": "今日头条",
           "ranks": [
             26,
-            10
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时02分 ~ 15时02分]"
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 16时02分]"
         },
         {
           "title": "教育部提醒中国公民谨慎赴日留学",
@@ -39,8 +52,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时02分 ~ 15时02分]"
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 16时02分]"
+        },
+        {
+          "title": "教育部发布留学预警：建议中国公民谨慎规划赴日留学安排",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31977811",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         }
       ]
     },
@@ -58,8 +82,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时45分 ~ 15时02分]"
+          "appearance_count": 9,
+          "time_info": "[08时45分 ~ 16时02分]"
         },
         {
           "title": "去年小学专任教师减少6.62万 ，农村“富余”的老师去哪里",
@@ -87,8 +111,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时45分 ~ 15时02分]"
+          "appearance_count": 9,
+          "time_info": "[08时45分 ~ 16时02分]"
         }
       ]
     }
