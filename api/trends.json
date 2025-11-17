@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T19:02:21.153313+08:00",
-  "total_titles_processed": 1256,
+  "generated_at": "2025-11-17T20:18:02.946455+08:00",
+  "total_titles_processed": 1333,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时16分 ~ 19时02分]"
+          "appearance_count": 11,
+          "time_info": "[12时16分 ~ 20时18分]"
         },
         {
           "title": "Gemini3.0能碾压GPT-5.1吗",
