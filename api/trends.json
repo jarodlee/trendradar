@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T08:43:55.371324+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-17T10:27:45.481500+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
@@ -12,33 +12,36 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31977811",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时43分"
+          "appearance_count": 2,
+          "time_info": "[08时43分 ~ 10时27分]"
         },
         {
           "title": "教育部预警：中国公民谨慎赴日留学",
           "url": "https://www.cls.cn/detail/2201732",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时43分"
+          "appearance_count": 2,
+          "time_info": "[08时43分 ~ 10时27分]"
         },
         {
           "title": "教育部发布第4号留学预警",
           "url": "https://search.bilibili.com/all?keyword=%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%83%E7%AC%AC4%E5%8F%B7%E7%95%99%E5%AD%A6%E9%A2%84%E8%AD%A6",
           "source": "bilibili 热搜",
           "ranks": [
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时43分"
+          "appearance_count": 2,
+          "time_info": "[08时43分 ~ 10时27分]"
         }
       ]
     },
@@ -51,11 +54,12 @@
           "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E8%83%BD%E7%A2%BE%E5%8E%8BGPT-5.1%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时43分"
+          "appearance_count": 2,
+          "time_info": "[08时43分 ~ 10时27分]"
         },
         {
           "title": "如何看待巴菲特「退休」前 Q3 加速抛苹果，首次建仓谷歌？向来对科技股谨慎的股神为何突然出手？",
