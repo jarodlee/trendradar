@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T12:16:43.892640+08:00",
-  "total_titles_processed": 628,
+  "generated_at": "2025-11-17T13:02:15.305683+08:00",
+  "total_titles_processed": 708,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时43分 ~ 12时16分]"
+          "appearance_count": 6,
+          "time_info": "[08时43分 ~ 13时02分]"
         },
         {
           "title": "教育部预警：中国公民谨慎赴日留学",
@@ -33,6 +33,18 @@
           "time_info": "[08时43分 ~ 11时42分]"
         },
         {
+          "title": "教育部提醒中国公民谨慎赴日留学",
+          "url": "https://www.douyin.com/hot/2308030",
+          "source": "抖音",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 13时02分]"
+        },
+        {
           "title": "教育部发布第4号留学预警",
           "url": "https://search.bilibili.com/all?keyword=%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%83%E7%AC%AC4%E5%8F%B7%E7%95%99%E5%AD%A6%E9%A2%84%E8%AD%A6",
           "source": "bilibili 热搜",
@@ -43,17 +55,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时43分 ~ 10时27分]"
-        },
-        {
-          "title": "教育部提醒中国公民谨慎赴日留学",
-          "url": "https://www.douyin.com/hot/2308030",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时16分"
         }
       ]
     },
@@ -68,11 +69,23 @@
           "ranks": [
             9,
             12,
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时43分 ~ 12时16分]"
+          "appearance_count": 6,
+          "time_info": "[08时43分 ~ 13时02分]"
+        },
+        {
+          "title": "“表现极其惊艳”，谷歌大模型罕见发布前“造势”，Gemini 3.0本周登场？",
+          "url": "https://wallstreetcn.com/articles/3759493",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 13时02分]"
         },
         {
           "title": "如何看待巴菲特「退休」前 Q3 加速抛苹果，首次建仓谷歌？向来对科技股谨慎的股神为何突然出手？",
@@ -84,17 +97,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
-        },
-        {
-          "title": "“表现极其惊艳”，谷歌大模型罕见发布前“造势”，Gemini 3.0本周登场？",
-          "url": "https://wallstreetcn.com/articles/3759493",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时16分"
         }
       ]
     },
