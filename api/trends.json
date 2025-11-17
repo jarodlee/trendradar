@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T11:42:52.699877+08:00",
-  "total_titles_processed": 563,
+  "generated_at": "2025-11-17T12:16:43.892640+08:00",
+  "total_titles_processed": 628,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "教育部发布留学预警：建议中国公民谨慎规划赴日留学安排",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时43分 ~ 11时42分]"
+          "appearance_count": 4,
+          "time_info": "[08时43分 ~ 12时16分]"
         },
         {
           "title": "教育部预警：中国公民谨慎赴日留学",
@@ -43,12 +43,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时43分 ~ 10时27分]"
+        },
+        {
+          "title": "教育部提醒中国公民谨慎赴日留学",
+          "url": "https://www.douyin.com/hot/2308030",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "Gemini3.0能碾压GPT-5.1吗",
@@ -60,8 +71,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时43分 ~ 11时42分]"
+          "appearance_count": 4,
+          "time_info": "[08时43分 ~ 12时16分]"
         },
         {
           "title": "如何看待巴菲特「退休」前 Q3 加速抛苹果，首次建仓谷歌？向来对科技股谨慎的股神为何突然出手？",
@@ -73,6 +84,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
+        },
+        {
+          "title": "“表现极其惊艳”，谷歌大模型罕见发布前“造势”，Gemini 3.0本周登场？",
+          "url": "https://wallstreetcn.com/articles/3759493",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         }
       ]
     },
@@ -87,7 +109,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         }
