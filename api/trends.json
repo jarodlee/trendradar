@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-18T14:14:54.886447+08:00",
-  "total_titles_processed": 761,
+  "generated_at": "2025-11-18T15:02:25.455206+08:00",
+  "total_titles_processed": 847,
   "failed_sources": [],
   "trends": [
     {
@@ -47,8 +47,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时41分 ~ 14时14分]"
+          "appearance_count": 8,
+          "time_info": "[08时41分 ~ 15时02分]"
         },
         {
           "title": "美元指数DXY短线走低12点，现报99.45；欧元兑美元EUR/USD、英镑兑美元GBP/USD短线走高10点。",
@@ -75,11 +75,12 @@
           "ranks": [
             20,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时39分 ~ 14时14分]"
+          "appearance_count": 6,
+          "time_info": "[11时39分 ~ 15时02分]"
         }
       ]
     }
