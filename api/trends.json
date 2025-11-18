@@ -1,7 +1,21 @@
 {
-  "generated_at": "2025-11-18T20:17:33.304462+08:00",
+  "generated_at": "2025-11-18T21:30:49.547308+08:00",
   "total_titles_processed": 1335,
-  "failed_sources": [],
+  "failed_sources": [
+    "toutiao",
+    "baidu",
+    "wallstreetcn-hot",
+    "thepaper",
+    "bilibili-hot-search",
+    "cls-hot",
+    "ifeng",
+    "jin10",
+    "wallstreetcn-quick",
+    "tieba",
+    "weibo",
+    "douyin",
+    "zhihu"
+  ],
   "trends": [
     {
       "keyword_group": "美元",
