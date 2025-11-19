@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-19T11:38:42.673055+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2025-11-19T12:13:34.789998+08:00",
+  "total_titles_processed": 560,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 8,
       "titles": [
+        {
+          "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
+          "url": "https://www.cls.cn/detail/2204346",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时42分 ~ 12时13分]"
+        },
         {
           "title": "谷歌正式发布Gemini3",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83Gemini3",
@@ -17,18 +29,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时42分 ~ 08时43分]"
-        },
-        {
-          "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
-          "url": "https://www.cls.cn/detail/2204346",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时42分 ~ 11时38分]"
         },
         {
           "title": "如何评价谷歌正式发布的 Gemini 3？哪些信息值得关注？",
@@ -50,8 +50,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时25分 ~ 11时38分]"
+          "appearance_count": 3,
+          "time_info": "[10时25分 ~ 12时13分]"
+        },
+        {
+          "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
+          "url": "https://www.cls.cn/detail/2204501",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时25分 ~ 12时13分]"
         },
         {
           "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
@@ -61,20 +74,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时25分 ~ 11时38分]"
+          "appearance_count": 3,
+          "time_info": "[10时25分 ~ 12时13分]"
         },
         {
-          "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
-          "url": "https://www.cls.cn/detail/2204501",
-          "source": "财联社热门",
+          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
+          "url": "https://wallstreetcn.com/articles/3759673",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
-            6
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时25分 ~ 11时38分]"
+          "time_info": "[11时38分 ~ 12时13分]"
         },
         {
           "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
@@ -86,17 +99,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时42分 ~ 08时43分]"
-        },
-        {
-          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
-          "url": "https://wallstreetcn.com/articles/3759673",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
         }
       ]
     },
@@ -105,26 +107,28 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "美国政府继续推进拆解教育部计划",
-          "url": "https://wallstreetcn.com/livenews/3006918",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
           "title": "我国大学学龄人口 2032 年达峰，这将带来哪些影响？高校教育会如何改革？",
           "url": "https://www.zhihu.com/question/1974076666121838856",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 12时13分]"
+        },
+        {
+          "title": "美国政府继续推进拆解教育部计划",
+          "url": "https://wallstreetcn.com/livenews/3006918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 12时13分]"
         },
         {
           "title": "教育部等5部门发布20条举措 实施学生体质强健计划",
@@ -152,8 +156,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时25分 ~ 11时38分]"
+          "appearance_count": 3,
+          "time_info": "[10时25分 ~ 12时13分]"
         }
       ]
     }
