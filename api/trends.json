@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-19T17:02:54.768236+08:00",
-  "total_titles_processed": 915,
+  "generated_at": "2025-11-19T18:02:25.406980+08:00",
+  "total_titles_processed": 996,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 11,
       "titles": [
+        {
+          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
+          "url": "https://wallstreetcn.com/articles/3759657",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时25分 ~ 18时02分]"
+        },
         {
           "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
           "url": "https://www.cls.cn/detail/2204501",
@@ -32,22 +44,26 @@
             6,
             7,
             19,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时25分 ~ 17时02分]"
+          "appearance_count": 10,
+          "time_info": "[10时25分 ~ 18时02分]"
         },
         {
-          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
-          "url": "https://wallstreetcn.com/articles/3759657",
+          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
+          "url": "https://wallstreetcn.com/articles/3759673",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            9,
+            8,
+            7,
+            5
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[10时25分 ~ 17时02分]"
+          "time_info": "[11时38分 ~ 18时02分]"
         },
         {
           "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
@@ -60,19 +76,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[08时42分 ~ 13时02分]"
-        },
-        {
-          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
-          "url": "https://wallstreetcn.com/articles/3759673",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时38分 ~ 17时02分]"
         },
         {
           "title": "谷歌正式发布Gemini3",
@@ -106,8 +109,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时02分 ~ 17时02分]"
+          "appearance_count": 4,
+          "time_info": "[15时02分 ~ 18时02分]"
         },
         {
           "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
@@ -160,8 +163,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时38分 ~ 17时02分]"
+          "appearance_count": 9,
+          "time_info": "[11时38分 ~ 18时02分]"
         },
         {
           "title": "美国政府继续推进拆解教育部计划",
@@ -188,8 +191,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时02分 ~ 17时02分]"
+          "appearance_count": 5,
+          "time_info": "[14时02分 ~ 18时02分]"
         },
         {
           "title": "教育部等5部门发布20条举措 实施学生体质强健计划",
@@ -217,8 +220,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时25分 ~ 15时02分]"
+          "appearance_count": 8,
+          "time_info": "[10时25分 ~ 18时02分]"
         }
       ]
     }
