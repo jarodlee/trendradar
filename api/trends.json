@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T12:12:02.769393+08:00",
-  "total_titles_processed": 567,
+  "generated_at": "2025-11-20T13:02:38.274411+08:00",
+  "total_titles_processed": 629,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时40分 ~ 12时12分]"
+          "appearance_count": 8,
+          "time_info": "[08时40分 ~ 13时02分]"
+        },
+        {
+          "title": "Gemini3有哪些新功能",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8A%9F%E8%83%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时40分 ~ 13时02分]"
         },
         {
           "title": "Gemini3是目前最强AI吗",
@@ -26,23 +39,12 @@
           "ranks": [
             8,
             6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时40分 ~ 12时12分]"
-        },
-        {
-          "title": "Gemini3有哪些新功能",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8A%9F%E8%83%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
+            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时40分 ~ 12时12分]"
+          "appearance_count": 8,
+          "time_info": "[08时40分 ~ 13时02分]"
         },
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -61,11 +63,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时37分 ~ 12时12分]"
+          "appearance_count": 4,
+          "time_info": "[11时37分 ~ 13时02分]"
         },
         {
           "title": "谷歌(GOOG.O)：台湾地区的人工智能基础设施中心是美国以外地区最大的。",
