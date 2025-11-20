@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T08:41:07.790421+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-11-20T10:24:02.534694+08:00",
+  "total_titles_processed": 426,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -19,15 +19,16 @@
           "time_info": "[08时40分 ~ 08时41分]"
         },
         {
-          "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
-          "url": "https://wallstreetcn.com/articles/3759713",
-          "source": "华尔街见闻",
+          "title": "Gemini3是目前最强AI吗",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI%E5%90%97",
+          "source": "bilibili 热搜",
           "ranks": [
-            7
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时40分 ~ 08时41分]"
+          "appearance_count": 4,
+          "time_info": "[08时40分 ~ 10时24分]"
         },
         {
           "title": "Gemini3有哪些新功能",
@@ -37,19 +38,31 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时40分 ~ 08时41分]"
+          "appearance_count": 4,
+          "time_info": "[08时40分 ~ 10时24分]"
         },
         {
-          "title": "Gemini3是目前最强AI吗",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI%E5%90%97",
-          "source": "bilibili 热搜",
+          "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
+          "url": "https://wallstreetcn.com/articles/3759713",
+          "source": "华尔街见闻",
           "ranks": [
+            7,
             8
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时40分 ~ 10时24分]"
+        },
+        {
+          "title": "王自如深度体验谷歌AI",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时40分 ~ 08时41分]"
+          "time_info": "[10时23分 ~ 10时24分]"
         }
       ]
     },
@@ -58,22 +71,23 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "特朗普政府宣布拆解教育部计划",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E6%8B%86%E8%A7%A3%E6%95%99%E8%82%B2%E9%83%A8%E8%AE%A1%E5%88%92",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时40分 ~ 10时24分]"
+        },
+        {
           "title": "财晓得｜AI正在如何改写教育类APP版图？",
           "url": "https://m.thepaper.cn/newsDetail_forward_31941227",
           "source": "澎湃新闻",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时40分 ~ 08时41分]"
-        },
-        {
-          "title": "特朗普政府宣布拆解教育部计划",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E6%8B%86%E8%A7%A3%E6%95%99%E8%82%B2%E9%83%A8%E8%AE%A1%E5%88%92",
-          "source": "百度热搜",
-          "ranks": [
-            22
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -92,7 +106,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
         }
