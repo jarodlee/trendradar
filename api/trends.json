@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-21T21:22:28.883496+08:00",
-  "total_titles_processed": 1506,
+  "generated_at": "2025-11-21T22:02:28.104240+08:00",
+  "total_titles_processed": 1586,
   "failed_sources": [],
   "trends": [
     {
@@ -192,7 +192,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -210,6 +210,34 @@
       ]
     },
     {
+      "keyword_group": "教育",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "长沙一民办高中学生被安置到其他学校，教育局回应",
+          "url": "https://news.ifeng.com/c/8oSvpr8pIKd",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 22时02分]"
+        },
+        {
+          "title": "喜人奇妙夜 死亡教育",
+          "url": "https://s.weibo.com/weibo?q=%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C%20%E6%AD%BB%E4%BA%A1%E6%95%99%E8%82%B2&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "小学",
       "match_count": 1,
       "titles": [
@@ -222,28 +250,12 @@
             27,
             21,
             25,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时37分 ~ 16时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "教育",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "长沙一民办高中学生被安置到其他学校，教育局回应",
-          "url": "https://news.ifeng.com/c/8oSvpr8pIKd",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
+          "appearance_count": 8,
+          "time_info": "[11时37分 ~ 22时02分]"
         }
       ]
     }
