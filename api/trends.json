@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T18:02:15.545359+08:00",
-  "total_titles_processed": 887,
+  "generated_at": "2025-11-22T19:02:10.796568+08:00",
+  "total_titles_processed": 957,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "一文读懂大跌逻辑--高盛交易员“复盘”：美联储转鹰“拉开帷幕”，谷歌而非英伟达重塑“AI交易”，币圈重创散户，最终是“系统性抛售”",
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时19分 ~ 18时02分]"
+          "appearance_count": 14,
+          "time_info": "[10时19分 ~ 19时02分]"
         },
         {
           "title": "承认谷歌超越！奥特曼内部信曝光：OpenAI领先优势缩小，预警“艰难时刻”到来",
@@ -29,11 +29,12 @@
             9,
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时01分 ~ 18时02分]"
+          "appearance_count": 12,
+          "time_info": "[12时01分 ~ 19时02分]"
         },
         {
           "title": "“王者归来”之后 谷歌再下重注：世界模型将迎来“ChatGPT时刻”",
@@ -44,8 +45,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时02分 ~ 18时02分]"
+          "appearance_count": 10,
+          "time_info": "[13时02分 ~ 19时02分]"
         },
         {
           "title": "Gemini3玩法大全",
@@ -60,6 +61,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时19分 ~ 15时02分]"
+        },
+        {
+          "title": "Gemini3适合用来编程吗",
+          "url": "https://www.douyin.com/hot/2314319",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A收涨超3.5%，本周微软跌约7.3%、亚马逊跌约6%、英伟达跌超5.9%",
@@ -83,11 +95,12 @@
           "url": "https://news.ifeng.com/c/8oUUEV6WCO0",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时01分 ~ 18时02分]"
+          "appearance_count": 4,
+          "time_info": "[18时01分 ~ 19时02分]"
         },
         {
           "title": "港媒：香港特区政府教育局证实，取消一师生代表团赴日交流",
