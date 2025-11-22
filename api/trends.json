@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T16:02:15.160194+08:00",
-  "total_titles_processed": 758,
+  "generated_at": "2025-11-22T17:02:19.724370+08:00",
+  "total_titles_processed": 820,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时19分 ~ 16时02分]"
+          "appearance_count": 10,
+          "time_info": "[10时19分 ~ 17时02分]"
         },
         {
           "title": "承认谷歌超越！奥特曼内部信曝光：OpenAI领先优势缩小，预警“艰难时刻”到来",
@@ -26,11 +26,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时01分 ~ 16时02分]"
+          "appearance_count": 8,
+          "time_info": "[12时01分 ~ 17时02分]"
         },
         {
           "title": "Gemini3玩法大全",
@@ -55,8 +56,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时02分 ~ 16时02分]"
+          "appearance_count": 6,
+          "time_info": "[13时02分 ~ 17时02分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A收涨超3.5%，本周微软跌约7.3%、亚马逊跌约6%、英伟达跌超5.9%",
@@ -100,11 +101,12 @@
           "ranks": [
             1,
             11,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时02分 ~ 16时02分]"
+          "appearance_count": 4,
+          "time_info": "[14时02分 ~ 17时02分]"
         }
       ]
     }
