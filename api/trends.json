@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T15:02:18.013060+08:00",
-  "total_titles_processed": 709,
+  "generated_at": "2025-11-22T16:02:15.160194+08:00",
+  "total_titles_processed": 758,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,24 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时19分 ~ 16时02分]"
+        },
+        {
+          "title": "承认谷歌超越！奥特曼内部信曝光：OpenAI领先优势缩小，预警“艰难时刻”到来",
+          "url": "https://wallstreetcn.com/articles/3759885",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[10时19分 ~ 15时02分]"
+          "time_info": "[12时01分 ~ 16时02分]"
         },
         {
           "title": "Gemini3玩法大全",
@@ -34,18 +47,6 @@
           "time_info": "[10时19分 ~ 15时02分]"
         },
         {
-          "title": "承认谷歌超越！奥特曼内部信曝光：OpenAI领先优势缩小，预警“艰难时刻”到来",
-          "url": "https://wallstreetcn.com/articles/3759885",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时01分 ~ 15时02分]"
-        },
-        {
           "title": "“王者归来”之后 谷歌再下重注：世界模型将迎来“ChatGPT时刻”",
           "url": "https://www.cls.cn/detail/2207169",
           "source": "财联社热门",
@@ -54,8 +55,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时02分 ~ 15时02分]"
+          "appearance_count": 5,
+          "time_info": "[13时02分 ~ 16时02分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A收涨超3.5%，本周微软跌约7.3%、亚马逊跌约6%、英伟达跌超5.9%",
@@ -98,11 +99,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时02分 ~ 15时02分]"
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 16时02分]"
         }
       ]
     }
