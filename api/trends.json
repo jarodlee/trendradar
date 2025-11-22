@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T21:16:15.558635+08:00",
-  "total_titles_processed": 1083,
+  "generated_at": "2025-11-22T22:02:23.467338+08:00",
+  "total_titles_processed": 1141,
   "failed_sources": [],
   "trends": [
     {
@@ -49,6 +49,19 @@
           "time_info": "[13时02分 ~ 20时02分]"
         },
         {
+          "title": "谷歌、微软“双杀”逼近，OpenAI陷入空前危机！",
+          "url": "https://wallstreetcn.com/articles/3759931",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时02分 ~ 22时02分]"
+        },
+        {
           "title": "Gemini3玩法大全",
           "url": "https://www.douyin.com/hot/2314134",
           "source": "抖音",
@@ -63,39 +76,29 @@
           "time_info": "[10时19分 ~ 15时02分]"
         },
         {
-          "title": "谷歌、微软“双杀”逼近，OpenAI陷入空前危机！",
-          "url": "https://wallstreetcn.com/articles/3759931",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时02分 ~ 21时16分]"
-        },
-        {
           "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
           "url": "https://wallstreetcn.com/articles/3759917",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时02分 ~ 21时16分]"
+          "appearance_count": 4,
+          "time_info": "[20时02分 ~ 22时02分]"
         },
         {
           "title": "面对AI泡沫质疑，谷歌AI基建负责人坦言：公司必须每六个月将AI算力翻倍以满足需求",
           "url": "https://wallstreetcn.com/articles/3759896",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时15分 ~ 21时16分]"
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 22时02分]"
         },
         {
           "title": "Gemini3适合用来编程吗",
@@ -123,7 +126,7 @@
     },
     {
       "keyword_group": "教育",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "香港教育局证实取消学生赴日交流活动",
@@ -134,8 +137,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时01分 ~ 21时16分]"
+          "appearance_count": 8,
+          "time_info": "[18时01分 ~ 22时02分]"
+        },
+        {
+          "title": "港媒：香港特区政府教育局证实，取消一师生代表团赴日交流",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32022057",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "港媒：香港特区政府教育局证实，取消一师生代表团赴日交流",
