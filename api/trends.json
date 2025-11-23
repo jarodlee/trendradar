@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T18:02:06.555763+08:00",
-  "total_titles_processed": 797,
+  "generated_at": "2025-11-23T19:02:00.492254+08:00",
+  "total_titles_processed": 856,
   "failed_sources": [],
   "trends": [
     {
@@ -55,11 +55,12 @@
           "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E7%82%B8%E8%A3%82%E7%8E%A9%E6%B3%95%E5%90%88%E9%9B%86",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时01分 ~ 18时02分]"
+          "appearance_count": 4,
+          "time_info": "[18时01分 ~ 19时02分]"
         },
         {
           "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
@@ -83,11 +84,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347408&amp;topic_name=%E5%A5%B3%E5%B9%BC%E5%B8%88%E8%99%90%E7%AB%A5%E8%A2%AB%E8%BE%9E%E9%80%80%2C%E6%95%99%E8%82%B2%E5%B1%80%E5%8A%9B%E4%BF%9D%E5%A4%8D%E8%81%8C",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时51分 ~ 18时02分]"
+          "appearance_count": 14,
+          "time_info": "[11时51分 ~ 19时02分]"
         },
         {
           "title": "香港教育局证实取消学生赴日交流活动",
