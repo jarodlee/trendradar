@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T16:02:26.665260+08:00",
-  "total_titles_processed": 680,
+  "generated_at": "2025-11-23T17:02:15.794793+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             16,
             14,
             18,
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时47分 ~ 16时02分]"
+          "appearance_count": 12,
+          "time_info": "[08时47分 ~ 17时02分]"
         },
         {
           "title": "Gemini-3-pro 为什么提升那么大?",
@@ -73,8 +74,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时51分 ~ 16时02分]"
+          "appearance_count": 10,
+          "time_info": "[11时51分 ~ 17时02分]"
         },
         {
           "title": "香港教育局证实取消学生赴日交流活动",
