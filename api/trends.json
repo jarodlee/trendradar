@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T14:02:10.700510+08:00",
-  "total_titles_processed": 565,
+  "generated_at": "2025-11-23T15:01:49.484573+08:00",
+  "total_titles_processed": 616,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时47分 ~ 14时02分]"
+          "appearance_count": 10,
+          "time_info": "[08时47分 ~ 15时01分]"
         },
         {
           "title": "Gemini-3-pro 为什么提升那么大?",
@@ -65,6 +65,17 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "女幼师虐童被辞退,教育局力保复职",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347408&amp;topic_name=%E5%A5%B3%E5%B9%BC%E5%B8%88%E8%99%90%E7%AB%A5%E8%A2%AB%E8%BE%9E%E9%80%80%2C%E6%95%99%E8%82%B2%E5%B1%80%E5%8A%9B%E4%BF%9D%E5%A4%8D%E8%81%8C",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时51分 ~ 15时01分]"
+        },
+        {
           "title": "香港教育局证实取消学生赴日交流活动",
           "url": "https://news.ifeng.com/c/8oUUEV6WCO0",
           "source": "凤凰网",
@@ -76,26 +87,16 @@
           "time_info": "[08时47分 ~ 13时02分]"
         },
         {
-          "title": "女幼师虐童被辞退,教育局力保复职",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347408&amp;topic_name=%E5%A5%B3%E5%B9%BC%E5%B8%88%E8%99%90%E7%AB%A5%E8%A2%AB%E8%BE%9E%E9%80%80%2C%E6%95%99%E8%82%B2%E5%B1%80%E5%8A%9B%E4%BF%9D%E5%A4%8D%E8%81%8C",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时51分 ~ 14时02分]"
-        },
-        {
           "title": "港媒：香港特区政府教育局证实，取消一师生代表团赴日交流",
           "url": "https://m.thepaper.cn/newsDetail_forward_32022057",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时47分 ~ 14时02分]"
+          "appearance_count": 10,
+          "time_info": "[08时47分 ~ 15时01分]"
         }
       ]
     }
