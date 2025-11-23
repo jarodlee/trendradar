@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T19:02:00.492254+08:00",
-  "total_titles_processed": 856,
+  "generated_at": "2025-11-23T20:02:26.554965+08:00",
+  "total_titles_processed": 919,
   "failed_sources": [],
   "trends": [
     {
@@ -56,11 +56,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            23
+            23,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时01分 ~ 19时02分]"
+          "appearance_count": 5,
+          "time_info": "[18时01分 ~ 20时02分]"
         },
         {
           "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
@@ -88,8 +89,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时51分 ~ 19时02分]"
+          "appearance_count": 15,
+          "time_info": "[11时51分 ~ 20时02分]"
         },
         {
           "title": "香港教育局证实取消学生赴日交流活动",
