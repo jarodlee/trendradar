@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T20:02:26.554965+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2025-11-23T21:16:13.691556+08:00",
+  "total_titles_processed": 1010,
   "failed_sources": [],
   "trends": [
     {
@@ -57,11 +57,12 @@
           "ranks": [
             2,
             23,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时01分 ~ 20时02分]"
+          "appearance_count": 7,
+          "time_info": "[18时01分 ~ 21时16分]"
         },
         {
           "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
@@ -78,7 +79,7 @@
     },
     {
       "keyword_group": "教育",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "女幼师虐童被辞退,教育局力保复职",
@@ -89,8 +90,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时51分 ~ 20时02分]"
+          "appearance_count": 17,
+          "time_info": "[11时51分 ~ 21时16分]"
         },
         {
           "title": "香港教育局证实取消学生赴日交流活动",
@@ -114,6 +115,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[08时47分 ~ 15时01分]"
+        },
+        {
+          "title": "农夫山泉钟睒睒捐赠1亿元教育基金",
+          "url": "https://wallstreetcn.com/livenews/3009075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         }
       ]
     }
