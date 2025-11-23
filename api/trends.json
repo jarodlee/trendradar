@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T13:02:18.721953+08:00",
-  "total_titles_processed": 519,
+  "generated_at": "2025-11-23T14:02:10.700510+08:00",
+  "total_titles_processed": 565,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时47分 ~ 13时02分]"
+          "appearance_count": 9,
+          "time_info": "[08时47分 ~ 14时02分]"
         },
         {
           "title": "Gemini-3-pro 为什么提升那么大?",
@@ -26,11 +26,12 @@
             17,
             13,
             14,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时47分 ~ 13时02分]"
+          "appearance_count": 9,
+          "time_info": "[08时47分 ~ 14时02分]"
         },
         {
           "title": "Gemini3适合用来编程吗",
@@ -43,8 +44,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时47分 ~ 13时02分]"
+          "appearance_count": 9,
+          "time_info": "[08时47分 ~ 14时02分]"
         },
         {
           "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
@@ -82,8 +83,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时51分 ~ 13时02分]"
+          "appearance_count": 6,
+          "time_info": "[11时51分 ~ 14时02分]"
         },
         {
           "title": "港媒：香港特区政府教育局证实，取消一师生代表团赴日交流",
@@ -93,8 +94,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时47分 ~ 13时02分]"
+          "appearance_count": 9,
+          "time_info": "[08时47分 ~ 14时02分]"
         }
       ]
     }
