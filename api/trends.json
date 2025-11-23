@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T08:48:09.036583+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-11-23T10:51:33.309545+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时47分 ~ 08时48分]"
+          "appearance_count": 3,
+          "time_info": "[08时47分 ~ 10时51分]"
         },
         {
           "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
@@ -30,26 +30,28 @@
           "time_info": "[08时47分 ~ 08时48分]"
         },
         {
-          "title": "Gemini3适合用来编程吗",
-          "url": "https://www.douyin.com/hot/2314319",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时47分 ~ 08时48分]"
-        },
-        {
           "title": "Gemini-3-pro 为什么提升那么大?",
           "url": "https://www.zhihu.com/question/1974915118199509365",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时47分 ~ 08时48分]"
+          "appearance_count": 3,
+          "time_info": "[08时47分 ~ 10时51分]"
+        },
+        {
+          "title": "Gemini3适合用来编程吗",
+          "url": "https://www.douyin.com/hot/2314319",
+          "source": "抖音",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时47分 ~ 10时51分]"
         }
       ]
     },
@@ -65,8 +67,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时47分 ~ 08时48分]"
+          "appearance_count": 3,
+          "time_info": "[08时47分 ~ 10时51分]"
         },
         {
           "title": "港媒：香港特区政府教育局证实，取消一师生代表团赴日交流",
@@ -76,8 +78,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时47分 ~ 08时48分]"
+          "appearance_count": 3,
+          "time_info": "[08时47分 ~ 10时51分]"
         }
       ]
     }
