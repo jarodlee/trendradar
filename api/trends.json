@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T15:01:49.484573+08:00",
-  "total_titles_processed": 616,
+  "generated_at": "2025-11-23T16:02:26.665260+08:00",
+  "total_titles_processed": 680,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,23 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[08时47分 ~ 16时02分]"
+        },
+        {
+          "title": "Gemini3适合用来编程吗",
+          "url": "https://www.douyin.com/hot/2314319",
+          "source": "抖音",
+          "ranks": [
+            17,
+            16,
+            14,
+            18,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[08时47分 ~ 15时01分]"
+          "time_info": "[08时47分 ~ 16时02分]"
         },
         {
           "title": "Gemini-3-pro 为什么提升那么大?",
@@ -28,20 +43,6 @@
             14,
             18,
             19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时47分 ~ 14时02分]"
-        },
-        {
-          "title": "Gemini3适合用来编程吗",
-          "url": "https://www.douyin.com/hot/2314319",
-          "source": "抖音",
-          "ranks": [
-            17,
-            16,
-            14,
-            18
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -72,8 +73,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时51分 ~ 15时01分]"
+          "appearance_count": 8,
+          "time_info": "[11时51分 ~ 16时02分]"
         },
         {
           "title": "香港教育局证实取消学生赴日交流活动",
