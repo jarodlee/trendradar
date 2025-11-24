@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T08:45:18.639424+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-11-24T10:46:38.817639+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347408&amp;topic_name=%E5%A5%B3%E5%B9%BC%E5%B8%88%E8%99%90%E7%AB%A5%E8%A2%AB%E8%BE%9E%E9%80%80%2C%E6%95%99%E8%82%B2%E5%B1%80%E5%8A%9B%E4%BF%9D%E5%A4%8D%E8%81%8C",
           "source": "贴吧",
           "ranks": [
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时45分"
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 10时46分]"
         }
       ]
     },
@@ -29,11 +30,12 @@
           "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E7%82%B8%E8%A3%82%E7%8E%A9%E6%B3%95%E5%90%88%E9%9B%86",
           "source": "bilibili 热搜",
           "ranks": [
-            23
+            23,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时45分"
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 10时46分]"
         }
       ]
     },
