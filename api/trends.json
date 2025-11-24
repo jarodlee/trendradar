@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T14:02:15.847752+08:00",
-  "total_titles_processed": 740,
+  "generated_at": "2025-11-24T15:02:19.515140+08:00",
+  "total_titles_processed": 810,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             12,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时45分 ~ 14时02分]"
+          "appearance_count": 9,
+          "time_info": "[08时45分 ~ 15时02分]"
         },
         {
           "title": "中国首富钟睒睒，捐赠1亿元教育基金",
@@ -26,11 +27,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时24分 ~ 14时02分]"
+          "appearance_count": 6,
+          "time_info": "[12时24分 ~ 15时02分]"
         },
         {
           "title": "钟睒睒捐赠一亿元，成立诸暨中学钟子逸教育基金项目",
@@ -40,8 +42,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
+          "appearance_count": 3,
+          "time_info": "[14时01分 ~ 15时02分]"
         }
       ]
     },
@@ -78,6 +80,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时50分 ~ 14时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小学",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "小学生硬核整活,以身试喝干燥剂",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347429&amp;topic_name=%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%A1%AC%E6%A0%B8%E6%95%B4%E6%B4%BB%2C%E4%BB%A5%E8%BA%AB%E8%AF%95%E5%96%9D%E5%B9%B2%E7%87%A5%E5%89%82",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         }
       ]
     },
