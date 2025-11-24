@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T17:13:54.667124+08:00",
-  "total_titles_processed": 1039,
+  "generated_at": "2025-11-24T18:02:20.024029+08:00",
+  "total_titles_processed": 1112,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时45分 ~ 17时13分]"
+          "appearance_count": 12,
+          "time_info": "[08时45分 ~ 18时02分]"
         },
         {
           "title": "中国首富钟睒睒，捐赠1亿元教育基金",
@@ -113,8 +113,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时02分 ~ 17时13分]"
+          "appearance_count": 4,
+          "time_info": "[15时02分 ~ 18时02分]"
         },
         {
           "title": "全国中小学寒假时间出炉 最长45天",
@@ -125,8 +125,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 17时13分]"
+          "appearance_count": 3,
+          "time_info": "[16时02分 ~ 18时02分]"
         }
       ]
     },
@@ -139,11 +139,12 @@
           "url": "https://www.cls.cn/detail/2208933",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 18时02分]"
         }
       ]
     },
