@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T16:02:29.736347+08:00",
-  "total_titles_processed": 911,
+  "generated_at": "2025-11-24T17:13:54.667124+08:00",
+  "total_titles_processed": 1039,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             12,
             15,
             17,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时45分 ~ 16时02分]"
+          "appearance_count": 11,
+          "time_info": "[08时45分 ~ 17时13分]"
         },
         {
           "title": "中国首富钟睒睒，捐赠1亿元教育基金",
@@ -89,11 +90,12 @@
           "url": "https://www.cls.cn/detail/2208396",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 17时13分]"
         }
       ]
     },
@@ -107,22 +109,41 @@
           "source": "贴吧",
           "ranks": [
             4,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时02分 ~ 16时02分]"
+          "appearance_count": 3,
+          "time_info": "[15时02分 ~ 17时13分]"
         },
         {
           "title": "全国中小学寒假时间出炉 最长45天",
           "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%AF%92%E5%81%87%E6%97%B6%E9%97%B4%E5%87%BA%E7%82%89+%E6%9C%80%E9%95%BF45%E5%A4%A9",
           "source": "百度热搜",
           "ranks": [
-            22
+            22,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 17时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "增速超越ChatGPT！千问、灵光持续破圈 国产AI大战2.0打响",
+          "url": "https://www.cls.cn/detail/2208933",
+          "source": "财联社热门",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时02分"
+          "time_info": "17时13分"
         }
       ]
     },
