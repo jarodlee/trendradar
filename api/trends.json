@@ -1,61 +1,11 @@
 {
-  "generated_at": "2025-11-24T20:17:39.568648+08:00",
-  "total_titles_processed": 1308,
+  "generated_at": "2025-11-24T21:26:45.015495+08:00",
+  "total_titles_processed": 1397,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "教育",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "女幼师虐童被辞退,教育局力保复职",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347408&amp;topic_name=%E5%A5%B3%E5%B9%BC%E5%B8%88%E8%99%90%E7%AB%A5%E8%A2%AB%E8%BE%9E%E9%80%80%2C%E6%95%99%E8%82%B2%E5%B1%80%E5%8A%9B%E4%BF%9D%E5%A4%8D%E8%81%8C",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            12,
-            15,
-            17,
-            19,
-            22,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时45分 ~ 20时17分]"
-        },
-        {
-          "title": "中国首富钟睒睒，捐赠1亿元教育基金",
-          "url": "https://www.cls.cn/detail/2208291",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时24分 ~ 15时02分]"
-        },
-        {
-          "title": "钟睒睒捐赠一亿元，成立诸暨中学钟子逸教育基金项目",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32027672",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时01分 ~ 20时17分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "Gemini3.0炸裂玩法合集",
@@ -89,6 +39,17 @@
           "time_info": "[11时50分 ~ 14时02分]"
         },
         {
+          "title": "谷歌母公司Alphabet盘前涨幅扩大至高达4.1%。",
+          "url": "https://flash.jin10.com/detail/20251124211321112800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
           "title": "谷歌称必须每6个月将AI算力翻倍 谷歌算力供应链有望站上风口",
           "url": "https://www.cls.cn/detail/2208396",
           "source": "财联社热门",
@@ -99,6 +60,57 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时02分 ~ 17时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "教育",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "女幼师虐童被辞退,教育局力保复职",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347408&amp;topic_name=%E5%A5%B3%E5%B9%BC%E5%B8%88%E8%99%90%E7%AB%A5%E8%A2%AB%E8%BE%9E%E9%80%80%2C%E6%95%99%E8%82%B2%E5%B1%80%E5%8A%9B%E4%BF%9D%E5%A4%8D%E8%81%8C",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            12,
+            15,
+            17,
+            19,
+            22,
+            24,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[08时45分 ~ 21时26分]"
+        },
+        {
+          "title": "钟睒睒捐赠一亿元，成立诸暨中学钟子逸教育基金项目",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32027672",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时01分 ~ 21时26分]"
+        },
+        {
+          "title": "中国首富钟睒睒，捐赠1亿元教育基金",
+          "url": "https://www.cls.cn/detail/2208291",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时24分 ~ 15时02分]"
         }
       ]
     },
@@ -115,11 +127,12 @@
             6,
             5,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时02分 ~ 20时17分]"
+          "appearance_count": 7,
+          "time_info": "[15时02分 ~ 21时26分]"
         },
         {
           "title": "全国中小学寒假时间出炉 最长45天",
@@ -148,11 +161,12 @@
           "ranks": [
             10,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时13分 ~ 20时17分]"
+          "appearance_count": 5,
+          "time_info": "[17时13分 ~ 21时26分]"
         }
       ]
     },
