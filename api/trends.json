@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T19:02:20.320819+08:00",
-  "total_titles_processed": 1215,
+  "generated_at": "2025-11-24T20:17:39.568648+08:00",
+  "total_titles_processed": 1308,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             17,
             19,
             22,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时45分 ~ 19时02分]"
+          "appearance_count": 14,
+          "time_info": "[08时45分 ~ 20时17分]"
         },
         {
           "title": "中国首富钟睒睒，捐赠1亿元教育基金",
@@ -43,11 +44,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时01分 ~ 19时02分]"
+          "appearance_count": 6,
+          "time_info": "[14时01分 ~ 20时17分]"
         }
       ]
     },
@@ -112,11 +114,12 @@
             4,
             6,
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时02分 ~ 19时02分]"
+          "appearance_count": 6,
+          "time_info": "[15时02分 ~ 20时17分]"
         },
         {
           "title": "全国中小学寒假时间出炉 最长45天",
@@ -125,11 +128,12 @@
           "ranks": [
             22,
             5,
-            14
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时02分 ~ 19时02分]"
+          "appearance_count": 5,
+          "time_info": "[16时02分 ~ 20时17分]"
         }
       ]
     },
@@ -143,11 +147,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时13分 ~ 19时02分]"
+          "appearance_count": 4,
+          "time_info": "[17时13分 ~ 20时17分]"
         }
       ]
     },
