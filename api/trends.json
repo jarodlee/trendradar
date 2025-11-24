@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T21:26:45.015495+08:00",
-  "total_titles_processed": 1397,
+  "generated_at": "2025-11-24T22:02:50.710647+08:00",
+  "total_titles_processed": 1446,
   "failed_sources": [],
   "trends": [
     {
@@ -43,11 +43,12 @@
           "url": "https://flash.jin10.com/detail/20251124211321112800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 22时02分]"
         },
         {
           "title": "谷歌称必须每6个月将AI算力翻倍 谷歌算力供应链有望站上风口",
@@ -83,8 +84,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时45分 ~ 21时26分]"
+          "appearance_count": 16,
+          "time_info": "[08时45分 ~ 22时02分]"
         },
         {
           "title": "钟睒睒捐赠一亿元，成立诸暨中学钟子逸教育基金项目",
@@ -96,8 +97,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时01分 ~ 21时26分]"
+          "appearance_count": 8,
+          "time_info": "[14时01分 ~ 22时02分]"
         },
         {
           "title": "中国首富钟睒睒，捐赠1亿元教育基金",
@@ -131,8 +132,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时02分 ~ 21时26分]"
+          "appearance_count": 8,
+          "time_info": "[15时02分 ~ 22时02分]"
         },
         {
           "title": "全国中小学寒假时间出炉 最长45天",
@@ -165,8 +166,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时13分 ~ 21时26分]"
+          "appearance_count": 6,
+          "time_info": "[17时13分 ~ 22时02分]"
         }
       ]
     },
