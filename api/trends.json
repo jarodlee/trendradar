@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T13:12:04.768606+08:00",
-  "total_titles_processed": 669,
+  "generated_at": "2025-11-24T14:02:15.847752+08:00",
+  "total_titles_processed": 740,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "女幼师虐童被辞退,教育局力保复职",
@@ -17,8 +17,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时45分 ~ 13时12分]"
+          "appearance_count": 8,
+          "time_info": "[08时45分 ~ 14时02分]"
         },
         {
           "title": "中国首富钟睒睒，捐赠1亿元教育基金",
@@ -29,8 +29,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时24分 ~ 13时12分]"
+          "appearance_count": 5,
+          "time_info": "[12时24分 ~ 14时02分]"
+        },
+        {
+          "title": "钟睒睒捐赠一亿元，成立诸暨中学钟子逸教育基金项目",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32027672",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 14时02分]"
         }
       ]
     },
@@ -47,11 +58,12 @@
             13,
             6,
             5,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时45分 ~ 13时12分]"
+          "appearance_count": 8,
+          "time_info": "[08时45分 ~ 14时02分]"
         },
         {
           "title": "Gartner最新报告：阿里云在生成式AI四大维度全栈领先，比肩谷歌、OpenAI",
@@ -60,11 +72,12 @@
           "ranks": [
             2,
             5,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时50分 ~ 13时12分]"
+          "appearance_count": 4,
+          "time_info": "[11时50分 ~ 14时02分]"
         }
       ]
     },
