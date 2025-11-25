@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T11:42:10.369246+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2025-11-25T12:16:22.034281+08:00",
+  "total_titles_processed": 647,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时40分 ~ 11时42分]"
+          "appearance_count": 6,
+          "time_info": "[08时40分 ~ 12时16分]"
         },
         {
           "title": "天孚通信：获谷歌30亿美元订单信息不属实",
@@ -132,11 +132,12 @@
           "ranks": [
             10,
             14,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时40分 ~ 11时42分]"
+          "appearance_count": 6,
+          "time_info": "[08时40分 ~ 12时16分]"
         },
         {
           "title": "中小学寒假长点好还是短点好",
@@ -174,7 +175,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         }
