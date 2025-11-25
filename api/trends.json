@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T16:02:42.274540+08:00",
-  "total_titles_processed": 1002,
+  "generated_at": "2025-11-25T17:13:22.504399+08:00",
+  "total_titles_processed": 1118,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,20 @@
           "time_info": "[08时40分 ~ 16时02分]"
         },
         {
+          "title": "垂直整合程度最高的AI大厂！“新王”谷歌登基：整个硅谷都在颤抖？",
+          "url": "https://www.cls.cn/detail/2209826",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时02分 ~ 17时13分]"
+        },
+        {
           "title": "天孚通信：获谷歌30亿美元订单信息不属实",
           "url": "https://wallstreetcn.com/livenews/3009827",
           "source": "华尔街见闻-快讯",
@@ -32,17 +46,16 @@
           "time_info": "08时41分"
         },
         {
-          "title": "垂直整合程度最高的AI大厂！“新王”谷歌登基：整个硅谷都在颤抖？",
-          "url": "https://www.cls.cn/detail/2209826",
-          "source": "财联社热门",
+          "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
+          "url": "https://wallstreetcn.com/articles/3760047",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            7,
-            6
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时02分 ~ 16时02分]"
+          "appearance_count": 3,
+          "time_info": "[15时11分 ~ 17时13分]"
         },
         {
           "title": "Sam Altman 称谷歌复苏将致 OpenAI 走入「艰难时期」，如何看待两家 AI 巨头的竞争？",
@@ -54,17 +67,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时40分 ~ 10时27分]"
-        },
-        {
-          "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
-          "url": "https://wallstreetcn.com/articles/3760047",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时11分 ~ 16时02分]"
         },
         {
           "title": "美股收盘 谷歌特斯拉暴涨逾6%",
@@ -160,11 +162,12 @@
             19,
             20,
             23,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时40分 ~ 16时02分]"
+          "appearance_count": 12,
+          "time_info": "[08时40分 ~ 17时13分]"
         },
         {
           "title": "中小学寒假长点好还是短点好",
