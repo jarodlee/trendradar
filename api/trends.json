@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T20:18:57.418729+08:00",
-  "total_titles_processed": 1394,
+  "generated_at": "2025-11-25T21:27:04.983515+08:00",
+  "total_titles_processed": 1496,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 20时18分]"
+          "appearance_count": 4,
+          "time_info": "[19时02分 ~ 21时27分]"
         },
         {
           "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
@@ -55,11 +56,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时11分 ~ 20时18分]"
+          "appearance_count": 8,
+          "time_info": "[15时11分 ~ 21时27分]"
         },
         {
           "title": "英伟达(NVDA.O)盘前跌超4%，消息面上，谷歌拟向Meta直接销售TPU。",
@@ -95,6 +97,18 @@
           "time_info": "19时02分"
         },
         {
+          "title": "【焦点复盘】创业板指高开高走涨近2%，谷歌产业链获持续热捧，福建本地股卷土重来",
+          "url": "https://www.cls.cn/detail/2210371",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时02分 ~ 21时27分]"
+        },
+        {
           "title": "Sam Altman 称谷歌复苏将致 OpenAI 走入「艰难时期」，如何看待两家 AI 巨头的竞争？",
           "url": "https://www.zhihu.com/question/1976223014631733240",
           "source": "知乎",
@@ -112,18 +126,6 @@
           "ranks": [
             9,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 20时18分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指高开高走涨近2%，谷歌产业链获持续热捧，福建本地股卷土重来",
-          "url": "https://www.cls.cn/detail/2210371",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -158,7 +160,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         },
@@ -236,11 +238,23 @@
             23,
             25,
             28,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时40分 ~ 20时18分]"
+          "appearance_count": 17,
+          "time_info": "[08时40分 ~ 21时27分]"
+        },
+        {
+          "title": "班主任让小学生在走廊补作业后孩子入院治疗，家长起诉被驳回",
+          "url": "https://news.ifeng.com/c/8oZg26LhJeY",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时18分 ~ 21时27分]"
         },
         {
           "title": "中小学寒假长点好还是短点好",
@@ -252,17 +266,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时40分 ~ 08时41分]"
-        },
-        {
-          "title": "班主任让小学生在走廊补作业后孩子入院治疗，家长起诉被驳回",
-          "url": "https://news.ifeng.com/c/8oZg26LhJeY",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时18分"
         }
       ]
     },
