@@ -1,117 +1,121 @@
 {
-  "generated_at": "2025-11-24T22:02:50.710647+08:00",
-  "total_titles_processed": 1446,
+  "generated_at": "2025-11-25T08:41:10.623773+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 10,
       "titles": [
         {
-          "title": "Gemini3.0炸裂玩法合集",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E7%82%B8%E8%A3%82%E7%8E%A9%E6%B3%95%E5%90%88%E9%9B%86",
-          "source": "bilibili 热搜",
+          "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
+          "url": "https://www.cls.cn/detail/2209592",
+          "source": "财联社热门",
           "ranks": [
-            23,
-            13,
-            6,
-            5,
-            9,
-            14,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时40分 ~ 08时41分]"
+        },
+        {
+          "title": "天孚通信：获谷歌30亿美元订单信息不属实",
+          "url": "https://wallstreetcn.com/livenews/3009827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时41分"
+        },
+        {
+          "title": "Sam Altman 称谷歌复苏将致 OpenAI 走入「艰难时期」，如何看待两家 AI 巨头的竞争？",
+          "url": "https://www.zhihu.com/question/1976223014631733240",
+          "source": "知乎",
+          "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时45分 ~ 16时02分]"
+          "appearance_count": 2,
+          "time_info": "[08时40分 ~ 08时41分]"
         },
         {
-          "title": "Gartner最新报告：阿里云在生成式AI四大维度全栈领先，比肩谷歌、OpenAI",
-          "url": "https://wallstreetcn.com/livenews/3009336",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘 谷歌特斯拉暴涨逾6%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98+%E8%B0%B7%E6%AD%8C%E7%89%B9%E6%96%AF%E6%8B%89%E6%9A%B4%E6%B6%A8%E9%80%BE6%25",
+          "source": "百度热搜",
           "ranks": [
-            2,
-            5,
-            19,
-            28
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时50分 ~ 14时02分]"
+          "appearance_count": 2,
+          "time_info": "[08时40分 ~ 08时41分]"
         },
         {
-          "title": "谷歌母公司Alphabet盘前涨幅扩大至高达4.1%。",
-          "url": "https://flash.jin10.com/detail/20251124211321112800",
+          "title": "谷歌拟向Meta直接销售TPU 英伟达市场或遭进一步蚕食",
+          "url": "https://flash.jin10.com/detail/20251125080159391800",
           "source": "金十数据",
           "ranks": [
-            3,
-            17
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时26分 ~ 22时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时41分"
         },
         {
-          "title": "谷歌称必须每6个月将AI算力翻倍 谷歌算力供应链有望站上风口",
-          "url": "https://www.cls.cn/detail/2208396",
-          "source": "财联社热门",
+          "title": "英伟达盘后跌2%，报道称，Meta寻求为自家数据中心采用谷歌TPUs。",
+          "url": "https://wallstreetcn.com/livenews/3009800",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            13
+            22
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 17时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "教育",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "女幼师虐童被辞退,教育局力保复职",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347408&amp;topic_name=%E5%A5%B3%E5%B9%BC%E5%B8%88%E8%99%90%E7%AB%A5%E8%A2%AB%E8%BE%9E%E9%80%80%2C%E6%95%99%E8%82%B2%E5%B1%80%E5%8A%9B%E4%BF%9D%E5%A4%8D%E8%81%8C",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            12,
-            15,
-            17,
-            19,
-            22,
-            24,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时45分 ~ 22时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时41分"
         },
         {
-          "title": "钟睒睒捐赠一亿元，成立诸暨中学钟子逸教育基金项目",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32027672",
-          "source": "澎湃新闻",
+          "title": "谷歌A盘后涨1.9%，英伟达跌1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3009799",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19,
-            18,
-            17
+            23
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时01分 ~ 22时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时41分"
         },
         {
-          "title": "中国首富钟睒睒，捐赠1亿元教育基金",
-          "url": "https://www.cls.cn/detail/2208291",
-          "source": "财联社热门",
+          "title": "美股盘后谷歌(GOOG.O)涨2.2%，英伟达(NVDA.O)跌1.5%。此前消息称Meta与谷歌就2027年采购后者的TPU展开谈判。",
+          "url": "https://flash.jin10.com/detail/20251125070008701800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            11,
-            13
+            24
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时24分 ~ 15时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时41分"
+        },
+        {
+          "title": "Meta Platforms与谷歌公司洽谈，希望在自家数据中心利用后者的TPUs。 双方讨论的目标是，2027年落实。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3009797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时41分"
+        },
+        {
+          "title": "据The Information：Meta Platforms(META.O)正考虑斥资数十亿美元购买谷歌的TPU，包括用于Meta公司的数据中心。双方希望2027年落地该计划。",
+          "url": "https://flash.jin10.com/detail/20251125064652961800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时41分"
         }
       ]
     },
@@ -124,67 +128,39 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347429&amp;topic_name=%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%A1%AC%E6%A0%B8%E6%95%B4%E6%B4%BB%2C%E4%BB%A5%E8%BA%AB%E8%AF%95%E5%96%9D%E5%B9%B2%E7%87%A5%E5%89%82",
           "source": "贴吧",
           "ranks": [
-            4,
-            6,
-            5,
-            7,
-            8,
-            9
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时02分 ~ 22时02分]"
+          "appearance_count": 2,
+          "time_info": "[08时40分 ~ 08时41分]"
         },
         {
-          "title": "全国中小学寒假时间出炉 最长45天",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%AF%92%E5%81%87%E6%97%B6%E9%97%B4%E5%87%BA%E7%82%89+%E6%9C%80%E9%95%BF45%E5%A4%A9",
-          "source": "百度热搜",
+          "title": "中小学寒假长点好还是短点好",
+          "url": "https://www.toutiao.com/trending/7576196855445815346/",
+          "source": "今日头条",
           "ranks": [
-            22,
-            5,
-            14,
-            8
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时02分 ~ 20时17分]"
+          "appearance_count": 2,
+          "time_info": "[08时40分 ~ 08时41分]"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "教育",
       "match_count": 1,
       "titles": [
         {
-          "title": "增速超越ChatGPT！千问、灵光持续破圈 国产AI大战2.0打响",
-          "url": "https://www.cls.cn/detail/2208933",
-          "source": "财联社热门",
+          "title": "女幼师虐童被辞退,教育局力保复职",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347408&amp;topic_name=%E5%A5%B3%E5%B9%BC%E5%B8%88%E8%99%90%E7%AB%A5%E8%A2%AB%E8%BE%9E%E9%80%80%2C%E6%95%99%E8%82%B2%E5%B1%80%E5%8A%9B%E4%BF%9D%E5%A4%8D%E8%81%8C",
+          "source": "贴吧",
           "ranks": [
-            10,
-            4,
-            2,
-            3
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时13分 ~ 22时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国外汇交易中心（CFETS）：11月21日人民币汇率指数按周涨0.39至98.22。",
-          "url": "https://wallstreetcn.com/livenews/3009235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时45分"
+          "appearance_count": 2,
+          "time_info": "[08时40分 ~ 08时41分]"
         }
       ]
     }
