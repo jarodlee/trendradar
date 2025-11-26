@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T14:02:57.482477+08:00",
-  "total_titles_processed": 744,
+  "generated_at": "2025-11-26T15:11:18.602944+08:00",
+  "total_titles_processed": 854,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时42分 ~ 14时02分]"
+          "appearance_count": 10,
+          "time_info": "[08时42分 ~ 15时11分]"
         },
         {
           "title": "美股收盘：纳指逆转1%跌幅收涨 谷歌创新高市值逼近4万亿美元",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时42分 ~ 14时02分]"
+          "appearance_count": 10,
+          "time_info": "[08时42分 ~ 15时11分]"
         },
         {
           "title": "谷歌TPU抢风头 英伟达紧急发声：我们仍领先行业一代",
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时42分 ~ 14时02分]"
+          "appearance_count": 10,
+          "time_info": "[08时42分 ~ 15时11分]"
         },
         {
           "title": "性能硬刚Blackwell、能效吊打GPU，一文深度拆解谷歌TPU“真实战力”",
@@ -53,8 +53,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时42分 ~ 14时02分]"
+          "appearance_count": 10,
+          "time_info": "[08时42分 ~ 15时11分]"
         },
         {
           "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
@@ -64,8 +64,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时28分 ~ 14时02分]"
+          "appearance_count": 9,
+          "time_info": "[10时28分 ~ 15时11分]"
         },
         {
           "title": "一文读懂“谷歌链”：AI全栈式创新，TPU+OCS共塑下一代智算网络",
@@ -77,8 +77,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时28分 ~ 14时02分]"
+          "appearance_count": 9,
+          "time_info": "[10时28分 ~ 15时11分]"
         },
         {
           "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
@@ -102,6 +102,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时15分 ~ 13时02分]"
+        },
+        {
+          "title": "AI争霸格局突变？五大“东风”将谷歌送上王座！",
+          "url": "https://www.cls.cn/detail/2211188",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时02分 ~ 15时11分]"
         },
         {
           "title": "Gemini+TPU双线破局！顶级科技投资人“火上浇油”：七巨头中Alphabet最值得持有",
@@ -136,17 +148,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时41分 ~ 11时42分]"
-        },
-        {
-          "title": "AI争霸格局突变？五大“东风”将谷歌送上王座！",
-          "url": "https://www.cls.cn/detail/2211188",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时02分"
         }
       ]
     },
