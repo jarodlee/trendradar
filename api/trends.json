@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T15:11:18.602944+08:00",
-  "total_titles_processed": 854,
+  "generated_at": "2025-11-26T16:02:15.699844+08:00",
+  "total_titles_processed": 948,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时42分 ~ 15时11分]"
+          "appearance_count": 12,
+          "time_info": "[08时42分 ~ 16时02分]"
         },
         {
           "title": "美股收盘：纳指逆转1%跌幅收涨 谷歌创新高市值逼近4万亿美元",
@@ -44,6 +44,17 @@
           "time_info": "[08时42分 ~ 15时11分]"
         },
         {
+          "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
+          "url": "https://wallstreetcn.com/articles/3760117",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时28分 ~ 16时02分]"
+        },
+        {
           "title": "性能硬刚Blackwell、能效吊打GPU，一文深度拆解谷歌TPU“真实战力”",
           "url": "https://wallstreetcn.com/articles/3760076",
           "source": "华尔街见闻",
@@ -57,28 +68,18 @@
           "time_info": "[08时42分 ~ 15时11分]"
         },
         {
-          "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
-          "url": "https://wallstreetcn.com/articles/3760117",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时28分 ~ 15时11分]"
-        },
-        {
           "title": "一文读懂“谷歌链”：AI全栈式创新，TPU+OCS共塑下一代智算网络",
           "url": "https://wallstreetcn.com/articles/3760084",
           "source": "华尔街见闻",
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时28分 ~ 15时11分]"
+          "appearance_count": 11,
+          "time_info": "[10时28分 ~ 16时02分]"
         },
         {
           "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
@@ -92,6 +93,31 @@
           "time_info": "08时42分"
         },
         {
+          "title": "AI争霸格局突变？五大“东风”将谷歌送上王座！",
+          "url": "https://www.cls.cn/detail/2211188",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时02分 ~ 16时02分]"
+        },
+        {
+          "title": "Gemini+TPU双线破局！顶级科技投资人“火上浇油”：七巨头中Alphabet最值得持有",
+          "url": "https://www.cls.cn/detail/2211111",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时01分 ~ 16时02分]"
+        },
+        {
           "title": "英伟达“市值神话”为何被谷歌击穿",
           "url": "https://www.toutiao.com/trending/7576840187636878902/",
           "source": "今日头条",
@@ -102,29 +128,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时15分 ~ 13时02分]"
-        },
-        {
-          "title": "AI争霸格局突变？五大“东风”将谷歌送上王座！",
-          "url": "https://www.cls.cn/detail/2211188",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时02分 ~ 15时11分]"
-        },
-        {
-          "title": "Gemini+TPU双线破局！顶级科技投资人“火上浇油”：七巨头中Alphabet最值得持有",
-          "url": "https://www.cls.cn/detail/2211111",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
           "title": "美股收盘：谷歌市值逼近4万亿美元",
@@ -193,6 +196,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "教育",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "女子挑战不花钱生活 被餐馆老板教育",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8C%91%E6%88%98%E4%B8%8D%E8%8A%B1%E9%92%B1%E7%94%9F%E6%B4%BB+%E8%A2%AB%E9%A4%90%E9%A6%86%E8%80%81%E6%9D%BF%E6%95%99%E8%82%B2",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时01分 ~ 16时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "软银股价较峰值下滑40%，显示市场对OpenAI的担忧",
+          "url": "https://flash.jin10.com/detail/20251126153143429800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         }
       ]
     },
