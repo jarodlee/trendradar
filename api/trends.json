@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T19:02:45.151280+08:00",
-  "total_titles_processed": 1234,
+  "generated_at": "2025-11-26T20:18:59.842444+08:00",
+  "total_titles_processed": 1354,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时42分 ~ 19时02分]"
+          "appearance_count": 16,
+          "time_info": "[08时42分 ~ 20时18分]"
         },
         {
           "title": "美股收盘：纳指逆转1%跌幅收涨 谷歌创新高市值逼近4万亿美元",
@@ -32,6 +33,19 @@
           "time_info": "[08时42分 ~ 15时11分]"
         },
         {
+          "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
+          "url": "https://wallstreetcn.com/articles/3760117",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[10时28分 ~ 20时18分]"
+        },
+        {
           "title": "谷歌TPU抢风头 英伟达紧急发声：我们仍领先行业一代",
           "url": "https://www.cls.cn/detail/2210906",
           "source": "财联社热门",
@@ -42,18 +56,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[08时42分 ~ 15时11分]"
-        },
-        {
-          "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
-          "url": "https://wallstreetcn.com/articles/3760117",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时28分 ~ 19时02分]"
         },
         {
           "title": "性能硬刚Blackwell、能效吊打GPU，一文深度拆解谷歌TPU“真实战力”",
@@ -94,8 +96,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时02分 ~ 19时02分]"
+          "appearance_count": 8,
+          "time_info": "[14时02分 ~ 20时18分]"
         },
         {
           "title": "Gemini+TPU双线破局！顶级科技投资人“火上浇油”：七巨头中Alphabet最值得持有",
@@ -118,7 +120,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -134,6 +136,17 @@
           "time_info": "08时42分"
         },
         {
+          "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
+          "url": "https://wallstreetcn.com/articles/3760114",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时12分 ~ 20时18分]"
+        },
+        {
           "title": "英伟达“市值神话”为何被谷歌击穿",
           "url": "https://www.toutiao.com/trending/7576840187636878902/",
           "source": "今日头条",
@@ -144,17 +157,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时15分 ~ 13时02分]"
-        },
-        {
-          "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
-          "url": "https://wallstreetcn.com/articles/3760114",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时12分 ~ 19时02分]"
         },
         {
           "title": "美股盘前，戴尔科技涨超4%，公司三季度营收不及预期但AI订单激增，全年AI服务器出货目标上调至250亿美元。博通涨约1%，谷歌A涨约1%，甲骨文涨0.1%，英伟达跌0.5%。",
@@ -210,7 +212,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         }
@@ -225,11 +227,12 @@
           "url": "https://www.zhihu.com/question/1976950290054869189",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 19时02分]"
+          "appearance_count": 3,
+          "time_info": "[18时02分 ~ 20时18分]"
         },
         {
           "title": "班主任让小学生在走廊补作业后孩子入院治疗，家长起诉被驳回",
@@ -258,8 +261,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时01分 ~ 19时02分]"
+          "appearance_count": 6,
+          "time_info": "[16时01分 ~ 20时18分]"
         },
         {
           "title": "女子徒步旅行试图蹭饭被老板娘教育",
@@ -309,6 +312,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
+          "url": "https://www.cls.cn/detail/2211503",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时02分 ~ 20时18分]"
+        },
+        {
           "title": "软银股价较峰值下滑40%，显示市场对OpenAI的担忧",
           "url": "https://flash.jin10.com/detail/20251126153143429800",
           "source": "金十数据",
@@ -318,18 +334,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
-        },
-        {
-          "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
-          "url": "https://www.cls.cn/detail/2211503",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 19时02分]"
         }
       ]
     },
