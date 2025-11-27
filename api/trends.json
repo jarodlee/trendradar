@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T10:24:42.246411+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2025-11-27T11:39:22.236765+08:00",
+  "total_titles_processed": 567,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时41分 ~ 10时24分]"
+          "appearance_count": 3,
+          "time_info": "[08时41分 ~ 11时39分]"
         },
         {
           "title": "谷歌是如何做到“AI逆袭”？CEO Pichai谈Gemini 3、Vibe Coding与AI全栈策略",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时41分 ~ 10时24分]"
+          "appearance_count": 3,
+          "time_info": "[08时41分 ~ 11时39分]"
         }
       ]
     },
@@ -62,8 +62,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时41分 ~ 10时24分]"
+          "appearance_count": 3,
+          "time_info": "[08时41分 ~ 11时39分]"
         }
       ]
     }
