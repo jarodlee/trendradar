@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T20:02:18.875948+08:00",
-  "total_titles_processed": 1323,
+  "generated_at": "2025-11-27T21:25:13.846603+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "感恩节将至，标普连涨四日，英伟达小涨、谷歌微跌，人民币创逾一年新高，比特币重回9万美元",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时41分 ~ 20时02分]"
+          "appearance_count": 15,
+          "time_info": "[08时41分 ~ 21时25分]"
         },
         {
           "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[15时12分 ~ 20时02分]"
+        },
+        {
+          "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
+          "url": "https://www.cls.cn/detail/2213001",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 21时25分]"
         },
         {
           "title": "谷歌是如何做到“AI逆袭”？CEO Pichai谈Gemini 3、Vibe Coding与AI全栈策略",
@@ -60,7 +71,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "暴跌40%！软银成为“OpenAI链”风向标",
@@ -83,8 +94,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时02分 ~ 20时02分]"
+          "appearance_count": 8,
+          "time_info": "[14时02分 ~ 21时25分]"
         },
         {
           "title": "OpenAI：已将Mixpanel从生产环境中移除",
@@ -97,6 +108,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时02分 ~ 14时02分]"
+        },
+        {
+          "title": "OpenAI真要成“烧钱无底洞”？汇丰：到2030年仍难以盈利",
+          "url": "https://www.cls.cn/detail/2213059",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 21时25分]"
         }
       ]
     },
