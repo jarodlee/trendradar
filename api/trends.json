@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T19:02:38.417667+08:00",
-  "total_titles_processed": 1249,
+  "generated_at": "2025-11-27T20:02:18.875948+08:00",
+  "total_titles_processed": 1323,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时41分 ~ 19时02分]"
+          "appearance_count": 13,
+          "time_info": "[08时41分 ~ 20时02分]"
         },
         {
           "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时12分 ~ 19时02分]"
+          "appearance_count": 7,
+          "time_info": "[15时12分 ~ 20时02分]"
         },
         {
           "title": "谷歌是如何做到“AI逆袭”？CEO Pichai谈Gemini 3、Vibe Coding与AI全栈策略",
@@ -83,8 +83,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时02分 ~ 19时02分]"
+          "appearance_count": 6,
+          "time_info": "[14时02分 ~ 20时02分]"
         },
         {
           "title": "OpenAI：已将Mixpanel从生产环境中移除",
@@ -112,8 +112,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时02分 ~ 19时02分]"
+          "appearance_count": 6,
+          "time_info": "[16时02分 ~ 20时02分]"
         },
         {
           "title": "废弃小学附近发生爆炸 有房屋受损",
