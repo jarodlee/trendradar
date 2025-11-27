@@ -1,8 +1,48 @@
 {
-  "generated_at": "2025-11-27T14:02:37.810121+08:00",
-  "total_titles_processed": 774,
+  "generated_at": "2025-11-27T15:12:32.664056+08:00",
+  "total_titles_processed": 887,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "感恩节将至，标普连涨四日，英伟达小涨、谷歌微跌，人民币创逾一年新高，比特币重回9万美元",
+          "url": "https://wallstreetcn.com/articles/3760164",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时41分 ~ 15时12分]"
+        },
+        {
+          "title": "谷歌是如何做到“AI逆袭”？CEO Pichai谈Gemini 3、Vibe Coding与AI全栈策略",
+          "url": "https://wallstreetcn.com/articles/3760141",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时41分 ~ 11时39分]"
+        },
+        {
+          "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
+          "url": "https://www.cls.cn/detail/2212466",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
@@ -16,8 +56,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时41分 ~ 14时02分]"
+          "appearance_count": 7,
+          "time_info": "[08时41分 ~ 15时12分]"
         },
         {
           "title": "OpenAI：已将Mixpanel从生产环境中移除",
@@ -38,38 +78,26 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "keyword_group": "小学",
+      "match_count": 1,
       "titles": [
         {
-          "title": "感恩节将至，标普连涨四日，英伟达小涨、谷歌微跌，人民币创逾一年新高，比特币重回9万美元",
-          "url": "https://wallstreetcn.com/articles/3760164",
-          "source": "华尔街见闻",
+          "title": "废弃小学附近发生爆炸 有房屋受损",
+          "url": "https://www.toutiao.com/trending/7576872121260081203/",
+          "source": "今日头条",
           "ranks": [
-            1
+            14
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时41分 ~ 14时02分]"
-        },
-        {
-          "title": "谷歌是如何做到“AI逆袭”？CEO Pichai谈Gemini 3、Vibe Coding与AI全栈策略",
-          "url": "https://wallstreetcn.com/articles/3760141",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时41分 ~ 11时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
         }
       ]
     },
@@ -87,6 +115,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "用DeepSeek搜巴黎男乒冠军显示王楚钦",
+          "url": "https://www.toutiao.com/trending/7576229938517852170/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
         }
       ]
     }
