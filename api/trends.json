@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T16:02:48.278083+08:00",
-  "total_titles_processed": 951,
+  "generated_at": "2025-11-28T17:11:38.467893+08:00",
+  "total_titles_processed": 1066,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时40分 ~ 16时02分]"
+          "appearance_count": 11,
+          "time_info": "[08时40分 ~ 17时11分]"
         },
         {
           "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时40分 ~ 16时02分]"
+          "appearance_count": 11,
+          "time_info": "[08时40分 ~ 17时11分]"
         },
         {
           "title": "DeepSeek开启无限进化新时代",
@@ -38,11 +38,12 @@
           "ranks": [
             7,
             4,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时12分 ~ 16时02分]"
+          "appearance_count": 7,
+          "time_info": "[12时12分 ~ 17时11分]"
         },
         {
           "title": "DeepSeek开源新模型",
@@ -64,11 +65,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时11分 ~ 16时02分]"
+          "appearance_count": 3,
+          "time_info": "[15时11分 ~ 17时11分]"
         },
         {
           "title": "DeepSeek推出新模型",
@@ -168,6 +170,45 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
+          "url": "https://www.cls.cn/detail/2213001",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时40分"
+        },
+        {
+          "title": "谷歌已重启AI眼镜项目 AI眼镜产业链近期催化密集",
+          "url": "https://www.cls.cn/detail/2213392",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
+        {
+          "title": "苹果(AAPL.O)：与谷歌地图和WAZE等其他地图服务相比，苹果地图在欧盟的使用率非常有限。",
+          "url": "https://flash.jin10.com/detail/20251128161818417800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "小学",
       "match_count": 1,
       "titles": [
@@ -198,23 +239,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时02分 ~ 16时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
-          "url": "https://www.cls.cn/detail/2213001",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时40分"
         }
       ]
     }
