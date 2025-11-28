@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T10:24:39.072316+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2025-11-28T11:39:13.915718+08:00",
+  "total_titles_processed": 553,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时40分 ~ 10时24分]"
+          "appearance_count": 4,
+          "time_info": "[08时40分 ~ 11时39分]"
         },
         {
           "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时40分 ~ 10时24分]"
+          "appearance_count": 4,
+          "time_info": "[08时40分 ~ 11时39分]"
         },
         {
           "title": "DeepSeek开源新模型",
@@ -49,7 +50,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         }
@@ -66,7 +67,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         },
