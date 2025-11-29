@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T15:02:07.341300+08:00",
-  "total_titles_processed": 700,
+  "generated_at": "2025-11-29T16:02:20.346014+08:00",
+  "total_titles_processed": 759,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时24分 ~ 15时02分]"
+          "appearance_count": 8,
+          "time_info": "[10时24分 ~ 16时02分]"
         },
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时02分 ~ 15时02分]"
+          "appearance_count": 4,
+          "time_info": "[14时02分 ~ 16时02分]"
         }
       ]
     },
@@ -60,6 +60,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "教育",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "你如何看当下老师教育方式的转变",
+          "url": "https://www.toutiao.com/trending/7577708598882091027/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         }
       ]
     },
