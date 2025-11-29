@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T17:02:04.818643+08:00",
-  "total_titles_processed": 835,
+  "generated_at": "2025-11-29T18:02:21.134273+08:00",
+  "total_titles_processed": 900,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时24分 ~ 17时02分]"
+          "appearance_count": 11,
+          "time_info": "[10时24分 ~ 18时02分]"
         },
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
@@ -27,11 +27,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时02分 ~ 17时02分]"
+          "appearance_count": 7,
+          "time_info": "[14时02分 ~ 18时02分]"
         }
       ]
     },
