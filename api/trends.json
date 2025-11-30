@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T21:19:04.897616+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2025-11-30T22:02:01.348475+08:00",
+  "total_titles_processed": 1066,
   "failed_sources": [],
   "trends": [
     {
@@ -49,22 +49,24 @@
           "url": "https://www.cls.cn/detail/2215087",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时18分 ~ 21时19分]"
+          "appearance_count": 4,
+          "time_info": "[21时18分 ~ 22时02分]"
         },
         {
           "title": "Gemini升级了哪些地方",
           "url": "https://search.bilibili.com/all?keyword=Gemini%E5%8D%87%E7%BA%A7%E4%BA%86%E5%93%AA%E4%BA%9B%E5%9C%B0%E6%96%B9",
           "source": "bilibili 热搜",
           "ranks": [
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时18分 ~ 21时19分]"
+          "appearance_count": 4,
+          "time_info": "[21时18分 ~ 22时02分]"
         }
       ]
     },
@@ -85,8 +87,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时47分 ~ 21时19分]"
+          "appearance_count": 20,
+          "time_info": "[08时47分 ~ 22时02分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -134,8 +136,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时02分 ~ 21时19分]"
+          "appearance_count": 11,
+          "time_info": "[16时02分 ~ 22时02分]"
         }
       ]
     }
