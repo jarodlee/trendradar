@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-11-30T14:02:14.606289+08:00",
-  "total_titles_processed": 639,
+  "generated_at": "2025-11-30T15:02:08.443418+08:00",
+  "total_titles_processed": 688,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
+        {
+          "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
+          "url": "https://www.cls.cn/detail/2214531",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时47分 ~ 15时02分]"
+        },
         {
           "title": "SemiAnalysis深度解读TPU--谷歌冲击“英伟达帝国”",
           "url": "https://wallstreetcn.com/articles/3760377",
@@ -19,19 +32,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时47分 ~ 12时24分]"
-        },
-        {
-          "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
-          "url": "https://www.cls.cn/detail/2214531",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时47分 ~ 14时02分]"
         },
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
@@ -58,11 +58,12 @@
             2,
             4,
             13,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时47分 ~ 14时02分]"
+          "appearance_count": 9,
+          "time_info": "[08时47分 ~ 15时02分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -90,8 +91,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时10分 ~ 14时02分]"
+          "appearance_count": 5,
+          "time_info": "[13时10分 ~ 15时02分]"
         }
       ]
     }
