@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-30T20:02:11.933285+08:00",
-  "total_titles_processed": 966,
+  "generated_at": "2025-11-30T21:19:04.897616+08:00",
+  "total_titles_processed": 1026,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
@@ -43,6 +43,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时47分"
+        },
+        {
+          "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
+          "url": "https://www.cls.cn/detail/2215087",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 21时19分]"
+        },
+        {
+          "title": "Gemini升级了哪些地方",
+          "url": "https://search.bilibili.com/all?keyword=Gemini%E5%8D%87%E7%BA%A7%E4%BA%86%E5%93%AA%E4%BA%9B%E5%9C%B0%E6%96%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 21时19分]"
         }
       ]
     },
@@ -63,8 +85,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时47分 ~ 20时02分]"
+          "appearance_count": 18,
+          "time_info": "[08时47分 ~ 21时19分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -112,8 +134,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时02分 ~ 20时02分]"
+          "appearance_count": 9,
+          "time_info": "[16时02分 ~ 21时19分]"
         }
       ]
     }
