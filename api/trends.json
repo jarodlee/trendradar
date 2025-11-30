@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T12:24:52.007592+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2025-11-30T13:10:21.199021+08:00",
+  "total_titles_processed": 579,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时47分 ~ 12时24分]"
+          "appearance_count": 5,
+          "time_info": "[08时47分 ~ 13时10分]"
         },
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
@@ -60,8 +60,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时47分 ~ 12时24分]"
+          "appearance_count": 5,
+          "time_info": "[08时47分 ~ 13时10分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -73,6 +73,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小学",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "为什么我们小学时学的「eleven」念「ɪ『levn」，但很多人念「ə』levn」？",
+          "url": "https://www.zhihu.com/question/12598320077",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
         }
       ]
     }
