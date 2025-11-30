@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T10:50:35.651264+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2025-11-30T11:52:27.491171+08:00",
+  "total_titles_processed": 509,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时47分 ~ 10时50分]"
+          "appearance_count": 3,
+          "time_info": "[08时47分 ~ 11时52分]"
         },
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
@@ -39,8 +40,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时47分 ~ 10时50分]"
+          "appearance_count": 3,
+          "time_info": "[08时47分 ~ 11时52分]"
         }
       ]
     },
@@ -54,11 +55,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            4
+            4,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时47分 ~ 10时50分]"
+          "appearance_count": 3,
+          "time_info": "[08时47分 ~ 11时52分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
