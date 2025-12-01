@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T15:14:30.847704+08:00",
-  "total_titles_processed": 851,
+  "generated_at": "2025-12-01T16:02:22.661952+08:00",
+  "total_titles_processed": 933,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
@@ -28,11 +28,12 @@
             9,
             10,
             29,
-            24
+            24,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时53分 ~ 15时14分]"
+          "appearance_count": 6,
+          "time_info": "[08时53分 ~ 16时02分]"
         },
         {
           "title": "亚马逊和谷歌共推多云网络服务，加快云端互联",
@@ -45,6 +46,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时02分 ~ 15时14分]"
+        },
+        {
+          "title": "存储大厂打入“谷歌链”！SK海力士借机巩固HBM龙头地位",
+          "url": "https://www.cls.cn/detail/2215337",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         }
       ]
     },
@@ -58,11 +70,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时01分 ~ 15时14分]"
+          "appearance_count": 9,
+          "time_info": "[11时01分 ~ 16时02分]"
         },
         {
           "title": "特稿｜母语还是英语？非洲人口大国的教育之争与文化拉扯",
@@ -73,8 +86,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时01分 ~ 15时14分]"
+          "appearance_count": 9,
+          "time_info": "[11时01分 ~ 16时02分]"
         }
       ]
     },
