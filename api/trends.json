@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T18:02:16.358521+08:00",
-  "total_titles_processed": 1149,
+  "generated_at": "2025-12-01T19:02:23.745712+08:00",
+  "total_titles_processed": 1252,
   "failed_sources": [],
   "trends": [
     {
@@ -68,7 +68,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         }
@@ -89,8 +89,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时01分 ~ 18时02分]"
+          "appearance_count": 13,
+          "time_info": "[11时01分 ~ 19时02分]"
         },
         {
           "title": "特稿｜母语还是英语？非洲人口大国的教育之争与文化拉扯",
@@ -99,11 +99,40 @@
           "ranks": [
             18,
             19,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时01分 ~ 18时02分]"
+          "appearance_count": 13,
+          "time_info": "[11时01分 ~ 19时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
+          "url": "https://wallstreetcn.com/articles/3760398",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时53分 ~ 14时02分]"
+        },
+        {
+          "title": "三年前，ChatGPT发布，“AI狂潮”席卷全球，一个新时代拉开帷幕",
+          "url": "https://wallstreetcn.com/articles/3760419",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         }
       ]
     },
@@ -139,23 +168,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
-          "url": "https://wallstreetcn.com/articles/3760398",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时53分 ~ 14时02分]"
         }
       ]
     },
