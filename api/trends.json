@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T11:02:09.636101+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2025-12-01T12:41:03.017278+08:00",
+  "total_titles_processed": 607,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 11时02分]"
+          "appearance_count": 4,
+          "time_info": "[11时01分 ~ 12时41分]"
         },
         {
           "title": "特稿｜母语还是英语？非洲人口大国的教育之争与文化拉扯",
@@ -26,8 +26,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 11时02分]"
+          "appearance_count": 4,
+          "time_info": "[11时01分 ~ 12时41分]"
         }
       ]
     },
@@ -41,11 +41,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时53分 ~ 11时02分]"
+          "appearance_count": 5,
+          "time_info": "[08时53分 ~ 12时41分]"
         },
         {
           "title": "Gemini升级了哪些地方",
@@ -108,8 +109,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时53分 ~ 11时02分]"
+          "appearance_count": 5,
+          "time_info": "[08时53分 ~ 12时41分]"
         }
       ]
     }
