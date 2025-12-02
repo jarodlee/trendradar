@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T21:31:14.654104+08:00",
-  "total_titles_processed": 1381,
+  "generated_at": "2025-12-02T22:12:22.313027+08:00",
+  "total_titles_processed": 1455,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
@@ -56,11 +56,12 @@
             12,
             5,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时29分 ~ 21时31分]"
+          "appearance_count": 16,
+          "time_info": "[10时29分 ~ 22时12分]"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
@@ -73,8 +74,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时29分 ~ 21时31分]"
+          "appearance_count": 16,
+          "time_info": "[10时29分 ~ 22时12分]"
+        },
+        {
+          "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
+          "url": "https://wallstreetcn.com/articles/3760505",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时30分 ~ 22时12分]"
         },
         {
           "title": "2025 年 12 月 1 日，DeepSeek 正式发布 V3.2 和 V3.2-Speciale，如何评价该模型？",
@@ -89,17 +102,6 @@
           "time_info": "[15时13分 ~ 16时02分]"
         },
         {
-          "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
-          "url": "https://wallstreetcn.com/articles/3760505",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时30分 ~ 21时31分]"
-        },
-        {
           "title": "DeepSeek同时发布两个正式版模型",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%90%8C%E6%97%B6%E5%8F%91%E5%B8%83%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BC%8F%E7%89%88%E6%A8%A1%E5%9E%8B",
           "source": "百度热搜",
@@ -109,6 +111,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
+        },
+        {
+          "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
+          "url": "https://www.cls.cn/detail/2217435",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         }
       ]
     },
@@ -141,11 +154,12 @@
             14,
             12,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时01分 ~ 21时31分]"
+          "appearance_count": 12,
+          "time_info": "[13时01分 ~ 22时12分]"
         },
         {
           "title": "大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元",
@@ -195,11 +209,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时29分 ~ 21时31分]"
+          "appearance_count": 16,
+          "time_info": "[10时29分 ~ 22时12分]"
         },
         {
           "title": "据The Information：OpenAI创始人奥尔特曼表示，OpenAI计划推迟其他举措，比如广告业务。",
