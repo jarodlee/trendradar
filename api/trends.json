@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T16:02:46.278446+08:00",
-  "total_titles_processed": 927,
+  "generated_at": "2025-12-03T17:15:13.223182+08:00",
+  "total_titles_processed": 1040,
   "failed_sources": [],
   "trends": [
     {
@@ -68,8 +68,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时42分 ~ 16时02分]"
+          "appearance_count": 13,
+          "time_info": "[08时42分 ~ 17时15分]"
         },
         {
           "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
@@ -83,8 +83,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时18分 ~ 16时02分]"
+          "appearance_count": 10,
+          "time_info": "[12时18分 ~ 17时15分]"
         },
         {
           "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
@@ -125,6 +125,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时44分 ~ 12时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "教育",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "香港证监会：因大山教育涉嫌严重夸大银行结余而暂停其股份交易。",
+          "url": "https://wallstreetcn.com/livenews/3014339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         }
       ]
     },
