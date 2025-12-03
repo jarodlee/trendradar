@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T15:13:04.809304+08:00",
-  "total_titles_processed": 831,
+  "generated_at": "2025-12-03T16:02:46.278446+08:00",
+  "total_titles_processed": 927,
   "failed_sources": [],
   "trends": [
     {
@@ -68,8 +68,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时42分 ~ 15时13分]"
+          "appearance_count": 11,
+          "time_info": "[08时42分 ~ 16时02分]"
         },
         {
           "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
@@ -79,11 +79,12 @@
             12,
             10,
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时18分 ~ 15时13分]"
+          "appearance_count": 8,
+          "time_info": "[12时18分 ~ 16时02分]"
         },
         {
           "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
