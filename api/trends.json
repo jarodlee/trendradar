@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T17:15:13.223182+08:00",
-  "total_titles_processed": 1040,
+  "generated_at": "2025-12-03T18:02:35.538823+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
@@ -68,8 +68,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时42分 ~ 17时15分]"
+          "appearance_count": 14,
+          "time_info": "[08时42分 ~ 18时02分]"
         },
         {
           "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
@@ -83,8 +83,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时18分 ~ 17时15分]"
+          "appearance_count": 11,
+          "time_info": "[12时18分 ~ 18时02分]"
         },
         {
           "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
@@ -112,7 +112,7 @@
     },
     {
       "keyword_group": "小学",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "千问批改小学生草书作业",
@@ -125,6 +125,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时44分 ~ 12时19分]"
+        },
+        {
+          "title": "家庭年收入从 50 万骤降到 10 万，身在上海，如何规划一个「普娃」的小学教育？",
+          "url": "https://www.zhihu.com/question/1974477206253236901",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         }
       ]
     },
@@ -137,11 +148,12 @@
           "url": "https://wallstreetcn.com/livenews/3014339",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 18时02分]"
         }
       ]
     },
