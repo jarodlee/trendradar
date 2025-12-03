@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T21:29:01.199208+08:00",
-  "total_titles_processed": 1407,
+  "generated_at": "2025-12-03T22:03:22.183619+08:00",
+  "total_titles_processed": 1479,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时42分 ~ 21时29分]"
+          "appearance_count": 19,
+          "time_info": "[08时42分 ~ 22时03分]"
         },
         {
           "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
@@ -173,7 +173,7 @@
     },
     {
       "keyword_group": "小学",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "家庭年收入从 50 万骤降到 10 万，身在上海，如何规划一个「普娃」的小学教育？",
@@ -185,8 +185,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时02分 ~ 21时29分]"
+          "appearance_count": 5,
+          "time_info": "[18时02分 ~ 22时03分]"
         },
         {
           "title": "千问批改小学生草书作业",
@@ -199,6 +199,47 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时44分 ~ 12时19分]"
+        },
+        {
+          "title": "台湾小学校歌歌词做堂堂正正中国人",
+          "url": "https://www.toutiao.com/trending/7579620693818707502/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "新西兰联储上调贸易加权指数中的美元权重",
+          "url": "https://wallstreetcn.com/livenews/3014135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时44分 ~ 13时10分]"
+        },
+        {
+          "title": "美国11月ADP就业人数公布后，美元指数短线小幅走低，现货黄金短线拉升约10美元",
+          "url": "https://wallstreetcn.com/livenews/3014475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         }
       ]
     },
@@ -217,25 +258,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时15分 ~ 18时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "新西兰联储上调贸易加权指数中的美元权重",
-          "url": "https://wallstreetcn.com/livenews/3014135",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时44分 ~ 13时10分]"
         }
       ]
     }
