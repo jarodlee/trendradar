@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T20:02:21.040044+08:00",
-  "total_titles_processed": 1285,
+  "generated_at": "2025-12-03T21:29:01.199208+08:00",
+  "total_titles_processed": 1407,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时42分 ~ 20时02分]"
+          "appearance_count": 18,
+          "time_info": "[08时42分 ~ 21时29分]"
         },
         {
           "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
@@ -53,7 +53,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         },
@@ -143,7 +143,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         },
@@ -154,7 +154,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         },
@@ -165,7 +165,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         }
@@ -175,6 +175,19 @@
       "keyword_group": "小学",
       "match_count": 2,
       "titles": [
+        {
+          "title": "家庭年收入从 50 万骤降到 10 万，身在上海，如何规划一个「普娃」的小学教育？",
+          "url": "https://www.zhihu.com/question/1974477206253236901",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时02分 ~ 21时29分]"
+        },
         {
           "title": "千问批改小学生草书作业",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE%E6%89%B9%E6%94%B9%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%8D%89%E4%B9%A6%E4%BD%9C%E4%B8%9A%23&t=31&band_rank=19&Refer=top",
@@ -186,18 +199,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时44分 ~ 12时19分]"
-        },
-        {
-          "title": "家庭年收入从 50 万骤降到 10 万，身在上海，如何规划一个「普娃」的小学教育？",
-          "url": "https://www.zhihu.com/question/1974477206253236901",
-          "source": "知乎",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 20时02分]"
         }
       ]
     },
