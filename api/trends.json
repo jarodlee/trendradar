@@ -1,68 +1,40 @@
 {
-  "generated_at": "2025-12-03T22:03:22.183619+08:00",
-  "total_titles_processed": 1479,
+  "generated_at": "2025-12-04T08:42:55.827220+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "keyword_group": "小学",
+      "match_count": 3,
       "titles": [
         {
-          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
-          "url": "https://wallstreetcn.com/articles/3760564",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[08时42分 ~ 22时03分]"
-        },
-        {
-          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
-          "url": "https://www.cls.cn/detail/2218001",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时18分 ~ 20时02分]"
-        },
-        {
-          "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
-          "url": "https://wallstreetcn.com/articles/3760498",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "马士基：目前尚无具体时间表，无法将东西向（Gemini）航线改道经红海航行。",
-          "url": "https://flash.jin10.com/detail/20251203190054995800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
-          "title": "谷歌的TPU要干掉英伟达吗",
-          "url": "https://www.toutiao.com/trending/7579260643052621321/",
+          "title": "台湾小学校歌唱中国人让绿营破防",
+          "url": "https://www.toutiao.com/trending/7578833930516250643/",
           "source": "今日头条",
           "ranks": [
-            30
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        },
+        {
+          "title": "家庭年收入从 50 万骤降到 10 万，身在上海，如何规划一个「普娃」的小学教育？",
+          "url": "https://www.zhihu.com/question/1974477206253236901",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        },
+        {
+          "title": "台湾小学校歌唱中国人让绿营破防",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E5%B0%8F%E5%AD%A6%E6%A0%A1%E6%AD%8C%E5%94%B1%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%AE%A9%E7%BB%BF%E8%90%A5%E7%A0%B4%E9%98%B2",
+          "source": "百度热搜",
+          "ranks": [
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -72,192 +44,35 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
-          "url": "https://wallstreetcn.com/articles/3760505",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时42分 ~ 10时29分]"
-        },
-        {
-          "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
-          "url": "https://www.cls.cn/detail/2217435",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时42分"
-        },
-        {
-          "title": "DeepSeek新模型追平Gemini",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%BD%E5%B9%B3Gemini",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时42分"
-        },
-        {
-          "title": "实测DeepSeekV3.2正式版",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeekV3.2%E6%AD%A3%E5%BC%8F%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "OpenAI：面向企业及商用客户的ChatGPT服务当前出现错误率升高。",
-          "url": "https://wallstreetcn.com/livenews/3014402",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "OpenAI：我们已全面恢复营运。 我们未发现任何影响我们系统的问题。",
-          "url": "https://wallstreetcn.com/livenews/3014409",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
-          "title": "OpenAI：目前遭遇-一些问题。 ChatGPT的商务和企业聊天功能遭遇错误；已实施缓解措施和监控复原。",
-          "url": "https://wallstreetcn.com/livenews/3014402",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
-          "title": "OpenAI：我们已全面恢复运营，目前未发现任何影响系统的故障。",
-          "url": "https://flash.jin10.com/detail/20251203185658782800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小学",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "家庭年收入从 50 万骤降到 10 万，身在上海，如何规划一个「普娃」的小学教育？",
-          "url": "https://www.zhihu.com/question/1974477206253236901",
-          "source": "知乎",
-          "ranks": [
-            20,
-            17,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时02分 ~ 22时03分]"
-        },
-        {
-          "title": "千问批改小学生草书作业",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE%E6%89%B9%E6%94%B9%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%8D%89%E4%B9%A6%E4%BD%9C%E4%B8%9A%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时44分 ~ 12时19分]"
-        },
-        {
-          "title": "台湾小学校歌歌词做堂堂正正中国人",
-          "url": "https://www.toutiao.com/trending/7579620693818707502/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "新西兰联储上调贸易加权指数中的美元权重",
-          "url": "https://wallstreetcn.com/livenews/3014135",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时44分 ~ 13时10分]"
-        },
-        {
-          "title": "美国11月ADP就业人数公布后，美元指数短线小幅走低，现货黄金短线拉升约10美元",
-          "url": "https://wallstreetcn.com/livenews/3014475",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "教育",
       "match_count": 1,
       "titles": [
         {
-          "title": "香港证监会：因大山教育涉嫌严重夸大银行结余而暂停其股份交易。",
-          "url": "https://wallstreetcn.com/livenews/3014339",
-          "source": "华尔街见闻-快讯",
+          "title": "Deepseek 团队为什么把大量精力花在 IMO 这种对普通人和商业应用都没有用途的地方？",
+          "url": "https://www.zhihu.com/question/1979307622185341611",
+          "source": "知乎",
           "ranks": [
-            6,
-            22
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 18时02分]"
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "钎城 Gemini",
+          "url": "https://s.weibo.com/weibo?q=%E9%92%8E%E5%9F%8E%20Gemini&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时42分"
         }
       ]
     }
