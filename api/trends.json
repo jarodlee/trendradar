@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T14:02:20.685806+08:00",
-  "total_titles_processed": 781,
+  "generated_at": "2025-12-04T15:12:58.383370+08:00",
+  "total_titles_processed": 894,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             12,
             10,
             8,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时42分 ~ 14时02分]"
+          "appearance_count": 7,
+          "time_info": "[08时42分 ~ 15时12分]"
         },
         {
           "title": "台湾小学校歌唱中国人让绿营破防",
@@ -108,11 +109,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时46分 ~ 14时02分]"
+          "appearance_count": 5,
+          "time_info": "[11时46分 ~ 15时12分]"
         }
       ]
     },
