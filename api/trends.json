@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T10:30:34.798985+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2025-12-05T11:45:16.963183+08:00",
+  "total_titles_processed": 566,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时43分 ~ 10时30分]"
+          "appearance_count": 5,
+          "time_info": "[08时43分 ~ 11时45分]"
         },
         {
           "title": "摩根大通：DeepSeek V3.2为中国AI市场带来第二波冲击 利好多数相关方",
@@ -26,7 +27,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时30分"
         }
@@ -41,11 +42,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%85%AC%E6%95%99%E8%82%B2%E4%BB%A5%E7%89%A9%E6%8A%B5%E5%80%BA%E9%80%80%E8%90%BD%E6%A6%9C%E8%80%83%E7%94%9F%E5%AD%A6%E8%B4%B9%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
-            20
+            20,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时29分 ~ 10时30分]"
+          "appearance_count": 4,
+          "time_info": "[10时29分 ~ 11时45分]"
         }
       ]
     },
