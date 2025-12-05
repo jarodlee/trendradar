@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T15:13:04.278643+08:00",
-  "total_titles_processed": 897,
+  "generated_at": "2025-12-05T16:02:42.645714+08:00",
+  "total_titles_processed": 1007,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             9,
             12,
             16,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时43分 ~ 15时13分]"
+          "appearance_count": 11,
+          "time_info": "[08时43分 ~ 16时02分]"
         },
         {
           "title": "摩根大通：DeepSeek V3.2为中国AI市场带来第二波冲击 利好多数相关方",
