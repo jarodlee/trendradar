@@ -1,135 +1,83 @@
 {
-  "generated_at": "2025-12-05T22:02:01.375222+08:00",
-  "total_titles_processed": 1606,
+  "generated_at": "2025-12-06T08:41:24.618045+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "教育",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中公教育以物抵债退落榜考生学费",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%85%AC%E6%95%99%E8%82%B2%E4%BB%A5%E7%89%A9%E6%8A%B5%E5%80%BA%E9%80%80%E8%90%BD%E6%A6%9C%E8%80%83%E7%94%9F%E5%AD%A6%E8%B4%B9%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            5,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时29分 ~ 13时02分]"
-        },
-        {
-          "title": "教育部：中法双方合作办学机构和项目达72个",
-          "url": "https://wallstreetcn.com/livenews/3015961",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时25分 ~ 22时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "实测欧洲版Deepseek水平如何",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8B%E6%AC%A7%E6%B4%B2%E7%89%88Deepseek%E6%B0%B4%E5%B9%B3%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            4,
-            9,
-            12,
-            16,
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时43分 ~ 16时02分]"
-        },
-        {
-          "title": "摩根大通：DeepSeek V3.2为中国AI市场带来第二波冲击 利好多数相关方",
-          "url": "https://wallstreetcn.com/livenews/3015505",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时30分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
-          "title": "Gemini 3 DeepThink 发布",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3%20DeepThink%20%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时02分 ~ 21时25分]"
-        },
-        {
-          "title": "消息人士：印度政府正在审议电信行业的一项提案，该提案要求智能手机制造商必须启用始终在线的位置服务，以加强监控能力。苹果(AAPL.O)、谷歌(GOOG.O)、三星致函印度，因隐私担忧要求其勿接受电信提案，并警告其监管过度干预。",
-          "url": "https://flash.jin10.com/detail/20251205161256990800",
+          "title": "美国国土安全委员会：要求谷歌尽快但不迟于12月12日提供简报。",
+          "url": "https://flash.jin10.com/detail/20251206034533252800",
           "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小学",
-      "match_count": 1,
-      "titles": [
+          "time_info": "08时41分"
+        },
         {
-          "title": "中小学生一晚上打印几十页作业",
-          "url": "https://www.toutiao.com/trending/7579836524151488553/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI和澳大利亚数据中心集团NextDC已同意在悉尼合作开发一个大型数据中心。",
-          "url": "https://flash.jin10.com/detail/20251205065532013800",
+          "title": "美国国土安全委员会：正在调查谷歌可能托管的部分应用程序，这些程序可让用户匿名举报并追踪联邦执法部门的动向。担忧部分由谷歌托管的应用程序危及国土安全部人员的安全。",
+          "url": "https://flash.jin10.com/detail/20251206034235677800",
           "source": "金十数据",
           "ranks": [
-            26
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时43分"
+          "time_info": "08时41分"
+        },
+        {
+          "title": "报道：OpenAI宣布“红色警报”，将于下周发布GPT-5.2应对谷歌Gemini 3竞争",
+          "url": "https://wallstreetcn.com/livenews/3016155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时41分"
+        },
+        {
+          "title": "美国法官发布最终的搜索反垄断官司判决结果：谷歌公司必须将默认合同限定在一年。",
+          "url": "https://wallstreetcn.com/livenews/3016153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时41分"
+        },
+        {
+          "title": "谷歌母公司Alphabet旗下无人驾驶汽车部门Waymo自愿向美国国家公路交通安全管理局（NHTSA）申请软件召回。",
+          "url": "https://wallstreetcn.com/livenews/3016148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周五（12月5日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘跌3.68%，报89425美元，本周累计下跌1.80%。 CME以太币期货DCR主力合约跌4.09%，报3023美元，本周累跌0.71%。 美股加密货币与加密货币关联指数跌3.99%，报69.08点，本周累跌3.12%。 最近24小时，MarketVector数字资产100小盘指数跌5.31%，暂报4051.02点。",
+          "url": "https://wallstreetcn.com/livenews/3016154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时41分"
         }
       ]
     }
