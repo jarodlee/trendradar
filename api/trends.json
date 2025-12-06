@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T14:02:36.826278+08:00",
-  "total_titles_processed": 671,
+  "generated_at": "2025-12-06T15:01:59.264877+08:00",
+  "total_titles_processed": 722,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时36分 ~ 14时02分]"
+          "appearance_count": 5,
+          "time_info": "[11时36分 ~ 15时01分]"
         },
         {
           "title": "美国国土安全委员会：要求谷歌尽快但不迟于12月12日提供简报。",
@@ -89,8 +89,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时36分 ~ 14时02分]"
+          "appearance_count": 5,
+          "time_info": "[11时36分 ~ 15时01分]"
         },
         {
           "title": "ChatGPT产品负责人回应广告传闻",
@@ -100,11 +100,12 @@
             12,
             14,
             20,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时36分 ~ 14时02分]"
+          "appearance_count": 5,
+          "time_info": "[11时36分 ~ 15时01分]"
         },
         {
           "title": "OpenAI最快将于下周发布GPT-5.2",
