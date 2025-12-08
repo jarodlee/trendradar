@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T15:15:33.770304+08:00",
-  "total_titles_processed": 870,
+  "generated_at": "2025-12-08T16:16:07.775323+08:00",
+  "total_titles_processed": 974,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "后浪卷死前浪？“谷歌链”年内涨幅已快接近“OpenAI链”的两倍",
@@ -14,11 +14,23 @@
           "ranks": [
             11,
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时13分 ~ 15时15分]"
+          "appearance_count": 5,
+          "time_info": "[13时13分 ~ 16时16分]"
+        },
+        {
+          "title": "谷歌将举行AndroidXR特别发布会 端侧AI有望迎重磅催化",
+          "url": "https://www.cls.cn/detail/2222180",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 16时16分]"
         },
         {
           "title": "详谈谷歌TPU芯片：如何与博通博弈？能否和英伟达竞争？",
