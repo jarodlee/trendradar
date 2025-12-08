@@ -1,8 +1,25 @@
 {
-  "generated_at": "2025-12-08T08:43:52.729807+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2025-12-08T10:31:31.722964+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "详谈谷歌TPU芯片：如何与博通博弈？能否和英伟达竞争？",
+          "url": "https://wallstreetcn.com/articles/3760862",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        }
+      ]
+    },
     {
       "keyword_group": "人民币",
       "match_count": 1,
