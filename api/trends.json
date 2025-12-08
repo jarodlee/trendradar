@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T14:02:25.488783+08:00",
-  "total_titles_processed": 771,
+  "generated_at": "2025-12-08T15:15:33.770304+08:00",
+  "total_titles_processed": 870,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 14时02分]"
+          "appearance_count": 3,
+          "time_info": "[13时13分 ~ 15时15分]"
         },
         {
           "title": "详谈谷歌TPU芯片：如何与博通博弈？能否和英伟达竞争？",
