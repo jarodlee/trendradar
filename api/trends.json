@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T13:03:07.189423+08:00",
-  "total_titles_processed": 685,
+  "generated_at": "2025-12-09T14:02:40.464996+08:00",
+  "total_titles_processed": 784,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时43分 ~ 13时03分]"
+          "appearance_count": 8,
+          "time_info": "[08时43分 ~ 14时02分]"
+        },
+        {
+          "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
+          "url": "https://www.cls.cn/detail/2223387",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时43分 ~ 14时02分]"
         },
         {
           "title": "全球市值最高电力股同日官宣谷歌、Meta新合作",
@@ -28,18 +41,6 @@
             8,
             6,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时43分 ~ 13时03分]"
-        },
-        {
-          "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
-          "url": "https://www.cls.cn/detail/2223387",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -60,26 +61,8 @@
       ]
     },
     {
-      "keyword_group": "教育",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "著名建筑教育家王飞因意外逝世",
-          "url": "https://www.baidu.com/s?wd=%E8%91%97%E5%90%8D%E5%BB%BA%E7%AD%91%E6%95%99%E8%82%B2%E5%AE%B6%E7%8E%8B%E9%A3%9E%E5%9B%A0%E6%84%8F%E5%A4%96%E9%80%9D%E4%B8%96",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时44分 ~ 13时03分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "梁文锋、杜梦然上榜！《自然》公布2025年度十大科学人物",
@@ -91,6 +74,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
+        },
+        {
+          "title": "如何看待梁文锋、杜梦然入选《自然》年度十大人物，是中国科研环境变化的缩影吗？",
+          "url": "https://www.zhihu.com/question/1981658527434053567",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "教育",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "著名建筑教育家王飞因意外逝世",
+          "url": "https://www.baidu.com/s?wd=%E8%91%97%E5%90%8D%E5%BB%BA%E7%AD%91%E6%95%99%E8%82%B2%E5%AE%B6%E7%8E%8B%E9%A3%9E%E5%9B%A0%E6%84%8F%E5%A4%96%E9%80%9D%E4%B8%96",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时44分 ~ 14时02分]"
         }
       ]
     }
