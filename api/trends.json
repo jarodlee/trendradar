@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T15:13:28.337464+08:00",
-  "total_titles_processed": 899,
+  "generated_at": "2025-12-09T16:02:36.076308+08:00",
+  "total_titles_processed": 982,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             20,
             13,
             12,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时44分 ~ 15时13分]"
+          "appearance_count": 7,
+          "time_info": "[11时44分 ~ 16时02分]"
         },
         {
           "title": "柬埔寨菩萨省教育局发布通告称，受泰国军方进攻影响，为防范安全风险，教育局决定当地所有学校立即停课，重新开课时间另行通知。",
@@ -28,7 +29,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -39,7 +40,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -50,7 +51,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         }
@@ -123,11 +124,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时02分 ~ 15时13分]"
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 16时02分]"
         },
         {
           "title": "梁文锋、杜梦然上榜！《自然》公布2025年度十大科学人物",
@@ -153,7 +155,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -164,7 +166,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         }
