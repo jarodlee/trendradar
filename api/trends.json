@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T11:50:19.123769+08:00",
-  "total_titles_processed": 565,
+  "generated_at": "2025-12-10T12:23:52.487414+08:00",
+  "total_titles_processed": 623,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时45分 ~ 11时50分]"
+          "appearance_count": 3,
+          "time_info": "[10时45分 ~ 12时23分]"
         }
       ]
     },
@@ -31,11 +31,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时44分 ~ 11时50分]"
+          "appearance_count": 4,
+          "time_info": "[08时44分 ~ 12时23分]"
         }
       ]
     }
