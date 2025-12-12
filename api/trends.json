@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T14:02:13.357610+08:00",
-  "total_titles_processed": 824,
+  "generated_at": "2025-12-12T15:14:42.676043+08:00",
+  "total_titles_processed": 926,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时44分 ~ 14时02分]"
+          "appearance_count": 9,
+          "time_info": "[08时44分 ~ 15时14分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -30,8 +30,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时50分 ~ 14时02分]"
+          "appearance_count": 7,
+          "time_info": "[11时50分 ~ 15时14分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -41,8 +41,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时24分 ~ 14时02分]"
+          "appearance_count": 5,
+          "time_info": "[12时24分 ~ 15时14分]"
         },
         {
           "title": "全面解析ChatGPT5.2",
@@ -115,8 +115,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时46分 ~ 14时02分]"
+          "appearance_count": 8,
+          "time_info": "[10时46分 ~ 15时14分]"
         },
         {
           "title": "GPT-5.2提前泄露？今夜，OpenAI要拿Gemini 3祭天！",
