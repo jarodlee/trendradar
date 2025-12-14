@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T14:02:45.974486+08:00",
-  "total_titles_processed": 659,
+  "generated_at": "2025-12-14T15:02:09.923532+08:00",
+  "total_titles_processed": 705,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20251214105538781800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时54分 ~ 14时02分]"
+          "appearance_count": 5,
+          "time_info": "[11时54分 ~ 15时02分]"
         },
         {
           "title": "迪士尼与OpenAI合作施压日本内容产业，本土企业面临AI转型抉择",
