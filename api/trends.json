@@ -1,8 +1,25 @@
 {
-  "generated_at": "2025-12-15T17:20:01.502115+08:00",
-  "total_titles_processed": 1109,
+  "generated_at": "2025-12-15T18:14:08.451187+08:00",
+  "total_titles_processed": 1183,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "小学",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "一群小学生追着蔡徐坤喊鸡哥",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%BE%A4%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%BF%BD%E7%9D%80%E8%94%A1%E5%BE%90%E5%9D%A4%E5%96%8A%E9%B8%A1%E5%93%A5%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 18时14分]"
+        }
+      ]
+    },
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
