@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T18:02:49.350505+08:00",
-  "total_titles_processed": 1187,
+  "generated_at": "2025-12-16T19:02:46.890722+08:00",
+  "total_titles_processed": 1281,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "7 岁男童坠亡，事发前偷拿文具店玩具被斥责，涉事店家是否需担责？儿童犯错，教育时应注意哪些方式方法？",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时15分 ~ 18时02分]"
+        },
+        {
+          "title": "陕西铜川一教师疑似微信群发言希望学生「全都甲流」，教育局正调查，如何看待这一言论？",
+          "url": "https://www.zhihu.com/question/1984233497255236989",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         }
       ]
     },
@@ -36,6 +47,17 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
+        {
+          "title": "博通三天重挫17.7%，“谷歌链”核心遭遇2020年来最惨暴击",
+          "url": "https://wallstreetcn.com/articles/3761453",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时15分 ~ 19时02分]"
+        },
         {
           "title": "“俄版谷歌”，正帮中国商人大赚",
           "url": "https://news.ifeng.com/c/8p87L7ByRCW",
@@ -46,17 +68,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时16分 ~ 16时02分]"
-        },
-        {
-          "title": "博通三天重挫17.7%，“谷歌链”核心遭遇2020年来最惨暴击",
-          "url": "https://wallstreetcn.com/articles/3761453",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 18时02分]"
         }
       ]
     },
@@ -71,7 +82,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -82,7 +93,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         }
