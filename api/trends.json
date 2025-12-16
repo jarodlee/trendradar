@@ -1,8 +1,25 @@
 {
-  "generated_at": "2025-12-16T08:44:44.206053+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-16T10:47:11.065021+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "教育",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "7 岁男童坠亡，事发前偷拿文具店玩具被斥责，涉事店家是否需担责？儿童犯错，教育时应注意哪些方式方法？",
+          "url": "https://www.zhihu.com/question/1983961820948554366",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时46分 ~ 10时47分]"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
