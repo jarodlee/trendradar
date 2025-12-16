@@ -1,74 +1,22 @@
 {
-  "generated_at": "2025-12-15T22:25:47.234347+08:00",
-  "total_titles_processed": 1565,
+  "generated_at": "2025-12-16T08:44:44.206053+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "小学",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "一群小学生追着蔡徐坤喊鸡哥",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%BE%A4%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%BF%BD%E7%9D%80%E8%94%A1%E5%BE%90%E5%9D%A4%E5%96%8A%E9%B8%A1%E5%93%A5%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时13分 ~ 19时10分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "一手好牌打稀烂,deepseek成弃子",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347982&amp;topic_name=%E4%B8%80%E6%89%8B%E5%A5%BD%E7%89%8C%E6%89%93%E7%A8%80%E7%83%82%2Cdeepseek%E6%88%90%E5%BC%83%E5%AD%90",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时15分 ~ 15时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "传联发科拿下两代谷歌TPU定制大单",
-          "url": "https://flash.jin10.com/detail/20251215105959893800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国外汇交易中心（CFETS）：12月2日人民币汇率指数按周涨0.06至97.71。",
-          "url": "https://wallstreetcn.com/livenews/3020507",
+          "title": "OpenAI首席通信官Hannah Wong即将在1月底离职。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3021245",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时47分"
+          "time_info": "08时44分"
         }
       ]
     }
