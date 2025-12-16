@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-16T20:18:58.793076+08:00",
-  "total_titles_processed": 1365,
+  "generated_at": "2025-12-16T21:31:56.937008+08:00",
+  "total_titles_processed": 1481,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
       "match_count": 3,
       "titles": [
+        {
+          "title": "陕西铜川一教师疑似微信群发言希望学生「全都甲流」，教育局正调查，如何看待这一言论？",
+          "url": "https://www.zhihu.com/question/1984233497255236989",
+          "source": "知乎",
+          "ranks": [
+            11,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时02分 ~ 21时31分]"
+        },
         {
           "title": "7 岁男童坠亡，事发前偷拿文具店玩具被斥责，涉事店家是否需担责？儿童犯错，教育时应注意哪些方式方法？",
           "url": "https://www.zhihu.com/question/1983961820948554366",
@@ -17,18 +30,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时46分 ~ 10时47分]"
-        },
-        {
-          "title": "陕西铜川一教师疑似微信群发言希望学生「全都甲流」，教育局正调查，如何看待这一言论？",
-          "url": "https://www.zhihu.com/question/1984233497255236989",
-          "source": "知乎",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 20时18分]"
         },
         {
           "title": "教育部：推进实施第二期“双高建设计划”，打造技能型高校“国家队”",
@@ -77,9 +78,38 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小学",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "小学老师百人群内咒骂全班得甲流",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%E7%99%BE%E4%BA%BA%E7%BE%A4%E5%86%85%E5%92%92%E9%AA%82%E5%85%A8%E7%8F%AD%E5%BE%97%E7%94%B2%E6%B5%81%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时15分 ~ 16时02分]"
+        },
+        {
+          "title": "成都35所中小学试点AI批改作业",
+          "url": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD35%E6%89%80%E4%B8%AD%E5%B0%8F%E5%AD%A6%E8%AF%95%E7%82%B9AI%E6%89%B9%E6%94%B9%E4%BD%9C%E4%B8%9A",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
         }
       ]
     },
@@ -108,24 +138,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小学",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "小学老师百人群内咒骂全班得甲流",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%E7%99%BE%E4%BA%BA%E7%BE%A4%E5%86%85%E5%92%92%E9%AA%82%E5%85%A8%E7%8F%AD%E5%BE%97%E7%94%B2%E6%B5%81%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时15分 ~ 16时02分]"
         }
       ]
     },
