@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T10:31:19.700943+08:00",
-  "total_titles_processed": 446,
+  "generated_at": "2025-12-18T11:49:14.316977+08:00",
+  "total_titles_processed": 574,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小学",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "教育部发“20条”加强中小学日常考试管理：普通高中严控考试次数",
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时40分 ~ 11时49分]"
+        },
+        {
+          "title": "小学生因病去世，老师为了不让孩子们伤心，谎称「转学了」，孩子们能接受永别吗？应不应该引导孩子认识死亡？",
+          "url": "https://www.zhihu.com/question/1983961448452473168",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时40分 ~ 10时31分]"
+          "time_info": "[11时48分 ~ 11时49分]"
         },
         {
           "title": "进一步压减中小学考试频次",
@@ -37,9 +48,49 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
+          "url": "https://www.cls.cn/detail/2232894",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 11时49分]"
+        },
+        {
+          "title": "谷歌据悉联手Meta 强化TPU对PyTorch的支持 以挑战英伟达",
+          "url": "https://www.cls.cn/detail/2232789",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 11时49分]"
+        },
+        {
+          "title": "白银成全球第四大资产 市值超越谷歌",
+          "url": "https://flash.jin10.com/detail/20251218105307391800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
         }
       ]
     },
@@ -53,22 +104,24 @@
           "source": "今日头条",
           "ranks": [
             12,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时40分 ~ 10时31分]"
+          "appearance_count": 4,
+          "time_info": "[08时40分 ~ 11时49分]"
         },
         {
           "title": "韩国总统李在明谈汉字教育",
           "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%B0%88%E6%B1%89%E5%AD%97%E6%95%99%E8%82%B2",
           "source": "百度热搜",
           "ranks": [
-            24
+            24,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 11时49分]"
         }
       ]
     },
@@ -94,24 +147,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
-          "url": "https://www.cls.cn/detail/2232894",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
         }
