@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T14:02:39.322119+08:00",
-  "total_titles_processed": 747,
+  "generated_at": "2025-12-18T15:14:09.346173+08:00",
+  "total_titles_processed": 848,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时40分 ~ 14时02分]"
+          "appearance_count": 10,
+          "time_info": "[08时40分 ~ 15时14分]"
         },
         {
           "title": "小学生因病去世，老师为了不让孩子们伤心，谎称「转学了」，孩子们能接受永别吗？应不应该引导孩子认识死亡？",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 14时02分]"
+          "appearance_count": 8,
+          "time_info": "[11时48分 ~ 15时14分]"
         },
         {
           "title": "进一步压减中小学考试频次",
@@ -64,11 +64,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时31分 ~ 14时02分]"
+          "appearance_count": 9,
+          "time_info": "[10时31分 ~ 15时14分]"
         },
         {
           "title": "谷歌据悉联手Meta 强化TPU对PyTorch的支持 以挑战英伟达",
@@ -89,9 +90,9 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时02分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 15时14分]"
         },
         {
           "title": "白银成全球第四大资产 市值超越谷歌",
@@ -108,8 +109,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
+          "url": "https://www.zhihu.com/question/1984670354627651255",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 15时14分]"
+        },
         {
           "title": "OpenAI已商讨以约7500亿美元估值融资数百亿美元，筹资最高1000亿美元。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3022685",
@@ -126,11 +138,12 @@
           "url": "https://wallstreetcn.com/articles/3761607",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时02分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 15时14分]"
         },
         {
           "title": "据悉OpenAI拟融资高达1000亿美元，公司估值约为7500亿美元",
