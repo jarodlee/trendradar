@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T12:23:58.800024+08:00",
-  "total_titles_processed": 637,
+  "generated_at": "2025-12-18T13:13:04.333131+08:00",
+  "total_titles_processed": 696,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时40分 ~ 12时23分]"
+          "appearance_count": 7,
+          "time_info": "[08时40分 ~ 13时13分]"
         },
         {
           "title": "小学生因病去世，老师为了不让孩子们伤心，谎称「转学了」，孩子们能接受永别吗？应不应该引导孩子认识死亡？",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时48分 ~ 12时23分]"
+          "appearance_count": 5,
+          "time_info": "[11时48分 ~ 13时13分]"
         },
         {
           "title": "进一步压减中小学考试频次",
@@ -67,8 +67,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时31分 ~ 12时23分]"
+          "appearance_count": 6,
+          "time_info": "[10时31分 ~ 13时13分]"
         },
         {
           "title": "谷歌据悉联手Meta 强化TPU对PyTorch的支持 以挑战英伟达",
@@ -107,11 +107,12 @@
             12,
             18,
             15,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时40分 ~ 12时23分]"
+          "appearance_count": 7,
+          "time_info": "[08时40分 ~ 13时13分]"
         },
         {
           "title": "韩国总统李在明谈汉字教育",
@@ -120,11 +121,12 @@
           "ranks": [
             24,
             19,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时31分 ~ 12时23分]"
+          "appearance_count": 6,
+          "time_info": "[10时31分 ~ 13时13分]"
         }
       ]
     },
