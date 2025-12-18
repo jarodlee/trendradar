@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T11:49:14.316977+08:00",
-  "total_titles_processed": 574,
+  "generated_at": "2025-12-18T12:23:58.800024+08:00",
+  "total_titles_processed": 637,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时40分 ~ 11时49分]"
+          "appearance_count": 5,
+          "time_info": "[08时40分 ~ 12时23分]"
         },
         {
           "title": "小学生因病去世，老师为了不让孩子们伤心，谎称「转学了」，孩子们能接受永别吗？应不应该引导孩子认识死亡？",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时48分 ~ 11时49分]"
+          "appearance_count": 3,
+          "time_info": "[11时48分 ~ 12时23分]"
         },
         {
           "title": "进一步压减中小学考试频次",
@@ -67,19 +67,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时31分 ~ 11时49分]"
+          "appearance_count": 4,
+          "time_info": "[10时31分 ~ 12时23分]"
         },
         {
           "title": "谷歌据悉联手Meta 强化TPU对PyTorch的支持 以挑战英伟达",
           "url": "https://www.cls.cn/detail/2232789",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时48分 ~ 11时49分]"
+          "appearance_count": 3,
+          "time_info": "[11时48分 ~ 12时23分]"
         },
         {
           "title": "白银成全球第四大资产 市值超越谷歌",
@@ -88,7 +89,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
         }
@@ -105,11 +106,12 @@
           "ranks": [
             12,
             18,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时40分 ~ 11时49分]"
+          "appearance_count": 5,
+          "time_info": "[08时40分 ~ 12时23分]"
         },
         {
           "title": "韩国总统李在明谈汉字教育",
@@ -117,11 +119,12 @@
           "source": "百度热搜",
           "ranks": [
             24,
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时31分 ~ 11时49分]"
+          "appearance_count": 4,
+          "time_info": "[10时31分 ~ 12时23分]"
         }
       ]
     },
