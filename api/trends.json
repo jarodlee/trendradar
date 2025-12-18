@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T15:14:09.346173+08:00",
-  "total_titles_processed": 848,
+  "generated_at": "2025-12-18T16:02:11.015509+08:00",
+  "total_titles_processed": 953,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时48分 ~ 15时14分]"
+          "appearance_count": 10,
+          "time_info": "[11时48分 ~ 16时02分]"
         },
         {
           "title": "进一步压减中小学考试频次",
@@ -68,8 +68,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时31分 ~ 15时14分]"
+          "appearance_count": 11,
+          "time_info": "[10时31分 ~ 16时02分]"
+        },
+        {
+          "title": "谷歌发布 Gemini 3 Flash，相比上一代 2.5 Flash 有哪些提升？使用体验如何？",
+          "url": "https://www.zhihu.com/question/1984788546771517931",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时02分 ~ 16时02分]"
         },
         {
           "title": "谷歌据悉联手Meta 强化TPU对PyTorch的支持 以挑战英伟达",
@@ -82,17 +93,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时48分 ~ 12时23分]"
-        },
-        {
-          "title": "谷歌发布 Gemini 3 Flash，相比上一代 2.5 Flash 有哪些提升？使用体验如何？",
-          "url": "https://www.zhihu.com/question/1984788546771517931",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时02分 ~ 15时14分]"
         },
         {
           "title": "白银成全球第四大资产 市值超越谷歌",
@@ -119,8 +119,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时13分 ~ 15时14分]"
+          "appearance_count": 4,
+          "time_info": "[15时13分 ~ 16时02分]"
         },
         {
           "title": "OpenAI已商讨以约7500亿美元估值融资数百亿美元，筹资最高1000亿美元。（The Information）",
@@ -139,11 +139,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时02分 ~ 15时14分]"
+          "appearance_count": 5,
+          "time_info": "[14时02分 ~ 16时02分]"
         },
         {
           "title": "据悉OpenAI拟融资高达1000亿美元，公司估值约为7500亿美元",
