@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-19T16:15:13.480574+08:00",
-  "total_titles_processed": 1068,
+  "generated_at": "2025-12-19T17:14:10.364248+08:00",
+  "total_titles_processed": 1178,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小学",
       "match_count": 3,
       "titles": [
+        {
+          "title": "教育部发文规范中小学日常考试，严禁向任何组织和个人购买试题、试卷，为什么这样规定？",
+          "url": "https://www.zhihu.com/question/1984637075664889258",
+          "source": "知乎",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时13分 ~ 17时14分]"
+        },
         {
           "title": "家长称江苏一小学要求冬天 6 点半前到校，送学稍晚遭班主任批评，怎样看待老师做法？到校时间设定合理吗？",
           "url": "https://www.zhihu.com/question/1984889435469341223",
@@ -20,18 +32,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时44分 ~ 12时24分]"
-        },
-        {
-          "title": "教育部发文规范中小学日常考试，严禁向任何组织和个人购买试题、试卷，为什么这样规定？",
-          "url": "https://www.zhihu.com/question/1984637075664889258",
-          "source": "知乎",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时13分 ~ 16时15分]"
         },
         {
           "title": "如何切实缓解中小学生“考试焦虑症”",
@@ -85,11 +85,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32209739",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时14分 ~ 16时15分]"
+          "appearance_count": 4,
+          "time_info": "[16时14分 ~ 17时14分]"
         }
       ]
     },
@@ -120,11 +121,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时13分 ~ 16时15分]"
+          "appearance_count": 5,
+          "time_info": "[15时13分 ~ 17时14分]"
         }
       ]
     },
