@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T15:13:18.968372+08:00",
-  "total_titles_processed": 944,
+  "generated_at": "2025-12-19T16:15:13.480574+08:00",
+  "total_titles_processed": 1068,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "url": "https://www.zhihu.com/question/1984637075664889258",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时13分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时13分 ~ 16时15分]"
         },
         {
           "title": "如何切实缓解中小学生“考试焦虑症”",
@@ -76,6 +77,23 @@
       ]
     },
     {
+      "keyword_group": "教育",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "河南方城英才学校致13死4伤火灾三名责任人今日受审，涉嫌教育设施重大安全事故罪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32209739",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 16时15分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -101,11 +119,12 @@
           "url": "https://www.cls.cn/detail/2234237",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时13分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时13分 ~ 16时15分]"
         }
       ]
     },
