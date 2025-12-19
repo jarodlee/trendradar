@@ -1,10 +1,7 @@
 {
-  "generated_at": "2025-12-19T19:03:46.867935+08:00",
-  "total_titles_processed": 1388,
-  "failed_sources": [
-    "wallstreetcn-hot",
-    "tieba"
-  ],
+  "generated_at": "2025-12-19T20:02:13.068077+08:00",
+  "total_titles_processed": 1487,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小学",
@@ -91,11 +88,12 @@
             20,
             19,
             17,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时14分 ~ 19时03分]"
+          "appearance_count": 9,
+          "time_info": "[16时14分 ~ 20时02分]"
         }
       ]
     },
