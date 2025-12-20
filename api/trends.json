@@ -1,78 +1,44 @@
 {
-  "generated_at": "2025-12-19T22:02:16.666358+08:00",
-  "total_titles_processed": 1686,
+  "generated_at": "2025-12-20T08:41:47.520221+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "小学",
+      "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
         {
-          "title": "教育部发文规范中小学日常考试，严禁向任何组织和个人购买试题、试卷，为什么这样规定？",
-          "url": "https://www.zhihu.com/question/1984637075664889258",
-          "source": "知乎",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时13分 ~ 17时14分]"
-        },
-        {
-          "title": "家长称江苏一小学要求冬天 6 点半前到校，送学稍晚遭班主任批评，怎样看待老师做法？到校时间设定合理吗？",
-          "url": "https://www.zhihu.com/question/1984889435469341223",
-          "source": "知乎",
-          "ranks": [
-            8,
-            13,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时44分 ~ 12时24分]"
-        },
-        {
-          "title": "如何切实缓解中小学生“考试焦虑症”",
-          "url": "https://www.toutiao.com/trending/7584758118870745134/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
-          "url": "https://wallstreetcn.com/articles/3761607",
-          "source": "华尔街见闻",
+          "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
+          "url": "https://wallstreetcn.com/livenews/3024206",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时44分"
+          "time_info": "08时41分"
         },
         {
-          "title": "OpenAI最新估值或达8300亿美元 德国拟动用俄资产支持乌克兰 | 环球市场",
-          "url": "https://www.cls.cn/detail/2234101",
-          "source": "财联社热门",
+          "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
+          "url": "https://wallstreetcn.com/articles/3761711",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            11,
-            12
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时51分 ~ 14时16分]"
+          "appearance_count": 1,
+          "time_info": "08时41分"
+        },
+        {
+          "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
+          "url": "https://wallstreetcn.com/articles/3761690",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时41分"
         }
       ]
     },
@@ -85,70 +51,11 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32209739",
           "source": "澎湃新闻",
           "ranks": [
-            20,
-            19,
-            17,
-            16,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时14分 ~ 22时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "新华社：2025“年度字词”揭晓，年度国内词为“深度求索（DeepSeek）",
-          "url": "https://wallstreetcn.com/livenews/3023500",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "白宫：微软、谷歌等24家公司签署协议 加入美国AI“创世纪计划”",
-          "url": "https://www.cls.cn/detail/2234237",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时13分 ~ 17时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "日元兑美元走低，日经225指数期货下跌，此前日本央行加息。",
-          "url": "https://wallstreetcn.com/livenews/3023530",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 12时24分]"
+          "time_info": "08时41分"
         }
       ]
     }
