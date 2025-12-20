@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T13:02:15.552197+08:00",
-  "total_titles_processed": 603,
+  "generated_at": "2025-12-20T14:02:34.906685+08:00",
+  "total_titles_processed": 658,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时41分 ~ 13时02分]"
+          "appearance_count": 7,
+          "time_info": "[08时41分 ~ 14时02分]"
         },
         {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
@@ -57,11 +57,12 @@
           "url": "https://www.zhihu.com/question/1984124201104335678",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 14时02分]"
         },
         {
           "title": "河南方城英才学校致13死4伤火灾三名责任人今日受审，涉嫌教育设施重大安全事故罪",
@@ -90,8 +91,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时26分 ~ 13时02分]"
+          "appearance_count": 6,
+          "time_info": "[10时26分 ~ 14时02分]"
         }
       ]
     },
@@ -106,11 +107,12 @@
           "ranks": [
             9,
             13,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 13时02分]"
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 14时02分]"
         }
       ]
     }
