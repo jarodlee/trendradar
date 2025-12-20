@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T12:16:22.350462+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2025-12-20T13:02:15.552197+08:00",
+  "total_titles_processed": 603,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时41分 ~ 12时16分]"
+          "appearance_count": 6,
+          "time_info": "[08时41分 ~ 13时02分]"
         },
         {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
@@ -49,28 +49,20 @@
       ]
     },
     {
-      "keyword_group": "小学",
-      "match_count": 1,
+      "keyword_group": "教育",
+      "match_count": 2,
       "titles": [
         {
-          "title": "小学生沉迷电话手表“刷赞当大佬”",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%B2%89%E8%BF%B7%E7%94%B5%E8%AF%9D%E6%89%8B%E8%A1%A8%E2%80%9C%E5%88%B7%E8%B5%9E%E5%BD%93%E5%A4%A7%E4%BD%AC%E2%80%9D",
-          "source": "百度热搜",
+          "title": "2025 年，你认为教育孩子最大的阻力是什么？",
+          "url": "https://www.zhihu.com/question/1984124201104335678",
+          "source": "知乎",
           "ranks": [
-            30,
-            25,
-            23
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 12时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "教育",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
         {
           "title": "河南方城英才学校致13死4伤火灾三名责任人今日受审，涉嫌教育设施重大安全事故罪",
           "url": "https://m.thepaper.cn/newsDetail_forward_32209739",
@@ -85,6 +77,25 @@
       ]
     },
     {
+      "keyword_group": "小学",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "小学生沉迷电话手表“刷赞当大佬”",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%B2%89%E8%BF%B7%E7%94%B5%E8%AF%9D%E6%89%8B%E8%A1%A8%E2%80%9C%E5%88%B7%E8%B5%9E%E5%BD%93%E5%A4%A7%E4%BD%AC%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时26分 ~ 13时02分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -94,11 +105,12 @@
           "source": "金十数据",
           "ranks": [
             9,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时16分]"
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 13时02分]"
         }
       ]
     }
