@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T16:02:46.777637+08:00",
-  "total_titles_processed": 772,
+  "generated_at": "2025-12-21T17:02:40.556167+08:00",
+  "total_titles_processed": 837,
   "failed_sources": [],
   "trends": [
     {
@@ -75,8 +75,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时52分 ~ 16时02分]"
+          "appearance_count": 9,
+          "time_info": "[10时52分 ~ 17时02分]"
         },
         {
           "title": "「我宁愿孩子快乐地倒数，也不愿他抑郁地第一」这样的教育选择你敢吗？",
@@ -109,8 +109,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时52分 ~ 16时02分]"
+          "appearance_count": 9,
+          "time_info": "[10时52分 ~ 17时02分]"
         },
         {
           "title": "Scaling Law没死！Gemini核心大佬爆料，谷歌已有颠覆性密钥",
@@ -122,8 +122,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时14分 ~ 16时02分]"
+          "appearance_count": 4,
+          "time_info": "[14时14分 ~ 17时02分]"
         }
       ]
     }
