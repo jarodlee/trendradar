@@ -1,12 +1,27 @@
 {
-  "generated_at": "2025-12-21T14:14:45.608545+08:00",
-  "total_titles_processed": 672,
+  "generated_at": "2025-12-21T15:02:26.746456+08:00",
+  "total_titles_processed": 709,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 4,
       "titles": [
+        {
+          "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
+          "url": "https://wallstreetcn.com/articles/3761776",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时47分 ~ 15时02分]"
+        },
         {
           "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
           "url": "https://wallstreetcn.com/articles/3761764",
@@ -16,20 +31,6 @@
             3,
             2,
             1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时47分 ~ 14时14分]"
-        },
-        {
-          "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
-          "url": "https://wallstreetcn.com/articles/3761776",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3,
-            2
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -73,8 +74,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时52分 ~ 14时14分]"
+          "appearance_count": 7,
+          "time_info": "[10时52分 ~ 15时02分]"
         },
         {
           "title": "「我宁愿孩子快乐地倒数，也不愿他抑郁地第一」这样的教育选择你敢吗？",
@@ -102,22 +103,24 @@
             9,
             7,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时52分 ~ 14时14分]"
+          "appearance_count": 7,
+          "time_info": "[10时52分 ~ 15时02分]"
         },
         {
           "title": "Scaling Law没死！Gemini核心大佬爆料，谷歌已有颠覆性密钥",
           "url": "https://wallstreetcn.com/articles/3761777",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时14分 ~ 15时02分]"
         }
       ]
     }
