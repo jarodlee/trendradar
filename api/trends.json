@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T10:52:39.395199+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2025-12-21T11:55:27.020276+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时47分 ~ 10时52分]"
+          "appearance_count": 3,
+          "time_info": "[08时47分 ~ 11时55分]"
         },
         {
           "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
           "url": "https://wallstreetcn.com/articles/3761763",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时47分 ~ 10时52分]"
+          "appearance_count": 3,
+          "time_info": "[08时47分 ~ 11时55分]"
         },
         {
           "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
@@ -36,11 +38,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时47分 ~ 10时52分]"
+          "appearance_count": 3,
+          "time_info": "[08时47分 ~ 11时55分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
@@ -60,6 +63,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "“3.99元”式盗版课挤压正版研发，媒体：莫让灰产阻碍教育创新",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32222558",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 11时55分]"
+        },
+        {
           "title": "「我宁愿孩子快乐地倒数，也不愿他抑郁地第一」这样的教育选择你敢吗？",
           "url": "https://www.zhihu.com/question/1984737234470060615",
           "source": "知乎",
@@ -69,17 +84,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时47分"
-        },
-        {
-          "title": "“3.99元”式盗版课挤压正版研发，媒体：莫让灰产阻碍教育创新",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32222558",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
         }
       ]
     },
@@ -92,11 +96,12 @@
           "url": "https://wallstreetcn.com/articles/3761778",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 11时55分]"
         }
       ]
     }
