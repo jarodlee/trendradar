@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T13:15:59.453628+08:00",
-  "total_titles_processed": 711,
+  "generated_at": "2025-12-22T14:02:33.354366+08:00",
+  "total_titles_processed": 775,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时46分 ~ 13时15分]"
+          "appearance_count": 7,
+          "time_info": "[08时46分 ~ 14时02分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
@@ -26,11 +26,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时54分 ~ 13时15分]"
+          "appearance_count": 5,
+          "time_info": "[10时54分 ~ 14时02分]"
         }
       ]
     },
@@ -45,11 +46,12 @@
           "ranks": [
             26,
             28,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时54分 ~ 13时15分]"
+          "appearance_count": 5,
+          "time_info": "[10时54分 ~ 14时02分]"
         }
       ]
     },
