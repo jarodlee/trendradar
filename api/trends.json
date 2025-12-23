@@ -1,8 +1,25 @@
 {
-  "generated_at": "2025-12-23T08:44:29.662683+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-12-23T10:48:04.448645+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "教育",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "女孩打翻水杯背后是家庭教育缺位",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%89%93%E7%BF%BB%E6%B0%B4%E6%9D%AF%E8%83%8C%E5%90%8E%E6%98%AF%E5%AE%B6%E5%BA%AD%E6%95%99%E8%82%B2%E7%BC%BA%E4%BD%8D%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时47分 ~ 10时48分]"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
@@ -12,11 +29,12 @@
           "url": "https://wallstreetcn.com/articles/3761857",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时44分"
+          "appearance_count": 3,
+          "time_info": "[08时44分 ~ 10时48分]"
         }
       ]
     }
