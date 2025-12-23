@@ -1,8 +1,37 @@
 {
-  "generated_at": "2025-12-23T13:15:30.898665+08:00",
-  "total_titles_processed": 723,
+  "generated_at": "2025-12-23T14:16:41.608173+08:00",
+  "total_titles_processed": 812,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "旧金山大停电，谷歌无人车Waymo乱作一团，特斯拉赢麻了",
+          "url": "https://wallstreetcn.com/articles/3761857",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时44分 ~ 14时16分]"
+        },
+        {
+          "title": "尼日利亚与谷歌就新海底电缆进行深入谈判。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3025398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
+        }
+      ]
+    },
     {
       "keyword_group": "教育",
       "match_count": 1,
@@ -17,24 +46,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时47分 ~ 10时48分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "旧金山大停电，谷歌无人车Waymo乱作一团，特斯拉赢麻了",
-          "url": "https://wallstreetcn.com/articles/3761857",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时44分 ~ 13时15分]"
         }
       ]
     }
