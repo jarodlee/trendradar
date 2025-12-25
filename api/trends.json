@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T18:02:05.186471+08:00",
-  "total_titles_processed": 1117,
+  "generated_at": "2025-12-25T19:02:09.122316+08:00",
+  "total_titles_processed": 1199,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             29,
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时01分 ~ 18时02分]"
+          "appearance_count": 7,
+          "time_info": "[16时01分 ~ 19时02分]"
         },
         {
           "title": "七名小学生吵架到派出所评理",
