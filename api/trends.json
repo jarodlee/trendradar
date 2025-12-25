@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T17:12:54.370672+08:00",
-  "total_titles_processed": 1047,
+  "generated_at": "2025-12-25T18:02:05.186471+08:00",
+  "total_titles_processed": 1117,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小学",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "七名小学生吵架到派出所“评理”",
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             29,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时01分 ~ 17时12分]"
+          "appearance_count": 5,
+          "time_info": "[16时01分 ~ 18时02分]"
         },
         {
           "title": "七名小学生吵架到派出所评理",
@@ -25,11 +26,23 @@
           "source": "今日头条",
           "ranks": [
             25,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时01分 ~ 17时12分]"
+          "appearance_count": 5,
+          "time_info": "[16时01分 ~ 18时02分]"
+        },
+        {
+          "title": "小学火灾事故宿舍平面图公布",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E5%AE%BF%E8%88%8D%E5%B9%B3%E9%9D%A2%E5%9B%BE%E5%85%AC%E5%B8%83%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时01分 ~ 18时02分]"
         }
       ]
     },
