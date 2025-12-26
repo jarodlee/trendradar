@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T14:16:28.135630+08:00",
-  "total_titles_processed": 780,
+  "generated_at": "2025-12-26T15:13:13.088866+08:00",
+  "total_titles_processed": 871,
   "failed_sources": [],
   "trends": [
     {
@@ -33,8 +33,25 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时44分 ~ 14时16分]"
+          "appearance_count": 10,
+          "time_info": "[08时44分 ~ 15时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数DXY向上触及98，日内涨0.04%。",
+          "url": "https://flash.jin10.com/detail/20251226143852951800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
         }
       ]
     }
