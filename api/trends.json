@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T19:02:13.199884+08:00",
-  "total_titles_processed": 889,
+  "generated_at": "2025-12-28T20:16:57.058224+08:00",
+  "total_titles_processed": 969,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             13,
             16,
             14,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时11分 ~ 19时02分]"
+          "appearance_count": 8,
+          "time_info": "[15时11分 ~ 20时16分]"
         },
         {
           "title": "剑桥硕士面试小学英语教培被刷",
