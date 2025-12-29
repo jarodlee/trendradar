@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T20:19:12.564408+08:00",
-  "total_titles_processed": 1291,
+  "generated_at": "2025-12-29T21:31:31.735043+08:00",
+  "total_titles_processed": 1381,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.cls.cn/detail/2242969",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时01分 ~ 20时19分]"
+          "appearance_count": 5,
+          "time_info": "[19时01分 ~ 21时31分]"
         },
         {
           "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
           "url": "https://wallstreetcn.com/articles/3762071",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时18分 ~ 20时19分]"
+          "appearance_count": 3,
+          "time_info": "[20时18分 ~ 21时31分]"
         }
       ]
     },
