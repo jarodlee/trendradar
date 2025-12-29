@@ -1,8 +1,36 @@
 {
-  "generated_at": "2025-12-29T21:31:31.735043+08:00",
-  "total_titles_processed": 1381,
+  "generated_at": "2025-12-29T22:11:57.842139+08:00",
+  "total_titles_processed": 1446,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "教育",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "教育部为学前儿童建立学籍",
+          "url": "https://www.toutiao.com/trending/7589094438782205993/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "“一人一籍、籍随人走”，教育部为学前儿童建立学籍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272176",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        }
+      ]
+    },
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
@@ -16,8 +44,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时01分 ~ 21时31分]"
+          "appearance_count": 6,
+          "time_info": "[19时01分 ~ 22时11分]"
         },
         {
           "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
@@ -28,8 +56,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时18分 ~ 21时31分]"
+          "appearance_count": 4,
+          "time_info": "[20时18分 ~ 22时11分]"
         }
       ]
     },
@@ -83,23 +111,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[10时59分 ~ 20时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "教育",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "教育部为学前儿童建立学籍",
-          "url": "https://www.toutiao.com/trending/7589094438782205993/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
         }
       ]
     },
