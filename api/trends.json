@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T17:15:19.163847+08:00",
-  "total_titles_processed": 992,
+  "generated_at": "2025-12-30T18:02:26.353975+08:00",
+  "total_titles_processed": 1063,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,24 @@
           "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E9%80%9A%E6%8A%A5%E5%AE%B6%E9%95%BF%E7%AB%99%E6%8A%A4%E5%AD%A6%E5%B2%97%E6%97%B6%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
-            2
+            2,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 18时02分]"
+        },
+        {
+          "title": "“AI+教育”成这场收官发布会重头戏 明年将出台相关政策",
+          "url": "https://www.cls.cn/detail/2244074",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 18时02分]"
         },
         {
           "title": "为什么世界上绝大多数国家都有「一只箭轻松折断，五只箭合在一起就坚固无比」来教育兄弟齐心呢？",
@@ -27,8 +40,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时14分 ~ 17时15分]"
+          "appearance_count": 4,
+          "time_info": "[16时14分 ~ 18时02分]"
         },
         {
           "title": "从“量的扩增”到“质的飞跃”，我国数字教育实现五大领域全面提升",
@@ -52,17 +65,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时14分 ~ 16时15分]"
-        },
-        {
-          "title": "“AI+教育”成这场收官发布会重头戏 明年将出台相关政策",
-          "url": "https://www.cls.cn/detail/2244074",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
         },
         {
           "title": "教育部：计划明年出台人工智能赋能教育相关政策文件 系统部署推进人工智能教育和应用",
@@ -90,7 +92,7 @@
     },
     {
       "keyword_group": "小学",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "云南一小学食堂所用米线超保质期2.5小时被罚5万元，货值76元",
@@ -100,11 +102,12 @@
             20,
             16,
             10,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时55分 ~ 17时15分]"
+          "appearance_count": 10,
+          "time_info": "[11时55分 ~ 18时02分]"
         },
         {
           "title": "第一视角感受小学生的热情",
@@ -118,6 +121,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时44分 ~ 12时29分]"
+        },
+        {
+          "title": "小学食堂米线过期2.5小时被罚5万",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E9%A3%9F%E5%A0%82%E7%B1%B3%E7%BA%BF%E8%BF%87%E6%9C%9F2.5%E5%B0%8F%E6%97%B6%E8%A2%AB%E7%BD%9A5%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         }
       ]
     },
