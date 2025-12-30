@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T14:16:37.239651+08:00",
-  "total_titles_processed": 739,
+  "generated_at": "2025-12-30T15:14:09.701577+08:00",
+  "total_titles_processed": 817,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时55分 ~ 14时16分]"
+          "appearance_count": 6,
+          "time_info": "[11时55分 ~ 15时14分]"
         },
         {
           "title": "第一视角感受小学生的热情",
@@ -77,8 +77,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时44分 ~ 14时16分]"
+          "appearance_count": 8,
+          "time_info": "[08时44分 ~ 15时14分]"
         }
       ]
     }
