@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T11:55:57.990282+08:00",
-  "total_titles_processed": 550,
+  "generated_at": "2025-12-30T12:29:43.400216+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             20,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时44分 ~ 11时55分]"
+          "appearance_count": 3,
+          "time_info": "[08时44分 ~ 12时29分]"
         },
         {
           "title": "云南一小学食堂所用米线超保质期2.5小时被罚5万元，货值76元",
@@ -26,9 +27,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时55分 ~ 12时29分]"
         }
       ]
     },
@@ -62,8 +63,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时44分 ~ 11时55分]"
+          "appearance_count": 4,
+          "time_info": "[08时44分 ~ 12时29分]"
         }
       ]
     }
