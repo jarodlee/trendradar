@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T19:02:22.351676+08:00",
-  "total_titles_processed": 1141,
+  "generated_at": "2025-12-30T20:18:47.149282+08:00",
+  "total_titles_processed": 1250,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时15分 ~ 19时02分]"
+          "appearance_count": 4,
+          "time_info": "[17时15分 ~ 20时18分]"
         },
         {
           "title": "为什么世界上绝大多数国家都有「一只箭轻松折断，五只箭合在一起就坚固无比」来教育兄弟齐心呢？",
@@ -27,11 +27,12 @@
           "ranks": [
             20,
             19,
-            15
+            15,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时14分 ~ 19时02分]"
+          "appearance_count": 6,
+          "time_info": "[16时14分 ~ 20时18分]"
         },
         {
           "title": "教育局通报家长站护学岗时死亡",
@@ -109,8 +110,21 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时55分 ~ 19时02分]"
+          "appearance_count": 12,
+          "time_info": "[11时55分 ~ 20时18分]"
+        },
+        {
+          "title": "小学食堂米线过期2.5小时被罚5万",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E9%A3%9F%E5%A0%82%E7%B1%B3%E7%BA%BF%E8%BF%87%E6%9C%9F2.5%E5%B0%8F%E6%97%B6%E8%A2%AB%E7%BD%9A5%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            28,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时02分 ~ 20时18分]"
         },
         {
           "title": "第一视角感受小学生的热情",
@@ -126,25 +140,13 @@
           "time_info": "[08时44分 ~ 12时29分]"
         },
         {
-          "title": "小学食堂米线过期2.5小时被罚5万",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E9%A3%9F%E5%A0%82%E7%B1%B3%E7%BA%BF%E8%BF%87%E6%9C%9F2.5%E5%B0%8F%E6%97%B6%E8%A2%AB%E7%BD%9A5%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 19时02分]"
-        },
-        {
           "title": "张家界一小学家长在“护学岗”执勤时突然晕倒，抢救无效死亡",
           "url": "https://m.thepaper.cn/newsDetail_forward_32281704",
           "source": "澎湃新闻",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         }
