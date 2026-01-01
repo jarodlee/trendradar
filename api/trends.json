@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-01-01T11:01:40.813767+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2026-01-01T12:39:07.175747+08:00",
+  "total_titles_processed": 575,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "小学",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "临近考试小学生跪老师照片墙前磕头",
+          "url": "https://www.toutiao.com/trending/7590205554560581674/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 12时39分]"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
@@ -30,11 +47,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时51分 ~ 11时01分]"
+          "appearance_count": 5,
+          "time_info": "[08时51分 ~ 12时39分]"
         }
       ]
     }
