@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T10:31:22.635350+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2026-01-03T11:49:29.560040+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时42分 ~ 10时31分]"
+          "appearance_count": 3,
+          "time_info": "[08时42分 ~ 11时49分]"
         },
         {
           "title": "报道：OpenAI首款“AI硬件”是“智能笔”或“音频设备”，由鸿海独家代工，预计今年或明年推出",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时42分 ~ 10时31分]"
+          "appearance_count": 3,
+          "time_info": "[08时42分 ~ 11时49分]"
         },
         {
           "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
@@ -41,6 +41,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小学",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "宋威龙赵今麦小学生斗嘴",
+          "url": "https://www.douyin.com/hot/2355642",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
         }
       ]
     },
@@ -57,8 +74,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时42分 ~ 10时31分]"
+          "appearance_count": 3,
+          "time_info": "[08时42分 ~ 11时49分]"
         }
       ]
     },
