@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-01-04T12:40:02.626921+08:00",
-  "total_titles_processed": 552,
+  "generated_at": "2026-01-04T13:18:12.899883+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek 发布开年新论文，提出全新 MHC 架构，有何创新与应用前景？",
+          "url": "https://www.zhihu.com/question/1990117220391622363",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 13时18分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://git.aqde.net/trendradar/img/news.jpg"
 }
