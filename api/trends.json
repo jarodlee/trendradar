@@ -1,8 +1,37 @@
 {
-  "generated_at": "2026-01-06T15:16:53.288212+08:00",
-  "total_titles_processed": 878,
+  "generated_at": "2026-01-06T16:02:13.303988+08:00",
+  "total_titles_processed": 971,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "教育",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "广东惠州召开五千人干部警示教育大会后，5天内9名干部主动投案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32320697",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时45分 ~ 16时02分]"
+        },
+        {
+          "title": "最高法发布「家庭教育指导令」司法适用典型案例显示，未成年人违法犯罪与家庭教育高度相关，有何指导意义？",
+          "url": "https://www.zhihu.com/question/1991175699017528664",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时01分 ~ 16时02分]"
+        }
+      ]
+    },
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
@@ -42,11 +71,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时51分 ~ 15时16分]"
+          "appearance_count": 9,
+          "time_info": "[10时51分 ~ 16时02分]"
         },
         {
           "title": "委内瑞拉副总统宣誓就任代总统 OpenAI支持的公司推出家务机器人 | 环球市场",
@@ -58,24 +88,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "教育",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "广东惠州召开五千人干部警示教育大会后，5天内9名干部主动投案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32320697",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时45分 ~ 15时16分]"
         }
       ]
     }
