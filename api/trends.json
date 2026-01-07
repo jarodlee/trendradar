@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-07T14:02:36.564825+08:00",
-  "total_titles_processed": 768,
+  "generated_at": "2026-01-07T15:16:14.563449+08:00",
+  "total_titles_processed": 882,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小学",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "小学生寒风中站岗给老师敬礼无回应",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%AF%92%E9%A3%8E%E4%B8%AD%E7%AB%99%E5%B2%97%E7%BB%99%E8%80%81%E5%B8%88%E6%95%AC%E7%A4%BC%E6%97%A0%E5%9B%9E%E5%BA%94%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时15分 ~ 15时16分]"
+        },
         {
           "title": "小学生寒风中站岗给老师敬礼无回应",
           "url": "https://www.toutiao.com/trending/7592225553982685238/",
