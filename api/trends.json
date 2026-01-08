@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T16:02:27.054507+08:00",
-  "total_titles_processed": 977,
+  "generated_at": "2026-01-08T17:17:56.833933+08:00",
+  "total_titles_processed": 1102,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3762755",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时15分 ~ 16时02分]"
+          "appearance_count": 3,
+          "time_info": "[15时15分 ~ 17时17分]"
         },
         {
           "title": "谷歌 2019 年以来首次市值超苹果公司，反映出怎样的市场逻辑？",
