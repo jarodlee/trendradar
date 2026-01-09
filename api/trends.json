@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T17:17:04.715821+08:00",
-  "total_titles_processed": 1079,
+  "generated_at": "2026-01-09T18:03:01.162913+08:00",
+  "total_titles_processed": 1170,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 17时17分]"
+          "appearance_count": 5,
+          "time_info": "[16时02分 ~ 18时03分]"
         },
         {
           "title": "学生发型不达标遭老师按地剪发？重庆垫江县教育委员会已介入处理",
@@ -25,11 +26,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 17时17分]"
+          "appearance_count": 5,
+          "time_info": "[16时02分 ~ 18时03分]"
         },
         {
           "title": "AI应用方向反复活跃，引力传媒5天4板，易点天下、科德教育涨超10%，博瑞传播、蓝色光标、省广集团涨幅居前。",
