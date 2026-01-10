@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-01-10T17:02:18.988310+08:00",
-  "total_titles_processed": 833,
+  "generated_at": "2026-01-10T18:02:10.041504+08:00",
+  "total_titles_processed": 904,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 9,
       "titles": [
+        {
+          "title": "Deepseek或将发布新AI模型",
+          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            5,
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时45分 ~ 18时02分]"
+        },
         {
           "title": "为什么 deepseek 深度思考过程中总要先「嗯」一声？",
           "url": "https://www.zhihu.com/question/1923049081044960601",
@@ -23,31 +37,18 @@
           "time_info": "[08时44分 ~ 15时10分]"
         },
         {
-          "title": "Deepseek或将发布新AI模型",
-          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            5,
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时45分 ~ 17时02分]"
-        },
-        {
           "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
           "url": "https://wallstreetcn.com/articles/3762982",
           "source": "华尔街见闻",
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时44分 ~ 17时02分]"
+          "appearance_count": 12,
+          "time_info": "[08时44分 ~ 18时02分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -58,21 +59,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时10分 ~ 17时02分]"
-        },
-        {
-          "title": "UP主解读DeepSeek进化史",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E8%BF%9B%E5%8C%96%E5%8F%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时10分 ~ 17时02分]"
+          "appearance_count": 5,
+          "time_info": "[15时10分 ~ 18时02分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -84,8 +72,22 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时14分 ~ 17时02分]"
+          "appearance_count": 6,
+          "time_info": "[14时14分 ~ 18时02分]"
+        },
+        {
+          "title": "UP主解读DeepSeek进化史",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E8%BF%9B%E5%8C%96%E5%8F%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            15,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时10分 ~ 18时02分]"
         },
         {
           "title": "DeepSeek准备第二次震惊全世界",
@@ -236,8 +238,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时44分 ~ 17时02分]"
+          "appearance_count": 12,
+          "time_info": "[08时44分 ~ 18时02分]"
         }
       ]
     }
