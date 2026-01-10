@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T08:44:29.422256+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-10T10:45:46.239940+08:00",
+  "total_titles_processed": 442,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小学",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "内蒙古赤峰一小学校服里有薄膜",
@@ -34,39 +34,103 @@
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%B0%86%E8%BF%8E%E6%9D%A5%E2%80%9C%E8%B6%85%E7%9F%AD%E2%80%9D%E5%AD%A6%E6%9C%9F",
           "source": "百度热搜",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时44分 ~ 10时45分]"
+        },
+        {
+          "title": "小学生50元从跳蚤市场淘回茅台",
+          "url": "https://www.toutiao.com/trending/7592544189209018419/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时44分"
+          "time_info": "10时45分"
+        },
+        {
+          "title": "官方通报小学校服有薄膜",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B0%8F%E5%AD%A6%E6%A0%A1%E6%9C%8D%E6%9C%89%E8%96%84%E8%86%9C%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "为什么 deepseek 深度思考过程中总要先「嗯」一声？",
           "url": "https://www.zhihu.com/question/1923049081044960601",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时44分"
+          "appearance_count": 2,
+          "time_info": "[08时44分 ~ 10时45分]"
         },
         {
           "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
           "url": "https://wallstreetcn.com/articles/3762982",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时44分 ~ 10时45分]"
+        },
+        {
+          "title": "Deepseek或将发布新AI模型",
+          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时44分"
+          "time_info": "10时45分"
+        },
+        {
+          "title": "DeepSeekV4新模型或于春节前后发布",
+          "url": "https://www.baidu.com/s?wd=DeepSeekV4%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%88%96%E4%BA%8E%E6%98%A5%E8%8A%82%E5%89%8D%E5%90%8E%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据华尔街日报：OpenAI承诺投入1000万美元支持投票提案，与倡导组织就儿童安全措施达成和解。",
+          "url": "https://flash.jin10.com/detail/20260110094533475800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         }
       ]
     },
@@ -79,11 +143,12 @@
           "url": "https://wallstreetcn.com/articles/3762954",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时44分"
+          "appearance_count": 2,
+          "time_info": "[08时44分 ~ 10时45分]"
         }
       ]
     }
