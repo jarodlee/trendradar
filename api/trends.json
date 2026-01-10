@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T18:02:10.041504+08:00",
-  "total_titles_processed": 904,
+  "generated_at": "2026-01-10T19:02:51.399830+08:00",
+  "total_titles_processed": 952,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,23 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时45分 ~ 18时02分]"
+          "appearance_count": 12,
+          "time_info": "[10时45分 ~ 19时02分]"
+        },
+        {
+          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
+          "url": "https://wallstreetcn.com/articles/3762982",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[08时44分 ~ 19时02分]"
         },
         {
           "title": "为什么 deepseek 深度思考过程中总要先「嗯」一声？",
@@ -37,30 +52,17 @@
           "time_info": "[08时44分 ~ 15时10分]"
         },
         {
-          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
-          "url": "https://wallstreetcn.com/articles/3762982",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时44分 ~ 18时02分]"
-        },
-        {
           "title": "DeepSeek能否第二次震惊全世界",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E8%83%BD%E5%90%A6%E7%AC%AC%E4%BA%8C%E6%AC%A1%E9%9C%87%E6%83%8A%E5%85%A8%E4%B8%96%E7%95%8C",
           "source": "百度热搜",
           "ranks": [
             4,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时10分 ~ 18时02分]"
+          "appearance_count": 6,
+          "time_info": "[15时10分 ~ 19时02分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -69,11 +71,12 @@
           "ranks": [
             6,
             22,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时14分 ~ 18时02分]"
+          "appearance_count": 7,
+          "time_info": "[14时14分 ~ 19时02分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -83,11 +86,12 @@
             4,
             15,
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时10分 ~ 18时02分]"
+          "appearance_count": 6,
+          "time_info": "[15时10分 ~ 19时02分]"
         },
         {
           "title": "DeepSeek准备第二次震惊全世界",
@@ -139,8 +143,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时45分 ~ 17时02分]"
+          "appearance_count": 9,
+          "time_info": "[10时45分 ~ 19时02分]"
         },
         {
           "title": "内蒙古赤峰一小学校服里有薄膜",
@@ -184,11 +188,12 @@
           "ranks": [
             14,
             15,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时14分 ~ 16时02分]"
+          "appearance_count": 4,
+          "time_info": "[14时14分 ~ 19时02分]"
         },
         {
           "title": "官方通报小学校服有薄膜",
@@ -238,8 +243,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时44分 ~ 18时02分]"
+          "appearance_count": 13,
+          "time_info": "[08时44分 ~ 19时02分]"
         }
       ]
     }
