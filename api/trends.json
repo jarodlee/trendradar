@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T11:51:10.030230+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2026-01-10T12:23:56.814748+08:00",
+  "total_titles_processed": 555,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,17 @@
           "time_info": "08时44分"
         },
         {
+          "title": "小学生50元从跳蚤市场淘回茅台",
+          "url": "https://www.toutiao.com/trending/7592544189209018419/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时45分 ~ 12时23分]"
+        },
+        {
           "title": "中小学将迎来“超短”学期",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%B0%86%E8%BF%8E%E6%9D%A5%E2%80%9C%E8%B6%85%E7%9F%AD%E2%80%9D%E5%AD%A6%E6%9C%9F",
           "source": "百度热搜",
@@ -41,17 +52,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时44分 ~ 11时51分]"
-        },
-        {
-          "title": "小学生50元从跳蚤市场淘回茅台",
-          "url": "https://www.toutiao.com/trending/7592544189209018419/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 11时51分]"
         },
         {
           "title": "官方通报小学校服有薄膜",
@@ -81,8 +81,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时44分 ~ 11时51分]"
+          "appearance_count": 5,
+          "time_info": "[08时44分 ~ 12时23分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -90,11 +90,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 11时51分]"
+          "appearance_count": 4,
+          "time_info": "[10时45分 ~ 12时23分]"
         },
         {
           "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
@@ -105,8 +106,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时44分 ~ 11时51分]"
+          "appearance_count": 5,
+          "time_info": "[08时44分 ~ 12时23分]"
         },
         {
           "title": "DeepSeekV4新模型或于春节前后发布",
@@ -131,11 +132,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时45分 ~ 11时51分]"
+          "appearance_count": 3,
+          "time_info": "[10时45分 ~ 12时23分]"
         }
       ]
     },
@@ -152,8 +154,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时44分 ~ 11时51分]"
+          "appearance_count": 5,
+          "time_info": "[08时44分 ~ 12时23分]"
         }
       ]
     }
