@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T21:23:01.381697+08:00",
-  "total_titles_processed": 1101,
+  "generated_at": "2026-01-10T22:02:42.089607+08:00",
+  "total_titles_processed": 1142,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时45分 ~ 21时23分]"
+          "appearance_count": 17,
+          "time_info": "[10时45分 ~ 22时02分]"
         },
         {
           "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
@@ -61,8 +61,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时10分 ~ 21时23分]"
+          "appearance_count": 11,
+          "time_info": "[15时10分 ~ 22时02分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -76,8 +76,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时10分 ~ 21时23分]"
+          "appearance_count": 11,
+          "time_info": "[15时10分 ~ 22时02分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -99,11 +99,12 @@
           "url": "https://www.zhihu.com/question/1993329446883651767",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时22分 ~ 21时23分]"
+          "appearance_count": 3,
+          "time_info": "[21时22分 ~ 22时02分]"
         },
         {
           "title": "DeepSeek准备第二次震惊全世界",
@@ -266,8 +267,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时44分 ~ 21时23分]"
+          "appearance_count": 18,
+          "time_info": "[08时44分 ~ 22时02分]"
         }
       ]
     }
