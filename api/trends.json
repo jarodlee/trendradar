@@ -1,12 +1,113 @@
 {
-  "generated_at": "2026-01-10T13:12:50.838941+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2026-01-10T14:14:40.372889+08:00",
+  "total_titles_processed": 650,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "小学",
-      "match_count": 5,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 7,
       "titles": [
+        {
+          "title": "为什么 deepseek 深度思考过程中总要先「嗯」一声？",
+          "url": "https://www.zhihu.com/question/1923049081044960601",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时44分 ~ 14时14分]"
+        },
+        {
+          "title": "Deepseek或将发布新AI模型",
+          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时45分 ~ 14时14分]"
+        },
+        {
+          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
+          "url": "https://wallstreetcn.com/articles/3762982",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时44分 ~ 14时14分]"
+        },
+        {
+          "title": "DeepSeek准备第二次震惊全世界",
+          "url": "https://www.toutiao.com/trending/7593519269174840858/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时12分"
+        },
+        {
+          "title": "DeepSeek能第二次震惊世界吗",
+          "url": "https://www.toutiao.com/trending/7593519269174840858/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
+          "title": "DeepSeek准备第二次震惊全世界",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%87%86%E5%A4%87%E7%AC%AC%E4%BA%8C%E6%AC%A1%E9%9C%87%E6%83%8A%E5%85%A8%E4%B8%96%E7%95%8C",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
+          "title": "DeepSeekV4新模型或于春节前后发布",
+          "url": "https://www.baidu.com/s?wd=DeepSeekV4%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%88%96%E4%BA%8E%E6%98%A5%E8%8A%82%E5%89%8D%E5%90%8E%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小学",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "小学生50元从跳蚤市场淘回茅台",
+          "url": "https://www.toutiao.com/trending/7592544189209018419/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时45分 ~ 14时14分]"
+        },
         {
           "title": "内蒙古赤峰一小学校服里有薄膜",
           "url": "https://s.weibo.com/weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E8%B5%A4%E5%B3%B0%E4%B8%80%E5%B0%8F%E5%AD%A6%E6%A0%A1%E6%9C%8D%E9%87%8C%E6%9C%89%E8%96%84%E8%86%9C%23&t=31&band_rank=2&Refer=top",
@@ -17,18 +118,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
-        },
-        {
-          "title": "小学生50元从跳蚤市场淘回茅台",
-          "url": "https://www.toutiao.com/trending/7592544189209018419/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时45分 ~ 13时12分]"
         },
         {
           "title": "中小学生将迎来“超短”学期",
@@ -65,73 +154,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时45分 ~ 11时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "为什么 deepseek 深度思考过程中总要先「嗯」一声？",
-          "url": "https://www.zhihu.com/question/1923049081044960601",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3,
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时44分 ~ 13时12分]"
         },
         {
-          "title": "Deepseek或将发布新AI模型",
-          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时45分 ~ 13时12分]"
-        },
-        {
-          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
-          "url": "https://wallstreetcn.com/articles/3762982",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时44分 ~ 13时12分]"
-        },
-        {
-          "title": "DeepSeek准备第二次震惊全世界",
-          "url": "https://www.toutiao.com/trending/7593519269174840858/",
+          "title": "官方通报内蒙古一小学校服夹层有薄膜",
+          "url": "https://www.toutiao.com/trending/7593546487041101362/",
           "source": "今日头条",
           "ranks": [
-            6
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
-          "title": "DeepSeekV4新模型或于春节前后发布",
-          "url": "https://www.baidu.com/s?wd=DeepSeekV4%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%88%96%E4%BA%8E%E6%98%A5%E8%8A%82%E5%89%8D%E5%90%8E%E5%8F%91%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
+          "time_info": "14时14分"
         }
       ]
     },
@@ -147,11 +180,12 @@
             3,
             9,
             13,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时45分 ~ 13时12分]"
+          "appearance_count": 5,
+          "time_info": "[10时45分 ~ 14时14分]"
         }
       ]
     },
@@ -168,8 +202,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时44分 ~ 13时12分]"
+          "appearance_count": 7,
+          "time_info": "[08时44分 ~ 14时14分]"
         }
       ]
     }
