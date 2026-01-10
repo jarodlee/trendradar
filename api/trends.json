@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T15:10:41.294690+08:00",
-  "total_titles_processed": 709,
+  "generated_at": "2026-01-10T16:02:22.042978+08:00",
+  "total_titles_processed": 764,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "ranks": [
             7,
             5,
-            4
+            4,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时45分 ~ 15时10分]"
+          "appearance_count": 8,
+          "time_info": "[10时45分 ~ 16时02分]"
         },
         {
           "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
@@ -45,41 +46,44 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时44分 ~ 15时10分]"
+          "appearance_count": 9,
+          "time_info": "[08时44分 ~ 16时02分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E8%83%BD%E5%90%A6%E7%AC%AC%E4%BA%8C%E6%AC%A1%E9%9C%87%E6%83%8A%E5%85%A8%E4%B8%96%E7%95%8C",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时10分 ~ 16时02分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E8%BF%9B%E5%8C%96%E5%8F%B2",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时10分 ~ 16时02分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
           "url": "https://www.toutiao.com/trending/7593519269174840858/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时14分 ~ 15时10分]"
+          "appearance_count": 3,
+          "time_info": "[14时14分 ~ 16时02分]"
         },
         {
           "title": "DeepSeek准备第二次震惊全世界",
@@ -169,6 +173,19 @@
           "time_info": "[08时44分 ~ 11时51分]"
         },
         {
+          "title": "官方通报内蒙古一小学校服夹层有薄膜",
+          "url": "https://www.toutiao.com/trending/7593546487041101362/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时14分 ~ 16时02分]"
+        },
+        {
           "title": "官方通报小学校服有薄膜",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B0%8F%E5%AD%A6%E6%A0%A1%E6%9C%8D%E6%9C%89%E8%96%84%E8%86%9C%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -179,18 +196,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时45分 ~ 11时51分]"
-        },
-        {
-          "title": "官方通报内蒙古一小学校服夹层有薄膜",
-          "url": "https://www.toutiao.com/trending/7593546487041101362/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时14分 ~ 15时10分]"
         }
       ]
     },
@@ -228,8 +233,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时44分 ~ 15时10分]"
+          "appearance_count": 9,
+          "time_info": "[08时44分 ~ 16时02分]"
         }
       ]
     }
