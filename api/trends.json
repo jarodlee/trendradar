@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T21:24:09.785808+08:00",
-  "total_titles_processed": 1112,
+  "generated_at": "2026-01-11T22:02:05.066940+08:00",
+  "total_titles_processed": 1163,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时51分 ~ 21时24分]"
+          "appearance_count": 18,
+          "time_info": "[08时51分 ~ 22时02分]"
         },
         {
           "title": "有新论文暗示 DeepSeekV4 已完成训练，这对未来 AI 大模型发展意味着什么？",
@@ -81,11 +81,12 @@
           "ranks": [
             27,
             4,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时01分 ~ 21时24分]"
+          "appearance_count": 7,
+          "time_info": "[19时01分 ~ 22时02分]"
         },
         {
           "title": "当我和闺蜜说别小学生穿搭了",
