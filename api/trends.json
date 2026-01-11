@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T17:02:30.660203+08:00",
-  "total_titles_processed": 797,
+  "generated_at": "2026-01-11T18:02:15.534430+08:00",
+  "total_titles_processed": 860,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时51分 ~ 17时02分]"
+          "appearance_count": 11,
+          "time_info": "[08时51分 ~ 18时02分]"
         },
         {
           "title": "有新论文暗示 DeepSeekV4 已完成训练，这对未来 AI 大模型发展意味着什么？",
