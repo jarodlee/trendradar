@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T13:17:28.918688+08:00",
-  "total_titles_processed": 574,
+  "generated_at": "2026-01-11T14:03:01.887495+08:00",
+  "total_titles_processed": 619,
   "failed_sources": [],
   "trends": [
     {
@@ -8,16 +8,28 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "Deepseek或将发布新AI模型",
+          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时51分 ~ 14时03分]"
+        },
+        {
           "title": "有新论文暗示 DeepSeekV4 已完成训练，这对未来 AI 大模型发展意味着什么？",
           "url": "https://www.zhihu.com/question/1990551534715556923",
           "source": "知乎",
           "ranks": [
             8,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 13时17分]"
+          "appearance_count": 4,
+          "time_info": "[12时38分 ~ 14时03分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -27,17 +39,6 @@
             11,
             14,
             13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时51分 ~ 13时17分]"
-        },
-        {
-          "title": "Deepseek或将发布新AI模型",
-          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -96,11 +97,12 @@
             1,
             2,
             3,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时51分 ~ 13时17分]"
+          "appearance_count": 6,
+          "time_info": "[08时51分 ~ 14时03分]"
         }
       ]
     },
