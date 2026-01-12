@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T14:19:38.526195+08:00",
-  "total_titles_processed": 765,
+  "generated_at": "2026-01-12T15:19:09.467583+08:00",
+  "total_titles_processed": 850,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时48分 ~ 14时19分]"
+          "appearance_count": 8,
+          "time_info": "[08时48分 ~ 15时19分]"
         },
         {
           "title": "小学生家中自杀留下遗书",
@@ -39,6 +39,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时08分 ~ 12时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌联合沃尔玛等零售商扩展AI模型购物功能",
+          "url": "https://flash.jin10.com/detail/20260112123727337800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 14时19分]"
+        },
+        {
+          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
+          "url": "https://wallstreetcn.com/articles/3763059",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 15时19分]"
         }
       ]
     },
@@ -101,24 +130,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌联合沃尔玛等零售商扩展AI模型购物功能",
-          "url": "https://flash.jin10.com/detail/20260112123727337800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 14时19分]"
         }
       ]
     },
