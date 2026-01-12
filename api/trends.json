@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T17:21:06.864934+08:00",
-  "total_titles_processed": 1049,
+  "generated_at": "2026-01-12T18:14:15.510975+08:00",
+  "total_titles_processed": 1145,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时48分 ~ 17时21分]"
+          "appearance_count": 13,
+          "time_info": "[08时48分 ~ 18时14分]"
         },
         {
           "title": "12 岁小学生家中自杀，遗书称写不会英语单词，其母起诉学校案将二审，案件责任如何界定？如何避免此类悲剧？",
@@ -26,8 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 17时21分]"
+          "appearance_count": 5,
+          "time_info": "[16时02分 ~ 18时14分]"
         },
         {
           "title": "小学生家中自杀留下遗书",
@@ -65,8 +65,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时18分 ~ 17时21分]"
+          "appearance_count": 7,
+          "time_info": "[15时18分 ~ 18时14分]"
         },
         {
           "title": "谷歌联合沃尔玛等零售商扩展AI模型购物功能",
@@ -87,7 +87,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         }
