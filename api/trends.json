@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T12:09:10.529037+08:00",
-  "total_titles_processed": 591,
+  "generated_at": "2026-01-12T13:21:17.650252+08:00",
+  "total_titles_processed": 685,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时48分 ~ 12时09分]"
+          "appearance_count": 5,
+          "time_info": "[08时48分 ~ 13时21分]"
         },
         {
           "title": "小学生家中自杀留下遗书",
@@ -101,6 +101,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌联合沃尔玛等零售商扩展AI模型购物功能",
+          "url": "https://flash.jin10.com/detail/20260112123727337800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         }
       ]
     },
