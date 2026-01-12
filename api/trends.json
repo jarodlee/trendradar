@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T18:14:15.510975+08:00",
-  "total_titles_processed": 1145,
+  "generated_at": "2026-01-12T19:11:30.204105+08:00",
+  "total_titles_processed": 1251,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时02分 ~ 18时14分]"
+          "appearance_count": 6,
+          "time_info": "[16时02分 ~ 19时11分]"
         },
         {
           "title": "小学生家中自杀留下遗书",
@@ -62,11 +62,12 @@
           "url": "https://wallstreetcn.com/articles/3763059",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时18分 ~ 18时14分]"
+          "appearance_count": 8,
+          "time_info": "[15时18分 ~ 19时11分]"
         },
         {
           "title": "谷歌联合沃尔玛等零售商扩展AI模型购物功能",
