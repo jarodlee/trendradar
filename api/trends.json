@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T12:32:01.041892+08:00",
-  "total_titles_processed": 612,
+  "generated_at": "2026-01-13T13:17:10.338161+08:00",
+  "total_titles_processed": 666,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时41分 ~ 12时32分]"
+          "appearance_count": 8,
+          "time_info": "[08时41分 ~ 13时17分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -24,11 +24,24 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时41分 ~ 12时32分]"
+          "appearance_count": 8,
+          "time_info": "[08时41分 ~ 13时17分]"
+        },
+        {
+          "title": "金银再创历史新高 谷歌市值首破4万亿美元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2255551",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时49分 ~ 13时17分]"
         },
         {
           "title": "iPhone官宣接入Gemini",
@@ -41,17 +54,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时49分 ~ 11时57分]"
-        },
-        {
-          "title": "金银再创历史新高 谷歌市值首破4万亿美元 | 环球市场",
-          "url": "https://www.cls.cn/detail/2255551",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时49分 ~ 12时32分]"
         },
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -79,8 +81,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时56分 ~ 12时32分]"
+          "appearance_count": 6,
+          "time_info": "[11时56分 ~ 13时17分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文",
@@ -88,11 +90,12 @@
           "source": "百度热搜",
           "ranks": [
             10,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时49分 ~ 12时32分]"
+          "appearance_count": 7,
+          "time_info": "[10时49分 ~ 13时17分]"
         }
       ]
     },
