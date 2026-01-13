@@ -1,197 +1,61 @@
 {
-  "generated_at": "2026-01-12T22:14:58.080472+08:00",
-  "total_titles_processed": 1559,
+  "generated_at": "2026-01-13T08:41:40.006984+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "小学",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "官方辟谣小学生50元买茅台",
-          "url": "https://www.toutiao.com/trending/7593338071703306283/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时48分 ~ 18时14分]"
-        },
-        {
-          "title": "12 岁小学生家中自杀，遗书称写不会英语单词，其母起诉学校案将二审，案件责任如何界定？如何避免此类悲剧？",
-          "url": "https://www.zhihu.com/question/1994030534972629927",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时02分 ~ 19时11分]"
-        },
-        {
-          "title": "小学生家中自杀留下遗书",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%AE%B6%E4%B8%AD%E8%87%AA%E6%9D%80%E7%95%99%E4%B8%8B%E9%81%97%E4%B9%A6%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 12时09分]"
-        },
-        {
-          "title": "英语老师回应12岁小学生自杀",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E8%AF%AD%E8%80%81%E5%B8%88%E5%9B%9E%E5%BA%9412%E5%B2%81%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%87%AA%E6%9D%80%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 12时09分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美元指数DXY失守99，日内跌幅0.18%。",
-          "url": "https://flash.jin10.com/detail/20260112083545120800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时48分"
-        },
-        {
-          "title": "美元指数DXY日内跌超0.50%，现报98.68。",
-          "url": "https://flash.jin10.com/detail/20260112214654921800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "美元指数日内跌超0.50%，现报98.68。",
-          "url": "https://wallstreetcn.com/livenews/3035384",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "美元指数DXY短线下跌10点，现报99.13。",
-          "url": "https://flash.jin10.com/detail/20260112080938113800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时48分"
-        }
-      ]
-    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
         {
+          "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时41分"
+        },
+        {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
           "url": "https://wallstreetcn.com/articles/3763059",
           "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时18分 ~ 22时14分]"
-        },
-        {
-          "title": "谷歌联合沃尔玛等零售商扩展AI模型购物功能",
-          "url": "https://flash.jin10.com/detail/20260112123727337800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 14时19分]"
-        },
-        {
-          "title": "美股盘前，明星科技股普跌，英伟达(NVDA.O)跌1.2%、谷歌C(GOOG.O)跌0.95%、甲骨文(ORCL.N)跌1.7%、英特尔(INTC.O)跌2%。",
-          "url": "https://flash.jin10.com/detail/20260112170114771800",
-          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时21分"
+          "time_info": "08时41分"
+        },
+        {
+          "title": "苹果选中Gemini，谷歌登上“4万亿”",
+          "url": "https://wallstreetcn.com/articles/3763115",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时41分"
         }
       ]
     },
     {
-      "keyword_group": "教育",
+      "keyword_group": "小学",
       "match_count": 1,
       "titles": [
         {
-          "title": "如何看待教育部拟同意华北科技学院、防灾科技学院更名为应急管理大学？",
-          "url": "https://www.zhihu.com/question/1991210541499298340",
-          "source": "知乎",
+          "title": "小学生上演“教科书级别”变脸",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E7%94%9F%E4%B8%8A%E6%BC%94%E2%80%9C%E6%95%99%E7%A7%91%E4%B9%A6%E7%BA%A7%E5%88%AB%E2%80%9D%E5%8F%98%E8%84%B8",
+          "source": "百度热搜",
           "ranks": [
-            12
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Deepseek或将发布新AI模型",
-          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国外汇交易中心（CFETS）：1月9日人民币汇率指数按周涨0.55至98.54。",
-          "url": "https://wallstreetcn.com/livenews/3034829",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时48分"
+          "time_info": "08时41分"
         }
       ]
     }
