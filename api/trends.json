@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T21:34:08.817367+08:00",
-  "total_titles_processed": 1444,
+  "generated_at": "2026-01-13T22:15:08.141710+08:00",
+  "total_titles_processed": 1529,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[08时41分 ~ 21时34分]"
+          "appearance_count": 21,
+          "time_info": "[08时41分 ~ 22时15分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -31,8 +31,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[08时41分 ~ 21时34分]"
+          "appearance_count": 21,
+          "time_info": "[08时41分 ~ 22时15分]"
         },
         {
           "title": "金银再创历史新高 谷歌市值首破4万亿美元 | 环球市场",
@@ -71,6 +71,18 @@
           "time_info": "[15时16分 ~ 16时15分]"
         },
         {
+          "title": "UP主锐评苹果谷歌合作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时33分 ~ 22时15分]"
+        },
+        {
           "title": "苹果接入Gemini模型想做啥",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%8E%A5%E5%85%A5Gemini%E6%A8%A1%E5%9E%8B%E6%83%B3%E5%81%9A%E5%95%A5",
           "source": "bilibili 热搜",
@@ -95,17 +107,6 @@
           "time_info": "[17时17分 ~ 18时02分]"
         },
         {
-          "title": "UP主锐评苹果谷歌合作",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时33分 ~ 21时34分]"
-        },
-        {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
           "url": "https://wallstreetcn.com/articles/3763059",
           "source": "华尔街见闻",
@@ -120,8 +121,20 @@
     },
     {
       "keyword_group": "小学",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "内蒙古再通报一小学校服有薄膜：系TPU，可应用于制衣等",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32376388",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时33分 ~ 22时15分]"
+        },
         {
           "title": "内蒙古小学校服薄膜调查结果",
           "url": "https://s.weibo.com/weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E5%B0%8F%E5%AD%A6%E6%A0%A1%E6%9C%8D%E8%96%84%E8%86%9C%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%23&t=31&band_rank=10&Refer=top",
@@ -134,15 +147,15 @@
           "time_info": "[20时19分 ~ 20时20分]"
         },
         {
-          "title": "内蒙古再通报一小学校服有薄膜：系TPU，可应用于制衣等",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32376388",
-          "source": "澎湃新闻",
+          "title": "小学校服内发现薄膜 当地通报",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E6%A0%A1%E6%9C%8D%E5%86%85%E5%8F%91%E7%8E%B0%E8%96%84%E8%86%9C+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
           "ranks": [
-            17
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时33分 ~ 21时34分]"
+          "time_info": "[22时14分 ~ 22时15分]"
         },
         {
           "title": "小学生上演“教科书级别”变脸",
@@ -154,6 +167,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "教育",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "上海母亲雨雪天罚女儿跪行街头，称是「自家教育方式」，亲生父母就可以体罚孩子吗？这会对孩子造成什么影响？",
+          "url": "https://www.zhihu.com/question/1994086138000991484",
+          "source": "知乎",
+          "ranks": [
+            13,
+            10,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时02分 ~ 22时15分]"
+        },
+        {
+          "title": "老师设计「憋笑免作业」游戏，小孩哥扛住压力为全班赢得胜利，这种教育方式怎么样？我们该为这场胜利鼓掌吗？",
+          "url": "https://www.zhihu.com/question/1994169987569508510",
+          "source": "知乎",
+          "ranks": [
+            18,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时19分 ~ 22时15分]"
+        },
+        {
+          "title": "苹果(AAPL.O)：苹果创作者工作室的教育订阅服务每月收费2.99美元。",
+          "url": "https://flash.jin10.com/detail/20260113220556952800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         }
       ]
     },
@@ -175,8 +232,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时56分 ~ 21时34分]"
+          "appearance_count": 19,
+          "time_info": "[11时56分 ~ 22时15分]"
+        },
+        {
+          "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
+          "url": "https://wallstreetcn.com/articles/3763151",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时17分 ~ 22时15分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文",
@@ -191,50 +260,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[10时49分 ~ 15时16分]"
-        },
-        {
-          "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
-          "url": "https://wallstreetcn.com/articles/3763151",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时17分 ~ 21时34分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "教育",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "上海母亲雨雪天罚女儿跪行街头，称是「自家教育方式」，亲生父母就可以体罚孩子吗？这会对孩子造成什么影响？",
-          "url": "https://www.zhihu.com/question/1994086138000991484",
-          "source": "知乎",
-          "ranks": [
-            13,
-            10,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时02分 ~ 21时34分]"
-        },
-        {
-          "title": "老师设计「憋笑免作业」游戏，小孩哥扛住压力为全班赢得胜利，这种教育方式怎么样？我们该为这场胜利鼓掌吗？",
-          "url": "https://www.zhihu.com/question/1994169987569508510",
-          "source": "知乎",
-          "ranks": [
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时19分 ~ 21时34分]"
         }
       ]
     },
@@ -282,11 +307,12 @@
             11,
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时02分 ~ 21时34分]"
+          "appearance_count": 13,
+          "time_info": "[14时02分 ~ 22时15分]"
         }
       ]
     }
