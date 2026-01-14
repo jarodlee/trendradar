@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T17:18:09.439425+08:00",
-  "total_titles_processed": 1073,
+  "generated_at": "2026-01-14T18:13:15.848642+08:00",
+  "total_titles_processed": 1159,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "教育部教育督导局副局长杨宇接受纪律审查和监察调查",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时02分 ~ 17时18分]"
+        },
+        {
+          "title": "教育部教育督导局副局长杨宇被查",
+          "url": "https://www.toutiao.com/trending/7595108590474952742/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
         },
         {
           "title": "老师设计「憋笑免作业」游戏，小孩哥扛住压力为全班赢得胜利，这种教育方式怎么样？我们该为这场胜利鼓掌吗？",
@@ -117,8 +128,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 17时18分]"
+          "appearance_count": 5,
+          "time_info": "[16时02分 ~ 18时13分]"
         },
         {
           "title": "Apple 芯片设计全球领先，为何大模型训练却认输外包给 Google？",
@@ -146,8 +157,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时47分 ~ 17时18分]"
+          "appearance_count": 14,
+          "time_info": "[08时47分 ~ 18时13分]"
         },
         {
           "title": "小学校服内发现薄膜 当地通报",
