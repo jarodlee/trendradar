@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T12:05:45.334892+08:00",
-  "total_titles_processed": 560,
+  "generated_at": "2026-01-14T13:15:35.644428+08:00",
+  "total_titles_processed": 662,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时47分 ~ 12时05分]"
+          "appearance_count": 5,
+          "time_info": "[08时47分 ~ 13时15分]"
         },
         {
           "title": "小学校服内发现薄膜 当地通报",
@@ -55,11 +55,12 @@
           "ranks": [
             12,
             5,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时47分 ~ 12时05分]"
+          "appearance_count": 5,
+          "time_info": "[08时47分 ~ 13时15分]"
         }
       ]
     },
@@ -93,8 +94,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时47分 ~ 12时05分]"
+          "appearance_count": 5,
+          "time_info": "[08时47分 ~ 13时15分]"
         }
       ]
     },
