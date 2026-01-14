@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T10:58:05.409808+08:00",
-  "total_titles_processed": 450,
+  "generated_at": "2026-01-14T12:05:45.334892+08:00",
+  "total_titles_processed": 560,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时47分 ~ 10时58分]"
+          "appearance_count": 4,
+          "time_info": "[08时47分 ~ 12时05分]"
         },
         {
           "title": "小学校服内发现薄膜 当地通报",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时57分 ~ 10时58分]"
+          "appearance_count": 3,
+          "time_info": "[10时57分 ~ 12时05分]"
         }
       ]
     },
@@ -45,8 +45,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时47分 ~ 10时58分]"
+          "appearance_count": 4,
+          "time_info": "[08时47分 ~ 12时05分]"
         },
         {
           "title": "梁文锋新论文剧透下一代模型",
@@ -54,11 +54,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            5
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时47分 ~ 10时58分]"
+          "appearance_count": 4,
+          "time_info": "[08时47分 ~ 12时05分]"
         }
       ]
     },
@@ -92,8 +93,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时47分 ~ 10时58分]"
+          "appearance_count": 4,
+          "time_info": "[08时47分 ~ 12时05分]"
         }
       ]
     },
