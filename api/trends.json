@@ -1,295 +1,84 @@
 {
-  "generated_at": "2026-01-13T22:15:08.141710+08:00",
-  "total_titles_processed": 1529,
+  "generated_at": "2026-01-14T08:47:18.839612+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
       "titles": [
         {
-          "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
-          "url": "https://wallstreetcn.com/articles/3763053",
+          "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
+          "url": "https://wallstreetcn.com/articles/3763151",
           "source": "华尔街见闻",
           "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[08时41分 ~ 22时15分]"
-        },
-        {
-          "title": "苹果选中Gemini，谷歌登上“4万亿”",
-          "url": "https://wallstreetcn.com/articles/3763115",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            8,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[08时41分 ~ 22时15分]"
-        },
-        {
-          "title": "金银再创历史新高 谷歌市值首破4万亿美元 | 环球市场",
-          "url": "https://www.cls.cn/detail/2255551",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时49分 ~ 14时02分]"
-        },
-        {
-          "title": "iPhone官宣接入Gemini",
-          "url": "https://search.bilibili.com/all?keyword=iPhone%E5%AE%98%E5%AE%A3%E6%8E%A5%E5%85%A5Gemini",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时49分 ~ 11时57分]"
-        },
-        {
-          "title": "苹果联姻谷歌意味着什么",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E8%81%94%E5%A7%BB%E8%B0%B7%E6%AD%8C%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时16分 ~ 16时15分]"
-        },
-        {
-          "title": "UP主锐评苹果谷歌合作",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时33分 ~ 22时15分]"
-        },
-        {
-          "title": "苹果接入Gemini模型想做啥",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%8E%A5%E5%85%A5Gemini%E6%A8%A1%E5%9E%8B%E6%83%B3%E5%81%9A%E5%95%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时16分 ~ 16时15分]"
-        },
-        {
-          "title": "谷歌今年将在越南研发并生产高端手机。",
-          "url": "https://flash.jin10.com/detail/20260113170321463800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 18时02分]"
-        },
-        {
-          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
-          "url": "https://wallstreetcn.com/articles/3763059",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时41分"
+          "time_info": "08时47分"
+        },
+        {
+          "title": "梁文锋新论文剧透下一代模型",
+          "url": "https://search.bilibili.com/all?keyword=%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87%E5%89%A7%E9%80%8F%E4%B8%8B%E4%B8%80%E4%BB%A3%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时47分"
         }
       ]
     },
     {
       "keyword_group": "小学",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "内蒙古再通报一小学校服有薄膜：系TPU，可应用于制衣等",
           "url": "https://m.thepaper.cn/newsDetail_forward_32376388",
           "source": "澎湃新闻",
           "ranks": [
-            17,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时33分 ~ 22时15分]"
-        },
-        {
-          "title": "内蒙古小学校服薄膜调查结果",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E5%B0%8F%E5%AD%A6%E6%A0%A1%E6%9C%8D%E8%96%84%E8%86%9C%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时19分 ~ 20时20分]"
-        },
-        {
-          "title": "小学校服内发现薄膜 当地通报",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E6%A0%A1%E6%9C%8D%E5%86%85%E5%8F%91%E7%8E%B0%E8%96%84%E8%86%9C+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时14分 ~ 22时15分]"
-        },
-        {
-          "title": "小学生上演“教科书级别”变脸",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E7%94%9F%E4%B8%8A%E6%BC%94%E2%80%9C%E6%95%99%E7%A7%91%E4%B9%A6%E7%BA%A7%E5%88%AB%E2%80%9D%E5%8F%98%E8%84%B8",
-          "source": "百度热搜",
-          "ranks": [
-            24
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时41分"
+          "time_info": "08时47分"
         }
       ]
     },
     {
       "keyword_group": "教育",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "上海母亲雨雪天罚女儿跪行街头，称是「自家教育方式」，亲生父母就可以体罚孩子吗？这会对孩子造成什么影响？",
-          "url": "https://www.zhihu.com/question/1994086138000991484",
-          "source": "知乎",
-          "ranks": [
-            13,
-            10,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时02分 ~ 22时15分]"
-        },
         {
           "title": "老师设计「憋笑免作业」游戏，小孩哥扛住压力为全班赢得胜利，这种教育方式怎么样？我们该为这场胜利鼓掌吗？",
           "url": "https://www.zhihu.com/question/1994169987569508510",
           "source": "知乎",
           "ranks": [
-            18,
-            13,
-            10
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时19分 ~ 22时15分]"
-        },
-        {
-          "title": "苹果(AAPL.O)：苹果创作者工作室的教育订阅服务每月收费2.99美元。",
-          "url": "https://flash.jin10.com/detail/20260113220556952800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时15分"
+          "time_info": "08时47分"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
       "titles": [
         {
-          "title": "梁文锋新论文剧透下一代模型",
-          "url": "https://search.bilibili.com/all?keyword=%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87%E5%89%A7%E9%80%8F%E4%B8%8B%E4%B8%80%E4%BB%A3%E6%A8%A1%E5%9E%8B",
+          "title": "UP主锐评苹果谷歌合作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
           "source": "bilibili 热搜",
           "ranks": [
-            2,
-            3,
-            4,
-            5,
-            9,
-            7,
-            8
+            9
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[11时56分 ~ 22时15分]"
-        },
-        {
-          "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
-          "url": "https://wallstreetcn.com/articles/3763151",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时17分 ~ 22时15分]"
-        },
-        {
-          "title": "DeepSeek发布梁文锋署名新论文",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%91%E5%B8%83%E6%A2%81%E6%96%87%E9%94%8B%E7%BD%B2%E5%90%8D%E6%96%B0%E8%AE%BA%E6%96%87",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            17,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时49分 ~ 15时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "加码“AI+医疗”！OpenAI又有大动作：收购医疗保健初创公司Torch",
-          "url": "https://www.cls.cn/detail/2255695",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时16分 ~ 18时02分]"
-        },
-        {
-          "title": "OpenAI收购医疗保健初创公司Torch",
-          "url": "https://www.toutiao.com/trending/7594644941129940998/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
+          "appearance_count": 1,
+          "time_info": "08时47分"
         }
       ]
     },
@@ -302,17 +91,11 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31823450",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            12,
-            11,
-            10,
-            9,
-            8,
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时02分 ~ 22时15分]"
+          "appearance_count": 1,
+          "time_info": "08时47分"
         }
       ]
     }
