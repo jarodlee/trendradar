@@ -1,8 +1,37 @@
 {
-  "generated_at": "2026-01-15T08:43:29.114903+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-15T10:51:52.211450+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "小学",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何看待辽宁省教育厅发文，称将集中整治中小学（幼儿园）教师违规收受礼品礼金？",
+          "url": "https://www.zhihu.com/question/1992289910581924426",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时43分 ~ 10时51分]"
+        },
+        {
+          "title": "小学冬季校服夹层中发现薄膜，通报称是裤子外层剥落的热塑性聚氨酯（TPU）薄膜，这是什么材质？有何作用？",
+          "url": "https://www.zhihu.com/question/1994725833680577667",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
+        }
+      ]
+    },
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
@@ -32,23 +61,6 @@
       ]
     },
     {
-      "keyword_group": "小学",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何看待辽宁省教育厅发文，称将集中整治中小学（幼儿园）教师违规收受礼品礼金？",
-          "url": "https://www.zhihu.com/question/1992289910581924426",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时43分"
-        }
-      ]
-    },
-    {
       "keyword_group": "教育",
       "match_count": 1,
       "titles": [
@@ -57,11 +69,12 @@
           "url": "https://www.zhihu.com/question/1994306749470103244",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时43分"
+          "appearance_count": 2,
+          "time_info": "[08时43分 ~ 10时51分]"
         }
       ]
     }
