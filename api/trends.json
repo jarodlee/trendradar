@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-15T18:02:24.227714+08:00",
-  "total_titles_processed": 1169,
+  "generated_at": "2026-01-15T19:02:45.610624+08:00",
+  "total_titles_processed": 1258,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
       "match_count": 3,
       "titles": [
+        {
+          "title": "深圳有望推行12年义务教育不实",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%9C%89%E6%9C%9B%E6%8E%A8%E8%A1%8C12%E5%B9%B4%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E4%B8%8D%E5%AE%9E",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
+        },
         {
           "title": "山东一男童因没写作业被家长批评后离家，夜晚独行高速，这暴露了哪些家庭教育问题？",
           "url": "https://www.zhihu.com/question/1994306749470103244",
@@ -30,17 +41,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时59分 ~ 12时37分]"
-        },
-        {
-          "title": "深圳有望推行12年义务教育不实",
-          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%9C%89%E6%9C%9B%E6%8E%A8%E8%A1%8C12%E5%B9%B4%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E4%B8%8D%E5%AE%9E",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
         }
       ]
     },
@@ -115,11 +115,12 @@
             10,
             8,
             17,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时59分 ~ 18时02分]"
+          "appearance_count": 10,
+          "time_info": "[11时59分 ~ 19时02分]"
         }
       ]
     }
