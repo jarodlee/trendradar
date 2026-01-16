@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-01-16T11:57:29.895160+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2026-01-16T12:32:02.872824+08:00",
+  "total_titles_processed": 613,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "教育",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "老师在班级群称家长“多余”可退群，学校通报：对老师批评教育，已向家长致歉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32391173",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 12时32分]"
+        },
+        {
+          "title": "深圳有望推行12年义务教育不实",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%9C%89%E6%9C%9B%E6%8E%A8%E8%A1%8C12%E5%B9%B4%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E4%B8%8D%E5%AE%9E",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时46分"
+        },
+        {
+          "title": "深圳辟谣“推行12年义务教育”",
+          "url": "https://www.douyin.com/hot/2368843",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时46分"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
@@ -53,11 +92,12 @@
           "ranks": [
             1,
             4,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时46分 ~ 11时57分]"
+          "appearance_count": 5,
+          "time_info": "[08时46分 ~ 12时32分]"
         },
         {
           "title": "清华姚班陈立杰加入OpenAI",
@@ -80,34 +120,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "教育",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "深圳有望推行12年义务教育不实",
-          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%9C%89%E6%9C%9B%E6%8E%A8%E8%A1%8C12%E5%B9%B4%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E4%B8%8D%E5%AE%9E",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时46分"
-        },
-        {
-          "title": "深圳辟谣“推行12年义务教育”",
-          "url": "https://www.douyin.com/hot/2368843",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时46分"
         }
       ]
     },
