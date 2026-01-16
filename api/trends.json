@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T17:15:45.522666+08:00",
-  "total_titles_processed": 1056,
+  "generated_at": "2026-01-16T18:02:24.192849+08:00",
+  "total_titles_processed": 1124,
   "failed_sources": [],
   "trends": [
     {
@@ -87,6 +87,20 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "清华姚班陈立杰加入OpenAI",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%E9%99%88%E7%AB%8B%E6%9D%B0%E5%8A%A0%E5%85%A5OpenAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            9,
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时53分 ~ 18时02分]"
+        },
+        {
           "title": "如何看待姚班大神陈立杰官宣入职 OpenAI？",
           "url": "https://www.zhihu.com/question/1995072589756901062",
           "source": "知乎",
@@ -100,20 +114,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时46分 ~ 13时16分]"
-        },
-        {
-          "title": "清华姚班陈立杰加入OpenAI",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%E9%99%88%E7%AB%8B%E6%9D%B0%E5%8A%A0%E5%85%A5OpenAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            9,
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时53分 ~ 17时15分]"
         },
         {
           "title": "马斯克诉OpenAI案将进入陪审团审判",
