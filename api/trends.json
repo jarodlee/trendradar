@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T20:19:13.603156+08:00",
-  "total_titles_processed": 1330,
+  "generated_at": "2026-01-16T21:32:07.855573+08:00",
+  "total_titles_processed": 1452,
   "failed_sources": [],
   "trends": [
     {
@@ -97,8 +97,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时53分 ~ 20时19分]"
+          "appearance_count": 14,
+          "time_info": "[10时53分 ~ 21时32分]"
         },
         {
           "title": "如何看待姚班大神陈立杰官宣入职 OpenAI？",
