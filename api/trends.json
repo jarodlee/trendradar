@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T22:15:10.043324+08:00",
-  "total_titles_processed": 1579,
+  "generated_at": "2026-01-16T08:46:32.275362+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
           "title": "深圳有望推行12年义务教育不实",
@@ -15,159 +15,64 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时02分 ~ 22时15分]"
+          "appearance_count": 1,
+          "time_info": "08时46分"
         },
         {
           "title": "深圳辟谣“推行12年义务教育”",
           "url": "https://www.douyin.com/hot/2368843",
           "source": "抖音",
           "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时19分 ~ 22时15分]"
-        },
-        {
-          "title": "山东一男童因没写作业被家长批评后离家，夜晚独行高速，这暴露了哪些家庭教育问题？",
-          "url": "https://www.zhihu.com/question/1994306749470103244",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时43分 ~ 10时51分]"
-        },
-        {
-          "title": "“深圳有望推行12年义务教育，高中免费”？官方回应",
-          "url": "https://wallstreetcn.com/livenews/3037502",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 12时37分]"
-        },
-        {
-          "title": "深圳辟谣“推行12年义务教育”",
-          "url": "https://www.toutiao.com/trending/7595540284747058734/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "如何评价 DeepSeek 发布梁文锋署名论文，提出「条件记忆」及 Engram 记忆检索架构？有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1994233409871050526",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时43分"
-        },
-        {
-          "title": "DeepSeek 梁文锋旗下幻方量化 2025 年收益率 56.6%，如何评价这一业绩？",
-          "url": "https://www.zhihu.com/question/1995072623625855863",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时32分 ~ 22时15分]"
-        },
-        {
-          "title": "摩根士丹利邢自强：2040年将迎来中国医药界的DeepSeek时刻",
-          "url": "https://wallstreetcn.com/livenews/3037962",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时19分"
-        },
-        {
-          "title": "梁文锋新论文剧透下一代模型",
-          "url": "https://search.bilibili.com/all?keyword=%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87%E5%89%A7%E9%80%8F%E4%B8%8B%E4%B8%80%E4%BB%A3%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小学",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何看待辽宁省教育厅发文，称将集中整治中小学（幼儿园）教师违规收受礼品礼金？",
-          "url": "https://www.zhihu.com/question/1992289910581924426",
-          "source": "知乎",
-          "ranks": [
-            12,
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时43分 ~ 10时51分]"
-        },
-        {
-          "title": "小学冬季校服夹层中发现薄膜，通报称是裤子外层剥落的热塑性聚氨酯（TPU）薄膜，这是什么材质？有何作用？",
-          "url": "https://www.zhihu.com/question/1994725833680577667",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时51分"
+          "time_info": "08时46分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "谷歌母公司 Alphabet 的市值正式突破 4 万亿美元，其在这波 AI 浪潮中做对了什么？",
+          "url": "https://www.zhihu.com/question/1994345893202191645",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时46分"
+        },
         {
           "title": "复盘苹果AI为何转投谷歌",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            9,
-            12,
-            10,
-            8,
-            17,
-            15,
-            14,
-            23,
-            27
+            23
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时59分 ~ 22时15分]"
+          "appearance_count": 1,
+          "time_info": "08时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek 梁文锋旗下幻方量化 2025 年收益率 56.6%，如何评价这一业绩？",
+          "url": "https://www.zhihu.com/question/1995072623625855863",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时46分"
         }
       ]
     },
@@ -180,28 +85,11 @@
           "url": "https://www.zhihu.com/question/1995072589756901062",
           "source": "知乎",
           "ranks": [
-            5
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时32分 ~ 22时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数短线拉升，现涨0.29%，报99.36。现货黄金短线下挫，现报4596美元/盎司。纳斯达克100指数期货盘前涨幅扩大至1%。",
-          "url": "https://wallstreetcn.com/livenews/3038041",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时15分"
+          "time_info": "08时46分"
         }
       ]
     }
