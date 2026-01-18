@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T18:02:56.611466+08:00",
-  "total_titles_processed": 875,
+  "generated_at": "2026-01-18T19:02:16.485388+08:00",
+  "total_titles_processed": 951,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时02分 ~ 18时02分]"
+          "appearance_count": 8,
+          "time_info": "[14时02分 ~ 19时02分]"
         },
         {
           "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
@@ -29,8 +29,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时14分 ~ 18时02分]"
+          "appearance_count": 9,
+          "time_info": "[13时14分 ~ 19时02分]"
         },
         {
           "title": "解读ChatGPT加入广告背后",
@@ -91,9 +91,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
         },
         {
           "title": "现代语文教育之路｜朱光潜：美的摆渡人",
@@ -113,7 +113,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         }
