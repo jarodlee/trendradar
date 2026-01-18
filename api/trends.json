@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T21:22:35.761832+08:00",
-  "total_titles_processed": 1100,
+  "generated_at": "2026-01-18T22:02:36.972379+08:00",
+  "total_titles_processed": 1146,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时02分 ~ 21时22分]"
+          "appearance_count": 11,
+          "time_info": "[14时02分 ~ 22时02分]"
         },
         {
           "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
@@ -29,8 +29,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时14分 ~ 21时22分]"
+          "appearance_count": 12,
+          "time_info": "[13时14分 ~ 22时02分]"
         },
         {
           "title": "解读ChatGPT加入广告背后",
@@ -96,6 +96,18 @@
           "time_info": "[18时02分 ~ 20时02分]"
         },
         {
+          "title": "浙江省筹建 400 亿新大学，将对当地高等教育和人才培养带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1995515345172181211",
+          "source": "知乎",
+          "ranks": [
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 22时02分]"
+        },
+        {
           "title": "现代语文教育之路｜朱光潜：美的摆渡人",
           "url": "https://m.thepaper.cn/newsDetail_forward_32381765",
           "source": "澎湃新闻",
@@ -105,17 +117,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
-        },
-        {
-          "title": "浙江省筹建 400 亿新大学，将对当地高等教育和人才培养带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1995515345172181211",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
         },
         {
           "title": "00后父母的惊艳式教育方式",
@@ -174,8 +175,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时02分 ~ 21时22分]"
+          "appearance_count": 3,
+          "time_info": "[20时02分 ~ 22时02分]"
         }
       ]
     }
