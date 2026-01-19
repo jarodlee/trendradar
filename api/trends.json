@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T20:20:43.841159+08:00",
-  "total_titles_processed": 1326,
+  "generated_at": "2026-01-19T21:37:55.723368+08:00",
+  "total_titles_processed": 1429,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时12分 ~ 20时20分]"
+          "appearance_count": 3,
+          "time_info": "[19时12分 ~ 21时37分]"
         },
         {
           "title": "河南安徽多地中小学临时停课",
