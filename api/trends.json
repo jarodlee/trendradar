@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T12:46:31.672589+08:00",
-  "total_titles_processed": 640,
+  "generated_at": "2026-01-20T13:20:18.898244+08:00",
+  "total_titles_processed": 694,
   "failed_sources": [],
   "trends": [
     {
@@ -8,29 +8,31 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "OpenAI高管：首款硬件设备有望于2026年下半年亮相",
-          "url": "https://www.cls.cn/detail/2262848",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 12时46分]"
-        },
-        {
           "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
           "url": "https://www.cls.cn/detail/2262946",
           "source": "财联社热门",
           "ranks": [
             11,
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 12时46分]"
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 13时20分]"
+        },
+        {
+          "title": "OpenAI高管：首款硬件设备有望于2026年下半年亮相",
+          "url": "https://www.cls.cn/detail/2262848",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 13时20分]"
         },
         {
           "title": "在 DeepMind 或 OpenAI 工作是什么体验？",
@@ -67,11 +69,12 @@
           "ranks": [
             26,
             5,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时44分 ~ 12时46分]"
+          "appearance_count": 6,
+          "time_info": "[08时44分 ~ 13时20分]"
         },
         {
           "title": "让学生娃多睡一会儿：江苏多地中小学延迟到校、取消早读",
@@ -83,8 +86,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时44分 ~ 12时46分]"
+          "appearance_count": 6,
+          "time_info": "[08时44分 ~ 13时20分]"
         },
         {
           "title": "李煜东小学就长得像男大了",
@@ -93,7 +96,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
         }
