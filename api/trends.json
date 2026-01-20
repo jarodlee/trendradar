@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T13:20:18.898244+08:00",
-  "total_titles_processed": 694,
+  "generated_at": "2026-01-20T14:18:57.847722+08:00",
+  "total_titles_processed": 770,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时54分 ~ 13时20分]"
+          "appearance_count": 5,
+          "time_info": "[10时54分 ~ 14时18分]"
         },
         {
           "title": "OpenAI高管：首款硬件设备有望于2026年下半年亮相",
@@ -31,8 +31,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时54分 ~ 13时20分]"
+          "appearance_count": 5,
+          "time_info": "[10时54分 ~ 14时18分]"
         },
         {
           "title": "在 DeepMind 或 OpenAI 工作是什么体验？",
@@ -70,11 +70,12 @@
             26,
             5,
             10,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时44分 ~ 13时20分]"
+          "appearance_count": 7,
+          "time_info": "[08时44分 ~ 14时18分]"
         },
         {
           "title": "让学生娃多睡一会儿：江苏多地中小学延迟到校、取消早读",
@@ -83,11 +84,12 @@
           "ranks": [
             13,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时44分 ~ 13时20分]"
+          "appearance_count": 7,
+          "time_info": "[08时44分 ~ 14时18分]"
         },
         {
           "title": "李煜东小学就长得像男大了",
@@ -111,11 +113,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32415596",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 14时18分]"
         }
       ]
     },
