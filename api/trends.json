@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T17:22:15.959987+08:00",
-  "total_titles_processed": 1104,
+  "generated_at": "2026-01-20T18:16:02.464620+08:00",
+  "total_titles_processed": 1193,
   "failed_sources": [],
   "trends": [
     {
@@ -111,20 +111,21 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "谷歌Gemini商业化高歌猛进 API调用量5个月暴增140%",
-          "url": "https://www.cls.cn/detail/2262987",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 17时22分]"
-        },
-        {
           "title": "谷歌 Gemini 准确率从 21% 提升至 97% 仅靠「复制粘贴」，这意味着什么？",
           "url": "https://www.zhihu.com/question/1996233131175462349",
           "source": "知乎",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时21分 ~ 18时16分]"
+        },
+        {
+          "title": "谷歌Gemini商业化高歌猛进 API调用量5个月暴增140%",
+          "url": "https://www.cls.cn/detail/2262987",
+          "source": "财联社热门",
           "ranks": [
             13
           ],
@@ -145,7 +146,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -172,11 +173,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时02分 ~ 17时22分]"
+          "appearance_count": 7,
+          "time_info": "[12时02分 ~ 18时16分]"
         }
       ]
     }
