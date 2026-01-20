@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T18:16:02.464620+08:00",
-  "total_titles_processed": 1193,
+  "generated_at": "2026-01-20T19:14:43.829610+08:00",
+  "total_titles_processed": 1307,
   "failed_sources": [],
   "trends": [
     {
@@ -119,8 +119,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时21分 ~ 18时16分]"
+          "appearance_count": 5,
+          "time_info": "[17时21分 ~ 19时14分]"
         },
         {
           "title": "谷歌Gemini商业化高歌猛进 API调用量5个月暴增140%",
