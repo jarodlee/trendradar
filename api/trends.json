@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T19:14:44.741010+08:00",
-  "total_titles_processed": 1311,
+  "generated_at": "2026-01-21T20:21:14.761627+08:00",
+  "total_titles_processed": 1406,
   "failed_sources": [],
   "trends": [
     {
@@ -72,11 +72,12 @@
             9,
             13,
             17,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时01分 ~ 19时14分]"
+          "appearance_count": 14,
+          "time_info": "[12时01分 ~ 20时21分]"
         },
         {
           "title": "DeepSeek新模型MODEL1曝光 代码预示新架构",
@@ -119,8 +120,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时43分 ~ 19时14分]"
+          "appearance_count": 12,
+          "time_info": "[12时43分 ~ 20时21分]"
         },
         {
           "title": "江苏多地中小学延迟到校、取消早读，保证学生充足睡眠，怎样看待这一调整？你家孩子每天几点到校？",
