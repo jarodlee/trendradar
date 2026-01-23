@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-23T14:17:18.988784+08:00",
-  "total_titles_processed": 822,
+  "generated_at": "2026-01-23T15:17:07.726646+08:00",
+  "total_titles_processed": 943,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小学",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "多地中小学取消非毕业年级期末统考",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%8F%96%E6%B6%88%E9%9D%9E%E6%AF%95%E4%B8%9A%E5%B9%B4%E7%BA%A7%E6%9C%9F%E6%9C%AB%E7%BB%9F%E8%80%83%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时16分 ~ 15时17分]"
+        },
         {
           "title": "小学试卷阅读量大合理吗",
           "url": "https://www.toutiao.com/trending/7598070078227349547/",
