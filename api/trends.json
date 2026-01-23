@@ -1,66 +1,8 @@
 {
-  "generated_at": "2026-01-22T22:21:04.854888+08:00",
-  "total_titles_processed": 1556,
+  "generated_at": "2026-01-23T08:46:47.523832+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "小学",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "一句话小说挑战 小学生脑洞惊艳老师",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%8F%A5%E8%AF%9D%E5%B0%8F%E8%AF%B4%E6%8C%91%E6%88%98+%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%84%91%E6%B4%9E%E6%83%8A%E8%89%B3%E8%80%81%E5%B8%88",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时58分 ~ 13时20分]"
-        },
-        {
-          "title": "「海淀名师」中小学培训机构不到两年赚 1583 万，被罚 6728 万创双减以来纪录，有哪些警示作用？",
-          "url": "https://www.zhihu.com/question/1996674379786970449",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "教育",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何看待「不会用 AI 的家庭将是新寒门」的观点，AI 改变教育模式的当下，该如何在学习中合理使用 AI？",
-          "url": "https://www.zhihu.com/question/1997376980287513267",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
-        },
-        {
-          "title": "观察｜专业裁撤、学生减招？AI时代艺术类高校的教育转型",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32418066",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时46分"
-        }
-      ]
-    },
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
@@ -70,49 +12,11 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Model%201%E6%82%84%E7%84%B6%E7%8E%B0%E8%BA%AB",
           "source": "bilibili 热搜",
           "ranks": [
-            8,
-            12,
-            23
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时46分 ~ 13时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "消息称谷歌将把旗下TPU服务器的L10~L11组装订单，交由英业达代工。 (台湾电子时报)",
-          "url": "https://wallstreetcn.com/livenews/3041754",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 14时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数短线波动不大，现报98.65。美股期货短线波动不大，纳斯达克100指数期货维持0.9%左右的涨幅。现货黄金短线波动不大，现报4822.39美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3042112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时38分 ~ 22时21分]"
+          "appearance_count": 1,
+          "time_info": "08时46分"
         }
       ]
     }
