@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-24T11:54:29.831795+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2026-01-24T12:25:56.228537+08:00",
+  "total_titles_processed": 568,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
       "match_count": 2,
       "titles": [
+        {
+          "title": "深圳有望推行12年义务教育？假的",
+          "url": "https://www.toutiao.com/trending/7598500977743167497/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时48分 ~ 12时25分]"
+        },
         {
           "title": "「爆炸糖游戏」火了，许多家长借此教育孩子远离赌博，这游戏能起到警示作用吗？家长操作不当是否会弄巧成拙？",
           "url": "https://www.zhihu.com/question/1996625744554586850",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时44分 ~ 08时45分]"
-        },
-        {
-          "title": "深圳有望推行12年义务教育？假的",
-          "url": "https://www.toutiao.com/trending/7598500977743167497/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时48分 ~ 11时54分]"
         }
       ]
     },
@@ -41,11 +41,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时48分 ~ 11时54分]"
+          "appearance_count": 3,
+          "time_info": "[10时48分 ~ 12时25分]"
         }
       ]
     }
