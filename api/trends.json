@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T14:15:03.142967+08:00",
-  "total_titles_processed": 660,
+  "generated_at": "2026-01-24T15:12:11.927589+08:00",
+  "total_titles_processed": 720,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时48分 ~ 14时15分]"
+          "appearance_count": 8,
+          "time_info": "[10时48分 ~ 15时12分]"
         },
         {
           "title": "「爆炸糖游戏」火了，许多家长借此教育孩子远离赌博，这游戏能起到警示作用吗？家长操作不当是否会弄巧成拙？",
@@ -28,6 +28,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时44分 ~ 08时45分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小学",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "多地中小学取消非毕业年级“期末统考”，家长：半喜半忧",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448527",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时11分 ~ 15时12分]"
         }
       ]
     },
