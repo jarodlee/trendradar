@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T19:02:07.741265+08:00",
-  "total_titles_processed": 868,
+  "generated_at": "2026-01-25T20:02:07.626440+08:00",
+  "total_titles_processed": 947,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             13,
             11,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时43分 ~ 19时02分]"
+          "appearance_count": 11,
+          "time_info": "[12时43分 ~ 20时02分]"
         },
         {
           "title": "多地中小学取消非毕业年级「期末统考」，出于哪些考量？按照当前教育模式能真正实现「育人」目标吗？",
@@ -36,6 +37,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时52分 ~ 15时13分]"
+        },
+        {
+          "title": "成都一小学因强制教师排练年会引投诉，教育局介入取消，反映哪些问题？真正有益的团队活动该是什么样？",
+          "url": "https://www.zhihu.com/question/1998705454289741444",
+          "source": "知乎",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时13分 ~ 20时02分]"
         },
         {
           "title": "成都一小学被责成取消育人故事分享",
@@ -67,18 +80,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[08时52分 ~ 16时02分]"
-        },
-        {
-          "title": "成都一小学因强制教师排练年会引投诉，教育局介入取消，反映哪些问题？真正有益的团队活动该是什么样？",
-          "url": "https://www.zhihu.com/question/1998705454289741444",
-          "source": "知乎",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时13分 ~ 19时02分]"
         },
         {
           "title": "成都涉事小学取消育人故事分享",
@@ -123,21 +124,6 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "成都一职校欠薪三月被老师投诉，教育局称已督促发放部分工资",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32457496",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            15,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时52分 ~ 19时02分]"
-        },
-        {
           "title": "北京市将加强全学段人工智能赋能教育",
           "url": "https://wallstreetcn.com/livenews/3043344",
           "source": "华尔街见闻-快讯",
@@ -149,11 +135,28 @@
             15,
             18,
             19,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时05分 ~ 19时02分]"
+          "appearance_count": 10,
+          "time_info": "[11时05分 ~ 20时02分]"
+        },
+        {
+          "title": "成都一职校欠薪三月被老师投诉，教育局称已督促发放部分工资",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32457496",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            15,
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[08时52分 ~ 20时02分]"
         }
       ]
     },
