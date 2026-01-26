@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T15:19:49.428536+08:00",
-  "total_titles_processed": 842,
+  "generated_at": "2026-01-26T16:02:28.074028+08:00",
+  "total_titles_processed": 928,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时46分 ~ 15时19分]"
+          "appearance_count": 5,
+          "time_info": "[12时46分 ~ 16时02分]"
         },
         {
           "title": "教育部公布2025年国家学前教育普及普惠县（市、区）名单（第一批）",
@@ -74,8 +75,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 15时19分]"
+          "appearance_count": 3,
+          "time_info": "[14时20分 ~ 16时02分]"
         }
       ]
     },
