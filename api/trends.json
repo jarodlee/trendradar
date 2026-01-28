@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T20:21:46.886186+08:00",
-  "total_titles_processed": 1324,
+  "generated_at": "2026-01-28T21:40:15.599657+08:00",
+  "total_titles_processed": 1446,
   "failed_sources": [],
   "trends": [
     {
@@ -68,11 +68,12 @@
           "ranks": [
             8,
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时46分 ~ 20时21分]"
+          "appearance_count": 14,
+          "time_info": "[08时46分 ~ 21时40分]"
         },
         {
           "title": "谷歌、亚马逊宣布云服务涨价！打破20年来行业惯例 第一块多米诺骨牌已推倒？",
@@ -168,6 +169,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时46分 ~ 14时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小学",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "小学老师给交白卷的学生发奖状",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%E7%BB%99%E4%BA%A4%E7%99%BD%E5%8D%B7%E7%9A%84%E5%AD%A6%E7%94%9F%E5%8F%91%E5%A5%96%E7%8A%B6",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 21时40分]"
         }
       ]
     }
