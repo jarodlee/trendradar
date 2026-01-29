@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T21:50:52.094187+08:00",
-  "total_titles_processed": 1504,
+  "generated_at": "2026-01-29T22:32:53.383548+08:00",
+  "total_titles_processed": 1585,
   "failed_sources": [],
   "trends": [
     {
@@ -87,8 +87,19 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时22分 ~ 22时32分]"
+        },
+        {
+          "title": "OpenAI 发布基于 GPT-5.2 的 Prism，专注科研领域的 AI 协作。科研人能用它来做些什么？",
+          "url": "https://www.zhihu.com/question/1999888901490304692",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时22分 ~ 21时50分]"
+          "time_info": "[21时50分 ~ 22时32分]"
         },
         {
           "title": "英伟达、微软和亚马逊正在商谈向OpenAI投资约600亿美元。亚马逊或将扩大与OpenAI的云服务器租赁协议。（The Information）",
@@ -100,17 +111,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
-        },
-        {
-          "title": "OpenAI 发布基于 GPT-5.2 的 Prism，专注科研领域的 AI 协作。科研人能用它来做些什么？",
-          "url": "https://www.zhihu.com/question/1999888901490304692",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时50分"
         },
         {
           "title": "英伟达CEO黄仁勋：非常愿意投资OpenAI。",
@@ -140,8 +140,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时31分 ~ 21时50分]"
+          "appearance_count": 10,
+          "time_info": "[14时31分 ~ 22时32分]"
         },
         {
           "title": "杭州妈妈因孩子反复学不会一道题吞安眠药被抢救，此前确诊过产后抑郁并服药多年，反映出哪些家庭与教育困境？",
@@ -164,6 +164,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "彭博美元即期指数已收复日内0.3%的跌幅。",
+          "url": "https://flash.jin10.com/detail/20260129185347592800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
+          "title": "美国系列数据公布后，现货金银、美元指数DXY波动暂不大。",
+          "url": "https://flash.jin10.com/detail/20260129213207835800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
+          "title": "美元指数DXY短线走高十余点，现报96.36。",
+          "url": "https://flash.jin10.com/detail/20260129215004835800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         }
       ]
     },
@@ -198,36 +237,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时31分 ~ 21时50分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "彭博美元即期指数已收复日内0.3%的跌幅。",
-          "url": "https://flash.jin10.com/detail/20260129185347592800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
-          "title": "美国系列数据公布后，现货金银、美元指数DXY波动暂不大。",
-          "url": "https://flash.jin10.com/detail/20260129213207835800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时50分"
+          "appearance_count": 7,
+          "time_info": "[17时31分 ~ 22时32分]"
         }
       ]
     },
