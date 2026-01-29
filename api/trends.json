@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-01-29T11:17:22.806949+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-01-29T13:01:42.986586+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小学",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "深圳小学期末考被评堪比公务员行测",
           "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%B0%8F%E5%AD%A6%E6%9C%9F%E6%9C%AB%E8%80%83%E8%A2%AB%E8%AF%84%E5%A0%AA%E6%AF%94%E5%85%AC%E5%8A%A1%E5%91%98%E8%A1%8C%E6%B5%8B",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 13时01分]"
         },
         {
           "title": "深圳小学期末考被称堪比公务员行测",
@@ -28,12 +29,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
+        },
+        {
+          "title": "重庆一小学二年级用「包饺子」代替笔试，怎样看待这样的期末考试形式？给学生减负效果如何？",
+          "url": "https://www.zhihu.com/question/1999562543916610666",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         }
       ]
     },
     {
       "keyword_group": "教育",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "杭州妈妈因孩子反复学不会一道题吞安眠药被抢救，此前确诊过产后抑郁并服药多年，反映出哪些家庭与教育困境？",
@@ -45,6 +57,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
+        },
+        {
+          "title": "阿富汗禁止女性接受中高等教育",
+          "url": "https://www.douyin.com/hot/2382816",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         }
       ]
     },
@@ -59,7 +82,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
         }
@@ -74,11 +97,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E5%9F%BA%E5%9B%A0%E5%AF%86%E7%A0%81%E8%A2%AB%E8%B0%B7%E6%AD%8CAI%E7%A0%B4%E8%A7%A3",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 13时01分]"
         }
       ]
     },
@@ -93,7 +117,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
         }
