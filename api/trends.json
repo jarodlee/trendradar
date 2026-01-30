@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T15:32:30.737624+08:00",
-  "total_titles_processed": 826,
+  "generated_at": "2026-01-30T16:23:25.135927+08:00",
+  "total_titles_processed": 935,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时54分 ~ 15时32分]"
+          "appearance_count": 8,
+          "time_info": "[08时54分 ~ 16时23分]"
         },
         {
           "title": "新华社：多地中小学取消期末统考，释放什么信号？",
@@ -31,8 +32,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时19分 ~ 15时32分]"
+          "appearance_count": 6,
+          "time_info": "[11时19分 ~ 16时23分]"
         },
         {
           "title": "博士毕业去当老师教小学，算是「资源浪费」吗？",
