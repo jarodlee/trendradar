@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T13:03:33.249944+08:00",
-  "total_titles_processed": 606,
+  "generated_at": "2026-01-30T14:32:54.761831+08:00",
+  "total_titles_processed": 728,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2000169994043028080",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时54分 ~ 13时03分]"
+          "appearance_count": 6,
+          "time_info": "[08时54分 ~ 14时32分]"
         },
         {
           "title": "新华社：多地中小学取消期末统考，释放什么信号？",
@@ -24,11 +25,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时19分 ~ 13时03分]"
+          "appearance_count": 4,
+          "time_info": "[11时19分 ~ 14时32分]"
         },
         {
           "title": "博士毕业去当老师教小学，算是「资源浪费」吗？",
