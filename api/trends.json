@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-01-30T08:55:05.143256+08:00",
-  "total_titles_processed": 316,
+  "generated_at": "2026-01-30T11:20:05.246186+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "小学",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "深圳多区小学期末卷被称堪比公务员行测，这是在锻炼学生思维还是在增加负担？是否有必要这么难？",
+          "url": "https://www.zhihu.com/question/2000169994043028080",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时54分 ~ 11时20分]"
+        },
+        {
+          "title": "博士毕业去当老师教小学，算是「资源浪费」吗？",
+          "url": "https://www.zhihu.com/question/355201800",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 11时20分]"
+        },
+        {
+          "title": "新华社：多地中小学取消期末统考，释放什么信号？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32490024",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 11时20分]"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
@@ -25,7 +64,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -43,23 +82,6 @@
       ]
     },
     {
-      "keyword_group": "小学",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "深圳多区小学期末卷被称堪比公务员行测，这是在锻炼学生思维还是在增加负担？是否有必要这么难？",
-          "url": "https://www.zhihu.com/question/2000169994043028080",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 08时55分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "教育",
       "match_count": 1,
       "titles": [
@@ -68,11 +90,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32483923",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 08时55分]"
+          "appearance_count": 4,
+          "time_info": "[08时54分 ~ 11时20分]"
         }
       ]
     },
