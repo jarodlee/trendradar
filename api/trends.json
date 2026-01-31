@@ -1,52 +1,11 @@
 {
-  "generated_at": "2026-01-31T20:19:18.093097+08:00",
-  "total_titles_processed": 991,
+  "generated_at": "2026-01-31T21:34:27.204917+08:00",
+  "total_titles_processed": 1067,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "小学",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "重庆綦江一小学回应“有班级收1500元请人打扫教室”：实为家长自发请的保洁",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32506300",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时11分 ~ 20时19分]"
-        },
-        {
-          "title": "小学回应有班级收1500元请人打扫教室",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E5%9B%9E%E5%BA%94%E6%9C%89%E7%8F%AD%E7%BA%A7%E6%94%B61500%E5%85%83%E8%AF%B7%E4%BA%BA%E6%89%93%E6%89%AB%E6%95%99%E5%AE%A4%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "当地回应小学寒冬让部分学生室外考试",
-          "url": "https://www.toutiao.com/trending/7601339011018473481/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
         {
           "title": "英伟达与OpenAI千亿美元合作交易陷入停滞",
@@ -82,11 +41,109 @@
           "url": "https://flash.jin10.com/detail/20260131190934573800",
           "source": "金十数据",
           "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时19分 ~ 21时34分]"
+        },
+        {
+          "title": "黄仁勋：一定会参与本轮对OpenAI的投资 或为有史以来规模最大的投资",
+          "url": "https://flash.jin10.com/detail/20260131204002785800",
+          "source": "金十数据",
+          "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时19分"
+          "time_info": "21时34分"
+        },
+        {
+          "title": "黄仁勋证实：英伟达将参与OpenAI当前一轮融资，这可能是英伟达有史以来最大一笔投资",
+          "url": "https://wallstreetcn.com/livenews/3047693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：我们将向OpenAI投入大量资金。",
+          "url": "https://flash.jin10.com/detail/20260131203337844800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：我们绝对会参与本轮对OpenAI的投资。",
+          "url": "https://flash.jin10.com/detail/20260131203248230800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小学",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "重庆綦江一小学回应“有班级收1500元请人打扫教室”：实为家长自发请的保洁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32506300",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时11分 ~ 21时34分]"
+        },
+        {
+          "title": "浙江一小学将食堂剩饭送给环卫工人",
+          "url": "https://www.toutiao.com/trending/7600654514735726634/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "小学回应有班级收1500元请人打扫教室",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E5%9B%9E%E5%BA%94%E6%9C%89%E7%8F%AD%E7%BA%A7%E6%94%B61500%E5%85%83%E8%AF%B7%E4%BA%BA%E6%89%93%E6%89%AB%E6%95%99%E5%AE%A4%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
+          "title": "当地回应小学寒冬让部分学生室外考试",
+          "url": "https://www.toutiao.com/trending/7601339011018473481/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         }
       ]
     },
@@ -100,11 +157,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 20时19分]"
+          "appearance_count": 3,
+          "time_info": "[19时11分 ~ 21时34分]"
         },
         {
           "title": "市场消息：苹果公司高管、Siri高级主管斯图尔特·鲍尔斯离职加入谷歌。",
