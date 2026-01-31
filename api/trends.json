@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T14:23:26.205789+08:00",
-  "total_titles_processed": 625,
+  "generated_at": "2026-01-31T15:20:27.214489+08:00",
+  "total_titles_processed": 675,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             14,
             18,
             21,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时52分 ~ 14时23分]"
+          "appearance_count": 6,
+          "time_info": "[08时52分 ~ 15时20分]"
         },
         {
           "title": "OpenAI 计划今年第四季度 IPO，目标抢在 Anthropic 之前，如何解读？",
@@ -47,7 +48,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         }
