@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-01-31T18:11:56.805427+08:00",
-  "total_titles_processed": 841,
+  "generated_at": "2026-01-31T19:11:38.217321+08:00",
+  "total_titles_processed": 921,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小学",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "重庆綦江一小学回应“有班级收1500元请人打扫教室”：实为家长自发请的保洁",
           "url": "https://m.thepaper.cn/newsDetail_forward_32506300",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 19时11分]"
+        },
+        {
+          "title": "小学回应有班级收1500元请人打扫教室",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E5%9B%9E%E5%BA%94%E6%9C%89%E7%8F%AD%E7%BA%A7%E6%94%B61500%E5%85%83%E8%AF%B7%E4%BA%BA%E6%89%93%E6%89%AB%E6%95%99%E5%AE%A4%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时11分"
+          "time_info": "19时11分"
         },
         {
           "title": "当地回应小学寒冬让部分学生室外考试",
@@ -28,6 +40,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "UP体验谷歌最新世界模型",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
+          "title": "市场消息：苹果公司高管、Siri高级主管斯图尔特·鲍尔斯离职加入谷歌。",
+          "url": "https://flash.jin10.com/detail/20260131025828448800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时52分"
         }
       ]
     },
@@ -63,23 +103,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时55分 ~ 14时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "市场消息：苹果公司高管、Siri高级主管斯图尔特·鲍尔斯离职加入谷歌。",
-          "url": "https://flash.jin10.com/detail/20260131025828448800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时52分"
         }
       ]
     },
