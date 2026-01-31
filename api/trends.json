@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-01-31T17:16:39.709607+08:00",
-  "total_titles_processed": 786,
+  "generated_at": "2026-01-31T18:11:56.805427+08:00",
+  "total_titles_processed": 841,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "小学",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "重庆綦江一小学回应“有班级收1500元请人打扫教室”：实为家长自发请的保洁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32506300",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
+        },
+        {
+          "title": "当地回应小学寒冬让部分学生室外考试",
+          "url": "https://www.toutiao.com/trending/7601339011018473481/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
@@ -35,23 +63,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时55分 ~ 14时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小学",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "当地回应小学寒冬让部分学生室外考试",
-          "url": "https://www.toutiao.com/trending/7601339011018473481/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时23分"
         }
       ]
     },
