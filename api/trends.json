@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T21:35:51.359752+08:00",
-  "total_titles_processed": 1047,
+  "generated_at": "2026-02-01T22:15:33.242528+08:00",
+  "total_titles_processed": 1090,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             1,
             6,
             10,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时13分 ~ 21时35分]"
+          "appearance_count": 5,
+          "time_info": "[18时13分 ~ 22时15分]"
         },
         {
           "title": "英伟达CEO黄仁勋：OpenAI邀请我们进行高达1000亿美元的投资。对OpenAI的投资从来都不是承诺。我们会一步一步地投资。",
@@ -29,11 +30,12 @@
             1,
             13,
             18,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时13分 ~ 21时35分]"
+          "appearance_count": 5,
+          "time_info": "[18时13分 ~ 22时15分]"
         },
         {
           "title": "黄仁勋：英伟达向OpenAI的投资从来不是一项承诺",
@@ -42,11 +44,12 @@
           "ranks": [
             11,
             16,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时12分 ~ 21时35分]"
+          "appearance_count": 4,
+          "time_info": "[19时12分 ~ 22时15分]"
         },
         {
           "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
@@ -58,6 +61,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小学",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "重庆綦江一小学回应“有班级收1500元请人打扫教室”：实为家长自发请的保洁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32506300",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时04分 ~ 16时18分]"
+        },
+        {
+          "title": "小学生写的信把爸爸看哭了",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%86%99%E7%9A%84%E4%BF%A1%E6%8A%8A%E7%88%B8%E7%88%B8%E7%9C%8B%E5%93%AD%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         }
       ]
     },
@@ -81,30 +114,12 @@
           "url": "https://wallstreetcn.com/articles/3764656",
           "source": "华尔街见闻",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小学",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "重庆綦江一小学回应“有班级收1500元请人打扫教室”：实为家长自发请的保洁",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32506300",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            3,
-            2
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时04分 ~ 16时18分]"
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时15分]"
         }
       ]
     }
