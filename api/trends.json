@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-02-02T20:28:20.654489+08:00",
-  "total_titles_processed": 1352,
+  "generated_at": "2026-02-02T21:53:55.550465+08:00",
+  "total_titles_processed": 1479,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "小学",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "广东 10 岁小学生 28 元自制望远镜能看清月球陨石坑，这说明了什么？",
+          "url": "https://www.zhihu.com/question/1999822903160635822",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        }
+      ]
+    },
     {
       "keyword_group": "教育",
       "match_count": 1,
