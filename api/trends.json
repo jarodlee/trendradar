@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-02-03T20:29:14.254952+08:00",
-  "total_titles_processed": 1375,
+  "generated_at": "2026-02-03T21:55:36.077757+08:00",
+  "total_titles_processed": 1485,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小学",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "日本中小学生自杀呈上升趋势，专家：预防不应过于依靠数字手段",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32517719",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时27分 ~ 21时55分]"
+        },
         {
           "title": "广东 10 岁小学生 28 元自制望远镜能看清月球陨石坑，这说明了什么？",
           "url": "https://www.zhihu.com/question/1999822903160635822",
@@ -19,18 +32,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时58分 ~ 11时32分]"
-        },
-        {
-          "title": "日本中小学生自杀呈上升趋势，专家：预防不应过于依靠数字手段",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32517719",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时27分 ~ 20时29分]"
         },
         {
           "title": "小学娃每天补课到晚上 10 点，成绩全班前 5，我却被骂「毁娃」，鸡娃到底错没错？",
@@ -64,6 +65,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
+        },
+        {
+          "title": "小学生寒假提前预习下学期内容，效果真的好吗？会不会有反作用？",
+          "url": "https://www.zhihu.com/question/2001618016689997150",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "北京去年新增2.4万个中小学学位",
