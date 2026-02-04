@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T21:54:23.187198+08:00",
-  "total_titles_processed": 1459,
+  "generated_at": "2026-02-04T22:34:47.415065+08:00",
+  "total_titles_processed": 1557,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时54分 ~ 15时36分]"
+        },
+        {
+          "title": "亚马逊讨论接入OpenAI技术的特殊渠道。 亚马逊可能会在自家Alexa采用定制的OpenAI模型。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3049936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "OpenAI：ChatGPT有关问题现已解决。",
@@ -80,7 +91,7 @@
     },
     {
       "keyword_group": "小学",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "江苏明确：中小学春假、秋假各放3天",
@@ -107,8 +118,19 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时24分 ~ 21时54分]"
+          "appearance_count": 5,
+          "time_info": "[19时24分 ~ 22时34分]"
+        },
+        {
+          "title": "女儿上小学一年级了，周末幼儿园的小闺蜜想让去她家里住两天，作为妈妈你同意吗？",
+          "url": "https://www.zhihu.com/question/1889087773513851075",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "日本一小学生遭初中生勒脖又推入海",
@@ -134,7 +156,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
         },
