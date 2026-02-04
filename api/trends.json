@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T11:25:19.257024+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-02-04T13:03:56.619694+08:00",
+  "total_titles_processed": 616,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
@@ -13,11 +13,34 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 11时25分]"
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 13时03分]"
+        },
+        {
+          "title": "OpenAI：ChatGPT有关问题现已解决。",
+          "url": "https://flash.jin10.com/detail/20260204115251438800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "OpenAI：ChatGPT部分用户在加载或开始对话时可能会遇到问题。",
+          "url": "https://flash.jin10.com/detail/20260204115113569800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
         },
         {
           "title": "英伟达拟向OpenAI投资200亿美元 交易细节尚未敲定",
@@ -53,11 +76,12 @@
           "source": "百度热搜",
           "ranks": [
             16,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 11时25分]"
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 13时03分]"
         },
         {
           "title": "日本一小学生遭初中生勒脖又推入海",
@@ -66,7 +90,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         }
@@ -85,8 +109,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 11时25分]"
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 13时03分]"
         }
       ]
     }
