@@ -1,8 +1,61 @@
 {
-  "generated_at": "2026-02-05T13:11:36.405636+08:00",
-  "total_titles_processed": 609,
+  "generated_at": "2026-02-05T14:41:55.356755+08:00",
+  "total_titles_processed": 739,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "小学",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "学位不够了？多地中小学拉响“警报”",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%A6%E4%BD%8D%E4%B8%8D%E5%A4%9F%E4%BA%86%EF%BC%9F%E5%A4%9A%E5%9C%B0%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%8B%89%E5%93%8D%E2%80%9C%E8%AD%A6%E6%8A%A5%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "两会之声｜政协委员建议上海中小学放春秋假，让学生有更多社会实践机会",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32531230",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时57分 ~ 14时41分]"
+        },
+        {
+          "title": "女儿上小学一年级了，周末幼儿园的小闺蜜想让去她家里住两天，作为妈妈你同意吗？",
+          "url": "https://www.zhihu.com/question/1889087773513851075",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "多地紧急部署中小学扩增渡峰",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E7%B4%A7%E6%80%A5%E9%83%A8%E7%BD%B2%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%89%A9%E5%A2%9E%E6%B8%A1%E5%B3%B0%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 4,
@@ -16,8 +69,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时57分 ~ 13时11分]"
+          "appearance_count": 4,
+          "time_info": "[08时57分 ~ 14时41分]"
         },
         {
           "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
@@ -28,8 +81,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 13时11分]"
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 14时41分]"
         },
         {
           "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
@@ -38,9 +91,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时11分 ~ 14时41分]"
         },
         {
           "title": "谷歌母公司Alphabet业绩报告要点总结",
@@ -48,36 +101,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小学",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "两会之声｜政协委员建议上海中小学放春秋假，让学生有更多社会实践机会",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32531230",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时57分 ~ 13时11分]"
-        },
-        {
-          "title": "女儿上小学一年级了，周末幼儿园的小闺蜜想让去她家里住两天，作为妈妈你同意吗？",
-          "url": "https://www.zhihu.com/question/1889087773513851075",
-          "source": "知乎",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 1,
