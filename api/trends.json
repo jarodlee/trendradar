@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T17:31:45.205682+08:00",
-  "total_titles_processed": 1058,
+  "generated_at": "2026-02-06T18:27:26.073741+08:00",
+  "total_titles_processed": 1149,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时24分 ~ 17时31分]"
+          "appearance_count": 8,
+          "time_info": "[11时24分 ~ 18时27分]"
         },
         {
           "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
@@ -42,6 +42,45 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时54分 ~ 13时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "软银：将在日本的合资企业服务中使用OpenAI的新企业平台。",
+          "url": "https://flash.jin10.com/detail/20260206105733969800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "OpenAI推出全新平台Frontier 强调对软件行业是“利好消息”",
+          "url": "https://www.cls.cn/detail/2282143",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 11时25分]"
+        },
+        {
+          "title": "实测OpenAI和Cluade模型",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BOpenAI%E5%92%8CCluade%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         }
       ]
     },
@@ -71,34 +110,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "软银：将在日本的合资企业服务中使用OpenAI的新企业平台。",
-          "url": "https://flash.jin10.com/detail/20260206105733969800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时25分"
-        },
-        {
-          "title": "OpenAI推出全新平台Frontier 强调对软件行业是“利好消息”",
-          "url": "https://www.cls.cn/detail/2282143",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 11时25分]"
         }
       ]
     },
