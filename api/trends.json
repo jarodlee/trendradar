@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T20:20:03.583468+08:00",
-  "total_titles_processed": 963,
+  "generated_at": "2026-02-07T21:36:23.745367+08:00",
+  "total_titles_processed": 1024,
   "failed_sources": [],
   "trends": [
     {
@@ -46,6 +46,38 @@
       ]
     },
     {
+      "keyword_group": "教育",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【社论】推进中考改革，回归教育本质",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32550440",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            12,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时54分 ~ 16时16分]"
+        },
+        {
+          "title": "教育局回应成绩单用星星显示",
+          "url": "https://s.weibo.com/weibo?q=%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E6%88%90%E7%BB%A9%E5%8D%95%E7%94%A8%E6%98%9F%E6%98%9F%E6%98%BE%E7%A4%BA&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        }
+      ]
+    },
+    {
       "keyword_group": "小学",
       "match_count": 1,
       "titles": [
@@ -66,27 +98,6 @@
       ]
     },
     {
-      "keyword_group": "教育",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【社论】推进中考改革，回归教育本质",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32550440",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            12,
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时54分 ~ 16时16分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -99,11 +110,12 @@
             8,
             7,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时26分 ~ 20时20分]"
+          "appearance_count": 10,
+          "time_info": "[14时26分 ~ 21时36分]"
         }
       ]
     },
