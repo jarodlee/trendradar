@@ -1,100 +1,33 @@
 {
-  "generated_at": "2026-02-07T22:15:59.219991+08:00",
-  "total_titles_processed": 1070,
+  "generated_at": "2026-02-08T09:13:18.786863+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "景林资产四季度减持英伟达超150万股，进一步增仓拼多多，重仓谷歌A、Meta、拼多多",
-          "url": "https://wallstreetcn.com/livenews/3051649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            23,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时54分 ~ 13时38分]"
-        },
-        {
-          "title": "据Fortune：OpenAI旗下ChatGPT应用的市场份额从2025年1月的69.1%骤降至次年的45.3%，而谷歌旗下Gemini聊天机器人应用的市场份额则从14.7%攀升至25.2%。",
-          "url": "https://flash.jin10.com/detail/20260207040250896800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "景林最新美股持仓曝光：谷歌升至第一大重仓 大幅减持英伟达",
-          "url": "https://flash.jin10.com/detail/20260207035802693800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        }
-      ]
-    },
     {
       "keyword_group": "教育",
       "match_count": 2,
       "titles": [
         {
-          "title": "【社论】推进中考改革，回归教育本质",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32550440",
-          "source": "澎湃新闻",
+          "title": "教育部：将有序推进中考改革",
+          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%B0%86%E6%9C%89%E5%BA%8F%E6%8E%A8%E8%BF%9B%E4%B8%AD%E8%80%83%E6%94%B9%E9%9D%A9",
+          "source": "百度热搜",
           "ranks": [
-            11,
-            12,
-            10,
-            9,
-            8
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时54分 ~ 16时16分]"
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
-          "title": "教育局回应成绩单用星星显示",
-          "url": "https://s.weibo.com/weibo?q=%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E6%88%90%E7%BB%A9%E5%8D%95%E7%94%A8%E6%98%9F%E6%98%9F%E6%98%BE%E7%A4%BA&t=31&band_rank=26&Refer=top",
-          "source": "微博",
+          "title": "教育部：将有序推进中考改革",
+          "url": "https://www.toutiao.com/trending/7603294956502581291/",
+          "source": "今日头条",
           "ranks": [
-            26,
-            4
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时36分 ~ 22时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小学",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "小学生获奖状，全家特意在小区摆拍「走红毯、放礼花」庆祝，这会让孩子更有动力吗？「鼓励式教育」有多重要？",
-          "url": "https://www.zhihu.com/question/2003119334013305822",
-          "source": "知乎",
-          "ranks": [
-            10,
-            11,
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时15分 ~ 16时16分]"
+          "appearance_count": 1,
+          "time_info": "09时13分"
         }
       ]
     },
@@ -107,37 +40,11 @@
           "url": "https://wallstreetcn.com/articles/3765209",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8,
-            7,
-            5,
-            4,
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时26分 ~ 22时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "堪比“ChatGPT”时刻！SemiAnalysis深度解读：Claude Code将是AI “智能体”的转折点",
-          "url": "https://wallstreetcn.com/articles/3765171",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时54分 ~ 20时20分]"
+          "appearance_count": 1,
+          "time_info": "09时13分"
         }
       ]
     }
