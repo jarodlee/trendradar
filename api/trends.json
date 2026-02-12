@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T20:33:40.971787+08:00",
-  "total_titles_processed": 1320,
+  "generated_at": "2026-02-12T22:02:55.293919+08:00",
+  "total_titles_processed": 1441,
   "failed_sources": [],
   "trends": [
     {
@@ -47,11 +47,12 @@
           "ranks": [
             7,
             9,
-            8
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时58分 ~ 20时33分]"
+          "appearance_count": 16,
+          "time_info": "[08时58分 ~ 22时02分]"
         },
         {
           "title": "从Deepseek到Seedance中国AI成了",
@@ -122,11 +123,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32590657",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 22时02分]"
         },
         {
           "title": "职业教育将重点增设低空经济、人工智能等领域新专业",
@@ -171,7 +173,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美元指数DXY短线走高10点，现报96.97。",
@@ -183,6 +185,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
+        },
+        {
+          "title": "数据公布后，现货黄金、美元指数DXY短线波动不大。",
+          "url": "https://flash.jin10.com/detail/20260212213038892800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         }
       ]
     }
