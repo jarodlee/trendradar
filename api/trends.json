@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T14:46:05.584235+08:00",
-  "total_titles_processed": 712,
+  "generated_at": "2026-02-12T15:43:07.427070+08:00",
+  "total_titles_processed": 819,
   "failed_sources": [],
   "trends": [
     {
@@ -15,22 +15,49 @@
             10,
             14,
             8,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时58分 ~ 14时46分]"
+          "appearance_count": 10,
+          "time_info": "[08时58分 ~ 15时43分]"
+        },
+        {
+          "title": "DeepSeek新模型来了？",
+          "url": "https://wallstreetcn.com/articles/3765514",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时58分 ~ 15时43分]"
+        },
+        {
+          "title": "DeepSeek低调升级新模型",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时58分 ~ 15时43分]"
         },
         {
           "title": "从Deepseek到Seedance中国AI成了",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8EDeepseek%E5%88%B0Seedance%E4%B8%AD%E5%9B%BDAI%E6%88%90%E4%BA%86%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时19分 ~ 14时46分]"
+          "appearance_count": 6,
+          "time_info": "[13时19分 ~ 15时43分]"
         },
         {
           "title": "DeepSeek模型更新！上下文提升至百万Token 可处理三体小说全集",
@@ -43,31 +70,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时58分 ~ 11时40分]"
-        },
-        {
-          "title": "DeepSeek新模型来了？",
-          "url": "https://wallstreetcn.com/articles/3765514",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时58分 ~ 14时46分]"
-        },
-        {
-          "title": "DeepSeek低调升级新模型",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时58分 ~ 14时46分]"
         },
         {
           "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
@@ -160,7 +162,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
         }
