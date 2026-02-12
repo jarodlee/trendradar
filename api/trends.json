@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T18:32:42.411154+08:00",
-  "total_titles_processed": 1124,
+  "generated_at": "2026-02-12T19:31:27.555333+08:00",
+  "total_titles_processed": 1219,
   "failed_sources": [],
   "trends": [
     {
@@ -19,11 +19,12 @@
             9,
             11,
             13,
-            12
+            12,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时58分 ~ 18时32分]"
+          "appearance_count": 14,
+          "time_info": "[08时58分 ~ 19时31分]"
         },
         {
           "title": "DeepSeek新模型来了？",
@@ -48,8 +49,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时58分 ~ 18时32分]"
+          "appearance_count": 14,
+          "time_info": "[08时58分 ~ 19时31分]"
         },
         {
           "title": "从Deepseek到Seedance中国AI成了",
