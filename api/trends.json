@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T21:53:22.885192+08:00",
-  "total_titles_processed": 1431,
+  "generated_at": "2026-02-13T22:33:17.337939+08:00",
+  "total_titles_processed": 1494,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
@@ -19,8 +19,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时41分 ~ 21时53分]"
+          "appearance_count": 10,
+          "time_info": "[15时41分 ~ 22时33分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -118,6 +118,17 @@
           "time_info": "20时29分"
         },
         {
+          "title": "DeepSeek也不想假装关心",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%B9%9F%E4%B8%8D%E6%83%B3%E5%81%87%E8%A3%85%E5%85%B3%E5%BF%83%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "OpenAI指责DeepSeek“抄袭”背后",
           "url": "https://www.toutiao.com/trending/7606207773960834579/",
           "source": "今日头条",
@@ -127,6 +138,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "欧盟将于4月前就针对谷歌的DMA框架下AI草案措施展开咨询",
+          "url": "https://wallstreetcn.com/livenews/3055238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "阿里、谷歌接连“出手” AI购物元年将至？",
+          "url": "https://www.cls.cn/detail/2288802",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
+          "title": "欧盟将在六个月内完成对谷歌(GOOG.O)的反垄断调查程序。",
+          "url": "https://flash.jin10.com/detail/20260213215534534800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "欧盟将于4月就《数字市场法》下针对谷歌(GOOG.O)的拟议措施展开磋商。",
+          "url": "https://flash.jin10.com/detail/20260213215318727800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         }
       ]
     },
@@ -141,11 +202,12 @@
           "ranks": [
             5,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时08分 ~ 21时53分]"
+          "appearance_count": 15,
+          "time_info": "[12时08分 ~ 22时33分]"
         },
         {
           "title": "动态调整！职业教育将重点增设低空经济、人工智能等领域新专业",
@@ -153,23 +215,6 @@
           "source": "澎湃新闻",
           "ranks": [
             5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "阿里、谷歌接连“出手” AI购物元年将至？",
-          "url": "https://www.cls.cn/detail/2288802",
-          "source": "财联社热门",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -203,11 +248,12 @@
           "url": "https://flash.jin10.com/detail/20260213214236124800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 22时33分]"
         }
       ]
     }
