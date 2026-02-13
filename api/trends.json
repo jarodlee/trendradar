@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T17:32:07.718587+08:00",
-  "total_titles_processed": 988,
+  "generated_at": "2026-02-13T18:28:27.520420+08:00",
+  "total_titles_processed": 1101,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时02分 ~ 17时32分]"
+          "appearance_count": 11,
+          "time_info": "[09时02分 ~ 18时28分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -36,8 +36,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时02分 ~ 17时32分]"
+          "appearance_count": 11,
+          "time_info": "[09时02分 ~ 18时28分]"
         },
         {
           "title": "DeepSeek变冷淡了",
@@ -70,11 +70,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时41分 ~ 17时32分]"
+          "appearance_count": 5,
+          "time_info": "[15时41分 ~ 18时28分]"
         },
         {
           "title": "DeepSeek回应被指冷淡",
@@ -83,11 +84,12 @@
           "ranks": [
             29,
             30,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时41分 ~ 17时32分]"
+          "appearance_count": 5,
+          "time_info": "[15时41分 ~ 18时28分]"
         },
         {
           "title": "DeepSeek回应被指变冷淡",
@@ -127,8 +129,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时08分 ~ 17时32分]"
+          "appearance_count": 10,
+          "time_info": "[12时08分 ~ 18时28分]"
         },
         {
           "title": "动态调整！职业教育将重点增设低空经济、人工智能等领域新专业",
