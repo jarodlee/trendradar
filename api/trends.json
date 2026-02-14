@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T19:13:11.690522+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2026-02-14T20:19:38.263572+08:00",
+  "total_titles_processed": 1040,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时29分 ~ 19时13分]"
+          "appearance_count": 10,
+          "time_info": "[14时29分 ~ 20时19分]"
         },
         {
           "title": "DeepSeek春节再扔王炸？官方披露正测试新模型结构",
@@ -32,8 +32,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时56分 ~ 19时13分]"
+          "appearance_count": 13,
+          "time_info": "[08时56分 ~ 20时19分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -56,11 +56,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时26分 ~ 19时13分]"
+          "appearance_count": 7,
+          "time_info": "[15时26分 ~ 20时19分]"
         },
         {
           "title": "一年了 美国还在追着DeepSeek抹黑",
@@ -116,8 +117,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时03分 ~ 19时13分]"
+          "appearance_count": 11,
+          "time_info": "[13时03分 ~ 20时19分]"
         },
         {
           "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
