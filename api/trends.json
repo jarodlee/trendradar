@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T17:18:58.712914+08:00",
-  "total_titles_processed": 850,
+  "generated_at": "2026-02-14T18:14:04.155906+08:00",
+  "total_titles_processed": 917,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时56分 ~ 17时18分]"
+          "appearance_count": 10,
+          "time_info": "[08时56分 ~ 18时14分]"
         },
         {
           "title": "DeepSeek春节再扔王炸？最新披露",
@@ -28,11 +28,12 @@
           "source": "百度热搜",
           "ranks": [
             15,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时29分 ~ 17时18分]"
+          "appearance_count": 7,
+          "time_info": "[14时29分 ~ 18时14分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -42,11 +43,12 @@
             23,
             18,
             16,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时29分 ~ 17时18分]"
+          "appearance_count": 7,
+          "time_info": "[14时29分 ~ 18时14分]"
         },
         {
           "title": "一年了 美国还在追着DeepSeek抹黑",
@@ -70,8 +72,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 17时18分]"
+          "appearance_count": 4,
+          "time_info": "[15时26分 ~ 18时14分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -109,11 +111,12 @@
           "ranks": [
             12,
             9,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时03分 ~ 17时18分]"
+          "appearance_count": 8,
+          "time_info": "[13时03分 ~ 18时14分]"
         },
         {
           "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
@@ -121,11 +124,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 17时18分]"
+          "appearance_count": 3,
+          "time_info": "[16时17分 ~ 18时14分]"
         },
         {
           "title": "Gemini是怎么绝地反杀的",
@@ -222,11 +226,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 17时18分]"
+          "appearance_count": 3,
+          "time_info": "[16时17分 ~ 18时14分]"
         },
         {
           "title": "OpenAI总裁布罗克曼：我们现在正将我们的模型应用于前沿领域的研究当中。在10个数学研究难题中（这些难题是数学研究者已经解决但从未公布解决方案的难题），在一周内，我们的模型发现了至少6个问题的可能正确解决方案。",
