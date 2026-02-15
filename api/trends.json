@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T17:19:33.978944+08:00",
-  "total_titles_processed": 790,
+  "generated_at": "2026-02-15T18:14:41.211247+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时01分 ~ 17时19分]"
+          "appearance_count": 10,
+          "time_info": "[09时01分 ~ 18时14分]"
         },
         {
           "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
@@ -83,11 +83,12 @@
           "url": "https://www.baidu.com/s?wd=DeepSeek%E2%80%9C%E5%8F%98%E5%86%B7%E6%B7%A1%E2%80%9D%E4%B8%8D%E6%98%AF%E7%BF%BB%E8%BD%A6",
           "source": "百度热搜",
           "ranks": [
-            29
+            29,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 18时14分]"
         }
       ]
     },
