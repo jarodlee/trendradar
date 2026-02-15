@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T15:31:24.819070+08:00",
-  "total_titles_processed": 683,
+  "generated_at": "2026-02-15T16:18:25.547035+08:00",
+  "total_titles_processed": 723,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时01分 ~ 15时31分]"
+          "appearance_count": 8,
+          "time_info": "[09时01分 ~ 16时18分]"
         },
         {
           "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
@@ -31,8 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时01分 ~ 15时31分]"
+          "appearance_count": 8,
+          "time_info": "[09时01分 ~ 16时18分]"
         },
         {
           "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
