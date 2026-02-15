@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T18:14:41.211247+08:00",
-  "total_titles_processed": 842,
+  "generated_at": "2026-02-15T19:13:17.694468+08:00",
+  "total_titles_processed": 899,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时01分 ~ 18时14分]"
+          "appearance_count": 12,
+          "time_info": "[09时01分 ~ 19时13分]"
         },
         {
           "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
@@ -64,7 +64,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -84,11 +84,23 @@
           "source": "百度热搜",
           "ranks": [
             29,
-            23
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时19分 ~ 19时13分]"
+        },
+        {
+          "title": "春节周重磅前瞻：美联储最爱通胀指标，DeepSeek V4或发布",
+          "url": "https://wallstreetcn.com/articles/3765742",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时19分 ~ 18时14分]"
+          "time_info": "[19时12分 ~ 19时13分]"
         }
       ]
     },
