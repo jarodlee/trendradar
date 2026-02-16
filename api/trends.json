@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T18:37:38.080076+08:00",
-  "total_titles_processed": 955,
+  "generated_at": "2026-02-16T19:31:59.878600+08:00",
+  "total_titles_processed": 1032,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时38分 ~ 18时37分]"
+          "appearance_count": 8,
+          "time_info": "[11时38分 ~ 19时31分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -84,8 +84,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时59分 ~ 18时37分]"
+          "appearance_count": 9,
+          "time_info": "[08时59分 ~ 19时31分]"
         },
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
@@ -93,11 +93,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            16
+            16,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 18时37分]"
+          "appearance_count": 3,
+          "time_info": "[17时39分 ~ 19时31分]"
         }
       ]
     },
