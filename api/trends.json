@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-02-16T14:48:48.930357+08:00",
-  "total_titles_processed": 676,
+  "generated_at": "2026-02-16T15:44:36.514265+08:00",
+  "total_titles_processed": 748,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
+        {
+          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
+          "url": "https://wallstreetcn.com/articles/3765772",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时38分 ~ 15时44分]"
+        },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
           "url": "https://wallstreetcn.com/articles/3765755",
@@ -31,19 +45,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时21分 ~ 14时48分]"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "教育",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
-          "url": "https://wallstreetcn.com/articles/3765772",
-          "source": "华尔街见闻",
+          "title": "父母应该怎样教育孩子",
+          "url": "https://www.toutiao.com/trending/7607061437198942250/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            9,
-            8
+            14
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时38分 ~ 14时48分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         }
       ]
     },
@@ -73,11 +91,12 @@
           "url": "https://www.cls.cn/detail/2290476",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时59分 ~ 14时48分]"
+          "appearance_count": 5,
+          "time_info": "[08时59分 ~ 15时44分]"
         }
       ]
     }
