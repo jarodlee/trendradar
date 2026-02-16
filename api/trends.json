@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T21:58:05.207008+08:00",
-  "total_titles_processed": 1237,
+  "generated_at": "2026-02-16T22:37:07.452684+08:00",
+  "total_titles_processed": 1302,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时38分 ~ 21时58分]"
+          "appearance_count": 13,
+          "time_info": "[11时38分 ~ 22时37分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -83,11 +83,23 @@
           "ranks": [
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时59分 ~ 21时58分]"
+          "appearance_count": 14,
+          "time_info": "[08时59分 ~ 22时37分]"
+        },
+        {
+          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
+          "url": "https://wallstreetcn.com/articles/3765786",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时31分 ~ 22时37分]"
         },
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
@@ -101,17 +113,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时39分 ~ 19时31分]"
-        },
-        {
-          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
-          "url": "https://wallstreetcn.com/articles/3765786",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时31分 ~ 21时58分]"
         },
         {
           "title": "千问3.5成本仅为谷歌大模型5%",
@@ -128,7 +129,7 @@
     },
     {
       "keyword_group": "教育",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "父母应该怎样教育孩子",
@@ -142,6 +143,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时44分 ~ 18时37分]"
+        },
+        {
+          "title": "巴基斯坦总理：在和奥地利总理的会晤中，我们重申了共同努力，进一步加强在经济合作、贸易与投资、旅游、酒店业、教育、信息技术、医疗保健以及人力资源发展与流动等多个领域的双边关系的决心。",
+          "url": "https://flash.jin10.com/detail/20260216214819656800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
         }
       ]
     },
@@ -173,7 +185,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         }
