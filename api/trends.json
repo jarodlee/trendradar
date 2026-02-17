@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T13:16:56.577899+08:00",
-  "total_titles_processed": 550,
+  "generated_at": "2026-02-17T14:42:14.881445+08:00",
+  "total_titles_processed": 630,
   "failed_sources": [],
   "trends": [
     {
@@ -51,11 +51,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32621821",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 13时16分]"
+          "appearance_count": 5,
+          "time_info": "[08时58分 ~ 14时42分]"
         },
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
@@ -66,8 +67,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 13时16分]"
+          "appearance_count": 5,
+          "time_info": "[08时58分 ~ 14时42分]"
         }
       ]
     },
