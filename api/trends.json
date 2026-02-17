@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T11:32:22.348144+08:00",
-  "total_titles_processed": 443,
+  "generated_at": "2026-02-17T13:16:56.577899+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
@@ -54,19 +54,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时58分 ~ 11时32分]"
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 13时16分]"
         },
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
           "url": "https://wallstreetcn.com/articles/3765786",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时58分 ~ 11时32分]"
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 13时16分]"
         }
       ]
     },
