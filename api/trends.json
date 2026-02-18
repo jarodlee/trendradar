@@ -1,142 +1,22 @@
 {
-  "generated_at": "2026-02-17T22:41:45.297296+08:00",
-  "total_titles_processed": 1371,
+  "generated_at": "2026-02-18T09:00:56.625384+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
-          "url": "https://wallstreetcn.com/articles/3765772",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "OpenAI成功“抢人”！从OpenClaw挖来创始人掌舵AI代理",
-          "url": "https://www.cls.cn/detail/2290903",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时35分 ~ 17时36分]"
-        },
-        {
-          "title": "OpenAI：系统（恢复）全面运作。",
-          "url": "https://wallstreetcn.com/livenews/3055842",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "市场消息：乔什·库什纳旗下的Thrive Capital公司筹集了100亿美元的新资金。这家OpenAI、Stripe、SpaceX和Skims的投资方表示，其在投资方面采取的是“要么全力以赴、要么一无所获”的策略。",
-          "url": "https://flash.jin10.com/detail/20260217200431087800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "OpenAI目前正经历某些问题，购物搜索功能宕机。",
-          "url": "https://wallstreetcn.com/livenews/3055834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32621821",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时58分 ~ 20时31分]"
-        },
-        {
-          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
-          "url": "https://wallstreetcn.com/articles/3765786",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时58分 ~ 18时33分]"
-        },
-        {
-          "title": "市场消息：联合利华与谷歌云达成五年合作，将使用谷歌云的先进人工智能、数据和平台。",
-          "url": "https://flash.jin10.com/detail/20260217160309287800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "教育",
       "match_count": 1,
       "titles": [
         {
-          "title": "Anthropic与卢旺达政府签署关于人工智能在医疗和教育领域应用的谅解备忘录。",
-          "url": "https://flash.jin10.com/detail/20260217180419136800",
+          "title": "据The Information：Anthropic预计到2029年将向亚马逊、谷歌和微软支付至少800亿美元，以在云服务器上运行Claude AI。",
+          "url": "https://flash.jin10.com/detail/20260218085113078800",
           "source": "金十数据",
           "ranks": [
-            9
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周一（2月16日）纽约尾盘，ICE美元指数涨0.16%，报97.066点，日内交投区间为96.907-97.120点。 彭博美元指数涨0.13%，报1182.94点，日内交投区间为1181.33-1183.44点。",
-          "url": "https://wallstreetcn.com/livenews/3055833",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
+          "time_info": "09时00分"
         }
       ]
     }
