@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T13:16:41.571723+08:00",
-  "total_titles_processed": 569,
+  "generated_at": "2026-02-19T14:44:27.273579+08:00",
+  "total_titles_processed": 668,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 13时16分]"
+          "appearance_count": 3,
+          "time_info": "[11时34分 ~ 14时44分]"
         },
         {
           "title": "市场消息：塔塔集团与OpenAI建立基础合作伙伴关系。",
@@ -48,7 +49,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -62,6 +63,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌CEO皮查伊：今天在印度人工智能行动峰会上发表讲话，对我来说是一种极高的荣幸。人工智能能够改善数十亿人的生活，并解决科学领域中一些最为棘手的问题。人工智能所能带来的最佳成果并非是必然能够实现的。我们必须大胆地探索人工智能，以负责任的态度对待它，并携手共度这一时刻。",
+          "url": "https://flash.jin10.com/detail/20260219133402090800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时44分"
         }
       ]
     }
