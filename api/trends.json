@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T14:39:21.477731+08:00",
-  "total_titles_processed": 662,
+  "generated_at": "2026-02-20T15:39:57.784637+08:00",
+  "total_titles_processed": 750,
   "failed_sources": [],
   "trends": [
     {
@@ -99,11 +99,12 @@
           "url": "https://www.zhihu.com/question/2007991688078045862",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时11分 ~ 14时39分]"
+          "appearance_count": 3,
+          "time_info": "[13时11分 ~ 15时39分]"
         },
         {
           "title": "Gemini3.1 Pro上线",
@@ -133,8 +134,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时55分 ~ 14时39分]"
+          "appearance_count": 6,
+          "time_info": "[08时55分 ~ 15时39分]"
         }
       ]
     },
