@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T12:59:38.742463+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2026-02-21T13:39:08.172872+08:00",
+  "total_titles_processed": 546,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 12时59分]"
+          "appearance_count": 3,
+          "time_info": "[11时14分 ~ 13时39分]"
         },
         {
           "title": "OpenAI调整后毛利润率在2025年下滑至33%。 该公司仍然预计现金流将在2030年转正。（The Information）",
@@ -26,11 +27,12 @@
           "ranks": [
             6,
             17,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时55分 ~ 12时59分]"
+          "appearance_count": 4,
+          "time_info": "[08时55分 ~ 13时39分]"
         },
         {
           "title": "报道：OpenAI调整支出预期，告知投资者2030年算力目标约为6,000亿美元",
@@ -39,11 +41,12 @@
           "ranks": [
             10,
             21,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时55分 ~ 12时59分]"
+          "appearance_count": 4,
+          "time_info": "[08时55分 ~ 13时39分]"
         },
         {
           "title": "OpenAI工作人员针对加拿大枪击案的嫌犯拉响警报。 相关人员在OpenAI的ChatGPT上谈论枪支暴力活动问题。（华尔街日报）",
@@ -79,11 +82,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BGemini%203.1%20Pro",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 12时59分]"
+          "appearance_count": 4,
+          "time_info": "[11时14分 ~ 13时39分]"
         },
         {
           "title": "“谷歌天团”反击AI泡沫质疑：这是工业革命，但速度快10倍、规模大10倍",
@@ -93,8 +97,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时55分 ~ 12时59分]"
+          "appearance_count": 5,
+          "time_info": "[08时55分 ~ 13时39分]"
         },
         {
           "title": "区域银行ETF收涨约1.3%，领跑美股行业ETF，标普电信板块涨超2.6%，谷歌A涨4%",
