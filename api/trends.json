@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-23T19:31:46.116089+08:00",
-  "total_titles_processed": 1068,
+  "generated_at": "2026-02-23T20:32:59.100665+08:00",
+  "total_titles_processed": 1162,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "中办印发《通知》在全党开展树立和践行正确政绩观学习教育。",
+          "url": "https://flash.jin10.com/detail/20260223200027941800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
         {
           "title": "为什么有人认为我国基础教育不教逻辑学？",
           "url": "https://www.zhihu.com/question/1973003474213048580",
@@ -14,7 +25,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -44,8 +55,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时58分 ~ 19时31分]"
+          "appearance_count": 12,
+          "time_info": "[08时58分 ~ 20时32分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -57,6 +68,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小学",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "多省官宣中小学春秋假",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E7%9C%81%E5%AE%98%E5%AE%A3%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%98%A5%E7%A7%8B%E5%81%87%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         }
       ]
     }
