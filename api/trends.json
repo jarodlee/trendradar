@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T15:43:14.633440+08:00",
-  "total_titles_processed": 805,
+  "generated_at": "2026-02-25T16:33:54.329503+08:00",
+  "total_titles_processed": 869,
   "failed_sources": [],
   "trends": [
     {
@@ -29,6 +29,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小学",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "政协委员建议培养中小学副班主任：新教师须担任至少一年副班主任",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32650963",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         }
       ]
     },
