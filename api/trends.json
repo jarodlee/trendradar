@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T14:43:33.433146+08:00",
-  "total_titles_processed": 725,
+  "generated_at": "2026-02-26T15:42:45.167196+08:00",
+  "total_titles_processed": 818,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "教育部：学生每天体育2小时、课间15分钟已在全国所有省份部署推开",
@@ -15,8 +15,21 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时56分 ~ 15时42分]"
+        },
+        {
+          "title": "教育部将严查挤占体育课、课间不准学生出教室等行为，具有怎样的积极作用？能否有效落实？",
+          "url": "https://www.zhihu.com/question/2010072820441446185",
+          "source": "知乎",
+          "ranks": [
+            12,
+            10,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[08时56分 ~ 14时43分]"
+          "time_info": "[11时27分 ~ 15时42分]"
         },
         {
           "title": "教育部：严查课间不准学生出教室",
@@ -30,17 +43,18 @@
           "time_info": "11时27分"
         },
         {
-          "title": "教育部将严查挤占体育课、课间不准学生出教室等行为，具有怎样的积极作用？能否有效落实？",
-          "url": "https://www.zhihu.com/question/2010072820441446185",
-          "source": "知乎",
+          "title": "孕妇深夜路边直播求救？九寨沟民警搜寻近一小时发现系编造引流：已批评教育",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32653610",
+          "source": "澎湃新闻",
           "ranks": [
-            12,
-            10,
-            5
+            19,
+            18,
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时27分 ~ 14时43分]"
+          "appearance_count": 5,
+          "time_info": "[11时27分 ~ 15时42分]"
         },
         {
           "title": "教育部：严查“课间不准学生出教室”",
@@ -54,19 +68,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时56分 ~ 13时15分]"
-        },
-        {
-          "title": "孕妇深夜路边直播求救？九寨沟民警搜寻近一小时发现系编造引流：已批评教育",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32653610",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时27分 ~ 14时43分]"
         },
         {
           "title": "教育局回应5点半读书23点20放学作息表",
@@ -89,6 +90,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
+        },
+        {
+          "title": "著名法学家、“人民教育家”高铭暄逝世，享年98岁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32658888",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         }
       ]
     },
@@ -97,13 +109,25 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "三星发布会首次展现Gemini手机智能体 苹果iOS翘首以待",
+          "url": "https://www.cls.cn/detail/2295271",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时43分 ~ 15时42分]"
+        },
+        {
           "title": "马来西亚总理：这项投资涵盖了谷歌在马来西亚首个数据中心和云服务基础设施的开发和运营。该项目投入运营后，预计到2030年将带来32亿美元的经济效益，并创造26,500个就业岗位。",
           "url": "https://flash.jin10.com/detail/20260226141522219800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
@@ -114,18 +138,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时43分"
-        },
-        {
-          "title": "三星发布会首次展现Gemini手机智能体 苹果iOS翘首以待",
-          "url": "https://www.cls.cn/detail/2295271",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         }
