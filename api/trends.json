@@ -1,177 +1,61 @@
 {
-  "generated_at": "2026-02-25T23:01:36.333969+08:00",
-  "total_titles_processed": 1425,
+  "generated_at": "2026-02-26T08:56:16.364226+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
-      "match_count": 7,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "教育局回应教师报考其他单位遭开除",
-          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E6%95%99%E5%B8%88%E6%8A%A5%E8%80%83%E5%85%B6%E4%BB%96%E5%8D%95%E4%BD%8D%E9%81%AD%E5%BC%80%E9%99%A4",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时04分 ~ 12时23分]"
-        },
         {
           "title": "教育部：学生每天体育2小时、课间15分钟已在全国所有省份部署推开",
           "url": "https://m.thepaper.cn/newsDetail_forward_32655079",
           "source": "澎湃新闻",
           "ranks": [
-            15,
-            13
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时33分 ~ 23时01分]"
-        },
-        {
-          "title": "重庆85岁爸爸教育62岁儿子少玩手机",
-          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%8685%E5%B2%81%E7%88%B8%E7%88%B8%E6%95%99%E8%82%B262%E5%B2%81%E5%84%BF%E5%AD%90%E5%B0%91%E7%8E%A9%E6%89%8B%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时40分 ~ 19时31分]"
+          "appearance_count": 1,
+          "time_info": "08时56分"
         },
         {
           "title": "教育部：将严查挤占体育课、课间不准学生出教室等行为",
           "url": "https://www.cls.cn/detail/2295029",
           "source": "财联社热门",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时15分 ~ 23时01分]"
+          "appearance_count": 1,
+          "time_info": "08时56分"
         },
         {
-          "title": "教育部：学生每天体育2小时、课间15分钟已在全国所有省份部署推开",
-          "url": "https://wallstreetcn.com/livenews/3058822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 20时33分]"
-        },
-        {
-          "title": "教育部：将严查挤占体育课等行为",
-          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%B0%86%E4%B8%A5%E6%9F%A5%E6%8C%A4%E5%8D%A0%E4%BD%93%E8%82%B2%E8%AF%BE%E7%AD%89%E8%A1%8C%E4%B8%BA",
+          "title": "教育部：严查“课间不准学生出教室”",
+          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E4%B8%A5%E6%9F%A5%E2%80%9C%E8%AF%BE%E9%97%B4%E4%B8%8D%E5%87%86%E5%AD%A6%E7%94%9F%E5%87%BA%E6%95%99%E5%AE%A4%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            10
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时33分"
-        },
-        {
-          "title": "教育局回应教师报考其他单位遭开除",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E6%95%99%E5%B8%88%E6%8A%A5%E8%80%83%E5%85%B6%E4%BB%96%E5%8D%95%E4%BD%8D%E9%81%AD%E5%BC%80%E9%99%A4%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时23分"
+          "time_info": "08时56分"
         }
       ]
     },
     {
       "keyword_group": "小学",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "政协委员建议培养中小学副班主任：新教师须担任至少一年副班主任",
           "url": "https://m.thepaper.cn/newsDetail_forward_32650963",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            16,
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时33分 ~ 23时01分]"
-        },
-        {
-          "title": "建议培养中小学副班主任",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%9F%B9%E5%85%BB%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%89%AF%E7%8F%AD%E4%B8%BB%E4%BB%BB%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 20时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌宣布将新建数据中心：承诺电费全包不涨价 绿电+储能齐推进",
-          "url": "https://www.cls.cn/detail/2294085",
-          "source": "财联社热门",
-          "ranks": [
-            8,
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时04分 ~ 14时47分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "韩女子用ChatGPT策划连环杀人案",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8ChatGPT%E7%AD%96%E5%88%92%E8%BF%9E%E7%8E%AF%E6%9D%80%E4%BA%BA%E6%A1%88%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            5,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时40分 ~ 20时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "澳大利亚CPI数据公布后，澳元兑美元小幅走高，澳洲股指ASX 200指数涨幅收窄至0.6%，澳大利亚3年期国债收益率上行4个基点。",
-          "url": "https://wallstreetcn.com/livenews/3058410",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时04分"
+          "time_info": "08时56分"
         }
       ]
     }
