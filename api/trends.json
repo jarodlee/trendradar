@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T17:36:10.258429+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-02-26T18:33:47.063427+08:00",
+  "total_titles_processed": 1106,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "教育部：学生每天体育2小时、课间15分钟已在全国所有省份部署推开",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时56分 ~ 17时36分]"
+          "appearance_count": 10,
+          "time_info": "[08时56分 ~ 18时33分]"
         },
         {
           "title": "教育部将严查挤占体育课、课间不准学生出教室等行为，具有怎样的积极作用？能否有效落实？",
@@ -41,6 +41,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        },
+        {
+          "title": "著名法学家、“人民教育家”高铭暄逝世，享年98岁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32658888",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时42分 ~ 18时33分]"
         },
         {
           "title": "孕妇深夜路边直播求救？九寨沟民警搜寻近一小时发现系编造引流：已批评教育",
@@ -70,19 +84,6 @@
           "time_info": "[08时56分 ~ 13时15分]"
         },
         {
-          "title": "著名法学家、“人民教育家”高铭暄逝世，享年98岁",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32658888",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时42分 ~ 17时36分]"
-        },
-        {
           "title": "教育局回应5点半读书23点20放学作息表",
           "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%945%E7%82%B9%E5%8D%8A%E8%AF%BB%E4%B9%A623%E7%82%B920%E6%94%BE%E5%AD%A6%E4%BD%9C%E6%81%AF%E8%A1%A8%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -103,6 +104,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
+        },
+        {
+          "title": "甘肃一中学拟制定早五晚十一超长作息表，教育局回应「参考外地学校」，这种安排会对孩子带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2010341505303344959",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
         }
       ]
     },
