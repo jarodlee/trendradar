@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T08:56:16.364226+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-02-26T11:27:40.072630+08:00",
+  "total_titles_processed": 480,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "教育部：学生每天体育2小时、课间15分钟已在全国所有省份部署推开",
@@ -15,8 +15,31 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 11时27分]"
+        },
+        {
+          "title": "教育部：严查课间不准学生出教室",
+          "url": "https://www.toutiao.com/trending/7609718826302292010/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时56分"
+          "time_info": "11时27分"
+        },
+        {
+          "title": "教育部：严查“课间不准学生出教室”",
+          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E4%B8%A5%E6%9F%A5%E2%80%9C%E8%AF%BE%E9%97%B4%E4%B8%8D%E5%87%86%E5%AD%A6%E7%94%9F%E5%87%BA%E6%95%99%E5%AE%A4%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 11时27分]"
         },
         {
           "title": "教育部：将严查挤占体育课、课间不准学生出教室等行为",
@@ -30,15 +53,65 @@
           "time_info": "08时56分"
         },
         {
-          "title": "教育部：严查“课间不准学生出教室”",
-          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E4%B8%A5%E6%9F%A5%E2%80%9C%E8%AF%BE%E9%97%B4%E4%B8%8D%E5%87%86%E5%AD%A6%E7%94%9F%E5%87%BA%E6%95%99%E5%AE%A4%E2%80%9D",
-          "source": "百度热搜",
+          "title": "教育部将严查挤占体育课、课间不准学生出教室等行为，具有怎样的积极作用？能否有效落实？",
+          "url": "https://www.zhihu.com/question/2010072820441446185",
+          "source": "知乎",
           "ranks": [
-            8
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时56分"
+          "time_info": "11时27分"
+        },
+        {
+          "title": "孕妇深夜路边直播求救？九寨沟民警搜寻近一小时发现系编造引流：已批评教育",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32653610",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "据The Information：OpenAI聘请了Meta的AI研究员Ruoming Pang，他此前曾领导过苹果的AI模型团队。",
+          "url": "https://wallstreetcn.com/livenews/3059204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "据The Information：OpenAI正讨论扩大云服务协议，以纳入Trainium芯片。",
+          "url": "https://wallstreetcn.com/livenews/3059202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "据The Information：亚马逊对OpenAI的500亿美元投资可能取决于其IPO进程及AGI（通用人工智能）的实现。",
+          "url": "https://wallstreetcn.com/livenews/3059201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         }
       ]
     },
@@ -51,11 +124,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32650963",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 11时27分]"
         }
       ]
     }
