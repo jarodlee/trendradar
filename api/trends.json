@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T18:25:44.520702+08:00",
-  "total_titles_processed": 1071,
+  "generated_at": "2026-02-27T19:23:32.154218+08:00",
+  "total_titles_processed": 1183,
   "failed_sources": [],
   "trends": [
     {
@@ -79,11 +79,12 @@
             5,
             26,
             18,
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时36分 ~ 18时25分]"
+          "appearance_count": 6,
+          "time_info": "[14时36分 ~ 19时23分]"
         },
         {
           "title": "OpenAI向加拿大官员作出多项承诺，将加强安全机制",
