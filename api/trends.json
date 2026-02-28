@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T19:02:13.401097+08:00",
-  "total_titles_processed": 1271,
+  "generated_at": "2026-02-28T20:02:25.088465+08:00",
+  "total_titles_processed": 1386,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时49分 ~ 19时02分]"
+          "appearance_count": 15,
+          "time_info": "[08时49分 ~ 20时02分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -45,11 +45,12 @@
             14,
             18,
             17,
-            28
+            28,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时20分 ~ 19时02分]"
+          "appearance_count": 9,
+          "time_info": "[14时20分 ~ 20时02分]"
         },
         {
           "title": "OpenAI获1100亿美元新投资",
@@ -158,11 +159,12 @@
           "url": "https://www.cls.cn/detail/2298126",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 20时02分]"
         },
         {
           "title": "消息人士称，英伟达正准备推出一款专用芯片，以撼动人工智能计算领域的竞争格局。OpenAI即将成为英伟达新款处理器的最大客户之一。",
@@ -197,6 +199,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小学",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "伊朗遭袭小学死亡人数升至40人。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3060834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "伊朗一小学遭袭24人死亡",
+          "url": "https://www.douyin.com/hot/2414741",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "伊朗一小学遭导弹袭击 24人死亡",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E4%B8%80%E5%B0%8F%E5%AD%A6%E9%81%AD%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB+24%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "伊朗一小学遭导弹袭击24人死亡",
+          "url": "https://wallstreetcn.com/livenews/3060818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "伊朗一小学遭导弹袭击24人死亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E4%B8%80%E5%B0%8F%E5%AD%A6%E9%81%AD%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB24%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         }
       ]
     },
