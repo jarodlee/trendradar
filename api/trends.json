@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T15:17:53.107150+08:00",
-  "total_titles_processed": 785,
+  "generated_at": "2026-02-28T16:02:25.405323+08:00",
+  "total_titles_processed": 903,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时49分 ~ 15时17分]"
+          "appearance_count": 10,
+          "time_info": "[08时49分 ~ 16时02分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -30,8 +31,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时49分 ~ 15时17分]"
+          "appearance_count": 10,
+          "time_info": "[08时49分 ~ 16时02分]"
         },
         {
           "title": "OpenAI获1100亿美元新投资",
@@ -128,11 +129,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             8,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时20分 ~ 15时17分]"
+          "appearance_count": 4,
+          "time_info": "[14时20分 ~ 16时02分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们与美国国防部达成协议，将我们的模型部署到他们的机密网络中。",
@@ -194,7 +196,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         }
