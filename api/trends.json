@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T16:16:26.640908+08:00",
-  "total_titles_processed": 834,
+  "generated_at": "2026-03-01T17:17:46.520874+08:00",
+  "total_titles_processed": 909,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时31分 ~ 16时16分]"
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 17时17分]"
         },
         {
           "title": "伊朗遭袭小学死亡人数升至148人",
@@ -84,8 +84,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时03分 ~ 16时16分]"
+          "appearance_count": 8,
+          "time_info": "[09时03分 ~ 17时17分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：不会执行违宪命令",
