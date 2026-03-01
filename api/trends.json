@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T12:11:22.823119+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2026-03-01T13:43:18.164438+08:00",
+  "total_titles_processed": 634,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小学",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "伊朗遭袭小学超150人死亡",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时03分 ~ 12时11分]"
+        },
+        {
+          "title": "伊朗遭袭小学死亡人数升至148人",
+          "url": "https://flash.jin10.com/detail/20260301130355974800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         },
         {
           "title": "伊朗一小学遭以色列导弹袭击，已致 118 人死亡，如何看待以色列导弹袭击民用设施的行为？",
@@ -54,7 +65,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -64,11 +75,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             8,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 12时11分]"
+          "appearance_count": 3,
+          "time_info": "[09时03分 ~ 13时43分]"
         }
       ]
     }
