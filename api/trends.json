@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T17:17:46.520874+08:00",
-  "total_titles_processed": 909,
+  "generated_at": "2026-03-01T18:13:21.900660+08:00",
+  "total_titles_processed": 987,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小学",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "伊朗一小学遭导弹袭击 已致148死",
@@ -64,6 +64,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
+        },
+        {
+          "title": "多地中小学迎来近十年最短学期",
+          "url": "https://www.toutiao.com/trending/7611786820908548102/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         }
       ]
     },
@@ -84,8 +95,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时03分 ~ 17时17分]"
+          "appearance_count": 9,
+          "time_info": "[09时03分 ~ 18时13分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：不会执行违宪命令",
