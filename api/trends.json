@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T16:29:19.717753+08:00",
-  "total_titles_processed": 987,
+  "generated_at": "2026-03-02T17:35:53.867506+08:00",
+  "total_titles_processed": 1111,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,19 @@
     },
     {
       "keyword_group": "小学",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "全国中小学今起陆续开学",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E4%B8%AD%E5%B0%8F%E5%AD%A6%E4%BB%8A%E8%B5%B7%E9%99%86%E7%BB%AD%E5%BC%80%E5%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
         {
           "title": "上海中小学生迎来“超短学期”",
           "url": "https://www.toutiao.com/trending/7611592872537767955/",
