@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T18:33:37.835038+08:00",
-  "total_titles_processed": 1205,
+  "generated_at": "2026-03-02T19:25:04.751346+08:00",
+  "total_titles_processed": 1308,
   "failed_sources": [],
   "trends": [
     {
@@ -54,8 +54,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时35分 ~ 18时33分]"
+          "appearance_count": 4,
+          "time_info": "[17时35分 ~ 19时25分]"
         },
         {
           "title": "上海中小学生迎来“超短学期”",
@@ -83,7 +83,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         }
