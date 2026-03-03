@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T11:31:43.933933+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-03-03T13:09:03.485840+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
@@ -14,9 +14,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 13时09分]"
         },
         {
           "title": "全国中小学新学期迎来多项新变化",
