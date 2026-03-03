@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T17:30:09.755796+08:00",
-  "total_titles_processed": 1070,
+  "generated_at": "2026-03-03T18:27:07.926698+08:00",
+  "total_titles_processed": 1173,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小学",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "阴间!小学馆竟包庇强奸犯",
@@ -15,11 +15,12 @@
             2,
             3,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时31分 ~ 17时30分]"
+          "appearance_count": 10,
+          "time_info": "[11时31分 ~ 18时27分]"
         },
         {
           "title": "美以伊战争最新动态｜伊朗女子小学遇难学生葬礼举行",
@@ -29,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时29分 ~ 17时30分]"
+          "appearance_count": 4,
+          "time_info": "[17时29分 ~ 18时27分]"
         },
         {
           "title": "美以伊战争最新动态｜伊朗女子小学遇难学生葬礼",
@@ -53,6 +54,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时58分 ~ 08时59分]"
+        },
+        {
+          "title": "建议从小学四年级开设性教育课",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%BB%8E%E5%B0%8F%E5%AD%A6%E5%9B%9B%E5%B9%B4%E7%BA%A7%E5%BC%80%E8%AE%BE%E6%80%A7%E6%95%99%E8%82%B2%E8%AF%BE%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 18时27分]"
         }
       ]
     },
@@ -66,11 +78,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时26分 ~ 17时30分]"
+          "appearance_count": 5,
+          "time_info": "[16时26分 ~ 18时27分]"
         },
         {
           "title": "标普将软银评级展望下调至“负面”，因其对OpenAI追加投资",
@@ -124,7 +137,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时30分"
         }
