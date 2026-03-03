@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T14:34:47.100790+08:00",
-  "total_titles_processed": 724,
+  "generated_at": "2026-03-03T15:34:22.778938+08:00",
+  "total_titles_processed": 843,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时31分 ~ 14时34分]"
+          "appearance_count": 5,
+          "time_info": "[11时31分 ~ 15时34分]"
         },
         {
           "title": "全国中小学新学期迎来多项新变化",
@@ -43,7 +44,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -54,7 +55,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         }
