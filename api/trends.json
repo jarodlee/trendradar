@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T18:27:07.926698+08:00",
-  "total_titles_processed": 1173,
+  "generated_at": "2026-03-03T19:23:13.969243+08:00",
+  "total_titles_processed": 1293,
   "failed_sources": [],
   "trends": [
     {
@@ -79,11 +79,12 @@
           "ranks": [
             12,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时26分 ~ 18时27分]"
+          "appearance_count": 7,
+          "time_info": "[16时26分 ~ 19时23分]"
         },
         {
           "title": "标普将软银评级展望下调至“负面”，因其对OpenAI追加投资",
