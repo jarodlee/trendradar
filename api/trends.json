@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T14:31:45.474953+08:00",
-  "total_titles_processed": 756,
+  "generated_at": "2026-03-04T15:31:47.039396+08:00",
+  "total_titles_processed": 865,
   "failed_sources": [],
   "trends": [
     {
@@ -17,19 +17,20 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时56分 ~ 14时31分]"
+          "appearance_count": 7,
+          "time_info": "[08时56分 ~ 15时31分]"
         },
         {
           "title": "伊朗为遭袭小学165名遇难者办葬礼",
           "url": "https://www.toutiao.com/trending/7612958869853356051/",
           "source": "今日头条",
           "ranks": [
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时02分 ~ 14时31分]"
+          "appearance_count": 5,
+          "time_info": "[13时02分 ~ 15时31分]"
         },
         {
           "title": "伊朗民众为遭袭小学遇难者举行葬礼",
@@ -58,7 +59,7 @@
     },
     {
       "keyword_group": "教育",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "建议基础教育学制缩短为532",
@@ -71,6 +72,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时02分 ~ 14时31分]"
+        },
+        {
+          "title": "政协委员建议逐步将高中纳入义务教育，扩大教育资源缓解中考压力，还能带来哪些利好？可能面临哪些难点？",
+          "url": "https://www.zhihu.com/question/2012442872696239258",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时30分 ~ 15时31分]"
         },
         {
           "title": "委员建议逐步将高中纳入义务教育",
