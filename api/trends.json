@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T13:03:06.879119+08:00",
-  "total_titles_processed": 634,
+  "generated_at": "2026-03-04T14:31:45.474953+08:00",
+  "total_titles_processed": 756,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,23 @@
           "source": "今日头条",
           "ranks": [
             18,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时56分 ~ 14时31分]"
+        },
+        {
+          "title": "伊朗为遭袭小学165名遇难者办葬礼",
+          "url": "https://www.toutiao.com/trending/7612958869853356051/",
+          "source": "今日头条",
+          "ranks": [
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时56分 ~ 13时03分]"
+          "appearance_count": 3,
+          "time_info": "[13时02分 ~ 14时31分]"
         },
         {
           "title": "伊朗民众为遭袭小学遇难者举行葬礼",
@@ -30,17 +42,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时17分 ~ 13时03分]"
-        },
-        {
-          "title": "伊朗为遭袭小学165名遇难者办葬礼",
-          "url": "https://www.toutiao.com/trending/7612958869853356051/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时02分 ~ 13时03分]"
         },
         {
           "title": "特朗普妻子被怒斥你丈夫下令轰炸小学",
@@ -60,6 +61,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "建议基础教育学制缩短为532",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2%E5%AD%A6%E5%88%B6%E7%BC%A9%E7%9F%AD%E4%B8%BA532%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时02分 ~ 14时31分]"
+        },
+        {
           "title": "委员建议逐步将高中纳入义务教育",
           "url": "https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E9%80%90%E6%AD%A5%E5%B0%86%E9%AB%98%E4%B8%AD%E7%BA%B3%E5%85%A5%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2",
           "source": "百度热搜",
@@ -70,17 +83,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时56分 ~ 11时17分]"
-        },
-        {
-          "title": "建议基础教育学制缩短为532",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2%E5%AD%A6%E5%88%B6%E7%BC%A9%E7%9F%AD%E4%B8%BA532%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时02分 ~ 13时03分]"
         }
       ]
     },
