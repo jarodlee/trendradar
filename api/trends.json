@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T16:24:11.275621+08:00",
-  "total_titles_processed": 959,
+  "generated_at": "2026-03-04T17:27:53.732357+08:00",
+  "total_titles_processed": 1072,
   "failed_sources": [],
   "trends": [
     {
@@ -68,11 +68,12 @@
           "url": "https://www.toutiao.com/trending/7612916978738741286/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 16时24分]"
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 17时27分]"
         },
         {
           "title": "建议基础教育学制缩短为532",
@@ -91,11 +92,12 @@
           "url": "https://www.zhihu.com/question/2012442872696239258",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时30分 ~ 15时31分]"
+          "appearance_count": 3,
+          "time_info": "[15时30分 ~ 17时27分]"
         },
         {
           "title": "委员建议逐步将高中纳入义务教育",
@@ -139,7 +141,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         }
