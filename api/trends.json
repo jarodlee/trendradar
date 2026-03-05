@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T19:24:46.673074+08:00",
-  "total_titles_processed": 1242,
+  "generated_at": "2026-03-05T20:31:44.319165+08:00",
+  "total_titles_processed": 1332,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             1,
-            23
+            23,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时26分 ~ 19时24分]"
+          "appearance_count": 6,
+          "time_info": "[16时26分 ~ 20时31分]"
         },
         {
           "title": "2026 政府工作报告提及将增加普通高中学位供给，推动基础教育扩优提质，能带来哪些实实在在的好处？",
@@ -93,8 +94,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时25分 ~ 19时24分]"
+          "appearance_count": 10,
+          "time_info": "[11时25分 ~ 20时31分]"
         },
         {
           "title": "小学仅1老师4学生 全校都是班干部",
