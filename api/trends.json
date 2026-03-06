@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T17:26:13.129630+08:00",
-  "total_titles_processed": 1055,
+  "generated_at": "2026-03-06T18:22:36.107548+08:00",
+  "total_titles_processed": 1157,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时32分 ~ 17时26分]"
+          "appearance_count": 6,
+          "time_info": "[14时32分 ~ 18时22分]"
         },
         {
           "title": "33岁女子长相幼态常被认成小学生",
@@ -27,11 +28,24 @@
             13,
             19,
             12,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时57分 ~ 17时26分]"
+          "appearance_count": 9,
+          "time_info": "[11时57分 ~ 18时22分]"
+        },
+        {
+          "title": "代表建议把方言纳入小学地方课程，这个方案在实际教学中的可行性如何？",
+          "url": "https://www.zhihu.com/question/2012861524457255440",
+          "source": "知乎",
+          "ranks": [
+            20,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时22分 ~ 18时22分]"
         },
         {
           "title": "建议中小学春秋假也要考虑家长放假",
@@ -45,6 +59,20 @@
           "time_info": "[11时57分 ~ 11时58分]"
         },
         {
+          "title": "建议中小学春秋假也要考虑家长放假",
+          "url": "https://www.toutiao.com/trending/7613261089713389577/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            10,
+            19,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时32分 ~ 18时22分]"
+        },
+        {
           "title": "代表建议将心理筛查纳入中小学体检",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E5%B0%86%E5%BF%83%E7%90%86%E7%AD%9B%E6%9F%A5%E7%BA%B3%E5%85%A5%E4%B8%AD%E5%B0%8F%E5%AD%A6%E4%BD%93%E6%A3%80%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -54,31 +82,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
-        },
-        {
-          "title": "代表建议把方言纳入小学地方课程，这个方案在实际教学中的可行性如何？",
-          "url": "https://www.zhihu.com/question/2012861524457255440",
-          "source": "知乎",
-          "ranks": [
-            20,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 17时26分]"
-        },
-        {
-          "title": "建议中小学春秋假也要考虑家长放假",
-          "url": "https://www.toutiao.com/trending/7613261089713389577/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时32分 ~ 17时26分]"
         },
         {
           "title": "建议中小学春秋假也要考虑家长放假",
@@ -100,8 +103,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 15时31分]"
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 18时22分]"
         },
         {
           "title": "这位人大代表坚守乡村小学40年",
@@ -111,8 +114,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 17时26分]"
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 18时22分]"
         },
         {
           "title": "33岁女子长相幼态常被认为是小学生",
@@ -140,8 +143,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时57分 ~ 17时26分]"
+          "appearance_count": 9,
+          "time_info": "[11时57分 ~ 18时22分]"
         },
         {
           "title": "软银寻求创纪录的400亿美元贷款投资OpenAI",
@@ -227,8 +230,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时02分 ~ 17时26分]"
+          "appearance_count": 10,
+          "time_info": "[09时02分 ~ 18时22分]"
+        },
+        {
+          "title": "五年级的小朋友沉迷用 Python 编写游戏，家长对此完全不懂的情况下，应该怎么教育引导？",
+          "url": "https://www.zhihu.com/question/2011755020413064619",
+          "source": "知乎",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时22分 ~ 18时22分]"
         },
         {
           "title": "“十五五”将探索延长义务教育年限",
@@ -243,18 +258,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时32分 ~ 17时26分]"
-        },
-        {
-          "title": "五年级的小朋友沉迷用 Python 编写游戏，家长对此完全不懂的情况下，应该怎么教育引导？",
-          "url": "https://www.zhihu.com/question/2011755020413064619",
-          "source": "知乎",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 17时26分]"
         },
         {
           "title": "建议将免费教育年限扩至15年",
