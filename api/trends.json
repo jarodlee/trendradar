@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T18:22:36.107548+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2026-03-06T19:19:17.491247+08:00",
+  "total_titles_processed": 1250,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时32分 ~ 18时22分]"
+          "appearance_count": 7,
+          "time_info": "[14时32分 ~ 19时19分]"
         },
         {
           "title": "33岁女子长相幼态常被认成小学生",
@@ -29,11 +29,12 @@
             19,
             12,
             16,
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时57分 ~ 18时22分]"
+          "appearance_count": 10,
+          "time_info": "[11时57分 ~ 19时19分]"
         },
         {
           "title": "代表建议把方言纳入小学地方课程，这个方案在实际教学中的可行性如何？",
@@ -44,8 +45,23 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时22分 ~ 18时22分]"
+          "appearance_count": 5,
+          "time_info": "[16时22分 ~ 19时19分]"
+        },
+        {
+          "title": "建议中小学春秋假也要考虑家长放假",
+          "url": "https://www.toutiao.com/trending/7613261089713389577/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            10,
+            19,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时32分 ~ 19时19分]"
         },
         {
           "title": "建议中小学春秋假也要考虑家长放假",
@@ -59,20 +75,6 @@
           "time_info": "[11时57分 ~ 11时58分]"
         },
         {
-          "title": "建议中小学春秋假也要考虑家长放假",
-          "url": "https://www.toutiao.com/trending/7613261089713389577/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            10,
-            19,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时32分 ~ 18时22分]"
-        },
-        {
           "title": "代表建议将心理筛查纳入中小学体检",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E5%B0%86%E5%BF%83%E7%90%86%E7%AD%9B%E6%9F%A5%E7%BA%B3%E5%85%A5%E4%B8%AD%E5%B0%8F%E5%AD%A6%E4%BD%93%E6%A3%80%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -82,6 +84,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
+        },
+        {
+          "title": "建议中小学春秋假也考虑家长放假",
+          "url": "https://www.douyin.com/hot/2420311",
+          "source": "抖音",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时32分 ~ 19时19分]"
+        },
+        {
+          "title": "这位人大代表坚守乡村小学40年",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BD%8D%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E5%9D%9A%E5%AE%88%E4%B9%A1%E6%9D%91%E5%B0%8F%E5%AD%A640%E5%B9%B4%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时25分 ~ 19时19分]"
         },
         {
           "title": "建议中小学春秋假也要考虑家长放假",
@@ -94,28 +119,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时57分 ~ 14时32分]"
-        },
-        {
-          "title": "建议中小学春秋假也考虑家长放假",
-          "url": "https://www.douyin.com/hot/2420311",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时32分 ~ 18时22分]"
-        },
-        {
-          "title": "这位人大代表坚守乡村小学40年",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BD%8D%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E5%9D%9A%E5%AE%88%E4%B9%A1%E6%9D%91%E5%B0%8F%E5%AD%A640%E5%B9%B4%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时25分 ~ 18时22分]"
         },
         {
           "title": "33岁女子长相幼态常被认为是小学生",
@@ -140,11 +143,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时57分 ~ 18时22分]"
+          "appearance_count": 10,
+          "time_info": "[11时57分 ~ 19时19分]"
         },
         {
           "title": "软银寻求创纪录的400亿美元贷款投资OpenAI",
@@ -217,7 +221,7 @@
     },
     {
       "keyword_group": "教育",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "教育、消费、就业、民营经济……代表委员热议政府工作报告",
@@ -227,11 +231,12 @@
             19,
             17,
             18,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时02分 ~ 18时22分]"
+          "appearance_count": 11,
+          "time_info": "[09时02分 ~ 19时19分]"
         },
         {
           "title": "五年级的小朋友沉迷用 Python 编写游戏，家长对此完全不懂的情况下，应该怎么教育引导？",
@@ -242,8 +247,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时22分 ~ 18时22分]"
+          "appearance_count": 5,
+          "time_info": "[16时22分 ~ 19时19分]"
         },
         {
           "title": "“十五五”将探索延长义务教育年限",
@@ -258,6 +263,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时32分 ~ 17时26分]"
+        },
+        {
+          "title": "政府工作报告提到， 2025 年学前一年免费教育惠及 1400 万儿童，为家长减轻了哪些负担？",
+          "url": "https://www.zhihu.com/question/2012831100360221165",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "建议将免费教育年限扩至15年",
