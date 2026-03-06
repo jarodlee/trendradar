@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T19:19:17.491247+08:00",
-  "total_titles_processed": 1250,
+  "generated_at": "2026-03-06T20:26:01.733880+08:00",
+  "total_titles_processed": 1357,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小学",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "多地官宣中小学春假清明连休6天",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时32分 ~ 19时19分]"
+          "appearance_count": 9,
+          "time_info": "[14时32分 ~ 20时26分]"
         },
         {
           "title": "33岁女子长相幼态常被认成小学生",
@@ -45,8 +45,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时22分 ~ 19时19分]"
+          "appearance_count": 7,
+          "time_info": "[16时22分 ~ 20时26分]"
         },
         {
           "title": "建议中小学春秋假也要考虑家长放假",
@@ -60,8 +60,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时32分 ~ 19时19分]"
+          "appearance_count": 9,
+          "time_info": "[14时32分 ~ 20时26分]"
         },
         {
           "title": "建议中小学春秋假也要考虑家长放假",
@@ -75,6 +75,30 @@
           "time_info": "[11时57分 ~ 11时58分]"
         },
         {
+          "title": "这位人大代表坚守乡村小学40年",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BD%8D%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E5%9D%9A%E5%AE%88%E4%B9%A1%E6%9D%91%E5%B0%8F%E5%AD%A640%E5%B9%B4%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时25分 ~ 20时26分]"
+        },
+        {
+          "title": "建议中小学春秋假也考虑家长放假",
+          "url": "https://www.douyin.com/hot/2420311",
+          "source": "抖音",
+          "ranks": [
+            8,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时32分 ~ 20时26分]"
+        },
+        {
           "title": "代表建议将心理筛查纳入中小学体检",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E5%B0%86%E5%BF%83%E7%90%86%E7%AD%9B%E6%9F%A5%E7%BA%B3%E5%85%A5%E4%B8%AD%E5%B0%8F%E5%AD%A6%E4%BD%93%E6%A3%80%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -84,29 +108,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
-        },
-        {
-          "title": "建议中小学春秋假也考虑家长放假",
-          "url": "https://www.douyin.com/hot/2420311",
-          "source": "抖音",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时32分 ~ 19时19分]"
-        },
-        {
-          "title": "这位人大代表坚守乡村小学40年",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BD%8D%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E5%9D%9A%E5%AE%88%E4%B9%A1%E6%9D%91%E5%B0%8F%E5%AD%A640%E5%B9%B4%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时25分 ~ 19时19分]"
         },
         {
           "title": "建议中小学春秋假也要考虑家长放假",
@@ -119,6 +120,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时57分 ~ 14时32分]"
+        },
+        {
+          "title": "建议给中小学生少补课多补觉",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E7%BB%99%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%B0%91%E8%A1%A5%E8%AF%BE%E5%A4%9A%E8%A1%A5%E8%A7%89%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 20时26分]"
         },
         {
           "title": "33岁女子长相幼态常被认为是小学生",
@@ -147,8 +159,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时57分 ~ 19时19分]"
+          "appearance_count": 12,
+          "time_info": "[11时57分 ~ 20时26分]"
         },
         {
           "title": "软银寻求创纪录的400亿美元贷款投资OpenAI",
@@ -247,8 +259,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时22分 ~ 19时19分]"
+          "appearance_count": 7,
+          "time_info": "[16时22分 ~ 20时26分]"
         },
         {
           "title": "“十五五”将探索延长义务教育年限",
@@ -271,7 +283,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
