@@ -1,51 +1,35 @@
 {
-  "generated_at": "2026-03-07T08:54:15.876485+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-07T11:09:04.494236+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "小学",
-      "match_count": 3,
+      "keyword_group": "教育",
+      "match_count": 7,
       "titles": [
         {
-          "title": "多地官宣中小学春假清明连休6天",
-          "url": "https://www.toutiao.com/trending/7613738539201150982/",
-          "source": "今日头条",
+          "title": "学前教育毛入园率达92.9%",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%A6%E5%89%8D%E6%95%99%E8%82%B2%E6%AF%9B%E5%85%A5%E5%9B%AD%E7%8E%87%E8%BE%BE92.9%25",
+          "source": "百度热搜",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时53分 ~ 08时54分]"
+          "time_info": "[11时08分 ~ 11时09分]"
         },
         {
-          "title": "建议给中小学生少补课多补觉",
-          "url": "https://www.douyin.com/hot/2421385",
-          "source": "抖音",
+          "title": "高等教育学龄人口2032年将达峰值",
+          "url": "https://www.toutiao.com/trending/7614279199599201801/",
+          "source": "今日头条",
           "ranks": [
-            6
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时53分 ~ 08时54分]"
+          "appearance_count": 4,
+          "time_info": "[08时53分 ~ 11时09分]"
         },
-        {
-          "title": "多地官宣中小学春假",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AE%98%E5%AE%A3%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%98%A5%E5%81%87",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时53分 ~ 08时54分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "教育",
-      "match_count": 2,
-      "titles": [
         {
           "title": "“十五五”将探索延长义务教育年限",
           "url": "https://www.toutiao.com/trending/7613613171706822666/",
@@ -58,15 +42,100 @@
           "time_info": "[08时53分 ~ 08时54分]"
         },
         {
-          "title": "高等教育学龄人口2032年将达峰值",
-          "url": "https://www.toutiao.com/trending/7614279199599201801/",
-          "source": "今日头条",
+          "title": "小浪花跑两会丨如何推动教育科技人才一体化？丁奎岭代表提出建议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32714690",
+          "source": "澎湃新闻",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 2,
+          "time_info": "[11时08分 ~ 11时09分]"
+        },
+        {
+          "title": "全面构建公平优质的基础教育体系 将重点抓好四项任务",
+          "url": "https://wallstreetcn.com/livenews/3065554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时09分"
+        },
+        {
+          "title": "教育部：将持续对违规办学、超时学习、校园欺凌等开展清理整治，深入开展“校园餐”、教辅征订等专项治理。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3065553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时09分"
+        },
+        {
+          "title": "我国高等教育毛入学率超60%，“双一流”高校扩招3.8万人",
+          "url": "https://wallstreetcn.com/livenews/3065552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小学",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "多地官宣中小学春假清明连休6天",
+          "url": "https://www.toutiao.com/trending/7613738539201150982/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时53分 ~ 11时09分]"
+        },
+        {
+          "title": "建议给中小学生少补课多补觉",
+          "url": "https://www.douyin.com/hot/2421385",
+          "source": "抖音",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时53分 ~ 11时09分]"
+        },
+        {
+          "title": "多地官宣中小学春假",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AE%98%E5%AE%A3%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%98%A5%E5%81%87",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
           "time_info": "[08时53分 ~ 08时54分]"
+        },
+        {
+          "title": "美方被指或为伊朗小学遭袭负责 白宫否认",
+          "url": "https://wallstreetcn.com/livenews/3065569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时09分"
         }
       ]
     },
@@ -81,7 +150,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
         }
