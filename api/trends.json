@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-03-07T18:11:56.056158+08:00",
-  "total_titles_processed": 1010,
+  "generated_at": "2026-03-07T19:09:57.972050+08:00",
+  "total_titles_processed": 1084,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
       "match_count": 21,
       "titles": [
-        {
-          "title": "学前教育毛入园率达92.9%",
-          "url": "https://www.baidu.com/s?wd=%E5%AD%A6%E5%89%8D%E6%95%99%E8%82%B2%E6%AF%9B%E5%85%A5%E5%9B%AD%E7%8E%87%E8%BE%BE92.9%25",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时08分 ~ 16时15分]"
-        },
         {
           "title": "教育部部长向1800万教师致谢",
           "url": "https://www.douyin.com/hot/2421777",
@@ -32,8 +20,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时52分 ~ 18时11分]"
+          "appearance_count": 10,
+          "time_info": "[12时52分 ~ 19时09分]"
+        },
+        {
+          "title": "学前教育毛入园率达92.9%",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%A6%E5%89%8D%E6%95%99%E8%82%B2%E6%AF%9B%E5%85%A5%E5%9B%AD%E7%8E%87%E8%BE%BE92.9%25",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时08分 ~ 16时15分]"
         },
         {
           "title": "我国义务教育达高收入国家平均水平",
@@ -43,8 +43,35 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时17分 ~ 18时11分]"
+          "appearance_count": 4,
+          "time_info": "[17时17分 ~ 19时09分]"
+        },
+        {
+          "title": "民生主题记者会丨教育部：让学生身上有汗眼里有光，让“班超”“校超”燃动校园",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32721180",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时20分 ~ 19时09分]"
+        },
+        {
+          "title": "小浪花跑两会丨如何推动教育科技人才一体化？丁奎岭代表提出建议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32714690",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时08分 ~ 19时09分]"
         },
         {
           "title": "我国义务教育达高收入国家平均水平",
@@ -68,32 +95,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时52分 ~ 13时31分]"
-        },
-        {
-          "title": "民生主题记者会丨教育部：让学生身上有汗眼里有光，让“班超”“校超”燃动校园",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32721180",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时20分 ~ 18时11分]"
-        },
-        {
-          "title": "小浪花跑两会丨如何推动教育科技人才一体化？丁奎岭代表提出建议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32714690",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时08分 ~ 18时11分]"
         },
         {
           "title": "国家发改委：“十五五”将探索延长义务教育年限",
@@ -275,8 +276,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时53分 ~ 18时11分]"
+          "appearance_count": 14,
+          "time_info": "[08时53分 ~ 19时09分]"
         },
         {
           "title": "多地官宣中小学春假清明连休6天",
@@ -339,8 +340,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "融资问题难解！OpenAI与甲骨文放弃“旗舰数据中心扩建计划”，芯片股应声下挫",
+          "url": "https://wallstreetcn.com/articles/3766935",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
         {
           "title": "甲骨文与OpenAI或放弃扩建得州大型AI数据中心",
           "url": "https://flash.jin10.com/detail/20260307080857687800",
