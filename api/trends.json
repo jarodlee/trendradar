@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T15:20:16.585950+08:00",
-  "total_titles_processed": 753,
+  "generated_at": "2026-03-07T16:15:56.537379+08:00",
+  "total_titles_processed": 862,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "学前教育毛入园率达92.9%",
@@ -16,8 +16,22 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时08分 ~ 15时20分]"
+          "appearance_count": 8,
+          "time_info": "[11时08分 ~ 16时15分]"
+        },
+        {
+          "title": "教育部部长向1800万教师致谢",
+          "url": "https://www.douyin.com/hot/2421777",
+          "source": "抖音",
+          "ranks": [
+            12,
+            19,
+            18,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时52分 ~ 16时15分]"
         },
         {
           "title": "我国义务教育达高收入国家平均水平",
@@ -43,20 +57,6 @@
           "time_info": "[12时52分 ~ 13时31分]"
         },
         {
-          "title": "教育部部长向1800万教师致谢",
-          "url": "https://www.douyin.com/hot/2421777",
-          "source": "抖音",
-          "ranks": [
-            12,
-            19,
-            18,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时52分 ~ 15时20分]"
-        },
-        {
           "title": "高等教育学龄人口2032年将达峰值",
           "url": "https://www.toutiao.com/trending/7614279199599201801/",
           "source": "今日头条",
@@ -67,6 +67,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时53分 ~ 11时09分]"
+        },
+        {
+          "title": "民生主题记者会丨教育部：让学生身上有汗眼里有光，让“班超”“校超”燃动校园",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32721180",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时20分 ~ 16时15分]"
         },
         {
           "title": "“十五五”将探索延长义务教育年限",
@@ -115,15 +127,26 @@
           "time_info": "[12时53分 ~ 13时31分]"
         },
         {
-          "title": "民生主题记者会丨教育部：让学生身上有汗眼里有光，让“班超”“校超”燃动校园",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32721180",
-          "source": "澎湃新闻",
+          "title": "国家发改委：推动电信、互联网、教育、文化、医疗等领域有序扩大开放",
+          "url": "https://wallstreetcn.com/livenews/3065655",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时20分"
+          "time_info": "16时15分"
+        },
+        {
+          "title": "建议将性教育纳入教师必修课",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%B0%86%E6%80%A7%E6%95%99%E8%82%B2%E7%BA%B3%E5%85%A5%E6%95%99%E5%B8%88%E5%BF%85%E4%BF%AE%E8%AF%BE%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         },
         {
           "title": "教育部部长：将实施新一轮学生心理健康促进行动",
@@ -187,6 +210,23 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "建议给中小学生少补课多补觉",
+          "url": "https://www.douyin.com/hot/2421385",
+          "source": "抖音",
+          "ranks": [
+            6,
+            17,
+            7,
+            12,
+            13,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时53分 ~ 16时15分]"
+        },
+        {
           "title": "多地官宣中小学春假清明连休6天",
           "url": "https://www.toutiao.com/trending/7613738539201150982/",
           "source": "今日头条",
@@ -198,22 +238,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时53分 ~ 12时53分]"
-        },
-        {
-          "title": "建议给中小学生少补课多补觉",
-          "url": "https://www.douyin.com/hot/2421385",
-          "source": "抖音",
-          "ranks": [
-            6,
-            17,
-            7,
-            12,
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时53分 ~ 15时20分]"
         },
         {
           "title": "多地官宣中小学春假",
@@ -244,7 +268,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -255,7 +279,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         }
