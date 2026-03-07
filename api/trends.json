@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T19:09:57.972050+08:00",
-  "total_titles_processed": 1084,
+  "generated_at": "2026-03-07T20:19:33.766276+08:00",
+  "total_titles_processed": 1166,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时52分 ~ 19时09分]"
+          "appearance_count": 11,
+          "time_info": "[12时52分 ~ 20时19分]"
         },
         {
           "title": "学前教育毛入园率达92.9%",
@@ -43,8 +43,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时17分 ~ 19时09分]"
+          "appearance_count": 5,
+          "time_info": "[17时17分 ~ 20时19分]"
         },
         {
           "title": "民生主题记者会丨教育部：让学生身上有汗眼里有光，让“班超”“校超”燃动校园",
@@ -53,11 +53,12 @@
           "ranks": [
             12,
             9,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时20分 ~ 19时09分]"
+          "appearance_count": 7,
+          "time_info": "[15时20分 ~ 20时19分]"
         },
         {
           "title": "小浪花跑两会丨如何推动教育科技人才一体化？丁奎岭代表提出建议",
@@ -67,11 +68,12 @@
             18,
             19,
             20,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时08分 ~ 19时09分]"
+          "appearance_count": 7,
+          "time_info": "[11时08分 ~ 20时19分]"
         },
         {
           "title": "我国义务教育达高收入国家平均水平",
@@ -273,11 +275,12 @@
             13,
             4,
             5,
-            2
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时53分 ~ 19时09分]"
+          "appearance_count": 15,
+          "time_info": "[08时53分 ~ 20时19分]"
         },
         {
           "title": "多地官宣中小学春假清明连休6天",
@@ -349,9 +352,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时09分 ~ 20时19分]"
         },
         {
           "title": "甲骨文与OpenAI或放弃扩建得州大型AI数据中心",
