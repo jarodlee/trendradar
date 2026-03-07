@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T16:15:56.537379+08:00",
-  "total_titles_processed": 862,
+  "generated_at": "2026-03-07T17:18:00.166761+08:00",
+  "total_titles_processed": 951,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "学前教育毛入园率达92.9%",
@@ -27,11 +27,34 @@
             12,
             19,
             18,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时52分 ~ 16时15分]"
+          "appearance_count": 8,
+          "time_info": "[12时52分 ~ 17时18分]"
+        },
+        {
+          "title": "我国义务教育达高收入国家平均水平",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E8%BE%BE%E9%AB%98%E6%94%B6%E5%85%A5%E5%9B%BD%E5%AE%B6%E5%B9%B3%E5%9D%87%E6%B0%B4%E5%B9%B3%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 17时18分]"
+        },
+        {
+          "title": "国家发改委：“十五五”将探索延长义务教育年限",
+          "url": "https://flash.jin10.com/detail/20260307164632300800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "我国义务教育达高收入国家平均水平",
@@ -57,6 +80,18 @@
           "time_info": "[12时52分 ~ 13时31分]"
         },
         {
+          "title": "民生主题记者会丨教育部：让学生身上有汗眼里有光，让“班超”“校超”燃动校园",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32721180",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时20分 ~ 17时18分]"
+        },
+        {
           "title": "高等教育学龄人口2032年将达峰值",
           "url": "https://www.toutiao.com/trending/7614279199599201801/",
           "source": "今日头条",
@@ -69,16 +104,16 @@
           "time_info": "[08时53分 ~ 11时09分]"
         },
         {
-          "title": "民生主题记者会丨教育部：让学生身上有汗眼里有光，让“班超”“校超”燃动校园",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32721180",
+          "title": "小浪花跑两会丨如何推动教育科技人才一体化？丁奎岭代表提出建议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32714690",
           "source": "澎湃新闻",
           "ranks": [
-            12,
-            9
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时20分 ~ 16时15分]"
+          "appearance_count": 4,
+          "time_info": "[11时08分 ~ 17时18分]"
         },
         {
           "title": "“十五五”将探索延长义务教育年限",
@@ -104,17 +139,6 @@
           "time_info": "[12时53分 ~ 13时31分]"
         },
         {
-          "title": "小浪花跑两会丨如何推动教育科技人才一体化？丁奎岭代表提出建议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32714690",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时08分 ~ 11时09分]"
-        },
-        {
           "title": "教育部：广泛开展三大球比赛，让“班超”“校超”燃动校园，使每个学生都至少掌握一项运动技能、终身受益。（央视）",
           "url": "https://wallstreetcn.com/livenews/3065584",
           "source": "华尔街见闻-快讯",
@@ -133,7 +157,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -144,9 +168,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
+        },
+        {
+          "title": "国家发展改革委社会司：“十五五”将探索延长义务教育年限",
+          "url": "https://wallstreetcn.com/livenews/3065678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
+          "title": "国家发改委：推动电信、互联网、教育、文化、医疗等领域有序扩大开放",
+          "url": "https://flash.jin10.com/detail/20260307161134751800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "教育部部长：将实施新一轮学生心理健康促进行动",
@@ -220,11 +266,12 @@
             12,
             13,
             4,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时53分 ~ 16时15分]"
+          "appearance_count": 12,
+          "time_info": "[08时53分 ~ 17时18分]"
         },
         {
           "title": "多地官宣中小学春假清明连休6天",
