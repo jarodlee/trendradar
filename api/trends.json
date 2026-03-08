@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T08:58:06.078284+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-08T11:27:13.991219+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 08时58分]"
+          "appearance_count": 4,
+          "time_info": "[08时57分 ~ 11时27分]"
         },
         {
           "title": "教育部部长向1800万教师致谢",
@@ -40,11 +40,12 @@
           "url": "https://www.zhihu.com/question/2013249739265635347",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 08时58分]"
+          "appearance_count": 4,
+          "time_info": "[08时57分 ~ 11时27分]"
         }
       ]
     },
@@ -59,7 +60,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         }
