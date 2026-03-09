@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T17:35:24.677049+08:00",
-  "total_titles_processed": 1035,
+  "generated_at": "2026-03-09T18:33:26.011620+08:00",
+  "total_titles_processed": 1151,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小学",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "上海中小学有序推进“课间15分钟”，黄浦区率先在小学实现全覆盖",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时57分 ~ 17时35分]"
+          "appearance_count": 11,
+          "time_info": "[08时57分 ~ 18时33分]"
         },
         {
           "title": "人大代表建议 「中小学春秋假也要考虑家长放假」，这一建议可行性如何？如何才能真正让家长「安心陪伴」？",
@@ -30,8 +30,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时57分 ~ 17时35分]"
+          "appearance_count": 11,
+          "time_info": "[08时57分 ~ 18时33分]"
         },
         {
           "title": "代表建议减少中小学学科数量，合并部分学科，能给学生减轻多少负担？可以怎样合并部分学科？",
@@ -49,11 +49,23 @@
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%E5%AE%9E%E9%94%A4%E6%98%AF%E7%BE%8E%E5%9B%BD%E2%80%9C%E6%88%98%E6%96%A7%E2%80%9D%E7%82%B8%E4%BA%86%E4%BC%8A%E6%9C%97%E5%B0%8F%E5%AD%A6",
           "source": "百度热搜",
           "ranks": [
-            15
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 18时33分]"
+        },
+        {
+          "title": "建议将性教育纳入中小学课程",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%B0%86%E6%80%A7%E6%95%99%E8%82%B2%E7%BA%B3%E5%85%A5%E4%B8%AD%E5%B0%8F%E5%AD%A6%E8%AF%BE%E7%A8%8B%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时35分"
+          "time_info": "18时33分"
         },
         {
           "title": "美媒证实伊朗小学遭美“战斧”导弹袭击",
