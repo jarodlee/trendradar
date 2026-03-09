@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T19:27:00.766908+08:00",
-  "total_titles_processed": 1228,
+  "generated_at": "2026-03-09T20:31:14.772490+08:00",
+  "total_titles_processed": 1337,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小学",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "上海中小学有序推进“课间15分钟”，黄浦区率先在小学实现全覆盖",
@@ -34,6 +34,17 @@
           "time_info": "[08时57分 ~ 19时27分]"
         },
         {
+          "title": "实锤!美军轰炸伊朗小学",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351565&amp;topic_name=%E5%AE%9E%E9%94%A4%21%E7%BE%8E%E5%86%9B%E8%BD%B0%E7%82%B8%E4%BC%8A%E6%9C%97%E5%B0%8F%E5%AD%A6",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时29分 ~ 20时31分]"
+        },
+        {
           "title": "代表建议减少中小学学科数量，合并部分学科，能给学生减轻多少负担？可以怎样合并部分学科？",
           "url": "https://www.zhihu.com/question/2014012925208127029",
           "source": "知乎",
@@ -45,6 +56,17 @@
           "time_info": "[08时57分 ~ 08时58分]"
         },
         {
+          "title": "建议中小学周边禁设台球厅",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%91%A8%E8%BE%B9%E7%A6%81%E8%AE%BE%E5%8F%B0%E7%90%83%E5%8E%85%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时29分 ~ 20时31分]"
+        },
+        {
           "title": "美媒实锤是美国“战斧”炸了伊朗小学",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%E5%AE%9E%E9%94%A4%E6%98%AF%E7%BE%8E%E5%9B%BD%E2%80%9C%E6%88%98%E6%96%A7%E2%80%9D%E7%82%B8%E4%BA%86%E4%BC%8A%E6%9C%97%E5%B0%8F%E5%AD%A6",
           "source": "百度热搜",
@@ -54,8 +76,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时35分 ~ 19时27分]"
+          "appearance_count": 6,
+          "time_info": "[17时35分 ~ 20时31分]"
+        },
+        {
+          "title": "建议中小学周边禁设台球厅",
+          "url": "https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%91%A8%E8%BE%B9%E7%A6%81%E8%AE%BE%E5%8F%B0%E7%90%83%E5%8E%85",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时29分 ~ 20时31分]"
         },
         {
           "title": "美多名议员震惊于美军或涉伊朗小学遭袭事件 呼吁展开全面调查",
@@ -64,7 +97,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
