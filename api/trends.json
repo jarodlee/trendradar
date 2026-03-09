@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T21:57:12.865877+08:00",
-  "total_titles_processed": 1466,
+  "generated_at": "2026-03-09T22:41:15.074038+08:00",
+  "total_titles_processed": 1546,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时29分 ~ 21时57分]"
+          "appearance_count": 6,
+          "time_info": "[20时29分 ~ 22时41分]"
         },
         {
           "title": "代表建议减少中小学学科数量，合并部分学科，能给学生减轻多少负担？可以怎样合并部分学科？",
@@ -60,11 +60,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%91%A8%E8%BE%B9%E7%A6%81%E8%AE%BE%E5%8F%B0%E7%90%83%E5%8E%85%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时29分 ~ 20时31分]"
+          "appearance_count": 4,
+          "time_info": "[20时29分 ~ 22时41分]"
         },
         {
           "title": "美媒实锤是美国“战斧”炸了伊朗小学",
