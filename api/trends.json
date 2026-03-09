@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T13:15:06.570398+08:00",
-  "total_titles_processed": 614,
+  "generated_at": "2026-03-09T14:45:18.971543+08:00",
+  "total_titles_processed": 726,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时57分 ~ 13时15分]"
-        },
-        {
-          "title": "代表建议减少中小学学科数量，合并部分学科，能给学生减轻多少负担？可以怎样合并部分学科？",
-          "url": "https://www.zhihu.com/question/2014012925208127029",
-          "source": "知乎",
-          "ranks": [
+            3,
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 08时58分]"
+          "appearance_count": 6,
+          "time_info": "[08时57分 ~ 14时45分]"
         },
         {
           "title": "人大代表建议 「中小学春秋假也要考虑家长放假」，这一建议可行性如何？如何才能真正让家长「安心陪伴」？",
@@ -40,8 +30,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时57分 ~ 13时15分]"
+          "appearance_count": 6,
+          "time_info": "[08时57分 ~ 14时45分]"
+        },
+        {
+          "title": "代表建议减少中小学学科数量，合并部分学科，能给学生减轻多少负担？可以怎样合并部分学科？",
+          "url": "https://www.zhihu.com/question/2014012925208127029",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 08时58分]"
         }
       ]
     },
@@ -91,7 +92,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         }
