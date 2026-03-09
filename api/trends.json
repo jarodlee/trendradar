@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-09T08:58:12.345480+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-09T11:31:31.150558+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小学",
       "match_count": 3,
       "titles": [
+        {
+          "title": "上海中小学有序推进“课间15分钟”，黄浦区率先在小学实现全覆盖",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32727708",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时57分 ~ 11时31分]"
+        },
         {
           "title": "代表建议减少中小学学科数量，合并部分学科，能给学生减轻多少负担？可以怎样合并部分学科？",
           "url": "https://www.zhihu.com/question/2014012925208127029",
@@ -19,26 +30,16 @@
           "time_info": "[08时57分 ~ 08时58分]"
         },
         {
-          "title": "上海中小学有序推进“课间15分钟”，黄浦区率先在小学实现全覆盖",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32727708",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 08时58分]"
-        },
-        {
           "title": "人大代表建议 「中小学春秋假也要考虑家长放假」，这一建议可行性如何？如何才能真正让家长「安心陪伴」？",
           "url": "https://www.zhihu.com/question/2013243480667808034",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 08时58分]"
+          "appearance_count": 3,
+          "time_info": "[08时57分 ~ 11时31分]"
         }
       ]
     },
@@ -51,11 +52,12 @@
           "url": "https://www.zhihu.com/question/2013653549951710425",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 08时58分]"
+          "appearance_count": 3,
+          "time_info": "[08时57分 ~ 11时31分]"
         }
       ]
     },
@@ -70,7 +72,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         }
