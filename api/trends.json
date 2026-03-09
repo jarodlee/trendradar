@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T18:33:26.011620+08:00",
-  "total_titles_processed": 1151,
+  "generated_at": "2026-03-09T19:27:00.766908+08:00",
+  "total_titles_processed": 1228,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小学",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "上海中小学有序推进“课间15分钟”，黄浦区率先在小学实现全覆盖",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时57分 ~ 18时33分]"
+          "appearance_count": 13,
+          "time_info": "[08时57分 ~ 19时27分]"
         },
         {
           "title": "人大代表建议 「中小学春秋假也要考虑家长放假」，这一建议可行性如何？如何才能真正让家长「安心陪伴」？",
@@ -30,8 +30,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时57分 ~ 18时33分]"
+          "appearance_count": 13,
+          "time_info": "[08时57分 ~ 19时27分]"
         },
         {
           "title": "代表建议减少中小学学科数量，合并部分学科，能给学生减轻多少负担？可以怎样合并部分学科？",
@@ -50,11 +50,23 @@
           "source": "百度热搜",
           "ranks": [
             15,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时35分 ~ 18时33分]"
+          "appearance_count": 4,
+          "time_info": "[17时35分 ~ 19时27分]"
+        },
+        {
+          "title": "美多名议员震惊于美军或涉伊朗小学遭袭事件 呼吁展开全面调查",
+          "url": "https://flash.jin10.com/detail/20260309191101692800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         },
         {
           "title": "建议将性教育纳入中小学课程",
@@ -63,7 +75,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         },
