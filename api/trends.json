@@ -1,180 +1,94 @@
 {
-  "generated_at": "2026-03-09T22:41:15.074038+08:00",
-  "total_titles_processed": 1546,
+  "generated_at": "2026-03-10T08:53:13.709388+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小学",
-      "match_count": 10,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "上海中小学有序推进“课间15分钟”，黄浦区率先在小学实现全覆盖",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32727708",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时57分 ~ 19时27分]"
-        },
-        {
-          "title": "人大代表建议 「中小学春秋假也要考虑家长放假」，这一建议可行性如何？如何才能真正让家长「安心陪伴」？",
-          "url": "https://www.zhihu.com/question/2013243480667808034",
-          "source": "知乎",
-          "ranks": [
-            5,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时57分 ~ 19时27分]"
-        },
         {
           "title": "实锤!美军轰炸伊朗小学",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351565&amp;topic_name=%E5%AE%9E%E9%94%A4%21%E7%BE%8E%E5%86%9B%E8%BD%B0%E7%82%B8%E4%BC%8A%E6%9C%97%E5%B0%8F%E5%AD%A6",
           "source": "贴吧",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时29分 ~ 22时41分]"
-        },
-        {
-          "title": "代表建议减少中小学学科数量，合并部分学科，能给学生减轻多少负担？可以怎样合并部分学科？",
-          "url": "https://www.zhihu.com/question/2014012925208127029",
-          "source": "知乎",
-          "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时57分 ~ 08时58分]"
+          "time_info": "[08时52分 ~ 08时53分]"
         },
         {
-          "title": "建议中小学周边禁设台球厅",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%91%A8%E8%BE%B9%E7%A6%81%E8%AE%BE%E5%8F%B0%E7%90%83%E5%8E%85%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
+          "title": "特朗普称美国正在调查伊朗小学遇袭事件",
+          "url": "https://wallstreetcn.com/livenews/3066825",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            10
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "媒体证实是美国「战斧」巡航导弹炸了伊朗小学，特朗普曾说是伊朗「自导自演」，究竟是怎么回事？",
+          "url": "https://www.zhihu.com/question/2014356299022821037",
+          "source": "知乎",
+          "ranks": [
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时29分 ~ 22时41分]"
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 08时53分]"
         },
         {
-          "title": "美媒实锤是美国“战斧”炸了伊朗小学",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%E5%AE%9E%E9%94%A4%E6%98%AF%E7%BE%8E%E5%9B%BD%E2%80%9C%E6%88%98%E6%96%A7%E2%80%9D%E7%82%B8%E4%BA%86%E4%BC%8A%E6%9C%97%E5%B0%8F%E5%AD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时35分 ~ 20时31分]"
-        },
-        {
-          "title": "建议中小学周边禁设台球厅",
-          "url": "https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%91%A8%E8%BE%B9%E7%A6%81%E8%AE%BE%E5%8F%B0%E7%90%83%E5%8E%85",
+          "title": "代表：希望中小学生都能躺下午休",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%EF%BC%9A%E5%B8%8C%E6%9C%9B%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E9%83%BD%E8%83%BD%E8%BA%BA%E4%B8%8B%E5%8D%88%E4%BC%91",
           "source": "百度热搜",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时29分 ~ 20时31分]"
-        },
-        {
-          "title": "美多名议员震惊于美军或涉伊朗小学遭袭事件 呼吁展开全面调查",
-          "url": "https://flash.jin10.com/detail/20260309191101692800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时27分"
-        },
-        {
-          "title": "建议将性教育纳入中小学课程",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%B0%86%E6%80%A7%E6%95%99%E8%82%B2%E7%BA%B3%E5%85%A5%E4%B8%AD%E5%B0%8F%E5%AD%A6%E8%AF%BE%E7%A8%8B%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "美媒证实伊朗小学遭美“战斧”导弹袭击",
-          "url": "https://wallstreetcn.com/livenews/3066338",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时30分"
+          "time_info": "[08时52分 ~ 08时53分]"
         }
       ]
     },
     {
       "keyword_group": "教育",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
-          "title": "代表建议将全面性教育纳入基础教育，将性基础课列为教师必修，和以往有何不同？从教师侧着手，可行性如何？",
-          "url": "https://www.zhihu.com/question/2013653549951710425",
+          "title": "忽然觉得我似乎把孩子养废了，女孩青春期对父母很不尊重和礼貌，我是教育出了问题吗？",
+          "url": "https://www.zhihu.com/question/660280143",
           "source": "知乎",
           "ranks": [
-            2,
-            20
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时57分 ~ 11时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 08时53分]"
+        },
         {
-          "title": "中国外汇交易中心（CFETS）：3月6日人民币汇率指数按周涨1.07至99.65。",
-          "url": "https://wallstreetcn.com/livenews/3066003",
-          "source": "华尔街见闻-快讯",
+          "title": "孩子总是把幼儿园的玩具偷偷带回家，我该怎么教育他？",
+          "url": "https://www.zhihu.com/question/2011114797484225056",
+          "source": "知乎",
           "ranks": [
-            7
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 08时53分]"
+        },
         {
-          "title": "印度Nifty指数较1月高点下跌10%，进入回调区间。 印度卢比兑美元跌至历史新低。",
-          "url": "https://wallstreetcn.com/livenews/3066179",
-          "source": "华尔街见闻-快讯",
+          "title": "猫咪不让女生摸被教育 坐姿像宝宝",
+          "url": "https://www.toutiao.com/trending/7614587778017427519/",
+          "source": "今日头条",
           "ranks": [
-            18
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时15分"
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 08时53分]"
         }
       ]
     }
