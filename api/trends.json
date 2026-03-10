@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-03-10T17:32:00.187719+08:00",
-  "total_titles_processed": 1038,
+  "generated_at": "2026-03-10T18:26:53.753737+08:00",
+  "total_titles_processed": 1121,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小学",
       "match_count": 7,
       "titles": [
+        {
+          "title": "建议小学每周1节方言课",
+          "url": "https://www.douyin.com/hot/2425140",
+          "source": "抖音",
+          "ranks": [
+            12,
+            11,
+            5,
+            2,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时17分 ~ 18时26分]"
+        },
         {
           "title": "实锤!美军轰炸伊朗小学",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351565&amp;topic_name=%E5%AE%9E%E9%94%A4%21%E7%BE%8E%E5%86%9B%E8%BD%B0%E7%82%B8%E4%BC%8A%E6%9C%97%E5%B0%8F%E5%AD%A6",
@@ -18,26 +34,12 @@
             11,
             13,
             15,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时52分 ~ 17时32分]"
-        },
-        {
-          "title": "建议小学每周1节方言课",
-          "url": "https://www.douyin.com/hot/2425140",
-          "source": "抖音",
-          "ranks": [
-            12,
-            11,
-            5,
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时17分 ~ 17时32分]"
+          "appearance_count": 11,
+          "time_info": "[08时52分 ~ 18时26分]"
         },
         {
           "title": "建议小学三年级前课间半小时",
@@ -47,11 +49,12 @@
             2,
             10,
             1,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时04分 ~ 17时32分]"
+          "appearance_count": 8,
+          "time_info": "[13时04分 ~ 18时26分]"
         },
         {
           "title": "特朗普称美国正在调查伊朗小学遇袭事件",
