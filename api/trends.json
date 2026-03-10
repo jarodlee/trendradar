@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T19:23:54.225213+08:00",
-  "total_titles_processed": 1230,
+  "generated_at": "2026-03-10T20:31:45.871097+08:00",
+  "total_titles_processed": 1338,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时17分 ~ 19时23分]"
+          "appearance_count": 11,
+          "time_info": "[11时17分 ~ 20时31分]"
         },
         {
           "title": "实锤!美军轰炸伊朗小学",
@@ -36,11 +36,12 @@
             15,
             17,
             18,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时52分 ~ 19时23分]"
+          "appearance_count": 13,
+          "time_info": "[08时52分 ~ 20时31分]"
         },
         {
           "title": "建议小学三年级前课间半小时",
@@ -109,7 +110,7 @@
     },
     {
       "keyword_group": "教育",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "忽然觉得我似乎把孩子养废了，女孩青春期对父母很不尊重和礼貌，我是教育出了问题吗？",
@@ -157,6 +158,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "广东清远4名儿童排成一列躺在马路中央，镇政府：已对他们进行安全教育",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32738861",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         }
       ]
     },
