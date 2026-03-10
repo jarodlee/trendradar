@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T18:26:53.753737+08:00",
-  "total_titles_processed": 1121,
+  "generated_at": "2026-03-10T19:23:54.225213+08:00",
+  "total_titles_processed": 1230,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时17分 ~ 18时26分]"
+          "appearance_count": 10,
+          "time_info": "[11时17分 ~ 19时23分]"
         },
         {
           "title": "实锤!美军轰炸伊朗小学",
@@ -35,11 +35,12 @@
             13,
             15,
             17,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时52分 ~ 18时26分]"
+          "appearance_count": 12,
+          "time_info": "[08时52分 ~ 19时23分]"
         },
         {
           "title": "建议小学三年级前课间半小时",
