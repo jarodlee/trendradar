@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T16:26:13.667593+08:00",
-  "total_titles_processed": 914,
+  "generated_at": "2026-03-10T17:32:00.187719+08:00",
+  "total_titles_processed": 1038,
   "failed_sources": [],
   "trends": [
     {
@@ -17,24 +17,12 @@
             10,
             11,
             13,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时52分 ~ 16时26分]"
-        },
-        {
-          "title": "建议小学三年级前课间半小时",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%B0%8F%E5%AD%A6%E4%B8%89%E5%B9%B4%E7%BA%A7%E5%89%8D%E8%AF%BE%E9%97%B4%E5%8D%8A%E5%B0%8F%E6%97%B6%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            10,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时04分 ~ 16时26分]"
+          "appearance_count": 10,
+          "time_info": "[08时52分 ~ 17时32分]"
         },
         {
           "title": "建议小学每周1节方言课",
@@ -48,8 +36,22 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时17分 ~ 16时26分]"
+          "appearance_count": 8,
+          "time_info": "[11时17分 ~ 17时32分]"
+        },
+        {
+          "title": "建议小学三年级前课间半小时",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%B0%8F%E5%AD%A6%E4%B8%89%E5%B9%B4%E7%BA%A7%E5%89%8D%E8%AF%BE%E9%97%B4%E5%8D%8A%E5%B0%8F%E6%97%B6%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            10,
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时04分 ~ 17时32分]"
         },
         {
           "title": "特朗普称美国正在调查伊朗小学遇袭事件",
@@ -165,7 +167,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         }
