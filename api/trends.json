@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T13:05:33.771575+08:00",
-  "total_titles_processed": 604,
+  "generated_at": "2026-03-11T14:36:02.046283+08:00",
+  "total_titles_processed": 716,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时53分 ~ 13时05分]"
+          "appearance_count": 5,
+          "time_info": "[08时53分 ~ 14时36分]"
         },
         {
           "title": "美以伊战争｜伊朗轰炸自家小学？白宫回应",
@@ -77,7 +77,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -88,7 +88,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         }
@@ -104,11 +104,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时53分 ~ 13时05分]"
+          "appearance_count": 5,
+          "time_info": "[08时53分 ~ 14时36分]"
         }
       ]
     }
