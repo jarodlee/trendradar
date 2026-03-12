@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T17:32:10.499170+08:00",
-  "total_titles_processed": 1031,
+  "generated_at": "2026-03-12T18:27:17.910202+08:00",
+  "total_titles_processed": 1130,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 17时32分]"
+          "appearance_count": 5,
+          "time_info": "[16时27分 ~ 18时27分]"
         },
         {
           "title": "马上评｜家庭教育指导令，让失职家长“补补课”",
@@ -61,17 +62,6 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "美军称伊朗小学遭袭是“误击”，伊方公布实锤证据",
-          "url": "https://news.ifeng.com/c/8rQZAzStDlL",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时27分 ~ 14时37分]"
-        },
-        {
           "title": "袭击伊朗小学的导弹为美国制造",
           "url": "https://search.bilibili.com/all?keyword=%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E5%B0%8F%E5%AD%A6%E7%9A%84%E5%AF%BC%E5%BC%B9%E4%B8%BA%E7%BE%8E%E5%9B%BD%E5%88%B6%E9%80%A0",
           "source": "bilibili 热搜",
@@ -81,11 +71,23 @@
             24,
             25,
             15,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时50分 ~ 17时32分]"
+          "appearance_count": 9,
+          "time_info": "[08时50分 ~ 18时27分]"
+        },
+        {
+          "title": "美军称伊朗小学遭袭是“误击”，伊方公布实锤证据",
+          "url": "https://news.ifeng.com/c/8rQZAzStDlL",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时27分 ~ 14时37分]"
         }
       ]
     },
