@@ -1,230 +1,50 @@
 {
-  "generated_at": "2026-03-11T22:39:34.614732+08:00",
-  "total_titles_processed": 1518,
+  "generated_at": "2026-03-12T08:50:29.421064+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "小学",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "代表建议中小学周边 200 米内不得设立台球厅，学校周边台球厅存在哪些「隐形陷阱」？能解决相关问题吗？",
-          "url": "https://www.zhihu.com/question/2014457047815513506",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时53分 ~ 17时32分]"
-        },
-        {
-          "title": "美以伊战争｜伊朗轰炸自家小学？白宫回应",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时16分"
-        },
-        {
-          "title": "建议小学每周1节方言课",
-          "url": "https://www.douyin.com/hot/2425140",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "炸伊朗小学导弹零件MadeinUSA",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%82%B8%E4%BC%8A%E6%9C%97%E5%B0%8F%E5%AD%A6%E5%AF%BC%E5%BC%B9%E9%9B%B6%E4%BB%B6MadeinUSA%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时56分 ~ 22时39分]"
-        },
-        {
-          "title": "实锤!美军轰炸伊朗小学",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351565&amp;topic_name=%E5%AE%9E%E9%94%A4%21%E7%BE%8E%E5%86%9B%E8%BD%B0%E7%82%B8%E4%BC%8A%E6%9C%97%E5%B0%8F%E5%AD%A6",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时53分 ~ 11时16分]"
-        },
-        {
-          "title": "代表称希望中小学生都能躺下午休，躺睡有哪些好处？该建议如何才能全国推广？",
-          "url": "https://www.zhihu.com/question/2014665942488020045",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "意大利总理谴责袭击伊朗小学事件为“屠杀”",
-          "url": "https://wallstreetcn.com/livenews/3068130",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "“美国制造”清晰可见！伊朗公布袭击小学的导弹残片画面",
-          "url": "https://wallstreetcn.com/livenews/3068117",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        }
-      ]
-    },
-    {
       "keyword_group": "教育",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
-          "title": "12 岁女孩用零花钱盘下文具店雇妈妈看店，这场被网友围观的财商教育实验，到底做对了什么？",
-          "url": "https://www.zhihu.com/question/2014990850543805086",
-          "source": "知乎",
-          "ranks": [
-            15,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时29分 ~ 22时39分]"
-        },
-        {
-          "title": "伊朗教育部长：美以袭击已致206名师生遇难",
-          "url": "https://wallstreetcn.com/livenews/3068144",
-          "source": "华尔街见闻-快讯",
+          "title": "教育局通报“湖南江华二中学生澡堂视频”：已停用，学生均在寝室淋浴",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32746789",
+          "source": "澎湃新闻",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时57分"
+          "time_info": "08时50分"
         },
         {
-          "title": "广东清远4名儿童排成一列躺在马路中央，镇政府：已对他们进行安全教育",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32738861",
-          "source": "澎湃新闻",
+          "title": "12 岁女孩用零花钱盘下文具店雇妈妈看店，这场被网友围观的财商教育实验，到底做对了什么？",
+          "url": "https://www.zhihu.com/question/2014990850543805086",
+          "source": "知乎",
           "ranks": [
-            10,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时53分 ~ 14时36分]"
-        },
-        {
-          "title": "伊朗教育部长：美以袭击已致206名师生遇难",
-          "url": "https://flash.jin10.com/detail/20260311213621541800",
-          "source": "金十数据",
-          "ranks": [
-            5
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时57分"
+          "time_info": "08时50分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "keyword_group": "小学",
+      "match_count": 1,
       "titles": [
         {
-          "title": "Gemini五连绝世",
-          "url": "https://s.weibo.com/weibo?q=Gemini%E4%BA%94%E8%BF%9E%E7%BB%9D%E4%B8%96&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时29分 ~ 21时57分]"
-        },
-        {
-          "title": "谷歌完成320亿美元收购云安全公司Wiz",
-          "url": "https://flash.jin10.com/detail/20260311212742723800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "据The Information：OpenAI计划在战略调整中将Sora视频AI引入ChatGPT。",
-          "url": "https://flash.jin10.com/detail/20260311115744060800",
-          "source": "金十数据",
+          "title": "袭击伊朗小学的导弹为美国制造",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E5%B0%8F%E5%AD%A6%E7%9A%84%E5%AF%BC%E5%BC%B9%E4%B8%BA%E7%BE%8E%E5%9B%BD%E5%88%B6%E9%80%A0",
+          "source": "bilibili 热搜",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时05分"
-        },
-        {
-          "title": "OpenAI计划将视频生成AI Sora接入ChatGPT。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3067769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股开盘，三大指数涨跌不一，道指跌0.17%，标普500指数涨0.13%，纳指涨0.33%。甲骨文涨超11%，公司全年营收指引超预期。Nebius上涨9.5%，英伟达将向Nebius投资20亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3068142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时57分"
+          "time_info": "08时50分"
         }
       ]
     }
