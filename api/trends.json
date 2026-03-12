@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T13:10:07.399921+08:00",
-  "total_titles_processed": 617,
+  "generated_at": "2026-03-12T14:37:58.910681+08:00",
+  "total_titles_processed": 726,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时27分 ~ 13时10分]"
+          "appearance_count": 4,
+          "time_info": "[11时27分 ~ 14时37分]"
         },
         {
           "title": "袭击伊朗小学的导弹为美国制造",
@@ -25,11 +25,12 @@
           "ranks": [
             13,
             30,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时50分 ~ 13时10分]"
+          "appearance_count": 5,
+          "time_info": "[08时50分 ~ 14时37分]"
         }
       ]
     },
