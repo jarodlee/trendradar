@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-12T18:27:17.910202+08:00",
-  "total_titles_processed": 1130,
+  "generated_at": "2026-03-12T19:24:20.868955+08:00",
+  "total_titles_processed": 1224,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
       "match_count": 4,
       "titles": [
+        {
+          "title": "我国学前教育毛入园率 92.9%，高中教育毛入学率 92%，义务教育达高收入国家平均水平，如何解读该数据？",
+          "url": "https://www.zhihu.com/question/2013558967935137344",
+          "source": "知乎",
+          "ranks": [
+            20,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时27分 ~ 19时24分]"
+        },
         {
           "title": "教育局通报“湖南江华二中学生澡堂视频”：已停用，学生均在寝室淋浴",
           "url": "https://m.thepaper.cn/newsDetail_forward_32746789",
@@ -19,19 +32,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时50分 ~ 13时10分]"
-        },
-        {
-          "title": "我国学前教育毛入园率 92.9%，高中教育毛入学率 92%，义务教育达高收入国家平均水平，如何解读该数据？",
-          "url": "https://www.zhihu.com/question/2013558967935137344",
-          "source": "知乎",
-          "ranks": [
-            20,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时27分 ~ 18时27分]"
         },
         {
           "title": "马上评｜家庭教育指导令，让失职家长“补补课”",
@@ -75,8 +75,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时50分 ~ 18时27分]"
+          "appearance_count": 10,
+          "time_info": "[08时50分 ~ 19时24分]"
         },
         {
           "title": "美军称伊朗小学遭袭是“误击”，伊方公布实锤证据",
