@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T14:50:05.717660+08:00",
-  "total_titles_processed": 595,
+  "generated_at": "2026-03-15T15:37:22.266225+08:00",
+  "total_titles_processed": 646,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.douyin.com/hot/2431215",
           "source": "抖音",
           "ranks": [
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时49分 ~ 14时50分]"
+          "appearance_count": 3,
+          "time_info": "[14时49分 ~ 15时37分]"
         },
         {
           "title": "AI时代家长如何教育孩子",
@@ -44,8 +45,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时20分 ~ 14时50分]"
+          "appearance_count": 6,
+          "time_info": "[12时20分 ~ 15时37分]"
         }
       ]
     }
