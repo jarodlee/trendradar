@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-15T17:22:11.766964+08:00",
-  "total_titles_processed": 764,
+  "generated_at": "2026-03-15T18:18:09.619424+08:00",
+  "total_titles_processed": 828,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "人民教育家于漪逝世",
@@ -17,8 +17,19 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时49分 ~ 17时22分]"
+          "appearance_count": 8,
+          "time_info": "[14时49分 ~ 18时18分]"
+        },
+        {
+          "title": "“人民教育家”于漪去世",
+          "url": "https://www.toutiao.com/trending/7617310747694186502/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 18时18分]"
         },
         {
           "title": "AI时代家长如何教育孩子",
