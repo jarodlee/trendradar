@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T15:37:22.266225+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2026-03-15T16:23:31.814061+08:00",
+  "total_titles_processed": 702,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时49分 ~ 15时37分]"
+          "appearance_count": 4,
+          "time_info": "[14时49分 ~ 16时23分]"
         },
         {
           "title": "AI时代家长如何教育孩子",
@@ -45,8 +45,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时20分 ~ 15时37分]"
+          "appearance_count": 7,
+          "time_info": "[12时20分 ~ 16时23分]"
         }
       ]
     }
