@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T15:43:37.487188+08:00",
-  "total_titles_processed": 813,
+  "generated_at": "2026-03-18T16:33:52.823107+08:00",
+  "total_titles_processed": 910,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时11分 ~ 15时43分]"
+          "appearance_count": 5,
+          "time_info": "[12时11分 ~ 16时33分]"
         },
         {
           "title": "OpenAI官宣推出迄今最强大小型模型",
@@ -53,11 +53,12 @@
           "url": "https://www.zhihu.com/question/2017341752965615892",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时46分 ~ 15时43分]"
+          "appearance_count": 3,
+          "time_info": "[14时46分 ~ 16时33分]"
         },
         {
           "title": "港股教育股震荡走高，新东方(09901.HK)涨超5%，网龙(00777.HK)、卓越教育集团(03978.HK)、思考乐教育(01769.HK)跟涨。",
@@ -86,8 +87,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时11分 ~ 15时43分]"
+          "appearance_count": 5,
+          "time_info": "[12时11分 ~ 16时33分]"
         }
       ]
     }
