@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T13:55:29.339889+08:00",
-  "total_titles_processed": 618,
+  "generated_at": "2026-03-18T14:46:27.254212+08:00",
+  "total_titles_processed": 706,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时11分 ~ 13时55分]"
+          "appearance_count": 3,
+          "time_info": "[12时11分 ~ 14时46分]"
         },
         {
           "title": "OpenAI官宣推出迄今最强大小型模型",
@@ -37,9 +37,37 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "教育",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "多地宣布生物地理不再计入中考总分，有哪些考量？会给教学教育带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2017341752965615892",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
+          "title": "港股教育股震荡走高，新东方(09901.HK)涨超5%，网龙(00777.HK)、卓越教育集团(03978.HK)、思考乐教育(01769.HK)跟涨。",
+          "url": "https://flash.jin10.com/detail/20260318141053171800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
         }
       ]
     },
@@ -52,11 +80,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时11分 ~ 13时55分]"
+          "appearance_count": 3,
+          "time_info": "[12时11分 ~ 14时46分]"
         }
       ]
     }
