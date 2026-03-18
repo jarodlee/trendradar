@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T20:38:58.593079+08:00",
-  "total_titles_processed": 1335,
+  "generated_at": "2026-03-18T22:12:14.822466+08:00",
+  "total_titles_processed": 1462,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "“小龙虾”爆火！黄仁勋最新断言：OpenClaw“绝对是下一个ChatGPT”",
@@ -33,6 +33,17 @@
           "time_info": "[09时01分 ~ 09时02分]"
         },
         {
+          "title": "如何评价 OpenAI 最新发布的 GPT-5.4 mini 和 GPT-5.4 Nano?",
+          "url": "https://www.zhihu.com/question/2017426077002253714",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时11分 ~ 22时12分]"
+        },
+        {
           "title": "微软考虑就亚马逊与OpenAI达成的500亿美元云交易采取法律行动。 (英国金融时报)",
           "url": "https://wallstreetcn.com/livenews/3072134",
           "source": "华尔街见闻-快讯",
@@ -47,7 +58,7 @@
     },
     {
       "keyword_group": "教育",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "多地宣布生物地理不再计入中考总分，有哪些考量？会给教学教育带来哪些影响？",
@@ -60,6 +71,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时46分 ~ 16时33分]"
+        },
+        {
+          "title": "日本主管教育大臣陷不伦丑闻",
+          "url": "https://www.toutiao.com/trending/7618428535308926982/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时11分 ~ 22时12分]"
         },
         {
           "title": "港股教育股震荡走高，新东方(09901.HK)涨超5%，网龙(00777.HK)、卓越教育集团(03978.HK)、思考乐教育(01769.HK)跟涨。",
@@ -89,11 +111,12 @@
             9,
             12,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时11分 ~ 20时38分]"
+          "appearance_count": 13,
+          "time_info": "[12时11分 ~ 22时12分]"
         }
       ]
     },
@@ -108,7 +131,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
         }
