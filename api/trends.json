@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T14:46:27.254212+08:00",
-  "total_titles_processed": 706,
+  "generated_at": "2026-03-18T15:43:37.487188+08:00",
+  "total_titles_processed": 813,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 14时46分]"
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 15时43分]"
         },
         {
           "title": "OpenAI官宣推出迄今最强大小型模型",
@@ -54,9 +55,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时46分 ~ 15时43分]"
         },
         {
           "title": "港股教育股震荡走高，新东方(09901.HK)涨超5%，网龙(00777.HK)、卓越教育集团(03978.HK)、思考乐教育(01769.HK)跟涨。",
@@ -65,7 +66,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
         }
@@ -81,11 +82,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 14时46分]"
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 15时43分]"
         }
       ]
     }
