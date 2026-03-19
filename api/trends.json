@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T22:02:31.387866+08:00",
-  "total_titles_processed": 1506,
+  "generated_at": "2026-03-19T22:48:19.229792+08:00",
+  "total_titles_processed": 1600,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             20,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时32分 ~ 22时02分]"
+          "appearance_count": 3,
+          "time_info": "[20时32分 ~ 22时48分]"
         },
         {
           "title": "小学回应保安疑似踢跑步入校学生",
@@ -86,11 +87,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时32分 ~ 22时02分]"
+          "appearance_count": 3,
+          "time_info": "[20时32分 ~ 22时48分]"
         }
       ]
     },
