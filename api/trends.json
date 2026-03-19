@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-03-19T13:18:36.540035+08:00",
-  "total_titles_processed": 599,
+  "generated_at": "2026-03-19T14:41:49.086363+08:00",
+  "total_titles_processed": 718,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "小学",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "小学回应保安疑似踢跑步入校学生",
+          "url": "https://www.toutiao.com/trending/7618818456254791726/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        }
+      ]
+    },
     {
       "keyword_group": "教育",
       "match_count": 1,
@@ -13,11 +30,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 13时18分]"
+          "appearance_count": 3,
+          "time_info": "[11时39分 ~ 14时41分]"
         }
       ]
     },
@@ -31,11 +49,12 @@
           "source": "贴吧",
           "ranks": [
             16,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 13时18分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 14时41分]"
         }
       ]
     }
