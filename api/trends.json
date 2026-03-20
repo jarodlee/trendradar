@@ -1,115 +1,39 @@
 {
-  "generated_at": "2026-03-19T22:48:19.229792+08:00",
-  "total_titles_processed": 1600,
+  "generated_at": "2026-03-20T08:57:52.580024+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小学",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "李维刚改造贵州小学操场",
           "url": "https://www.douyin.com/hot/2436489",
           "source": "抖音",
           "ranks": [
-            20,
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时32分 ~ 22时48分]"
-        },
-        {
-          "title": "小学回应保安疑似踢跑步入校学生",
-          "url": "https://www.toutiao.com/trending/7618818456254791726/",
-          "source": "今日头条",
-          "ranks": [
-            24
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "教育",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "雨中送别“人民教育家”于漪，八旬学生专程从北京坐高铁前来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32788061",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时39分 ~ 16时28分]"
-        },
-        {
-          "title": "围绕七方面重点发力 教育部启动高校毕业生“春季促就业攻坚行动”",
-          "url": "https://wallstreetcn.com/livenews/3073193",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时28分"
+          "time_info": "08时57分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "日本AI造假,套壳DeepSeek",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
-          "source": "贴吧",
-          "ranks": [
-            16,
-            23,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 15时38分]"
-        },
         {
           "title": "小米凌晨模型三连发：罗福莉称为智能体时代打造，曾被误认为DeepSeek V4",
           "url": "https://m.thepaper.cn/newsDetail_forward_32793883",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时32分 ~ 22时48分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "韩媒：三星电子将向OpenAI供应HBM4芯片",
-          "url": "https://flash.jin10.com/detail/20260319180042311800",
-          "source": "金十数据",
-          "ranks": [
-            22
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时28分"
+          "time_info": "08时57分"
         }
       ]
     }
