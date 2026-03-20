@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T21:52:34.858445+08:00",
-  "total_titles_processed": 1473,
+  "generated_at": "2026-03-20T22:34:55.095715+08:00",
+  "total_titles_processed": 1540,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股股指期货跌幅扩大，纳指期货跌超1%，标普500指数期货跌0.75%，道指期货跌0.62%。 美国国债快速走低，美国2年期国债收益率跳升10个基点，至3.89%。 现货黄金日内转跌，现跌0.04%，报4655美元/盎司。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
+        },
+        {
+          "title": "美元指数DXY日内涨幅扩大至0.50%，现报99.69。",
+          "url": "https://flash.jin10.com/detail/20260320221350166800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "美元指数短线拉升，日内涨超0.4%，报99.605。",
@@ -79,7 +90,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         }
