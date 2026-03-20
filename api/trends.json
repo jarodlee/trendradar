@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T08:57:52.580024+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-20T11:26:54.186906+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.douyin.com/hot/2436489",
           "source": "抖音",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 11时26分]"
         }
       ]
     },
@@ -29,11 +30,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32793883",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 11时26分]"
         }
       ]
     }
