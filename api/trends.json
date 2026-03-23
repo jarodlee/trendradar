@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-03-23T12:14:49.220945+08:00",
-  "total_titles_processed": 506,
+  "generated_at": "2026-03-23T14:03:10.856084+08:00",
+  "total_titles_processed": 649,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "教育",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "教育局回应毕节学生2死11伤",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E6%AF%95%E8%8A%82%E5%AD%A6%E7%94%9F2%E6%AD%BB11%E4%BC%A4%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时02分 ~ 14时03分]"
+        }
+      ]
+    },
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
@@ -13,11 +30,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时02分 ~ 12时14分]"
+          "appearance_count": 4,
+          "time_info": "[09时02分 ~ 14时03分]"
         }
       ]
     },
