@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-03-25T14:46:37.247420+08:00",
-  "total_titles_processed": 753,
+  "generated_at": "2026-03-25T15:44:07.988785+08:00",
+  "total_titles_processed": 861,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
       "match_count": 6,
       "titles": [
+        {
+          "title": "日本被曝多年搞反华教育",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%9B%9D%E5%A4%9A%E5%B9%B4%E6%90%9E%E5%8F%8D%E5%8D%8E%E6%95%99%E8%82%B2",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            7,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时36分 ~ 15时44分]"
+        },
         {
           "title": "日本被曝多年搞反华教育",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%9B%9D%E5%A4%9A%E5%B9%B4%E6%90%9E%E5%8F%8D%E5%8D%8E%E6%95%99%E8%82%B2%23&t=31&band_rank=1&Refer=top",
@@ -17,19 +31,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
-        },
-        {
-          "title": "日本被曝多年搞反华教育",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%9B%9D%E5%A4%9A%E5%B9%B4%E6%90%9E%E5%8F%8D%E5%8D%8E%E6%95%99%E8%82%B2",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时36分 ~ 14时46分]"
         },
         {
           "title": "日本被曝多年搞反华教育",
@@ -72,7 +73,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
         }
@@ -92,8 +93,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时36分 ~ 14时46分]"
+          "appearance_count": 6,
+          "time_info": "[11时36分 ~ 15时44分]"
         },
         {
           "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
@@ -104,8 +105,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时36分 ~ 14时46分]"
+          "appearance_count": 6,
+          "time_info": "[11时36分 ~ 15时44分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -117,8 +118,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时36分 ~ 14时46分]"
+          "appearance_count": 6,
+          "time_info": "[11时36分 ~ 15时44分]"
         }
       ]
     },
@@ -131,11 +132,12 @@
           "url": "https://www.zhihu.com/question/2019437515753398973",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时46分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时46分 ~ 15时44分]"
         }
       ]
     }
