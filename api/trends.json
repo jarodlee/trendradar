@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T19:40:12.014907+08:00",
-  "total_titles_processed": 1181,
+  "generated_at": "2026-03-26T20:42:54.438926+08:00",
+  "total_titles_processed": 1269,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时04分 ~ 19时40分]"
+          "appearance_count": 13,
+          "time_info": "[09时04分 ~ 20时42分]"
         },
         {
           "title": "谷歌突破性算法震惊硅谷 华尔街激辩：内存需求要降温了？",
@@ -27,11 +27,12 @@
             8,
             7,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时52分 ~ 19时40分]"
+          "appearance_count": 7,
+          "time_info": "[15时52分 ~ 20时42分]"
         },
         {
           "title": "美国邮政拟征收快递“燃油附加费” 苹果据称正在蒸馏谷歌模型 | 环球市场",
@@ -61,8 +62,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时04分 ~ 19时40分]"
+          "appearance_count": 13,
+          "time_info": "[09时04分 ~ 20时42分]"
         },
         {
           "title": "OpenAI支持人工智能初创公司Isara，寻求实现“机器人大军”技术突破",
@@ -98,11 +99,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时16分 ~ 19时40分]"
+          "appearance_count": 5,
+          "time_info": "[18时16分 ~ 20时42分]"
         },
         {
           "title": "教育孩子你掌握边界感了吗",
@@ -150,8 +152,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时20分 ~ 19时40分]"
+          "appearance_count": 11,
+          "time_info": "[12时20分 ~ 20时42分]"
         }
       ]
     },
