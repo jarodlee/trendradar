@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-27T14:05:57.941971+08:00",
-  "total_titles_processed": 634,
+  "generated_at": "2026-03-27T15:50:45.156370+08:00",
+  "total_titles_processed": 765,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "教育部发布20条严禁清单",
+          "url": "https://search.bilibili.com/all?keyword=%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%8320%E6%9D%A1%E4%B8%A5%E7%A6%81%E6%B8%85%E5%8D%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
         {
           "title": "四川教育厅回应“恢复生物地理中考计分”建议：将指导市州结合实际调研",
           "url": "https://m.thepaper.cn/newsDetail_forward_32834409",
@@ -20,27 +31,17 @@
           "time_info": "[09时04分 ~ 12时23分]"
         },
         {
-          "title": "教育部发布20条严禁清单",
-          "url": "https://www.toutiao.com/trending/7621744185402212361/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 14时05分]"
-        },
-        {
           "title": "20条“严禁”！为基础教育办学划红线，教育部发布负面清单",
           "url": "https://m.thepaper.cn/newsDetail_forward_32841964",
           "source": "澎湃新闻",
           "ranks": [
             19,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 14时05分]"
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 15时50分]"
         },
         {
           "title": "日本自卫官持刀闯使馆背后：自卫队教育体系与政界的危险信号",
@@ -48,33 +49,24 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 14时05分]"
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 15时50分]"
         },
         {
           "title": "教育部发布20条严禁清单",
           "url": "https://www.douyin.com/hot/2445159",
           "source": "抖音",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 14时05分]"
-        },
-        {
-          "title": "教育部重申严禁宣传高考状元和升学率",
-          "url": "https://www.toutiao.com/trending/7621744185402146825/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 14时05分]"
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 15时50分]"
         },
         {
           "title": "20条“严禁”！教育部发布负面清单",
@@ -82,7 +74,31 @@
           "source": "百度热搜",
           "ranks": [
             30,
-            29
+            29,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 15时50分]"
+        },
+        {
+          "title": "教育部重申严禁宣传高考状元和升学率",
+          "url": "https://www.toutiao.com/trending/7621744185402146825/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 15时50分]"
+        },
+        {
+          "title": "教育部发布20条严禁清单",
+          "url": "https://www.toutiao.com/trending/7621744185402212361/",
+          "source": "今日头条",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -117,7 +133,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
         }
@@ -125,31 +141,44 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "内存股大跌与谷歌论文有关吗",
-          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E8%82%A1%E5%A4%A7%E8%B7%8C%E4%B8%8E%E8%B0%B7%E6%AD%8C%E8%AE%BA%E6%96%87%E6%9C%89%E5%85%B3%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 14时05分]"
-        },
         {
           "title": "UP主实测谷歌压缩算法",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 14时05分]"
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 15时50分]"
+        },
+        {
+          "title": "内存股大跌与谷歌论文有关吗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E8%82%A1%E5%A4%A7%E8%B7%8C%E4%B8%8E%E8%B0%B7%E6%AD%8C%E8%AE%BA%E6%96%87%E6%9C%89%E5%85%B3%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 15时50分]"
+        },
+        {
+          "title": "谷歌TurboQuant论文解读",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
         }
       ]
     },
@@ -192,7 +221,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
         }
@@ -214,6 +243,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时04分 ~ 14时05分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数DXY向上触及100，日内涨0.06%。",
+          "url": "https://flash.jin10.com/detail/20260327154235874800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
         }
       ]
     }
