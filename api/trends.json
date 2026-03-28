@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T19:17:34.678076+08:00",
-  "total_titles_processed": 971,
+  "generated_at": "2026-03-28T20:25:24.395488+08:00",
+  "total_titles_processed": 1037,
   "failed_sources": [],
   "trends": [
     {
@@ -82,8 +82,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时58分 ~ 19时17分]"
+          "appearance_count": 14,
+          "time_info": "[08时58分 ~ 20时25分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -94,11 +94,12 @@
             18,
             22,
             16,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时58分 ~ 19时17分]"
+          "appearance_count": 14,
+          "time_info": "[08时58分 ~ 20时25分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -136,11 +137,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时24分 ~ 19时17分]"
+          "appearance_count": 5,
+          "time_info": "[17时24分 ~ 20时25分]"
         }
       ]
     },
@@ -158,11 +160,12 @@
             15,
             16,
             19,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时58分 ~ 19时17分]"
+          "appearance_count": 14,
+          "time_info": "[08时58分 ~ 20时25分]"
         },
         {
           "title": "严禁幼儿园小学化教育",
