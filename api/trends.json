@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T13:17:01.969450+08:00",
-  "total_titles_processed": 591,
+  "generated_at": "2026-03-28T14:42:13.813148+08:00",
+  "total_titles_processed": 663,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,22 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时58分 ~ 13时17分]"
+          "appearance_count": 7,
+          "time_info": "[08时58分 ~ 14时42分]"
+        },
+        {
+          "title": "谷歌TurboQuant论文解读",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            16,
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时58分 ~ 14时42分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -30,8 +44,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时58分 ~ 13时17分]"
+          "appearance_count": 7,
+          "time_info": "[08时58分 ~ 14时42分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -39,24 +53,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时58分 ~ 13时17分]"
-        },
-        {
-          "title": "谷歌TurboQuant论文解读",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            16,
+            20,
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时58分 ~ 13时17分]"
+          "appearance_count": 7,
+          "time_info": "[08时58分 ~ 14时42分]"
         }
       ]
     },
@@ -113,8 +115,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时58分 ~ 13时17分]"
+          "appearance_count": 7,
+          "time_info": "[08时58分 ~ 14时42分]"
         },
         {
           "title": "严禁幼儿园小学化教育",
