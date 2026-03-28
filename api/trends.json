@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T18:19:50.442323+08:00",
-  "total_titles_processed": 903,
+  "generated_at": "2026-03-28T19:17:34.678076+08:00",
+  "total_titles_processed": 971,
   "failed_sources": [],
   "trends": [
     {
@@ -82,8 +82,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时58分 ~ 18时19分]"
+          "appearance_count": 13,
+          "time_info": "[08时58分 ~ 19时17分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -97,8 +97,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时58分 ~ 18时19分]"
+          "appearance_count": 13,
+          "time_info": "[08时58分 ~ 19时17分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -110,11 +110,12 @@
             17,
             24,
             18,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时58分 ~ 18时19分]"
+          "appearance_count": 13,
+          "time_info": "[08时58分 ~ 19时17分]"
         },
         {
           "title": "全球内存股惨遭谷歌新算法冲击 瑞穗：恰恰是一个上车机会！",
@@ -134,11 +135,12 @@
           "url": "https://www.zhihu.com/question/2020455049218712383",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时24分 ~ 18时19分]"
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 19时17分]"
         }
       ]
     },
@@ -155,11 +157,12 @@
             12,
             15,
             16,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时58分 ~ 18时19分]"
+          "appearance_count": 13,
+          "time_info": "[08时58分 ~ 19时17分]"
         },
         {
           "title": "严禁幼儿园小学化教育",
