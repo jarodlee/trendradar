@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T17:25:03.227919+08:00",
-  "total_titles_processed": 796,
+  "generated_at": "2026-03-29T18:20:34.774840+08:00",
+  "total_titles_processed": 844,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时04分 ~ 17时25分]"
+          "appearance_count": 7,
+          "time_info": "[14时04分 ~ 18时20分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -31,8 +31,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时26分 ~ 17时25分]"
+          "appearance_count": 8,
+          "time_info": "[12时26分 ~ 18时20分]"
         },
         {
           "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
@@ -126,18 +126,30 @@
     },
     {
       "keyword_group": "教育",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "高三学生因鸟鸣干扰备考请求学校拆除鸟巢，校长回信「学会与万物共存是成长的必修课」，如何评价此教育方式？",
           "url": "https://www.zhihu.com/question/2020794934098142439",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时07分 ~ 17时25分]"
+          "appearance_count": 9,
+          "time_info": "[09时07分 ~ 18时20分]"
+        },
+        {
+          "title": "伊朗科技大学遭袭后，伊朗将美以大学列为「合法袭击目标」，如果战争扩大到教育机构，冲突还有回头路吗？",
+          "url": "https://www.zhihu.com/question/2021512806751626985",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "伊朗科技大学遭美以空袭，本轮冲突已造成伊朗 252 名师生死亡，对伊朗教育系统打击有多大？",
