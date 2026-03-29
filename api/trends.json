@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T16:26:43.118961+08:00",
-  "total_titles_processed": 736,
+  "generated_at": "2026-03-29T17:25:03.227919+08:00",
+  "total_titles_processed": 796,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时04分 ~ 16时26分]"
+          "appearance_count": 6,
+          "time_info": "[14时04分 ~ 17时25分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -27,11 +27,12 @@
             8,
             3,
             15,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时26分 ~ 16时26分]"
+          "appearance_count": 7,
+          "time_info": "[12时26分 ~ 17时25分]"
         },
         {
           "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
@@ -41,8 +42,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时04分 ~ 16时26分]"
+          "appearance_count": 6,
+          "time_info": "[14时04分 ~ 17时25分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -90,11 +91,12 @@
           "source": "今日头条",
           "ranks": [
             16,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时07分 ~ 15时43分]"
+          "appearance_count": 7,
+          "time_info": "[09时07分 ~ 17时25分]"
         },
         {
           "title": "没肉没蔬菜,日本小学午餐寒酸",
@@ -134,8 +136,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时07分 ~ 16时26分]"
+          "appearance_count": 8,
+          "time_info": "[09时07分 ~ 17时25分]"
         },
         {
           "title": "伊朗科技大学遭美以空袭，本轮冲突已造成伊朗 252 名师生死亡，对伊朗教育系统打击有多大？",
