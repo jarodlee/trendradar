@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-03-29T15:43:30.501907+08:00",
-  "total_titles_processed": 687,
+  "generated_at": "2026-03-29T16:26:43.118961+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 6,
       "titles": [
-        {
-          "title": "谷歌AI内存压缩算法遭质疑",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时26分 ~ 15时43分]"
-        },
         {
           "title": "谷歌称可节省 6 倍内存的 TurboQuant 论文疑似造假，RaBitQ 作者独家发文",
           "url": "https://zhuanlan.zhihu.com/p/2020969476166808284",
@@ -29,8 +16,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时04分 ~ 15时43分]"
+          "appearance_count": 4,
+          "time_info": "[14时04分 ~ 16时26分]"
+        },
+        {
+          "title": "谷歌AI内存压缩算法遭质疑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            3,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时26分 ~ 16时26分]"
         },
         {
           "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
@@ -40,8 +41,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时04分 ~ 15时43分]"
+          "appearance_count": 4,
+          "time_info": "[14时04分 ~ 16时26分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -133,8 +134,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时07分 ~ 15时43分]"
+          "appearance_count": 6,
+          "time_info": "[09时07分 ~ 16时26分]"
         },
         {
           "title": "伊朗科技大学遭美以空袭，本轮冲突已造成伊朗 252 名师生死亡，对伊朗教育系统打击有多大？",
@@ -143,7 +144,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         }
