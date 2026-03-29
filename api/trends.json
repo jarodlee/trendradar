@@ -1,184 +1,89 @@
 {
-  "generated_at": "2026-03-28T22:21:43.779649+08:00",
-  "total_titles_processed": 1162,
+  "generated_at": "2026-03-29T09:07:47.561703+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "教育",
-      "match_count": 5,
+      "keyword_group": "小学",
+      "match_count": 3,
       "titles": [
         {
-          "title": "20条负面清单让基础教育回归本真",
-          "url": "https://s.weibo.com/weibo?q=%2320%E6%9D%A1%E8%B4%9F%E9%9D%A2%E6%B8%85%E5%8D%95%E8%AE%A9%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2%E5%9B%9E%E5%BD%92%E6%9C%AC%E7%9C%9F%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时33分 ~ 13时17分]"
-        },
-        {
-          "title": "教育部重申严禁宣传高考状元和升学率",
-          "url": "https://www.toutiao.com/trending/7621744185402146825/",
+          "title": "1米85的小学生开口要一套宝可梦卡",
+          "url": "https://www.toutiao.com/trending/7621881373605003300/",
           "source": "今日头条",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时58分 ~ 08时59分]"
-        },
-        {
-          "title": "20条“严禁”！为基础教育办学划红线，教育部发布负面清单",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32841964",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时58分 ~ 08时59分]"
-        },
-        {
-          "title": "伊朗教育部：美以军事打击已致252名学生和教师死亡",
-          "url": "https://flash.jin10.com/detail/20260328150622648800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时37分 ~ 16时24分]"
-        },
-        {
-          "title": "20条负面清单将如何影响教育",
-          "url": "https://search.bilibili.com/all?keyword=20%E6%9D%A1%E8%B4%9F%E9%9D%A2%E6%B8%85%E5%8D%95%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E6%95%99%E8%82%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时37分"
+          "time_info": "09时07分"
+        },
+        {
+          "title": "1米85的小学生开口要一套宝可梦卡",
+          "url": "https://s.weibo.com/weibo?q=%231%E7%B1%B385%E7%9A%84%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%BC%80%E5%8F%A3%E8%A6%81%E4%B8%80%E5%A5%97%E5%AE%9D%E5%8F%AF%E6%A2%A6%E5%8D%A1%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时07分"
+        },
+        {
+          "title": "没肉没蔬菜,日本小学午餐寒酸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352438&amp;topic_name=%E6%B2%A1%E8%82%89%E6%B2%A1%E8%94%AC%E8%8F%9C%2C%E6%97%A5%E6%9C%AC%E5%B0%8F%E5%AD%A6%E5%8D%88%E9%A4%90%E5%AF%92%E9%85%B8",
+          "source": "贴吧",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时07分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌TurboQuant论文解读",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
           "source": "bilibili 热搜",
           "ranks": [
-            18,
-            16,
-            17,
-            11,
-            14,
-            13
+            25
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时58分 ~ 22时21分]"
+          "appearance_count": 1,
+          "time_info": "09时07分"
         },
         {
           "title": "UP主实测谷歌压缩算法",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
           "source": "bilibili 热搜",
           "ranks": [
-            14,
-            18,
-            22,
-            16,
-            19,
-            25,
-            17
+            30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时58分 ~ 22时21分]"
-        },
-        {
-          "title": "内存股大跌与谷歌论文有关吗",
-          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E8%82%A1%E5%A4%A7%E8%B7%8C%E4%B8%8E%E8%B0%B7%E6%AD%8C%E8%AE%BA%E6%96%87%E6%9C%89%E5%85%B3%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            20,
-            17,
-            24,
-            18,
-            21,
-            27,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时58分 ~ 22时21分]"
-        },
-        {
-          "title": "全球内存股惨遭谷歌新算法冲击 瑞穗：恰恰是一个上车机会！",
-          "url": "https://www.cls.cn/detail/2327153",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时58分 ~ 14时42分]"
-        },
-        {
-          "title": "谷歌推出压缩算法 TurboQuant，宣称实现约 6 倍内存节省，会成为大模型端侧落地的突破口吗？",
-          "url": "https://www.zhihu.com/question/2020455049218712383",
-          "source": "知乎",
-          "ranks": [
-            18,
-            15,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时24分 ~ 20时25分]"
+          "appearance_count": 1,
+          "time_info": "09时07分"
         }
       ]
     },
     {
-      "keyword_group": "小学",
-      "match_count": 2,
+      "keyword_group": "教育",
+      "match_count": 1,
       "titles": [
         {
-          "title": "没肉没蔬菜,日本小学午餐寒酸",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352438&amp;topic_name=%E6%B2%A1%E8%82%89%E6%B2%A1%E8%94%AC%E8%8F%9C%2C%E6%97%A5%E6%9C%AC%E5%B0%8F%E5%AD%A6%E5%8D%88%E9%A4%90%E5%AF%92%E9%85%B8",
-          "source": "贴吧",
+          "title": "高三学生因鸟鸣干扰备考请求学校拆除鸟巢，校长回信「学会与万物共存是成长的必修课」，如何评价此教育方式？",
+          "url": "https://www.zhihu.com/question/2020794934098142439",
+          "source": "知乎",
           "ranks": [
-            7,
-            12,
-            15,
-            16,
-            19,
-            20,
-            22
+            1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时58分 ~ 22时21分]"
-        },
-        {
-          "title": "严禁幼儿园小学化教育",
-          "url": "https://www.douyin.com/hot/2445725",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时58分 ~ 08时59分]"
+          "appearance_count": 1,
+          "time_info": "09时07分"
         }
       ]
     }
