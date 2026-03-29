@@ -1,12 +1,46 @@
 {
-  "generated_at": "2026-03-29T12:26:28.242183+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-03-29T14:05:10.400984+08:00",
+  "total_titles_processed": 583,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "谷歌AI内存压缩算法遭质疑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 14时05分]"
+        },
+        {
+          "title": "谷歌称可节省 6 倍内存的 TurboQuant 论文疑似造假，RaBitQ 作者独家发文",
+          "url": "https://zhuanlan.zhihu.com/p/2020969476166808284",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时04分 ~ 14时05分]"
+        },
+        {
+          "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
+          "url": "https://www.zhihu.com/question/2021000785224287940",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时04分 ~ 14时05分]"
+        },
         {
           "title": "谷歌TurboQuant论文解读",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
@@ -20,24 +54,13 @@
           "time_info": "[09时07分 ~ 12时26分]"
         },
         {
-          "title": "谷歌AI内存压缩算法遭质疑",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
           "title": "RaBitQ 作者独家发文指出 Google的 ICLR 2026 TurboQuant 论文存在严重错误",
           "url": "https://zhuanlan.zhihu.com/p/2020969476166808284",
           "source": "知乎",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
         },
@@ -66,8 +89,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时07分 ~ 12时26分]"
+          "appearance_count": 4,
+          "time_info": "[09时07分 ~ 14时05分]"
         },
         {
           "title": "没肉没蔬菜,日本小学午餐寒酸",
@@ -75,11 +98,12 @@
           "source": "贴吧",
           "ranks": [
             23,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时07分 ~ 12时26分]"
+          "appearance_count": 4,
+          "time_info": "[09时07分 ~ 14时05分]"
         },
         {
           "title": "1米85的小学生开口要一套宝可梦卡",
@@ -106,8 +130,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时07分 ~ 12时26分]"
+          "appearance_count": 4,
+          "time_info": "[09时07分 ~ 14时05分]"
         }
       ]
     }
