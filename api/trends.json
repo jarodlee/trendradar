@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T15:59:42.618799+08:00",
-  "total_titles_processed": 765,
+  "generated_at": "2026-03-31T16:53:59.331044+08:00",
+  "total_titles_processed": 874,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3768684",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时06分 ~ 15时59分]"
+          "appearance_count": 6,
+          "time_info": "[09时06分 ~ 16时53分]"
         },
         {
           "title": "标普500指数期货涨幅扩大至0.5%，美元指数回吐涨幅。",
@@ -44,8 +45,19 @@
     },
     {
       "keyword_group": "教育",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "教育部：高校要新设一批适应新技术、新产业、新业态的学科专业",
+          "url": "https://flash.jin10.com/detail/20260331163646514800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
         {
           "title": "树立和践行正确政绩观学习教育中央指导组派驻地方和单位名单公布",
           "url": "https://m.thepaper.cn/newsDetail_forward_32862446",
@@ -56,6 +68,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
         }
       ]
     }
