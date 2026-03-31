@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T19:38:57.693900+08:00",
-  "total_titles_processed": 1174,
+  "generated_at": "2026-03-31T20:44:09.067235+08:00",
+  "total_titles_processed": 1275,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "百度热搜",
           "ranks": [
             4,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 19时38分]"
+          "appearance_count": 4,
+          "time_info": "[18时42分 ~ 20时44分]"
         },
         {
           "title": "DeepSeek崩了",
@@ -80,8 +81,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时06分 ~ 19时38分]"
+          "appearance_count": 11,
+          "time_info": "[09时06分 ~ 20时44分]"
         },
         {
           "title": "标普500指数期货涨幅扩大至0.5%，美元指数回吐涨幅。",
