@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T16:07:22.507831+08:00",
-  "total_titles_processed": 768,
+  "generated_at": "2026-04-01T18:04:12.141641+08:00",
+  "total_titles_processed": 922,
   "failed_sources": [],
   "trends": [
     {
@@ -39,7 +39,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
         },
@@ -69,8 +69,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时37分 ~ 16时07分]"
+          "appearance_count": 5,
+          "time_info": "[12时37分 ~ 18时04分]"
         },
         {
           "title": "中信证券：DeepSeek下一代新模型有望延续高性价比开源模型路线",
@@ -86,6 +86,23 @@
       ]
     },
     {
+      "keyword_group": "小学",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "小学教师以伞挡刀登见义勇为勇士榜",
+          "url": "https://www.toutiao.com/trending/7623655046500859940/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时03分 ~ 18时04分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "教育",
       "match_count": 1,
       "titles": [
@@ -95,11 +112,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时37分 ~ 16时07分]"
+          "appearance_count": 5,
+          "time_info": "[12时37分 ~ 18时04分]"
         }
       ]
     },
