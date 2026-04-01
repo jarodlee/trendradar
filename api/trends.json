@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T14:26:31.093409+08:00",
-  "total_titles_processed": 632,
+  "generated_at": "2026-04-01T16:07:22.507831+08:00",
+  "total_titles_processed": 768,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI完成1220亿美元融资 美法官叫停白宫宴会厅改造项目 | 环球市场",
@@ -29,8 +29,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 14时26分]"
+          "appearance_count": 3,
+          "time_info": "[12时37分 ~ 16时07分]"
+        },
+        {
+          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
+          "url": "https://www.zhihu.com/question/2022593285970027591",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
         },
         {
           "title": "OpenAI创下史上最大融资纪录",
@@ -39,7 +50,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         }
@@ -54,11 +65,12 @@
           "url": "https://www.zhihu.com/question/2022371409997947809",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 14时26分]"
+          "appearance_count": 3,
+          "time_info": "[12时37分 ~ 16时07分]"
         },
         {
           "title": "中信证券：DeepSeek下一代新模型有望延续高性价比开源模型路线",
@@ -86,8 +98,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 14时26分]"
+          "appearance_count": 3,
+          "time_info": "[12时37分 ~ 16时07分]"
         }
       ]
     },
