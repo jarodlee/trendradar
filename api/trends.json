@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T18:44:08.565365+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2026-04-01T19:41:31.579477+08:00",
+  "total_titles_processed": 1113,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时07分 ~ 18时44分]"
+          "appearance_count": 4,
+          "time_info": "[16时07分 ~ 19时41分]"
         },
         {
           "title": "创纪录！OpenAI完成1220亿美元融资 投后估值达8520亿美元",
@@ -70,8 +70,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时37分 ~ 18时44分]"
+          "appearance_count": 8,
+          "time_info": "[12时37分 ~ 19时41分]"
         },
         {
           "title": "中信证券：DeepSeek下一代新模型有望延续高性价比开源模型路线",
@@ -117,8 +117,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时37分 ~ 18时44分]"
+          "appearance_count": 8,
+          "time_info": "[12时37分 ~ 19时41分]"
         }
       ]
     },
