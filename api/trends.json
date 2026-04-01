@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T18:04:12.141641+08:00",
-  "total_titles_processed": 922,
+  "generated_at": "2026-04-01T18:44:08.565365+08:00",
+  "total_titles_processed": 1008,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,18 @@
           "time_info": "[09时12分 ~ 14时26分]"
         },
         {
+          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
+          "url": "https://www.zhihu.com/question/2022593285970027591",
+          "source": "知乎",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时07分 ~ 18时44分]"
+        },
+        {
           "title": "创纪录！OpenAI完成1220亿美元融资 投后估值达8520亿美元",
           "url": "https://www.cls.cn/detail/2331423",
           "source": "财联社热门",
@@ -31,17 +43,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时37分 ~ 16时07分]"
-        },
-        {
-          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
-          "url": "https://www.zhihu.com/question/2022593285970027591",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
         },
         {
           "title": "OpenAI创下史上最大融资纪录",
@@ -69,8 +70,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时37分 ~ 18时04分]"
+          "appearance_count": 7,
+          "time_info": "[12时37分 ~ 18时44分]"
         },
         {
           "title": "中信证券：DeepSeek下一代新模型有望延续高性价比开源模型路线",
@@ -116,8 +117,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时37分 ~ 18时04分]"
+          "appearance_count": 7,
+          "time_info": "[12时37分 ~ 18时44分]"
         }
       ]
     },
