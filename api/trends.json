@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T18:40:35.136938+08:00",
-  "total_titles_processed": 1077,
+  "generated_at": "2026-04-02T19:36:39.329520+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
@@ -92,11 +92,12 @@
           "ranks": [
             2,
             4,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时04分 ~ 18时40分]"
+          "appearance_count": 6,
+          "time_info": "[14时04分 ~ 19时36分]"
         },
         {
           "title": "多地中小学开启春假模式",
