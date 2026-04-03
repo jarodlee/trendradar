@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T18:31:58.014264+08:00",
-  "total_titles_processed": 1085,
+  "generated_at": "2026-04-03T19:29:10.137580+08:00",
+  "total_titles_processed": 1185,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "教育部：义务教育学校严禁设立重点班、实验班、快慢班",
@@ -15,11 +15,12 @@
             19,
             16,
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时16分 ~ 18时31分]"
+          "appearance_count": 9,
+          "time_info": "[12时16分 ~ 19时29分]"
         },
         {
           "title": "教育部发布通知，义务教育学校严禁设立或变相设立重点班、实验班、快慢班，这一政策有何影响？",
@@ -29,11 +30,12 @@
             13,
             4,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时04分 ~ 18时31分]"
+          "appearance_count": 7,
+          "time_info": "[14时04分 ~ 19时29分]"
         },
         {
           "title": "教育部：义务教育学校禁设重点班",
@@ -59,6 +61,17 @@
           "time_info": "[17时42分 ~ 18时31分]"
         },
         {
+          "title": "教育部严禁高中跨区域掐尖招生",
+          "url": "https://www.toutiao.com/trending/7624400159079022643/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时28分 ~ 19时29分]"
+        },
+        {
           "title": "教育部：义务教育学校严禁设立重点班",
           "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E5%AD%A6%E6%A0%A1%E4%B8%A5%E7%A6%81%E8%AE%BE%E7%AB%8B%E9%87%8D%E7%82%B9%E7%8F%AD",
           "source": "百度热搜",
@@ -76,6 +89,21 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "谷歌官方发布最新模型Gemma4",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            20,
+            10,
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时53分 ~ 19时29分]"
+        },
+        {
           "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
           "url": "https://www.zhihu.com/question/2023204569811828949",
           "source": "知乎",
@@ -86,20 +114,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时16分 ~ 15时53分]"
-        },
-        {
-          "title": "谷歌官方发布最新模型Gemma4",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            20,
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时53分 ~ 18时31分]"
         },
         {
           "title": "谷歌最新模型Gemma4发布",
