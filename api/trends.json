@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T19:29:10.137580+08:00",
-  "total_titles_processed": 1185,
+  "generated_at": "2026-04-03T20:33:54.255939+08:00",
+  "total_titles_processed": 1291,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时16分 ~ 19时29分]"
+          "appearance_count": 10,
+          "time_info": "[12时16分 ~ 20时33分]"
         },
         {
           "title": "教育部发布通知，义务教育学校严禁设立或变相设立重点班、实验班、快慢班，这一政策有何影响？",
@@ -34,8 +34,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时04分 ~ 19时29分]"
+          "appearance_count": 8,
+          "time_info": "[14时04分 ~ 20时33分]"
         },
         {
           "title": "教育部：义务教育学校禁设重点班",
@@ -100,8 +100,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时53分 ~ 19时29分]"
+          "appearance_count": 7,
+          "time_info": "[15时53分 ~ 20时33分]"
         },
         {
           "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
