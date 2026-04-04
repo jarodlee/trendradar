@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-04-04T11:32:59.065923+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-04-04T13:17:10.984680+08:00",
+  "total_titles_processed": 560,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "小学",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "教育部严禁中小学通过「意向登记」「预录取协议」等名义提前招生，会带来哪些变化？能改善「掐尖」现象吗？",
+          "url": "https://www.zhihu.com/question/2023426479074157943",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时16分 ~ 13时17分]"
+        }
+      ]
+    },
     {
       "keyword_group": "教育",
       "match_count": 1,
@@ -30,11 +47,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             15,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 11时32分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 13时17分]"
         }
       ]
     },
