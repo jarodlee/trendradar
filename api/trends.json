@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-04-05T15:46:12.764275+08:00",
-  "total_titles_processed": 700,
+  "generated_at": "2026-04-05T16:29:28.987127+08:00",
+  "total_titles_processed": 780,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "小学",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "小学生在烈士陵园和民警互相敬礼",
+          "url": "https://www.toutiao.com/trending/7624806196487389203/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
+          "title": "国防科大学员携手小学生祭扫烈士陵园",
+          "url": "https://www.toutiao.com/trending/7624306113002455082/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        }
+      ]
+    },
     {
       "keyword_group": "教育",
       "match_count": 1,
@@ -12,11 +40,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E5%AF%BB%E6%A2%A6%E7%8E%AF%E6%B8%B8%E8%AE%B0%E8%B0%88%E6%AD%BB%E4%BA%A1%E6%95%99%E8%82%B2",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时07分"
+          "appearance_count": 2,
+          "time_info": "[14时07分 ~ 16时29分]"
         }
       ]
     }
