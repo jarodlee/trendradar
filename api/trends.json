@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T21:45:07.449428+08:00",
-  "total_titles_processed": 1148,
+  "generated_at": "2026-04-05T22:25:00.782680+08:00",
+  "total_titles_processed": 1191,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%A5%AD%E6%89%AB%E9%80%94%E4%B8%AD%E8%A2%AB%E5%A4%A7%E5%8F%94%E6%8A%95%E5%96%8260%E6%96%A4%E6%A9%99%E5%AD%90",
           "source": "百度热搜",
           "ranks": [
-            19
+            19,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 21时45分]"
+          "appearance_count": 4,
+          "time_info": "[21时44分 ~ 22时25分]"
         },
         {
           "title": "小学生在烈士陵园和民警互相敬礼",
@@ -84,8 +85,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时28分 ~ 21时45分]"
+          "appearance_count": 8,
+          "time_info": "[17时28分 ~ 22时25分]"
         }
       ]
     }
