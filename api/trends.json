@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T19:43:15.045096+08:00",
-  "total_titles_processed": 1142,
+  "generated_at": "2026-04-07T20:48:54.059885+08:00",
+  "total_titles_processed": 1252,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             10,
             17,
             9,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时21分 ~ 19时43分]"
+          "appearance_count": 10,
+          "time_info": "[12时21分 ~ 20时48分]"
         },
         {
           "title": "伊朗悼念遇难小学生 伊朗外长：美以犯下战争罪和反人类罪",
@@ -38,7 +39,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "博通美股盘前涨2.6%，公司将为谷歌供应TPU芯片、为Anthropic提供算力。",
@@ -50,6 +51,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
+        },
+        {
+          "title": "印尼就谷歌涉嫌违反用户保护规定展开调查。",
+          "url": "https://flash.jin10.com/detail/20260407203455543800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "教育",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "教育具有长期性和滞后性",
+          "url": "https://s.weibo.com/weibo?q=%E6%95%99%E8%82%B2%E5%85%B7%E6%9C%89%E9%95%BF%E6%9C%9F%E6%80%A7%E5%92%8C%E6%BB%9E%E5%90%8E%E6%80%A7&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
         }
       ]
     },
@@ -63,11 +92,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             19,
-            23
+            23,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时44分 ~ 19时43分]"
+          "appearance_count": 4,
+          "time_info": "[18时44分 ~ 20时48分]"
         }
       ]
     },
