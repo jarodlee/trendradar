@@ -1,22 +1,73 @@
 {
-  "generated_at": "2026-04-08T09:08:07.316752+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-04-08T12:25:20.570326+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "小学",
-      "match_count": 1,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
       "titles": [
+        {
+          "title": "DeepSeek更新专家模式",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9B%B4%E6%96%B0%E4%B8%93%E5%AE%B6%E6%A8%A1%E5%BC%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "DeepSeek 更新「快速模式」和「专家模式」，二者有何区别？这是否意味着 V4 快来了？",
+          "url": "https://www.zhihu.com/question/2024876426596291384",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "DeepSeek迎来大更新 V4不远了？业内人士：这一更新或是官方应对现实成本的必然选择",
+          "url": "https://flash.jin10.com/detail/20260408114506709800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小学",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何看待小学音乐教材中「叔叔你不要生气，现在我就爬上床」等歌词被指不妥？有歧义的歌词适合放进教材吗？",
+          "url": "https://www.zhihu.com/question/2024834280153432596",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
         {
           "title": "今年全国多地迎来首次「春假」，至少 76 城中小学生享受假期，你家的春假体验咋样？「神兽」有人看管吗？",
           "url": "https://www.zhihu.com/question/2022729898867859768",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时07分 ~ 09时08分]"
+          "appearance_count": 3,
+          "time_info": "[09时07分 ~ 12时25分]"
         }
       ]
     },
@@ -29,11 +80,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DGPT6%E6%9C%AC%E6%9C%88%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时07分 ~ 09时08分]"
+          "appearance_count": 3,
+          "time_info": "[09时07分 ~ 12时25分]"
         }
       ]
     }
