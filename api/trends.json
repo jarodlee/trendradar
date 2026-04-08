@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T17:56:04.515389+08:00",
-  "total_titles_processed": 942,
+  "generated_at": "2026-04-08T18:46:07.914348+08:00",
+  "total_titles_processed": 1037,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时25分 ~ 17时56分]"
+          "appearance_count": 9,
+          "time_info": "[12时25分 ~ 18时46分]"
         },
         {
           "title": "DeepSeek更新专家模式",
@@ -101,8 +101,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时07分 ~ 17时56分]"
+          "appearance_count": 11,
+          "time_info": "[09时07分 ~ 18时46分]"
         }
       ]
     }
