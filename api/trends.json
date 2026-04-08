@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T18:46:07.914348+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2026-04-08T20:19:23.822163+08:00",
+  "total_titles_processed": 1171,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时25分 ~ 18时46分]"
+          "appearance_count": 10,
+          "time_info": "[12时25分 ~ 20时19分]"
         },
         {
           "title": "DeepSeek更新专家模式",
@@ -58,7 +58,7 @@
     },
     {
       "keyword_group": "小学",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "如何看待小学音乐教材中「叔叔你不要生气，现在我就爬上床」等歌词被指不妥？有歧义的歌词适合放进教材吗？",
@@ -83,6 +83,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时07分 ~ 14时37分]"
+        },
+        {
+          "title": "家长称小学满分越来越难，试题「反套路」，融入更多情境化内容，你认为这种改变能更好地培养孩子吗？",
+          "url": "https://www.zhihu.com/question/2024934155633338233",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         }
       ]
     },
@@ -101,8 +112,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时07分 ~ 18时46分]"
+          "appearance_count": 12,
+          "time_info": "[09时07分 ~ 20时19分]"
         }
       ]
     }
