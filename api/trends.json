@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T14:37:02.433185+08:00",
-  "total_titles_processed": 650,
+  "generated_at": "2026-04-08T16:05:02.605714+08:00",
+  "total_titles_processed": 786,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            2
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时25分 ~ 14时37分]"
+          "appearance_count": 5,
+          "time_info": "[12时25分 ~ 16时05分]"
         },
         {
           "title": "DeepSeek 更新「快速模式」和「专家模式」，二者有何区别？这是否意味着 V4 快来了？",
@@ -28,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时25分 ~ 14时37分]"
+          "appearance_count": 5,
+          "time_info": "[12时25分 ~ 16时05分]"
         },
         {
           "title": "DeepSeek重要更新：上线专家模式",
@@ -99,8 +100,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时07分 ~ 14时37分]"
+          "appearance_count": 7,
+          "time_info": "[09时07分 ~ 16时05分]"
         }
       ]
     }
