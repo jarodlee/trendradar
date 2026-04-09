@@ -1,149 +1,39 @@
 {
-  "generated_at": "2026-04-08T22:26:29.356865+08:00",
-  "total_titles_processed": 1378,
+  "generated_at": "2026-04-09T08:58:13.521377+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "keyword_group": "小学",
+      "match_count": 1,
       "titles": [
         {
-          "title": "DeepSeek 更新「快速模式」和「专家模式」，二者有何区别？这是否意味着 V4 快来了？",
-          "url": "https://www.zhihu.com/question/2024876426596291384",
-          "source": "知乎",
+          "title": "家长怒斥小学附近卖针头捏捏乐",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E6%80%92%E6%96%A5%E5%B0%8F%E5%AD%A6%E9%99%84%E8%BF%91%E5%8D%96%E9%92%88%E5%A4%B4%E6%8D%8F%E6%8D%8F%E4%B9%90%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时25分 ~ 20时47分]"
-        },
-        {
-          "title": "DeepSeek更新专家模式",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9B%B4%E6%96%B0%E4%B8%93%E5%AE%B6%E6%A8%A1%E5%BC%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时25分 ~ 16时05分]"
-        },
-        {
-          "title": "DeepSeek重要更新：上线专家模式",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E9%87%8D%E8%A6%81%E6%9B%B4%E6%96%B0%EF%BC%9A%E4%B8%8A%E7%BA%BF%E4%B8%93%E5%AE%B6%E6%A8%A1%E5%BC%8F",
-          "source": "百度热搜",
-          "ranks": [
-            24
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时36分 ~ 14时37分]"
-        },
-        {
-          "title": "DeepSeek迎来大更新 V4不远了？业内人士：这一更新或是官方应对现实成本的必然选择",
-          "url": "https://flash.jin10.com/detail/20260408114506709800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小学",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "如何看待小学音乐教材中「叔叔你不要生气，现在我就爬上床」等歌词被指不妥？有歧义的歌词适合放进教材吗？",
-          "url": "https://www.zhihu.com/question/2024834280153432596",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "今年全国多地迎来首次「春假」，至少 76 城中小学生享受假期，你家的春假体验咋样？「神兽」有人看管吗？",
-          "url": "https://www.zhihu.com/question/2022729898867859768",
-          "source": "知乎",
-          "ranks": [
-            15,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时07分 ~ 14时37分]"
-        },
-        {
-          "title": "家长称小学满分越来越难，试题「反套路」，融入更多情境化内容，你认为这种改变能更好地培养孩子吗？",
-          "url": "https://www.zhihu.com/question/2024934155633338233",
-          "source": "知乎",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时19分 ~ 22时26分]"
+          "time_info": "[08时57分 ~ 08时58分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "曝ChatGPT6本月发布",
           "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DGPT6%E6%9C%AC%E6%9C%88%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
-            17,
-            18,
-            21,
-            16,
             19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时07分 ~ 22时26分]"
-        },
-        {
-          "title": "OpenAI：启动美国儿童保护框架蓝图，已建立并将持续加强安全防护措施。",
-          "url": "https://wallstreetcn.com/livenews/3084343",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "教育",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "教育孩子时你会重复父母的话吗",
-          "url": "https://www.toutiao.com/trending/7626031473912512518/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 08时58分]"
         }
       ]
     }
