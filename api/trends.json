@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-09T13:43:30.629129+08:00",
-  "total_titles_processed": 642,
+  "generated_at": "2026-04-09T15:23:14.340915+08:00",
+  "total_titles_processed": 763,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小学",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "小学生的大问题 大学生的小问题",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%9A%84%E5%A4%A7%E9%97%AE%E9%A2%98+%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%9A%84%E5%B0%8F%E9%97%AE%E9%A2%98",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 15时23分]"
+        },
         {
           "title": "家长怒斥小学附近卖针头捏捏乐",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E6%80%92%E6%96%A5%E5%B0%8F%E5%AD%A6%E9%99%84%E8%BF%91%E5%8D%96%E9%92%88%E5%A4%B4%E6%8D%8F%E6%8D%8F%E4%B9%90%23&t=31&band_rank=10&Refer=top",
@@ -17,6 +28,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时57分 ~ 08时58分]"
+        },
+        {
+          "title": "你认为小学阶段，除了课本知识，最应该教会孩子什么？",
+          "url": "https://www.zhihu.com/question/2020099072946614371",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 15时23分]"
         }
       ]
     },
@@ -34,6 +56,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时57分 ~ 08时58分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数维持稳定 本次停火可能只是冲突中的一次暂停",
+          "url": "https://flash.jin10.com/detail/20260409145433425800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         }
       ]
     }
