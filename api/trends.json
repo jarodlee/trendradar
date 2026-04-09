@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T15:23:14.340915+08:00",
-  "total_titles_processed": 763,
+  "generated_at": "2026-04-09T16:57:12.964857+08:00",
+  "total_titles_processed": 900,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%9A%84%E5%A4%A7%E9%97%AE%E9%A2%98+%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%9A%84%E5%B0%8F%E9%97%AE%E9%A2%98",
           "source": "百度热搜",
           "ranks": [
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 15时23分]"
+          "appearance_count": 4,
+          "time_info": "[15时22分 ~ 16时57分]"
         },
         {
           "title": "家长怒斥小学附近卖针头捏捏乐",
@@ -70,7 +71,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         }
