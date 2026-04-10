@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T14:24:43.924501+08:00",
-  "total_titles_processed": 634,
+  "generated_at": "2026-04-10T16:13:46.603317+08:00",
+  "total_titles_processed": 784,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "11 岁小孩总喊「上学累」，妈妈便想雇人带他送外卖体验生活，如何看待这种教育方式？能锻炼到孩子吗？",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时08分 ~ 14时24分]"
+          "appearance_count": 4,
+          "time_info": "[09时08分 ~ 16时13分]"
         },
         {
           "title": "幼儿园经历关停潮，幼师称「怕孩子不来上学，工作像在服务」，为啥会这样？教育业变得像服务业，这是好事吗？",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "人工智能将纳入教师资格考试和认证内容，会对未来的教育生态产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2025880248273618520",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
         }
       ]
     },
@@ -41,11 +52,12 @@
           "url": "https://www.toutiao.com/trending/7626667088377872420/",
           "source": "今日头条",
           "ranks": [
-            29
+            29,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 16时13分]"
         }
       ]
     },
