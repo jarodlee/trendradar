@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T21:51:40.151931+08:00",
-  "total_titles_processed": 1070,
+  "generated_at": "2026-04-12T22:31:58.680403+08:00",
+  "total_titles_processed": 1129,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时12分 ~ 21时51分]"
+          "appearance_count": 15,
+          "time_info": "[09时12分 ~ 22时31分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -76,7 +76,7 @@
     },
     {
       "keyword_group": "教育",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "如何看待部分高校成人教育沦为「文凭批发厂」？学生不上课、中介包教务、学校搞创收的现象，根源何在？",
@@ -91,6 +91,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时35分 ~ 16时35分]"
+        },
+        {
+          "title": "多所高校强基计划取消「竞赛破格」，仅保留高考成绩入围标准，对教育公平有何影响？",
+          "url": "https://www.zhihu.com/question/2025910963665219640",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
         }
       ]
     }
