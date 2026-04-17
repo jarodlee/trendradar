@@ -1,22 +1,51 @@
 {
-  "generated_at": "2026-04-17T09:13:29.756610+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-17T12:38:18.837403+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "广州官宣小升初实行「随机分班」，分班将由教育部门统一组织，如何看待这一操作？会影响到教学质量吗？",
           "url": "https://www.zhihu.com/question/2028141749118189870",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时13分 ~ 12时38分]"
+        },
+        {
+          "title": "培训机构称用 AI 赋能学习，家长花两万四后投诉说小孩没进步还染上网瘾，是咋回事？这种智能教育靠谱吗？",
+          "url": "https://www.zhihu.com/question/2025259986431787811",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时13分"
+          "time_info": "12时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小学",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "发改委：鼓励更多有条件的地方探索中小学“春秋假”，要做好学生假期与家长带薪年休假衔接",
+          "url": "https://wallstreetcn.com/livenews/3089740",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         }
       ]
     },
@@ -32,8 +61,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
+          "appearance_count": 2,
+          "time_info": "[09时13分 ~ 12时38分]"
         }
       ]
     }
