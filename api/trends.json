@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T18:02:35.550301+08:00",
-  "total_titles_processed": 920,
+  "generated_at": "2026-04-17T19:41:15.472274+08:00",
+  "total_titles_processed": 1056,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "广州官宣小升初实行「随机分班」，分班将由教育部门统一组织，如何看待这一操作？会影响到教学质量吗？",
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 18时02分]"
+          "appearance_count": 4,
+          "time_info": "[16时19分 ~ 19时41分]"
         },
         {
           "title": "培训机构称用 AI 赋能学习，家长花两万四后投诉说小孩没进步还染上网瘾，是咋回事？这种智能教育靠谱吗？",
@@ -55,6 +55,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
+        },
+        {
+          "title": "北京：义务教育阶段学校须全面实行均衡编班",
+          "url": "https://wallstreetcn.com/livenews/3090036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         }
       ]
     },
