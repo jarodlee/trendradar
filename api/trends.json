@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T19:41:15.472274+08:00",
-  "total_titles_processed": 1056,
+  "generated_at": "2026-04-17T20:47:30.481514+08:00",
+  "total_titles_processed": 1152,
   "failed_sources": [],
   "trends": [
     {
@@ -63,7 +63,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         }
@@ -101,6 +101,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时13分 ~ 16时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数DXY向下触及98，日内跌0.22%。",
+          "url": "https://flash.jin10.com/detail/20260417202603453800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         }
       ]
     }
