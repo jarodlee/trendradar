@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T16:34:39.957907+08:00",
-  "total_titles_processed": 736,
+  "generated_at": "2026-04-18T17:36:48.513405+08:00",
+  "total_titles_processed": 826,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时06分 ~ 16时34分]"
+          "appearance_count": 8,
+          "time_info": "[09时06分 ~ 17时36分]"
         },
         {
           "title": "大学生与小学生的人生困惑交换活动意外治愈了无数网友，这场跨越年龄的对话，为什么能戳中人心？",
@@ -31,8 +31,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时06分 ~ 16时34分]"
+          "appearance_count": 8,
+          "time_info": "[09时06分 ~ 17时36分]"
         },
         {
           "title": "小学老师批改作业崩溃大哭",
@@ -40,11 +40,12 @@
           "source": "百度热搜",
           "ranks": [
             5,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时05分 ~ 16时34分]"
+          "appearance_count": 4,
+          "time_info": "[14时05分 ~ 17时36分]"
         },
         {
           "title": "伊朗战争丨德黑兰女民兵阅兵，现场还有婴儿方阵、小学生方阵",
@@ -82,8 +83,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时05分 ~ 16时34分]"
+          "appearance_count": 4,
+          "time_info": "[14时05分 ~ 17时36分]"
         }
       ]
     }
