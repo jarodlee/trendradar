@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-18T18:29:51.418961+08:00",
-  "total_titles_processed": 879,
+  "generated_at": "2026-04-18T19:25:49.221580+08:00",
+  "total_titles_processed": 939,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小学",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "国家发改委明确鼓励探索中小学春秋假！多地落实家长带薪休假，协同效应有望放大文旅消费热情",
@@ -19,8 +19,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时06分 ~ 18时29分]"
+          "appearance_count": 10,
+          "time_info": "[09时06分 ~ 19时25分]"
         },
         {
           "title": "大学生与小学生的人生困惑交换活动意外治愈了无数网友，这场跨越年龄的对话，为什么能戳中人心？",
@@ -41,22 +41,24 @@
           "ranks": [
             5,
             7,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时05分 ~ 18时29分]"
+          "appearance_count": 6,
+          "time_info": "[14时05分 ~ 19时25分]"
         },
         {
           "title": "深圳一小学老师批改作业崩溃大哭",
           "url": "https://www.toutiao.com/trending/7629723883261476915/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 19时25分]"
         },
         {
           "title": "伊朗战争丨德黑兰女民兵阅兵，现场还有婴儿方阵、小学生方阵",
@@ -79,6 +81,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时06分 ~ 09时07分]"
+        },
+        {
+          "title": "深圳一小学老师批改作业时崩溃大哭",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%E6%89%B9%E6%94%B9%E4%BD%9C%E4%B8%9A%E6%97%B6%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         }
       ]
     },
@@ -95,8 +108,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时05分 ~ 18时29分]"
+          "appearance_count": 6,
+          "time_info": "[14时05分 ~ 19时25分]"
         }
       ]
     }
