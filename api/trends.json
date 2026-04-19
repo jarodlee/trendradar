@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T16:45:45.976396+08:00",
-  "total_titles_processed": 689,
+  "generated_at": "2026-04-19T17:36:25.837157+08:00",
+  "total_titles_processed": 731,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时40分 ~ 16时45分]"
+          "appearance_count": 5,
+          "time_info": "[12时40分 ~ 17时36分]"
         },
         {
           "title": "DeepSeek 拟首次启动融资，估值超百亿美元，有何战略意图？对国内 AI 大模型赛道带来哪些改变？",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时40分 ~ 16时45分]"
+          "appearance_count": 5,
+          "time_info": "[12时40分 ~ 17时36分]"
         },
         {
           "title": "DeepSeek被曝启动融资",
@@ -39,11 +39,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时40分 ~ 16时45分]"
+          "appearance_count": 5,
+          "time_info": "[12时40分 ~ 17时36分]"
         },
         {
           "title": "梁文锋被曝史上首次融资！DeepSeek V4彻底摆脱英伟达",
@@ -63,11 +64,12 @@
           "ranks": [
             12,
             11,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时40分 ~ 16时45分]"
+          "appearance_count": 5,
+          "time_info": "[12时40分 ~ 17时36分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
@@ -86,11 +88,12 @@
           "url": "https://www.toutiao.com/trending/7630341053001829938/",
           "source": "今日头条",
           "ranks": [
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时59分 ~ 16时45分]"
+          "appearance_count": 3,
+          "time_info": "[15时59分 ~ 17时36分]"
         }
       ]
     },
@@ -133,11 +136,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时59分 ~ 16时45分]"
+          "appearance_count": 3,
+          "time_info": "[15时59分 ~ 17时36分]"
         }
       ]
     }
