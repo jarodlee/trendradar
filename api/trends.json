@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-04-19T18:28:20.026495+08:00",
-  "total_titles_processed": 767,
+  "generated_at": "2026-04-19T19:26:14.503893+08:00",
+  "total_titles_processed": 845,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 7,
       "titles": [
+        {
+          "title": "DeepSeek 拟首次启动融资，估值超百亿美元，有何战略意图？对国内 AI 大模型赛道带来哪些改变？",
+          "url": "https://www.zhihu.com/question/2028616808370849247",
+          "source": "知乎",
+          "ranks": [
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时40分 ~ 19时26分]"
+        },
         {
           "title": "DeepSeek被曝融资20亿",
           "url": "https://www.douyin.com/hot/2470868",
@@ -21,17 +34,19 @@
           "time_info": "[12时40分 ~ 18时28分]"
         },
         {
-          "title": "DeepSeek 拟首次启动融资，估值超百亿美元，有何战略意图？对国内 AI 大模型赛道带来哪些改变？",
-          "url": "https://www.zhihu.com/question/2028616808370849247",
-          "source": "知乎",
+          "title": "多名核心人员流失，AGI梦想不敌商业化现实？DeepSeek开启首次外部融资",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33002057",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            5,
-            4
+            12,
+            11,
+            8,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时40分 ~ 18时28分]"
+          "appearance_count": 8,
+          "time_info": "[12时40分 ~ 19时26分]"
         },
         {
           "title": "DeepSeek被曝启动融资",
@@ -48,18 +63,18 @@
           "time_info": "[12时40分 ~ 18时28分]"
         },
         {
-          "title": "多名核心人员流失，AGI梦想不敌商业化现实？DeepSeek开启首次外部融资",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33002057",
-          "source": "澎湃新闻",
+          "title": "DeepSeek被曝融资20亿",
+          "url": "https://www.toutiao.com/trending/7630341053001829938/",
+          "source": "今日头条",
           "ranks": [
-            12,
-            11,
-            8,
-            6
+            21,
+            24,
+            28,
+            23
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时40分 ~ 18时28分]"
+          "time_info": "[15时59分 ~ 19时26分]"
         },
         {
           "title": "梁文锋被曝史上首次融资！DeepSeek V4彻底摆脱英伟达",
@@ -71,19 +86,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
-        },
-        {
-          "title": "DeepSeek被曝融资20亿",
-          "url": "https://www.toutiao.com/trending/7630341053001829938/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时59分 ~ 18时28分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
@@ -143,8 +145,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时59分 ~ 18时28分]"
+          "appearance_count": 6,
+          "time_info": "[15时59分 ~ 19时26分]"
         }
       ]
     }
