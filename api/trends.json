@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T19:08:59.115132+08:00",
-  "total_titles_processed": 967,
+  "generated_at": "2026-04-20T20:58:06.812620+08:00",
+  "total_titles_processed": 1111,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时29分 ~ 19时08分]"
+          "appearance_count": 4,
+          "time_info": "[17时29分 ~ 20时58分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
@@ -76,7 +76,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         }
@@ -96,8 +96,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时46分 ~ 17时29分]"
+          "appearance_count": 6,
+          "time_info": "[12时46分 ~ 20时58分]"
         },
         {
           "title": "3 岁的孩子能问 100 多个问题，而 11 岁后几乎为 0，这是为什么呢？我们的教育到底是怎么了？",
@@ -110,6 +110,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时46分 ~ 15时08分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据华尔街日报：Adobe(ADBE.O)的人工智能助手将助力提升客户参与度和销售额。Adobe将与微软、Anthropic、OpenAI、英伟达合作。",
+          "url": "https://flash.jin10.com/detail/20260420204808248800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         }
       ]
     },
