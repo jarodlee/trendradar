@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T15:08:29.258813+08:00",
-  "total_titles_processed": 655,
+  "generated_at": "2026-04-20T17:29:47.288342+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何看待网传 DeepSeek V4 即将发布并提出「去 CUDA 化」？",
@@ -39,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
+        },
+        {
+          "title": "DeepSeek 被曝融资 20 亿，真实性如何？若属实，估值合理吗？一直说不融资的它，怎么突然松口了？",
+          "url": "https://www.zhihu.com/question/2029232145541980805",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         }
       ]
     },
@@ -47,24 +58,25 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "刚办的培训班就宣布退费？国家档案局档案干部教育中心打假",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33006470",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时46分 ~ 17时29分]"
+        },
+        {
           "title": "3 岁的孩子能问 100 多个问题，而 11 岁后几乎为 0，这是为什么呢？我们的教育到底是怎么了？",
           "url": "https://www.zhihu.com/question/2028371416911738495",
           "source": "知乎",
           "ranks": [
             10,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时46分 ~ 15时08分]"
-        },
-        {
-          "title": "刚办的培训班就宣布退费？国家档案局档案干部教育中心打假",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33006470",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
           ],
           "is_new": false,
           "appearance_count": 3,
