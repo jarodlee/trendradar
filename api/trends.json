@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T09:16:43.079890+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-23T12:40:19.388053+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "软银寻求以OpenAI股份为抵押的100亿美元保证金贷款",
@@ -39,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "ChatGPT Images 2.0发布",
+          "url": "https://www.douyin.com/hot/2474931",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         }
       ]
     },
@@ -46,6 +57,18 @@
       "keyword_group": "教育",
       "match_count": 2,
       "titles": [
+        {
+          "title": "广州：一年级、七年级将“随机编班”，由区教育局统一组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33028540",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时16分 ~ 12时40分]"
+        },
         {
           "title": "清华博士劝儿子「不用考大学，出类拔萃要走不同的路」，你认同这种教育理念吗？",
           "url": "https://www.zhihu.com/question/2029745412127434303",
@@ -56,17 +79,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "小学",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "广州：一年级、七年级将“随机编班”，由区教育局统一组织",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33028540",
-          "source": "澎湃新闻",
+          "title": "只上过小学的农妇成了山花奖得主",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%AA%E4%B8%8A%E8%BF%87%E5%B0%8F%E5%AD%A6%E7%9A%84%E5%86%9C%E5%A6%87%E6%88%90%E4%BA%86%E5%B1%B1%E8%8A%B1%E5%A5%96%E5%BE%97%E4%B8%BB",
+          "source": "百度热搜",
           "ranks": [
-            17
+            4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时16分"
+          "time_info": "12时40分"
         }
       ]
     },
@@ -79,11 +108,12 @@
           "url": "https://www.zhihu.com/question/2030308965683291022",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
+          "appearance_count": 2,
+          "time_info": "[09时16分 ~ 12时40分]"
         }
       ]
     },
@@ -96,11 +126,12 @@
           "url": "https://www.cls.cn/detail/2352843",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
+          "appearance_count": 2,
+          "time_info": "[09时16分 ~ 12时40分]"
         }
       ]
     }
