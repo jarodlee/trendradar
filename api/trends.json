@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T18:11:40.448527+08:00",
-  "total_titles_processed": 938,
+  "generated_at": "2026-04-23T19:51:04.198278+08:00",
+  "total_titles_processed": 1060,
   "failed_sources": [],
   "trends": [
     {
@@ -105,11 +105,12 @@
             17,
             14,
             13,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时16分 ~ 18时11分]"
+          "appearance_count": 8,
+          "time_info": "[09时16分 ~ 19时51分]"
         },
         {
           "title": "清华博士劝儿子「不用考大学，出类拔萃要走不同的路」，你认同这种教育理念吗？",
@@ -147,7 +148,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         }
