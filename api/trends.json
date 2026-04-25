@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T16:43:07.837986+08:00",
-  "total_titles_processed": 711,
+  "generated_at": "2026-04-25T17:39:55.596365+08:00",
+  "total_titles_processed": 766,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,21 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时25分 ~ 17时39分]"
+        },
+        {
+          "title": "如何看待 DeepSeek V4 发布当天英伟达市值重回 5 万亿美元？",
+          "url": "https://www.zhihu.com/question/2031152992817243775",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时25分 ~ 16时43分]"
+          "time_info": "[14时13分 ~ 17时39分]"
         },
         {
           "title": "Deepseek V4第一波测评来了！",
@@ -32,19 +45,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时09分 ~ 16时43分]"
-        },
-        {
-          "title": "如何看待 DeepSeek V4 发布当天英伟达市值重回 5 万亿美元？",
-          "url": "https://www.zhihu.com/question/2031152992817243775",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时13分 ~ 16时43分]"
         },
         {
           "title": "实测DeepSeek V4",
@@ -72,8 +72,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时09分 ~ 16时43分]"
+          "appearance_count": 8,
+          "time_info": "[09时09分 ~ 17时39分]"
         },
         {
           "title": "DeepSeek V4预览版发布：显存和算力需求大降，Agent能力领跑国内开源，体验超越Sonnet 4.5",
@@ -92,11 +92,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时25分 ~ 16时43分]"
+          "appearance_count": 7,
+          "time_info": "[12时25分 ~ 17时39分]"
         },
         {
           "title": "DeepSeek-V4“解锁”国产芯片",
@@ -125,6 +126,18 @@
           "time_info": "[09时09分 ~ 14时13分]"
         },
         {
+          "title": "百度智能云上线DeepSeek-V4",
+          "url": "https://flash.jin10.com/detail/20260425155339949800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 17时39分]"
+        },
+        {
           "title": "DeepSeek V4：一次注意力机制的结构性颠覆",
           "url": "https://wallstreetcn.com/articles/3770791",
           "source": "华尔街见闻",
@@ -135,17 +148,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时09分 ~ 12时25分]"
-        },
-        {
-          "title": "百度智能云上线DeepSeek-V4",
-          "url": "https://flash.jin10.com/detail/20260425155339949800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时43分"
         },
         {
           "title": "【焦点复盘】三大指数缩量调整失守5日线，商业航天概念持续退潮，新版DeepSeek激活国产算力链",
@@ -257,11 +259,12 @@
           "url": "https://flash.jin10.com/detail/20260425162059332800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 17时39分]"
         },
         {
           "title": "市场消息：美国法官驳回马斯克针对OpenAI和OpenAI创始人奥尔特曼的诉讼中提出的欺诈指控，计划继续就马斯克的其他指控进行庭审。",
@@ -309,11 +312,12 @@
           "ranks": [
             24,
             9,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时25分 ~ 16时43分]"
+          "appearance_count": 7,
+          "time_info": "[12时25分 ~ 17时39分]"
         },
         {
           "title": "超5900名中小学老师拥有博士学历",
@@ -349,11 +353,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时13分 ~ 16时43分]"
+          "appearance_count": 6,
+          "time_info": "[14时13分 ~ 17时39分]"
         }
       ]
     }
