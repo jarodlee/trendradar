@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-04-26T20:35:07.133688+08:00",
-  "total_titles_processed": 943,
+  "generated_at": "2026-04-26T21:57:43.293715+08:00",
+  "total_titles_processed": 1043,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 16,
       "titles": [
+        {
+          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3770911",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时52分 ~ 21时57分]"
+        },
         {
           "title": "DeepSeek V4全面评测",
           "url": "https://www.douyin.com/hot/2479058",
@@ -18,21 +32,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时17分 ~ 20时35分]"
-        },
-        {
-          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3770911",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时52分 ~ 20时35分]"
+          "appearance_count": 12,
+          "time_info": "[09时17分 ~ 21时57分]"
         },
         {
           "title": "沉默的DeepSeek，和不被定义的中国大模型",
@@ -40,11 +41,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时48分 ~ 20时35分]"
+          "appearance_count": 11,
+          "time_info": "[12时48分 ~ 21时57分]"
         },
         {
           "title": "DeepSeekV4脱离英伟达了吗",
@@ -68,11 +70,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%8F%91%E5%B8%83%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时34分 ~ 20时35分]"
+          "appearance_count": 6,
+          "time_info": "[18时34分 ~ 21时57分]"
         },
         {
           "title": "DeepSeek V4成OpenClaw默认模型",
@@ -127,8 +130,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时41分 ~ 19时31分]"
+          "appearance_count": 5,
+          "time_info": "[17时41分 ~ 21时57分]"
         },
         {
           "title": "DeepSeek V4换芯片的背后",
