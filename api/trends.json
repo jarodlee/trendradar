@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T17:41:55.802992+08:00",
-  "total_titles_processed": 743,
+  "generated_at": "2026-04-26T18:34:59.887758+08:00",
+  "total_titles_processed": 786,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "DeepSeek V4全面评测",
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时17分 ~ 17时41分]"
+          "appearance_count": 7,
+          "time_info": "[09时17分 ~ 18时34分]"
         },
         {
           "title": "DeepSeek V4成OpenClaw默认模型",
@@ -29,11 +29,12 @@
             1,
             5,
             7,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时48分 ~ 17时41分]"
+          "appearance_count": 5,
+          "time_info": "[12时48分 ~ 18时34分]"
         },
         {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
@@ -45,8 +46,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时52分 ~ 17时41分]"
+          "appearance_count": 5,
+          "time_info": "[14时52分 ~ 18时34分]"
         },
         {
           "title": "沉默的DeepSeek，和不被定义的中国大模型",
@@ -57,8 +58,23 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时48分 ~ 17时41分]"
+          "appearance_count": 6,
+          "time_info": "[12时48分 ~ 18时34分]"
+        },
+        {
+          "title": "DeepSeekV4脱离英伟达了吗",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E8%84%B1%E7%A6%BB%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BA%86%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            6,
+            7,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时48分 ~ 18时34分]"
         },
         {
           "title": "DeepSeek v4 全面支持百万上下文 token，这意味着什么？到底有多厉害？",
@@ -72,18 +88,15 @@
           "time_info": "09时17分"
         },
         {
-          "title": "DeepSeekV4脱离英伟达了吗",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E8%84%B1%E7%A6%BB%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BA%86%E5%90%97",
+          "title": "DeepSeek V4发布意味着什么",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%8F%91%E5%B8%83%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
           "ranks": [
-            9,
-            6,
-            7,
-            8
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时48分 ~ 17时41分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
         },
         {
           "title": "国家超算互联网推出DeepSeek-V4限时免费对话服务",
@@ -93,11 +106,12 @@
             7,
             11,
             13,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时48分 ~ 17时41分]"
+          "appearance_count": 5,
+          "time_info": "[12时48分 ~ 18时34分]"
         },
         {
           "title": "DeepSeek V4换芯片的背后",
@@ -124,6 +138,17 @@
           "time_info": "[09时17分 ~ 12时48分]"
         },
         {
+          "title": "涨价浪潮下，DeepSeek推动AI“价格战”：百万Token输入0.25元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33056587",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 18时34分]"
+        },
+        {
           "title": "DeepSeek致谢近300研发者10人已离职",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E8%87%B4%E8%B0%A2%E8%BF%91300%E7%A0%94%E5%8F%91%E8%80%8510%E4%BA%BA%E5%B7%B2%E7%A6%BB%E8%81%8C",
           "source": "百度热搜",
@@ -133,17 +158,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
-        },
-        {
-          "title": "涨价浪潮下，DeepSeek推动AI“价格战”：百万Token输入0.25元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33056587",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时41分"
         },
         {
           "title": "DeepSeek在等一个更大的爆点",
@@ -177,6 +191,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小学",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "小学师生教室翻唱周杰伦",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%AD%A6%E5%B8%88%E7%94%9F%E6%95%99%E5%AE%A4%E7%BF%BB%E5%94%B1%E5%91%A8%E6%9D%B0%E4%BC%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
         }
       ]
     },
