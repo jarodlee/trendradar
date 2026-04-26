@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T14:53:01.346805+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2026-04-26T16:09:26.934052+08:00",
+  "total_titles_processed": 656,
   "failed_sources": [],
   "trends": [
     {
@@ -8,16 +8,30 @@
       "match_count": 13,
       "titles": [
         {
+          "title": "DeepSeek V4全面评测",
+          "url": "https://www.douyin.com/hot/2479058",
+          "source": "抖音",
+          "ranks": [
+            6,
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时17分 ~ 16时09分]"
+        },
+        {
           "title": "DeepSeek V4成OpenClaw默认模型",
           "url": "https://wallstreetcn.com/livenews/3094445",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时48分 ~ 14时53分]"
+          "appearance_count": 3,
+          "time_info": "[12时48分 ~ 16时09分]"
         },
         {
           "title": "DeepSeek v4 全面支持百万上下文 token，这意味着什么？到底有多厉害？",
@@ -31,16 +45,29 @@
           "time_info": "09时17分"
         },
         {
-          "title": "DeepSeek V4全面评测",
-          "url": "https://www.douyin.com/hot/2479058",
-          "source": "抖音",
+          "title": "沉默的DeepSeek，和不被定义的中国大模型",
+          "url": "https://wallstreetcn.com/articles/3770908",
+          "source": "华尔街见闻",
           "ranks": [
-            6,
-            11
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时17分 ~ 14时53分]"
+          "time_info": "[12时48分 ~ 16时09分]"
+        },
+        {
+          "title": "DeepSeekV4脱离英伟达了吗",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E8%84%B1%E7%A6%BB%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BA%86%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时48分 ~ 16时09分]"
         },
         {
           "title": "DeepSeek V4换芯片的背后",
@@ -55,8 +82,8 @@
           "time_info": "[09时17分 ~ 14时53分]"
         },
         {
-          "title": "沉默的DeepSeek，和不被定义的中国大模型",
-          "url": "https://wallstreetcn.com/articles/3770908",
+          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3770911",
           "source": "华尔街见闻",
           "ranks": [
             7,
@@ -64,30 +91,7 @@
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时48分 ~ 14时53分]"
-        },
-        {
-          "title": "DeepSeekV4脱离英伟达了吗",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E8%84%B1%E7%A6%BB%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BA%86%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时48分 ~ 14时53分]"
-        },
-        {
-          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3770911",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时52分 ~ 14时53分]"
+          "time_info": "[14时52分 ~ 16时09分]"
         },
         {
           "title": "国家超算互联网推出DeepSeek-V4限时免费对话服务",
@@ -95,11 +99,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时48分 ~ 14时53分]"
+          "appearance_count": 3,
+          "time_info": "[12时48分 ~ 16时09分]"
         },
         {
           "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
