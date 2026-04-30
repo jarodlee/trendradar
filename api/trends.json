@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T15:57:01.164821+08:00",
-  "total_titles_processed": 658,
+  "generated_at": "2026-04-30T17:56:10.212289+08:00",
+  "total_titles_processed": 809,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/1975994449046831682",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时56分 ~ 15时57分]"
+          "appearance_count": 4,
+          "time_info": "[15时56分 ~ 17时56分]"
         },
         {
           "title": "小学六年级，未来目标加州理工，应该怎么准备？",
@@ -32,9 +33,50 @@
       ]
     },
     {
+      "keyword_group": "教育",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "速通教育部新发布38个专业",
+          "url": "https://search.bilibili.com/all?keyword=%E9%80%9F%E9%80%9A%E6%95%99%E8%82%B2%E9%83%A8%E6%96%B0%E5%8F%91%E5%B8%8338%E4%B8%AA%E4%B8%93%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "如何评价《爱的教育》这本书？",
+          "url": "https://www.zhihu.com/question/33655188",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 17时56分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
+        {
+          "title": "从硅谷视角看DeepSeekV4",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%A1%85%E8%B0%B7%E8%A7%86%E8%A7%92%E7%9C%8BDeepSeekV4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时26分 ~ 17时56分]"
+        },
         {
           "title": "如何评价 DeepSeek 刚刚上线的多模态「识图模式」？",
           "url": "https://www.zhihu.com/question/2032851960177631968",
@@ -45,18 +87,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
-        },
-        {
-          "title": "从硅谷视角看DeepSeekV4",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%A1%85%E8%B0%B7%E8%A7%86%E8%A7%92%E7%9C%8BDeepSeekV4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时26分 ~ 15时57分]"
         }
       ]
     },
@@ -73,8 +103,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时18分 ~ 15时57分]"
+          "appearance_count": 5,
+          "time_info": "[13时18分 ~ 17时56分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -85,25 +115,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时18分 ~ 15时57分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "教育",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "速通教育部新发布38个专业",
-          "url": "https://search.bilibili.com/all?keyword=%E9%80%9F%E9%80%9A%E6%95%99%E8%82%B2%E9%83%A8%E6%96%B0%E5%8F%91%E5%B8%8338%E4%B8%AA%E4%B8%93%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
+          "appearance_count": 5,
+          "time_info": "[13时18分 ~ 17时56分]"
         }
       ]
     },
