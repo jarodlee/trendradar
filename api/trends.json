@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T18:42:26.664730+08:00",
-  "total_titles_processed": 777,
+  "generated_at": "2026-05-03T19:33:52.385053+08:00",
+  "total_titles_processed": 823,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时18分 ~ 18时42分]"
+          "appearance_count": 5,
+          "time_info": "[13时18分 ~ 19时33分]"
         },
         {
           "title": "多地中小学春假‌与五一假期衔接，形成‌超长黄金周，你打带娃去哪了？有选择研学吗？",
@@ -100,11 +100,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%91%98%E5%B7%A5%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8A%A0%E7%8F%AD",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时42分 ~ 18时42分]"
+          "appearance_count": 4,
+          "time_info": "[15时42分 ~ 19时33分]"
         }
       ]
     }
