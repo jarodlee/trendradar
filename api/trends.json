@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T15:42:42.461555+08:00",
-  "total_titles_processed": 608,
+  "generated_at": "2026-05-03T17:10:16.264953+08:00",
+  "total_titles_processed": 684,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 15时42分]"
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 17时10分]"
         },
         {
           "title": "多地中小学春假‌与五一假期衔接，形成‌超长黄金周，你打带娃去哪了？有选择研学吗？",
@@ -41,22 +41,24 @@
           "url": "https://wallstreetcn.com/livenews/3098241",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 17时10分]"
         },
         {
           "title": "伊朗称美以军事袭击导致伊朗1489所学校和教育单位受损",
           "url": "https://flash.jin10.com/detail/20260503130748181800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 17时10分]"
         }
       ]
     },
@@ -99,9 +101,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 17时10分]"
         }
       ]
     }
