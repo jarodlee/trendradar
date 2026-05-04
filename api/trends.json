@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-05-04T09:23:22.985344+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-04T13:21:10.036314+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "教育",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何看待福建四名儿童溺水后，各学校想出致电家长、写学习心得、防溺水小组等溺水教育方式？有更好的方法吗？",
+          "url": "https://www.zhihu.com/question/2032870758171369496",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 13时21分]"
+        },
+        {
+          "title": "夫妻多在孩子面前秀恩爱，让他们看见爱的样子，这是给孩子最好的教育和礼物吗？",
+          "url": "https://www.zhihu.com/question/2032415154680415034",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 13时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小学",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "成绩前三的小学生，在手表好友圈发 「活的好累啊」，有的家长是不是把孩子逼太紧了？",
+          "url": "https://www.zhihu.com/question/2032383026299134591",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 13时21分]"
+        }
+      ]
+    },
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
@@ -12,11 +57,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%91%98%E5%B7%A5%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8A%A0%E7%8F%AD",
           "source": "bilibili 热搜",
           "ranks": [
-            27
+            27,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
+          "appearance_count": 3,
+          "time_info": "[09时23分 ~ 13时21分]"
         }
       ]
     }
