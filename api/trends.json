@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T20:16:08.022910+08:00",
-  "total_titles_processed": 945,
+  "generated_at": "2026-05-04T22:59:53.759177+08:00",
+  "total_titles_processed": 1112,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             17,
             20,
             7,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时20分 ~ 20时16分]"
+          "appearance_count": 8,
+          "time_info": "[13时20分 ~ 22时59分]"
         },
         {
           "title": "如何看待福建四名儿童溺水后，各学校想出致电家长、写学习心得、防溺水小组等溺水教育方式？有更好的方法吗？",
@@ -46,7 +47,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时16分"
         },
@@ -96,6 +97,40 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时23分 ~ 16时11分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“从未见过此等增速”！Anthropic年化收入两个月翻番，首超OpenAI",
+          "url": "https://wallstreetcn.com/articles/3771533",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股三大股指开盘涨跌不一，道指跌0.3%、标普500指数跌0.1%、纳指涨0.01%。存储芯片概念股走强，闪迪涨超3%、美光科技涨4%；eBay上涨5.6%，GameStop下跌6.5%，游戏驿站（GameStop）提议以560亿美元收购eBay。",
+          "url": "https://wallstreetcn.com/livenews/3098500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         }
       ]
     }
