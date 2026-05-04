@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T18:52:01.593459+08:00",
-  "total_titles_processed": 836,
+  "generated_at": "2026-05-04T20:16:08.022910+08:00",
+  "total_titles_processed": 945,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             17,
             20,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时20分 ~ 18时52分]"
+          "appearance_count": 7,
+          "time_info": "[13时20分 ~ 20时16分]"
         },
         {
           "title": "如何看待福建四名儿童溺水后，各学校想出致电家长、写学习心得、防溺水小组等溺水教育方式？有更好的方法吗？",
@@ -31,6 +32,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时20分 ~ 16时11分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国政府正在寻求方法，以帮助加快对谷歌TPU的类似审批流程。",
+          "url": "https://flash.jin10.com/detail/20260504200225855800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
+        {
+          "title": "谷歌新TPU订单会流向英特尔吗？郭明錤：谷歌连联发科的利润也想省，台积电良率优势显著",
+          "url": "https://wallstreetcn.com/articles/3771528",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 18时52分]"
         }
       ]
     },
@@ -67,23 +96,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时23分 ~ 16时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌新TPU订单会流向英特尔吗？郭明錤：谷歌连联发科的利润也想省，台积电良率优势显著",
-          "url": "https://wallstreetcn.com/articles/3771528",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 18时52分]"
         }
       ]
     }
