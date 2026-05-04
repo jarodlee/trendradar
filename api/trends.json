@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T13:21:10.036314+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2026-05-04T16:11:42.894291+08:00",
+  "total_titles_processed": 680,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.zhihu.com/question/2032870758171369496",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 13时21分]"
+          "appearance_count": 3,
+          "time_info": "[13时20分 ~ 16时11分]"
         },
         {
           "title": "夫妻多在孩子面前秀恩爱，让他们看见爱的样子，这是给孩子最好的教育和礼物吗？",
           "url": "https://www.zhihu.com/question/2032415154680415034",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 13时21分]"
+          "appearance_count": 3,
+          "time_info": "[13时20分 ~ 16时11分]"
         }
       ]
     },
@@ -58,11 +60,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             27,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时23分 ~ 13时21分]"
+          "appearance_count": 4,
+          "time_info": "[09时23分 ~ 16时11分]"
         }
       ]
     }
