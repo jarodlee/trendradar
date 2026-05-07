@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T18:56:13.214329+08:00",
-  "total_titles_processed": 847,
+  "generated_at": "2026-05-07T20:25:03.490635+08:00",
+  "total_titles_processed": 968,
   "failed_sources": [],
   "trends": [
     {
@@ -77,11 +77,12 @@
             1,
             9,
             11,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时26分 ~ 18时56分]"
+          "appearance_count": 7,
+          "time_info": "[09时26分 ~ 20时25分]"
         },
         {
           "title": "福建实施中小学春秋假制度",
