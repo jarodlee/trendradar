@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T19:22:33.612971+08:00",
-  "total_titles_processed": 1058,
+  "generated_at": "2026-05-13T21:59:25.719573+08:00",
+  "total_titles_processed": 1221,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小学",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "湖北一小学要求学生填「父母职业观察单」，包含工作环境、加班等，校方称为让学生懂感恩，如何看待学校做法？",
@@ -17,6 +17,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时14分 ~ 00时15分]"
+        },
+        {
+          "title": "重庆一小学门口可买到带针头注射器",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E5%B0%8F%E5%AD%A6%E9%97%A8%E5%8F%A3%E5%8F%AF%E4%B9%B0%E5%88%B0%E5%B8%A6%E9%92%88%E5%A4%B4%E6%B3%A8%E5%B0%84%E5%99%A8%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "教育",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "这块“试验田”，产业和教育一起“种”",
+          "url": "https://www.toutiao.com/trending/7639177674859216937/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         }
       ]
     },
@@ -53,6 +81,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时47分 ~ 13时38分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股开盘：纳指涨0.21%，道指跌0.36%，标普500指数涨0.01%。英伟达开盘上涨2.08%，报225.365美元/股，续创记录新高，总市值达5.46万亿美元。美光科技涨超6%，高通涨超3%。阿里巴巴下跌2.6%，腾讯控股ADR上涨2.3%。",
+          "url": "https://wallstreetcn.com/livenews/3103059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         }
       ]
     }
