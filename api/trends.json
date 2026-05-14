@@ -1,28 +1,11 @@
 {
-  "generated_at": "2026-05-14T09:49:54.089100+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2026-05-14T13:37:08.523674+08:00",
+  "total_titles_processed": 706,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "小学",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何看待「比比拉布、我的刀盾」等热梗成为小学生群体的社交密码？家长该如何面对这种「无厘头」的口头禅？",
-          "url": "https://www.zhihu.com/question/2037179644500256408",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        }
-      ]
-    },
-    {
       "keyword_group": "教育",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "这块“试验田”，产业和教育一起“种”",
@@ -34,6 +17,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 09时49分]"
+        },
+        {
+          "title": "男子钓40斤大鱼挂车窗炫耀被交警教育",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%92%9340%E6%96%A4%E5%A4%A7%E9%B1%BC%E6%8C%82%E8%BD%A6%E7%AA%97%E7%82%AB%E8%80%80%E8%A2%AB%E4%BA%A4%E8%AD%A6%E6%95%99%E8%82%B2",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时36分 ~ 13时37分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小学",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待「比比拉布、我的刀盾」等热梗成为小学生群体的社交密码？家长该如何面对这种「无厘头」的口头禅？",
+          "url": "https://www.zhihu.com/question/2037179644500256408",
+          "source": "知乎",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时49分 ~ 13时37分]"
         }
       ]
     }
