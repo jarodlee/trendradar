@@ -1,92 +1,22 @@
 {
-  "generated_at": "2026-05-14T21:21:51.569173+08:00",
-  "total_titles_processed": 1154,
+  "generated_at": "2026-05-15T00:02:41.171164+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美国财长贝森特：Anthropic、OpenAI、谷歌的AI模型能力正不断增强。",
-          "url": "https://wallstreetcn.com/livenews/3103666",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时05分"
-        },
-        {
-          "title": "美国财长贝森特：（谈及人工智能）随着Mythos和Gemini等模型的推出，人工智能将迎来重大飞跃。",
-          "url": "https://flash.jin10.com/detail/20260514183806236800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时05分"
-        },
-        {
-          "title": "美国财长贝森特：（谈及人工智能）Anthropic、OpenAI、谷歌(GOOG.O)的实力正在迅速增强。",
-          "url": "https://flash.jin10.com/detail/20260514183704271800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "教育",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "这块“试验田”，产业和教育一起“种”",
-          "url": "https://www.toutiao.com/trending/7639177674859216937/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 09时49分]"
-        },
-        {
-          "title": "男子钓40斤大鱼挂车窗炫耀被交警教育",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%92%9340%E6%96%A4%E5%A4%A7%E9%B1%BC%E6%8C%82%E8%BD%A6%E7%AA%97%E7%82%AB%E8%80%80%E8%A2%AB%E4%BA%A4%E8%AD%A6%E6%95%99%E8%82%B2",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时36分 ~ 16时22分]"
-        }
-      ]
-    },
     {
       "keyword_group": "小学",
       "match_count": 1,
       "titles": [
         {
-          "title": "如何看待「比比拉布、我的刀盾」等热梗成为小学生群体的社交密码？家长该如何面对这种「无厘头」的口头禅？",
-          "url": "https://www.zhihu.com/question/2037179644500256408",
-          "source": "知乎",
+          "title": "小学生为绿化带石墩贴上反光条",
+          "url": "https://www.toutiao.com/trending/7639597538089779263/",
+          "source": "今日头条",
           "ranks": [
-            2,
-            3,
-            13
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时49分 ~ 16时22分]"
+          "appearance_count": 1,
+          "time_info": "00时02分"
         }
       ]
     }
