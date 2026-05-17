@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T18:15:25.273473+08:00",
-  "total_titles_processed": 706,
+  "generated_at": "2026-05-17T19:51:22.791294+08:00",
+  "total_titles_processed": 795,
   "failed_sources": [],
   "trends": [
     {
@@ -23,22 +23,24 @@
           "url": "https://www.zhihu.com/question/2038901266051502596",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 19时51分]"
         },
         {
           "title": "女儿考试倒数第一，爸爸逆向教育称「你考越好对我越没用」，这会对孩子产生哪些影响？适合被其他家长效仿吗？",
           "url": "https://www.zhihu.com/question/2039299720174986465",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 19时51分]"
         }
       ]
     },
