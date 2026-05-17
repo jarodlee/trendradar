@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T20:46:37.814687+08:00",
-  "total_titles_processed": 854,
+  "generated_at": "2026-05-17T22:18:25.479091+08:00",
+  "total_titles_processed": 942,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 20时46分]"
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 22时18分]"
         },
         {
           "title": "女儿考试倒数第一，爸爸逆向教育称「你考越好对我越没用」，这会对孩子产生哪些影响？适合被其他家长效仿吗？",
@@ -25,11 +26,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 20时46分]"
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 22时18分]"
         },
         {
           "title": "女孩考倒数第一 爸爸淡定逆向教育",
@@ -64,11 +66,12 @@
           "url": "https://wallstreetcn.com/articles/3772335",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 22时18分]"
         }
       ]
     },
