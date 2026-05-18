@@ -1,94 +1,39 @@
 {
-  "generated_at": "2026-05-17T22:18:25.479091+08:00",
-  "total_titles_processed": 942,
+  "generated_at": "2026-05-18T09:53:55.764877+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "教育",
-      "match_count": 3,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
       "titles": [
         {
-          "title": "西安电子科技大学某导师官宣跑路，个人主页三连喊「我跑了」，可能是什么情况？反映了大学教育生态什么问题？",
-          "url": "https://www.zhihu.com/question/2038901266051502596",
+          "title": "GPT-5.5 涨价，而 DeepSeek 再次降价？为什么会同时出现「涨价」和「降价」共存的情况？",
+          "url": "https://www.zhihu.com/question/2037925163765691524",
           "source": "知乎",
           "ranks": [
-            9,
-            6,
-            3
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时15分 ~ 22时18分]"
-        },
-        {
-          "title": "女儿考试倒数第一，爸爸逆向教育称「你考越好对我越没用」，这会对孩子产生哪些影响？适合被其他家长效仿吗？",
-          "url": "https://www.zhihu.com/question/2039299720174986465",
-          "source": "知乎",
-          "ranks": [
-            19,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时15分 ~ 22时18分]"
-        },
-        {
-          "title": "女孩考倒数第一 爸爸淡定逆向教育",
-          "url": "https://www.toutiao.com/trending/7639697422842953764/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 13时37分]"
+          "appearance_count": 1,
+          "time_info": "09时53分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伯克希尔“新王新气象”：Q1减仓零售、油气，加仓谷歌，还建仓了航空",
-          "url": "https://wallstreetcn.com/articles/3772402",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时44分"
-        },
-        {
-          "title": "下周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
-          "url": "https://wallstreetcn.com/articles/3772335",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时46分 ~ 22时18分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
-          "url": "https://wallstreetcn.com/livenews/3104794",
-          "source": "华尔街见闻-快讯",
+          "title": "本周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
+          "url": "https://wallstreetcn.com/articles/3772335",
+          "source": "华尔街见闻",
           "ranks": [
-            27
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时44分"
+          "time_info": "09时53分"
         }
       ]
     }
