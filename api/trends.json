@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T17:03:54.502993+08:00",
-  "total_titles_processed": 698,
+  "generated_at": "2026-05-20T19:40:23.667495+08:00",
+  "total_titles_processed": 868,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 17时03分]"
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 19时40分]"
         },
         {
           "title": "谷歌开发者大会火力全开：AI搜索、代码生成、视频模型齐发",
@@ -37,7 +37,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -147,7 +147,7 @@
     },
     {
       "keyword_group": "教育",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI：积极选择下一个国家教育合作伙伴，预计将在今年晚些时候公布。",
@@ -156,9 +156,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
+        },
+        {
+          "title": "教育局回应中学女生跑操后死亡",
+          "url": "https://www.douyin.com/hot/2504257",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "新加坡与谷歌公司、OpenAI签署AI协议。 OpenAI承诺对狮城生态系统投资2.34亿美元（折合3亿坡元），成立海外（美国之外）第一个AI实验室。 谷歌将AI协作扩展至教育、医疗保健、科学研究。 新加坡希望在全球部署AI方面发挥更大作用。",
