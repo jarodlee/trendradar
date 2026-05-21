@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-05-21T09:52:46.285102+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-05-21T13:58:24.364763+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小学",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "小学退回全损雨伞家委会致歉赔偿",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E9%80%80%E5%9B%9E%E5%85%A8%E6%8D%9F%E9%9B%A8%E4%BC%9E%E5%AE%B6%E5%A7%94%E4%BC%9A%E8%87%B4%E6%AD%89%E8%B5%94%E5%81%BF%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 13时58分]"
         },
         {
           "title": "小学退回全损雨伞 家委会致歉补款",
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E9%80%80%E5%9B%9E%E5%85%A8%E6%8D%9F%E9%9B%A8%E4%BC%9E+%E5%AE%B6%E5%A7%94%E4%BC%9A%E8%87%B4%E6%AD%89%E8%A1%A5%E6%AC%BE",
           "source": "百度热搜",
           "ranks": [
-            2
+            2,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 13时58分]"
         },
         {
           "title": "小学退“全损”雨伞家委会致歉补款",
@@ -39,6 +41,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
+        },
+        {
+          "title": "小学网购45把伞后全损退回",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354477&amp;topic_name=%E5%B0%8F%E5%AD%A6%E7%BD%91%E8%B4%AD45%E6%8A%8A%E4%BC%9E%E5%90%8E%E5%85%A8%E6%8D%9F%E9%80%80%E5%9B%9E",
+          "source": "贴吧",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "小学网购45把伞用后全损退回",
