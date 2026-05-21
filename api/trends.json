@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T13:58:24.364763+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2026-05-21T16:58:36.901555+08:00",
+  "total_titles_processed": 688,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小学",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "小学退回全损雨伞家委会致歉赔偿",
@@ -32,6 +32,18 @@
           "time_info": "[09时52分 ~ 13时58分]"
         },
         {
+          "title": "小学网购45把伞后全损退回",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354477&amp;topic_name=%E5%B0%8F%E5%AD%A6%E7%BD%91%E8%B4%AD45%E6%8A%8A%E4%BC%9E%E5%90%8E%E5%85%A8%E6%8D%9F%E9%80%80%E5%9B%9E",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 16时58分]"
+        },
+        {
           "title": "小学退“全损”雨伞家委会致歉补款",
           "url": "https://www.toutiao.com/trending/7641969712338832932/",
           "source": "今日头条",
@@ -43,15 +55,15 @@
           "time_info": "09时52分"
         },
         {
-          "title": "小学网购45把伞后全损退回",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354477&amp;topic_name=%E5%B0%8F%E5%AD%A6%E7%BD%91%E8%B4%AD45%E6%8A%8A%E4%BC%9E%E5%90%8E%E5%85%A8%E6%8D%9F%E9%80%80%E5%9B%9E",
-          "source": "贴吧",
+          "title": "小学门口放学信息播报被喊全国推广",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E9%97%A8%E5%8F%A3%E6%94%BE%E5%AD%A6%E4%BF%A1%E6%81%AF%E6%92%AD%E6%8A%A5%E8%A2%AB%E5%96%8A%E5%85%A8%E5%9B%BD%E6%8E%A8%E5%B9%BF%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
           "ranks": [
-            16
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "16时58分"
         },
         {
           "title": "小学网购45把伞用后全损退回",
@@ -63,6 +75,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "教育",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "武汉一学校要求老师参与验菜、收菜等工作引发不满，教育局已叫停，学校为啥这么做？会影响老师正常教学吗？",
+          "url": "https://www.zhihu.com/question/2040481330199269508",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         }
       ]
     },
