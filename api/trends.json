@@ -1,214 +1,72 @@
 {
-  "generated_at": "2026-05-20T22:26:13.744185+08:00",
-  "total_titles_processed": 1033,
+  "generated_at": "2026-05-21T09:52:46.285102+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 12,
+      "keyword_group": "小学",
+      "match_count": 4,
       "titles": [
         {
-          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
-          "url": "https://wallstreetcn.com/articles/3772658",
-          "source": "华尔街见闻",
+          "title": "小学退回全损雨伞家委会致歉赔偿",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E9%80%80%E5%9B%9E%E5%85%A8%E6%8D%9F%E9%9B%A8%E4%BC%9E%E5%AE%B6%E5%A7%94%E4%BC%9A%E8%87%B4%E6%AD%89%E8%B5%94%E5%81%BF%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
           "ranks": [
-            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "小学退回全损雨伞 家委会致歉补款",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E9%80%80%E5%9B%9E%E5%85%A8%E6%8D%9F%E9%9B%A8%E4%BC%9E+%E5%AE%B6%E5%A7%94%E4%BC%9A%E8%87%B4%E6%AD%89%E8%A1%A5%E6%AC%BE",
+          "source": "百度热搜",
+          "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时53分 ~ 22时26分]"
+          "appearance_count": 1,
+          "time_info": "09时52分"
         },
         {
-          "title": "谷歌开发者大会火力全开：AI搜索、代码生成、视频模型齐发",
-          "url": "https://www.cls.cn/detail/2376057",
-          "source": "财联社热门",
+          "title": "小学退“全损”雨伞家委会致歉补款",
+          "url": "https://www.toutiao.com/trending/7641969712338832932/",
+          "source": "今日头条",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 13时54分]"
-        },
-        {
-          "title": "Gemini 3.5 Flash 正式发布，你怎么评价这款模型?",
-          "url": "https://www.zhihu.com/question/2040251136867815469",
-          "source": "知乎",
-          "ranks": [
-            5
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时03分"
+          "time_info": "09时52分"
         },
         {
-          "title": "Token消耗一年暴增7倍！谷歌步入Agent驱动时代 带来什么启示？",
-          "url": "https://www.cls.cn/detail/2376249",
-          "source": "财联社热门",
+          "title": "小学网购45把伞用后全损退回",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%BD%91%E8%B4%AD45%E6%8A%8A%E4%BC%9E%E7%94%A8%E5%90%8E%E5%85%A8%E6%8D%9F%E9%80%80%E5%9B%9E%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
           "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 17时03分]"
-        },
-        {
-          "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
-          "url": "https://wallstreetcn.com/articles/3772609",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 13时54分]"
-        },
-        {
-          "title": "万斯称美伊谈判取得“很大进展”谷歌推出Gemini 3.5系列模型 | 环球市场",
-          "url": "https://www.cls.cn/detail/2376118",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 13时54分]"
-        },
-        {
-          "title": "Gemini Omni实测效果速览",
-          "url": "https://search.bilibili.com/all?keyword=Gemini%20Omni%E5%AE%9E%E6%B5%8B%E6%95%88%E6%9E%9C%E9%80%9F%E8%A7%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2375879",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：通过与新加坡政府建立新的国家人工智能合作伙伴关系，加大在新加坡的人工智能投资。",
-          "url": "https://flash.jin10.com/detail/20260520093335274800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "谷歌推出Gemini 3.5系列模型 Omni视频生成迎来关键突破",
-          "url": "https://www.cls.cn/detail/2376047",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "谷歌I/O大会全复盘",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CI%2FO%E5%A4%A7%E4%BC%9A%E5%85%A8%E5%A4%8D%E7%9B%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "如何看待 Google I/O 发布的 Gemini 3.5 Flash？在大模型竞争中处于什么位置？",
-          "url": "https://www.zhihu.com/question/2040264585383507841",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
+          "time_info": "09时52分"
         }
       ]
     },
     {
-      "keyword_group": "教育",
-      "match_count": 3,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI：积极选择下一个国家教育合作伙伴，预计将在今年晚些时候公布。",
-          "url": "https://flash.jin10.com/detail/20260520164224925800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时03分"
-        },
-        {
-          "title": "教育局回应中学女生跑操后死亡",
-          "url": "https://www.douyin.com/hot/2504257",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
-          "title": "新加坡与谷歌公司、OpenAI签署AI协议。 OpenAI承诺对狮城生态系统投资2.34亿美元（折合3亿坡元），成立海外（美国之外）第一个AI实验室。 谷歌将AI协作扩展至教育、医疗保健、科学研究。 新加坡希望在全球部署AI方面发挥更大作用。",
-          "url": "https://wallstreetcn.com/livenews/3106486",
-          "source": "华尔街见闻-快讯",
+          "title": "如何评价 gemini 于 26 年 5 月 17 日实行的新限额形式？",
+          "url": "https://www.zhihu.com/question/2040264998916712429",
+          "source": "知乎",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何看待 DeepSeek 组建 Harness 团队对标 Claude Code？",
-          "url": "https://www.zhihu.com/question/2040450519303288568",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时25分 ~ 22时26分]"
-        },
-        {
-          "title": "DeepSeek回应“乱回”漏洞",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%9B%9E%E5%BA%94%E2%80%9C%E4%B9%B1%E5%9B%9E%E2%80%9D%E6%BC%8F%E6%B4%9E",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
+          "time_info": "09时52分"
         }
       ]
     },
@@ -217,32 +75,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI创始人跳槽Anthropic",
-          "url": "https://s.weibo.com/weibo?q=OpenAI%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%B7%B3%E6%A7%BDAnthropic&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "软银集团股价大涨近20%，受OpenAI和SB Energy的IPO消息提振。",
+          "url": "https://wallstreetcn.com/livenews/3107041",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数DXY短线下挫超20点，最新报99.25。",
-          "url": "https://flash.jin10.com/detail/20260520222037907800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
+          "time_info": "09时52分"
         }
       ]
     }
