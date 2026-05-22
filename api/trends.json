@@ -1,8 +1,37 @@
 {
-  "generated_at": "2026-05-22T09:53:45.387213+08:00",
-  "total_titles_processed": 518,
+  "generated_at": "2026-05-22T13:54:41.458747+08:00",
+  "total_titles_processed": 707,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "小学",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "小学网购45把伞后全损退回",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354477&amp;topic_name=%E5%B0%8F%E5%AD%A6%E7%BD%91%E8%B4%AD45%E6%8A%8A%E4%BC%9E%E5%90%8E%E5%85%A8%E6%8D%9F%E9%80%80%E5%9B%9E",
+          "source": "贴吧",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 09时53分]"
+        },
+        {
+          "title": "四部门发文要求中小学座椅有靠背",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E9%83%A8%E9%97%A8%E5%8F%91%E6%96%87%E8%A6%81%E6%B1%82%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%BA%A7%E6%A4%85%E6%9C%89%E9%9D%A0%E8%83%8C",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
@@ -32,24 +61,6 @@
       ]
     },
     {
-      "keyword_group": "小学",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "小学网购45把伞后全损退回",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354477&amp;topic_name=%E5%B0%8F%E5%AD%A6%E7%BD%91%E8%B4%AD45%E6%8A%8A%E4%BC%9E%E5%90%8E%E5%85%A8%E6%8D%9F%E9%80%80%E5%9B%9E",
-          "source": "贴吧",
-          "ranks": [
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 09时53分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "教育",
       "match_count": 1,
       "titles": [
@@ -58,11 +69,12 @@
           "url": "https://www.zhihu.com/question/2040028397288568612",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时53分 ~ 13时54分]"
         }
       ]
     },
