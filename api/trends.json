@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T13:54:41.458747+08:00",
-  "total_titles_processed": 707,
+  "generated_at": "2026-05-22T16:44:17.853514+08:00",
+  "total_titles_processed": 862,
   "failed_sources": [],
   "trends": [
     {
@@ -26,9 +26,38 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "教育",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "教育部喊停「电子带娃」，明确数字产品不能替代玩具和绘本，家长还会用「早教 App」吗？正确带娃该怎么做？",
+          "url": "https://www.zhihu.com/question/2040028397288568612",
+          "source": "知乎",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时53分 ~ 13时54分]"
+        },
+        {
+          "title": "孩子想做蚕丝被，家里养 1.2 万条蚕，全家齐助力剥茧、喂食和搭房，你觉得值吗？这种教育会怎样影响孩子？",
+          "url": "https://www.zhihu.com/question/2040508570488283807",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         }
       ]
     },
@@ -61,24 +90,6 @@
       ]
     },
     {
-      "keyword_group": "教育",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "教育部喊停「电子带娃」，明确数字产品不能替代玩具和绘本，家长还会用「早教 App」吗？正确带娃该怎么做？",
-          "url": "https://www.zhihu.com/question/2040028397288568612",
-          "source": "知乎",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 13时54分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -87,11 +98,12 @@
           "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
-            8
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 16时44分]"
         }
       ]
     }
