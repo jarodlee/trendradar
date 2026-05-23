@@ -1,65 +1,33 @@
 {
-  "generated_at": "2026-05-22T22:06:42.528443+08:00",
-  "total_titles_processed": 1200,
+  "generated_at": "2026-05-23T09:45:23.015922+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "小学",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
         {
-          "title": "小学网购45把伞后全损退回",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354477&amp;topic_name=%E5%B0%8F%E5%AD%A6%E7%BD%91%E8%B4%AD45%E6%8A%8A%E4%BC%9E%E5%90%8E%E5%85%A8%E6%8D%9F%E9%80%80%E5%9B%9E",
-          "source": "贴吧",
+          "title": "苹果谷歌英伟达，集体松了口气",
+          "url": "https://news.ifeng.com/c/8tL3ZUXTPWj",
+          "source": "凤凰网",
           "ranks": [
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 09时53分]"
-        },
-        {
-          "title": "四部门发文要求中小学座椅有靠背",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E9%83%A8%E9%97%A8%E5%8F%91%E6%96%87%E8%A6%81%E6%B1%82%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%BA%A7%E6%A4%85%E6%9C%89%E9%9D%A0%E8%83%8C",
-          "source": "百度热搜",
-          "ranks": [
-            30
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "教育",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "孩子想做蚕丝被，家里养 1.2 万条蚕，全家齐助力剥茧、喂食和搭房，你觉得值吗？这种教育会怎样影响孩子？",
-          "url": "https://www.zhihu.com/question/2040508570488283807",
-          "source": "知乎",
-          "ranks": [
-            14,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时44分 ~ 22时06分]"
+          "time_info": "09时45分"
         },
         {
-          "title": "教育部喊停「电子带娃」，明确数字产品不能替代玩具和绘本，家长还会用「早教 App」吗？正确带娃该怎么做？",
-          "url": "https://www.zhihu.com/question/2040028397288568612",
-          "source": "知乎",
+          "title": "周五（5月22日），美股超大规模云服务商（Hyperscalers）指数收跌0.34%，报101.35点，本周累计下跌1.18%，整体呈现出平坦的V形走势。 日线图上，指数在3月27日跌至78.05点，随后持续反弹，5月份迄今持续测试100点整数位心理关口。 成分股中，谷歌A收跌1.21%，亚马逊跌0.80%，微软跌0.12%，Meta涨0.47%，甲骨文涨1.22%。",
+          "url": "https://wallstreetcn.com/livenews/3108281",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            10
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 13时54分]"
+          "appearance_count": 1,
+          "time_info": "09时45分"
         }
       ]
     },
@@ -68,26 +36,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
-          "url": "https://www.zhihu.com/question/2040738759281473391",
-          "source": "知乎",
+          "title": "OpenAI称攻克80年数学难题",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E7%A7%B0%E6%94%BB%E5%85%8B80%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时09分"
+          "time_info": "09时45分"
         },
         {
-          "title": "如何看待 OpenAI 宣布 AI 证明困扰人类 80 年的单位距离问题？证明可信度如何？",
-          "url": "https://www.zhihu.com/question/2040751125725278389",
-          "source": "知乎",
+          "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
+          "url": "https://flash.jin10.com/detail/20260523091339971800",
+          "source": "金十数据",
           "ranks": [
-            5
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时09分"
+          "time_info": "09时45分"
         }
       ]
     },
@@ -96,34 +64,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "不小心把DeepSeek叫成豆包",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&t=31&band_rank=8&Refer=top",
-          "source": "微博",
+          "title": "如何看待 DeepSeek V4 Pro 模型价格于 5 月 31 日结束 2.5 折优惠，调整为原定价的 1/4？",
+          "url": "https://www.zhihu.com/question/2041260640740927118",
+          "source": "知乎",
           "ranks": [
-            8,
-            20
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 16时44分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "苹果谷歌英伟达，集体松了口气",
-          "url": "https://news.ifeng.com/c/8tL3ZUXTPWj",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时35分 ~ 22时06分]"
+          "appearance_count": 1,
+          "time_info": "09时45分"
         }
       ]
     }
