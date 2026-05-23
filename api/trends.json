@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T17:51:03.414551+08:00",
-  "total_titles_processed": 729,
+  "generated_at": "2026-05-23T19:02:32.333278+08:00",
+  "total_titles_processed": 791,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "贴吧",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时28分 ~ 17时51分]"
+          "appearance_count": 7,
+          "time_info": "[13时28分 ~ 19时02分]"
         },
         {
           "title": "曝 DeepSeek 推进 700 亿元融资，梁文锋称坚持开源 AI 模型，此举意味着什么？",
           "url": "https://www.zhihu.com/question/2041154123677126717",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时01分 ~ 17时51分]"
+          "appearance_count": 5,
+          "time_info": "[16时01分 ~ 19时02分]"
         },
         {
           "title": "如何看待 DeepSeek V4 Pro 模型价格于 5 月 31 日结束 2.5 折优惠，调整为原定价的 1/4？",
@@ -98,8 +100,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时45分 ~ 17时51分]"
+          "appearance_count": 8,
+          "time_info": "[09时45分 ~ 19时02分]"
         },
         {
           "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
