@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T19:56:42.550661+08:00",
-  "total_titles_processed": 854,
+  "generated_at": "2026-05-24T20:53:02.585917+08:00",
+  "total_titles_processed": 909,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时50分 ~ 19时56分]"
+          "appearance_count": 9,
+          "time_info": "[09时50分 ~ 20时53分]"
         },
         {
           "title": "永久2.5折！DeepSeek宣布V4-Pro模型API降价",
@@ -44,8 +44,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时50分 ~ 19时56分]"
+          "appearance_count": 9,
+          "time_info": "[09时50分 ~ 20时53分]"
         },
         {
           "title": "周末要闻汇总：特朗普称美伊协议基本谈成；DeepSeek宣布永久降价",
@@ -56,8 +56,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 19时56分]"
+          "appearance_count": 4,
+          "time_info": "[18时24分 ~ 20时53分]"
+        },
+        {
+          "title": "DeepSeek 引入 API 并发限制，这对开发者意味着什么？",
+          "url": "https://www.zhihu.com/question/2041119709844788638",
+          "source": "知乎",
+          "ranks": [
+            14,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时11分 ~ 20时53分]"
         },
         {
           "title": "AI进入“按量付费与算力配给”时代--Anthropic和DeepSeek告诉我们的事",
@@ -72,18 +85,6 @@
           "time_info": "[09时50分 ~ 13时50分]"
         },
         {
-          "title": "DeepSeek 引入 API 并发限制，这对开发者意味着什么？",
-          "url": "https://www.zhihu.com/question/2041119709844788638",
-          "source": "知乎",
-          "ranks": [
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时11分 ~ 19时56分]"
-        },
-        {
           "title": "梁文锋与DeepSeek的十万亿美元棋盘",
           "url": "https://wallstreetcn.com/articles/3772995",
           "source": "华尔街见闻",
@@ -92,8 +93,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 19时56分]"
+          "appearance_count": 4,
+          "time_info": "[18时24分 ~ 20时53分]"
         },
         {
           "title": "DeepSeek宣布：永久降价",
