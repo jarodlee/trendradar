@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-26T13:55:13.069868+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2026-05-26T17:02:22.808852+08:00",
+  "total_titles_processed": 693,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "暖民心惠民生 推动学习教育走深走实",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        },
+        {
+          "title": "半月谈发文「向牺牲教师换和谐说不」，面对家长恶意举报，学校和教育主管部门应如何真正「给教师撑腰」？",
+          "url": "https://www.zhihu.com/question/2041968374968837808",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
         },
         {
           "title": "四川省教育厅回应高校开放建议，称对校外无差别开放易引发问题，你支持高校开放吗？积极与消极影响有哪些？",
@@ -32,6 +43,23 @@
       ]
     },
     {
+      "keyword_group": "小学",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "小学生男孩，因为不玩游戏，班里的男同学课间几乎不找他玩，他主动加入也无法融入，该怎么办？",
+          "url": "https://www.zhihu.com/question/2037540754919306345",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -41,11 +69,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 13时55分]"
+          "appearance_count": 5,
+          "time_info": "[09时49分 ~ 17时02分]"
         }
       ]
     }
