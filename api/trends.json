@@ -1,105 +1,39 @@
 {
-  "generated_at": "2026-05-27T22:16:39.372026+08:00",
-  "total_titles_processed": 1097,
+  "generated_at": "2026-05-28T09:29:53.775610+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小学",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "官方回应扔吸管者系小学教师",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354606&amp;topic_name=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%89%94%E5%90%B8%E7%AE%A1%E8%80%85%E7%B3%BB%E5%B0%8F%E5%AD%A6%E6%95%99%E5%B8%88",
           "source": "贴吧",
           "ranks": [
-            1,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时08分 ~ 22时16分]"
-        },
-        {
-          "title": "官方回应扔吸管女子被指系小学老师",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%89%94%E5%90%B8%E7%AE%A1%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%8C%87%E7%B3%BB%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "官方回应扔吸管女子被指系小学老师",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%89%94%E5%90%B8%E7%AE%A1%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%8C%87%E7%B3%BB%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
+          "time_info": "09时29分"
         }
       ]
     },
     {
       "keyword_group": "教育",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "教育部：这类学历不予认证",
           "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E8%BF%99%E7%B1%BB%E5%AD%A6%E5%8E%86%E4%B8%8D%E4%BA%88%E8%AE%A4%E8%AF%81",
           "source": "百度热搜",
           "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 22时16分]"
-        },
-        {
-          "title": "教育部拟同意设置 34 所新大学，河南新增 4 所本科高校，这会对教育格局产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2041187512429852426",
-          "source": "知乎",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 22时16分]"
-        },
-        {
-          "title": "新学年高三开学时间由往年8月1日调为9月1日，广东省教育厅介绍缘由",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33239043",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 22时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如果 deepseek r1 推理激活参数只有 37B，是不是意味着 37B 的大模型就可以在垂直领域有效？",
-          "url": "https://www.zhihu.com/question/12005197517",
-          "source": "知乎",
-          "ranks": [
-            19
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时33分"
+          "time_info": "09时29分"
         }
       ]
     }
