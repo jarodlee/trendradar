@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-28T13:57:22.535942+08:00",
-  "total_titles_processed": 512,
+  "generated_at": "2026-05-28T17:42:08.942377+08:00",
+  "total_titles_processed": 702,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "国家大基金领投DeepSeek，投前估值450亿美元",
+          "url": "https://wallstreetcn.com/articles/3773316",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 17时42分]"
+        },
         {
           "title": "DeepSeek网页及API服务中断 现已恢复",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E7%BD%91%E9%A1%B5%E5%8F%8AAPI%E6%9C%8D%E5%8A%A1%E4%B8%AD%E6%96%AD+%E7%8E%B0%E5%B7%B2%E6%81%A2%E5%A4%8D",
@@ -14,7 +25,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -25,7 +36,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         }
@@ -41,11 +52,12 @@
           "source": "贴吧",
           "ranks": [
             16,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 13时57分]"
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 17时42分]"
         }
       ]
     },
