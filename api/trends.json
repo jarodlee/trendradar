@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-29T17:51:16.169302+08:00",
-  "total_titles_processed": 909,
+  "generated_at": "2026-05-29T20:38:25.015004+08:00",
+  "total_titles_processed": 1077,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
       "match_count": 3,
       "titles": [
+        {
+          "title": "在清华接受四年教育但无文凭，和有清华文凭但一天课都没上过，你会怎么选？",
+          "url": "https://www.zhihu.com/question/2043349186469418798",
+          "source": "知乎",
+          "ranks": [
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 20时38分]"
+        },
         {
           "title": "操场上二人撑伞视频被传为「女教师讨好男领导」，校方称两人是父女关系，教育局否认，如何评价此事？",
           "url": "https://www.zhihu.com/question/2042685981472584608",
@@ -17,17 +29,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时46分 ~ 00时47分]"
-        },
-        {
-          "title": "在清华接受四年教育但无文凭，和有清华文凭但一天课都没上过，你会怎么选？",
-          "url": "https://www.zhihu.com/question/2043349186469418798",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
         },
         {
           "title": "广东清远市教育局原局长张玉兰被查",
@@ -62,11 +63,12 @@
           "url": "https://wallstreetcn.com/articles/3773389",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 20时38分]"
         },
         {
           "title": "OpenAI正调查影响用户登录和使用ChatGPT的故障",
@@ -78,6 +80,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小学",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "木兰中小学运动会开幕式震惊南方网友",
+          "url": "https://www.toutiao.com/trending/7644718101711880218/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 00时47分]"
+        },
+        {
+          "title": "小学举办六一晚会效果堪比演唱会",
+          "url": "https://www.toutiao.com/trending/7644435817670656042/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         }
       ]
     },
@@ -104,9 +134,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 20时38分]"
         }
       ]
     },
@@ -135,23 +165,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小学",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "木兰中小学运动会开幕式震惊南方网友",
-          "url": "https://www.toutiao.com/trending/7644718101711880218/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
         }
       ]
     }
