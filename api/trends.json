@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T21:20:28.646373+08:00",
-  "total_titles_processed": 1143,
+  "generated_at": "2026-05-30T22:57:30.878034+08:00",
+  "total_titles_processed": 1233,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时59分 ~ 21时20分]"
+          "appearance_count": 3,
+          "time_info": "[19时59分 ~ 22时57分]"
         },
         {
           "title": "据悉OpenAI已与花旗、摩根大通讨论参与IPO事宜",
@@ -56,6 +57,34 @@
       ]
     },
     {
+      "keyword_group": "教育",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "女大学生因恋爱被家人骗进戒网瘾学校，还被限制人身自由，当地称该机构未经教育局审批，暴露出了哪些问题？",
+          "url": "https://www.zhihu.com/question/2044015061333534704",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
+          "title": "在清华接受四年教育但无文凭，和有清华文凭但一天课都没上过，你会怎么选？",
+          "url": "https://www.zhihu.com/question/2043349186469418798",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "小学",
       "match_count": 1,
       "titles": [
@@ -70,23 +99,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 09时47分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "教育",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "在清华接受四年教育但无文凭，和有清华文凭但一天课都没上过，你会怎么选？",
-          "url": "https://www.zhihu.com/question/2043349186469418798",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时38分"
         }
       ]
     },
