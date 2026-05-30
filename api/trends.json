@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T09:47:48.016052+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-05-30T13:38:30.777155+08:00",
+  "total_titles_processed": 663,
   "failed_sources": [],
   "trends": [
     {
@@ -46,6 +46,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 09时47分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "教育",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "在清华接受四年教育但无文凭，和有清华文凭但一天课都没上过，你会怎么选？",
+          "url": "https://www.zhihu.com/question/2043349186469418798",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         }
       ]
     },
