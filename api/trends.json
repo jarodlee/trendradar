@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T21:04:26.122738+08:00",
-  "total_titles_processed": 873,
+  "generated_at": "2026-05-31T23:08:11.849136+08:00",
+  "total_titles_processed": 992,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时57分 ~ 21时04分]"
+          "appearance_count": 9,
+          "time_info": "[09时57分 ~ 23时08分]"
         },
         {
           "title": "小学生《左手指月》爆火 萨顶顶发声",
@@ -58,8 +58,25 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时39分 ~ 21时04分]"
+          "appearance_count": 5,
+          "time_info": "[17时39分 ~ 23时08分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI模型推翻80年的数学经典猜想，引发学界震动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33276037",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时07分 ~ 23时08分]"
         }
       ]
     }
