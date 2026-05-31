@@ -1,121 +1,33 @@
 {
-  "generated_at": "2026-05-30T22:57:30.878034+08:00",
-  "total_titles_processed": 1233,
+  "generated_at": "2026-05-31T09:58:03.879126+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "报道：OpenAI在讨论将花旗、摩根大通纳入IPO承销商名单",
-          "url": "https://wallstreetcn.com/livenews/3111808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时59分 ~ 22时57分]"
-        },
-        {
-          "title": "据悉OpenAI已与花旗、摩根大通讨论参与IPO事宜",
-          "url": "https://flash.jin10.com/detail/20260530193729860800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时59分 ~ 21时20分]"
-        },
-        {
-          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
-          "url": "https://wallstreetcn.com/articles/3773389",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "OpenAI确认推出Rosalind BioDefense Program。",
-          "url": "https://wallstreetcn.com/livenews/3111534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "教育",
+      "keyword_group": "小学",
       "match_count": 2,
       "titles": [
         {
-          "title": "女大学生因恋爱被家人骗进戒网瘾学校，还被限制人身自由，当地称该机构未经教育局审批，暴露出了哪些问题？",
-          "url": "https://www.zhihu.com/question/2044015061333534704",
+          "title": "小学六一晚会效果堪比演唱会，超 10 万网友在线观看，学校称得益于日常美育，怎样看待学校的教育方式？",
+          "url": "https://www.zhihu.com/question/2043990135130125315",
           "source": "知乎",
           "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时57分"
-        },
-        {
-          "title": "在清华接受四年教育但无文凭，和有清华文凭但一天课都没上过，你会怎么选？",
-          "url": "https://www.zhihu.com/question/2043349186469418798",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小学",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "小学六一晚会效果堪比演唱会",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E5%85%AD%E4%B8%80%E6%99%9A%E4%BC%9A%E6%95%88%E6%9E%9C%E5%A0%AA%E6%AF%94%E6%BC%94%E5%94%B1%E4%BC%9A",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            1
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时32分 ~ 09时47分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
+          "time_info": "[09时57分 ~ 09时58分]"
+        },
         {
-          "title": "华为发表韬 (τ) 定律，实现晶体管密度与系统性能突破，是芯片制造领域另一个 deepseek 时刻吗？",
-          "url": "https://www.zhihu.com/question/2042260682780009473",
-          "source": "知乎",
+          "title": "粤超赛场小学生演唱《左手指月》",
+          "url": "https://www.toutiao.com/trending/7645569124705665067/",
+          "source": "今日头条",
           "ranks": [
-            16
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
         }
       ]
     }
