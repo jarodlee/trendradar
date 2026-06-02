@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-01T22:44:12.131733+08:00",
-  "total_titles_processed": 786,
+  "generated_at": "2026-06-02T10:07:57.719764+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
+          "url": "https://wallstreetcn.com/articles/3773607",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://git.aqde.net/trendradar/img/news.jpg"
 }
