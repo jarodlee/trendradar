@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-02T15:14:10.306191+08:00",
-  "total_titles_processed": 521,
+  "generated_at": "2026-06-02T19:56:03.863905+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
@@ -14,9 +14,26 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek降价",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E9%99%8D%E4%BB%B7&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时55分 ~ 19时56分]"
         }
       ]
     },
@@ -30,11 +47,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 15时14分]"
+          "appearance_count": 5,
+          "time_info": "[10时07分 ~ 19时56分]"
         }
       ]
     },
