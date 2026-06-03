@@ -1,62 +1,39 @@
 {
-  "generated_at": "2026-06-02T23:49:15.899002+08:00",
-  "total_titles_processed": 914,
+  "generated_at": "2026-06-03T10:15:42.229595+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "教育",
-      "match_count": 3,
+      "keyword_group": "小学",
+      "match_count": 1,
       "titles": [
         {
-          "title": "家庭教育中母亲崩溃现象普遍存在的根源是什么？",
-          "url": "https://www.zhihu.com/question/2042028887098519818",
-          "source": "知乎",
+          "title": "官方通报小学为教师定制西装问题：决策程序失当，已对校长停职",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33296448",
+          "source": "澎湃新闻",
           "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时48分 ~ 23时49分]"
-        },
-        {
-          "title": "教育部发布2026高考预警信息",
-          "url": "https://www.toutiao.com/trending/7646200959559008282/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时48分 ~ 23时49分]"
-        },
-        {
-          "title": "教育部等八部门联合开展“国聘行动”",
-          "url": "https://wallstreetcn.com/livenews/3112849",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时14分"
+          "time_info": "10时15分"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "教育",
       "match_count": 1,
       "titles": [
         {
-          "title": "DeepSeek降价",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E9%99%8D%E4%BB%B7&t=31&band_rank=1&Refer=top",
-          "source": "微博",
+          "title": "“真题”满天飞？教育部打假",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%9C%9F%E9%A2%98%E2%80%9D%E6%BB%A1%E5%A4%A9%E9%A3%9E%EF%BC%9F%E6%95%99%E8%82%B2%E9%83%A8%E6%89%93%E5%81%87",
+          "source": "百度热搜",
           "ranks": [
-            1,
-            10
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时55分 ~ 23时49分]"
+          "appearance_count": 1,
+          "time_info": "10时15分"
         }
       ]
     },
@@ -65,17 +42,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
-          "url": "https://wallstreetcn.com/articles/3773607",
-          "source": "华尔街见闻",
+          "title": "800亿美元！谷歌启动史上最大规模股权融资，伯克希尔参投100亿美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33289350",
+          "source": "澎湃新闻",
           "ranks": [
-            5,
-            3,
-            2
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时07分 ~ 23时49分]"
+          "appearance_count": 1,
+          "time_info": "10时15分"
         }
       ]
     },
@@ -84,32 +59,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "先上市者为王？一文读懂：Anthropic与OpenAI缘何上演“抢滩登陆战”！",
-          "url": "https://www.cls.cn/detail/2387988",
+          "title": "OpenAI举行“AI上岗”发布会：股票研究、投行路演都能干",
+          "url": "https://www.cls.cn/detail/2388950",
           "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时13分 ~ 15时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "恒天然：6月2日全球乳品贸易（GDT）拍卖价格指数下降0.6%，奶粉各合同期FAS拍卖均价4,021美元/吨。 批发奶粉价格指数下降2.2%，报3,706美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3113175",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时49分"
+          "time_info": "10时15分"
         }
       ]
     }
