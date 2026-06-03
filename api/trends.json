@@ -1,29 +1,23 @@
 {
-  "generated_at": "2026-06-03T10:15:42.229595+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-03T15:28:19.990930+08:00",
+  "total_titles_processed": 534,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "小学",
-      "match_count": 1,
+      "keyword_group": "教育",
+      "match_count": 3,
       "titles": [
         {
-          "title": "官方通报小学为教师定制西装问题：决策程序失当，已对校长停职",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33296448",
-          "source": "澎湃新闻",
+          "title": "教育部：严禁炒作高考状元、升学率",
+          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E4%B8%A5%E7%A6%81%E7%82%92%E4%BD%9C%E9%AB%98%E8%80%83%E7%8A%B6%E5%85%83%E3%80%81%E5%8D%87%E5%AD%A6%E7%8E%87",
+          "source": "百度热搜",
           "ranks": [
             16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "教育",
-      "match_count": 1,
-      "titles": [
+          "time_info": "15时28分"
+        },
         {
           "title": "“真题”满天飞？教育部打假",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%9C%9F%E9%A2%98%E2%80%9D%E6%BB%A1%E5%A4%A9%E9%A3%9E%EF%BC%9F%E6%95%99%E8%82%B2%E9%83%A8%E6%89%93%E5%81%87",
@@ -34,6 +28,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
+        },
+        {
+          "title": "多地教育考试部门提醒：高考考生如戴眼镜，入场前须接受查验",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33292612",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小学",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "官方通报小学为教师定制西装问题：决策程序失当，已对校长停职",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33296448",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时15分 ~ 15时28分]"
         }
       ]
     },
@@ -63,11 +86,12 @@
           "url": "https://www.cls.cn/detail/2388950",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时15分"
+          "appearance_count": 2,
+          "time_info": "[10时15分 ~ 15时28分]"
         }
       ]
     }
