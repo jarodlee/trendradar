@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T09:58:12.248231+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2026-06-05T14:14:34.322644+08:00",
+  "total_titles_processed": 719,
   "failed_sources": [],
   "trends": [
     {
@@ -67,6 +67,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "教育",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "教育部发布2026年高考十问十答",
+          "url": "https://www.douyin.com/hot/2524066",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
         }
       ]
     }
