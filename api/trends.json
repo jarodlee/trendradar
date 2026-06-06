@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T20:03:31.345355+08:00",
-  "total_titles_processed": 1066,
+  "generated_at": "2026-06-06T22:23:03.217039+08:00",
+  "total_titles_processed": 1188,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "公安机关、教育部门提醒考生诚信赴考",
@@ -47,7 +47,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         },
@@ -61,6 +61,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时44分 ~ 16时19分]"
+        },
+        {
+          "title": "施一公在人民日报发文《人工智能时代，教育何为》，如何理解他的这篇文章？",
+          "url": "https://www.zhihu.com/question/2046182456277956497",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 22时23分]"
         }
       ]
     },
@@ -139,8 +150,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时44分 ~ 20时03分]"
+          "appearance_count": 8,
+          "time_info": "[13时44分 ~ 22时23分]"
         },
         {
           "title": "美元指数DXY突破100，日内涨0.56%。",
@@ -177,11 +188,12 @@
           "ranks": [
             13,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时44分 ~ 20时03分]"
+          "appearance_count": 8,
+          "time_info": "[13时44分 ~ 22时23分]"
         },
         {
           "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
