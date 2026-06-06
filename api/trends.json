@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T13:44:41.519927+08:00",
-  "total_titles_processed": 694,
+  "generated_at": "2026-06-06T16:19:09.277945+08:00",
+  "total_titles_processed": 839,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://www.cls.cn/detail/2392502",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时44分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时44分 ~ 16时19分]"
         },
         {
           "title": "谷歌关联的预付能源债券引发市政债券交易员抢购潮",
@@ -58,7 +59,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         }
@@ -97,9 +98,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时44分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时44分 ~ 16时19分]"
         }
       ]
     },
@@ -112,11 +113,12 @@
           "url": "https://wallstreetcn.com/articles/3773996",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时44分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时44分 ~ 16时19分]"
         },
         {
           "title": "美元指数DXY突破100，日内涨0.56%。",
@@ -163,11 +165,12 @@
           "url": "https://www.cls.cn/detail/2392488",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时44分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时44分 ~ 16时19分]"
         }
       ]
     }
