@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T16:19:09.277945+08:00",
-  "total_titles_processed": 839,
+  "generated_at": "2026-06-06T18:48:04.738183+08:00",
+  "total_titles_processed": 975,
   "failed_sources": [],
   "trends": [
     {
@@ -67,7 +67,7 @@
     },
     {
       "keyword_group": "教育",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "公安机关、教育部门提醒考生诚信赴考",
@@ -79,6 +79,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时23分 ~ 09时50分]"
+        },
+        {
+          "title": "跑男 教育观众",
+          "url": "https://s.weibo.com/weibo?q=%E8%B7%91%E7%94%B7%20%E6%95%99%E8%82%B2%E8%A7%82%E4%BC%97&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 18时48分]"
         },
         {
           "title": "教育部发布2026年高考十问十答",
@@ -117,8 +128,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时44分 ~ 16时19分]"
+          "appearance_count": 5,
+          "time_info": "[13时44分 ~ 18时48分]"
         },
         {
           "title": "美元指数DXY突破100，日内涨0.56%。",
@@ -149,6 +160,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
+          "url": "https://www.cls.cn/detail/2392488",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时44分 ~ 18时48分]"
+        },
+        {
           "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
           "url": "https://wallstreetcn.com/articles/3773921",
           "source": "华尔街见闻",
@@ -159,18 +183,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时23分 ~ 09时50分]"
-        },
-        {
-          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
-          "url": "https://www.cls.cn/detail/2392488",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时44分 ~ 16时19分]"
         }
       ]
     }
