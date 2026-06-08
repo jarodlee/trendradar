@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T15:19:11.611347+08:00",
-  "total_titles_processed": 545,
+  "generated_at": "2026-06-08T20:20:21.710463+08:00",
+  "total_titles_processed": 769,
   "failed_sources": [],
   "trends": [
     {
@@ -55,7 +55,7 @@
     },
     {
       "keyword_group": "教育",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "网飞新剧铁拳教育讲了什么",
@@ -63,11 +63,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 15时19分]"
+          "appearance_count": 4,
+          "time_info": "[10时07分 ~ 20时20分]"
         },
         {
           "title": "韩剧铁拳教育剧情有多爽",
@@ -79,12 +80,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时18分 ~ 15时19分]"
+        },
+        {
+          "title": "今年上海高考数学注重考什么？市教育考试院邀请专家点评",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33330543",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
@@ -107,6 +119,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时18分 ~ 15时19分]"
+        },
+        {
+          "title": "苹果AI告急 库克押注谷歌Gemini救场",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9CAI%E5%91%8A%E6%80%A5+%E5%BA%93%E5%85%8B%E6%8A%BC%E6%B3%A8%E8%B0%B7%E6%AD%8CGemini%E6%95%91%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         }
       ]
     },
