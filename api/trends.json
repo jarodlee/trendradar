@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-09T09:46:37.291995+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2026-06-09T13:56:25.552280+08:00",
+  "total_titles_processed": 719,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,24 @@
           "url": "https://www.zhihu.com/question/2047324900080051711",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 13时56分]"
+        },
+        {
+          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
+          "url": "https://wallstreetcn.com/articles/3774134",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 13时56分]"
         },
         {
           "title": "谷歌(GOOG.O)：即日起向拥有Google AI Ultra的用户及使用AI Ultra的Workspace商业版客户，在全球范围内推出网页版更新，并扩大适用范围。",
@@ -28,17 +41,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
-        },
-        {
-          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
-          "url": "https://wallstreetcn.com/articles/3774134",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时46分"
         },
         {
           "title": "谷歌(GOOG.O)：将NotebookLM升级至运行在Gemini 3.5和Antigravity上。",
@@ -58,7 +60,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         }
@@ -77,8 +79,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 09时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 13时56分]"
         },
         {
           "title": "网飞新剧铁拳教育讲了什么",
@@ -86,39 +88,42 @@
           "source": "bilibili 热搜",
           "ranks": [
             16,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 09时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 13时56分]"
         },
         {
           "title": "韩剧铁拳教育剧情爽点在哪",
           "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%89%A7%E9%93%81%E6%8B%B3%E6%95%99%E8%82%B2%E5%89%A7%E6%83%85%E7%88%BD%E7%82%B9%E5%9C%A8%E5%93%AA",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            13,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 13时56分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
           "url": "https://www.cls.cn/detail/2394212",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 13时56分]"
         },
         {
           "title": "以总理确认暂停袭击伊朗 OpenAI递交上市申请文件 | 环球市场",
@@ -127,9 +132,20 @@
           "ranks": [
             13
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 13时56分]"
+        },
+        {
+          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
+          "url": "https://wallstreetcn.com/articles/3774156",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时46分"
+          "time_info": "13时56分"
         }
       ]
     }
