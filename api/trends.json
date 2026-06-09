@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-09T16:53:58.770610+08:00",
-  "total_titles_processed": 907,
+  "generated_at": "2026-06-09T19:50:53.479301+08:00",
+  "total_titles_processed": 1083,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时46分 ~ 16时53分]"
+          "appearance_count": 4,
+          "time_info": "[09时46分 ~ 19时50分]"
         },
         {
           "title": "谷歌(GOOG.O)：即日起向拥有Google AI Ultra的用户及使用AI Ultra的Workspace商业版客户，在全球范围内推出网页版更新，并扩大适用范围。",
@@ -79,8 +79,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时56分 ~ 16时53分]"
+          "appearance_count": 3,
+          "time_info": "[13时56分 ~ 19时50分]"
         },
         {
           "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
@@ -112,7 +112,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         }
@@ -171,11 +171,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A6%96%E9%83%BD%E8%BF%91%E7%99%BE%E6%89%80%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%B4%A7%E6%80%A5%E5%81%9C%E8%AF%BE",
           "source": "百度热搜",
           "ranks": [
-            9
+            9,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 19时50分]"
         }
       ]
     }
