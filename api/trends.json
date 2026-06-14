@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T15:11:38.896943+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2026-06-14T18:41:50.787369+08:00",
+  "total_titles_processed": 650,
   "failed_sources": [],
   "trends": [
     {
@@ -8,22 +8,22 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
-          "url": "https://wallstreetcn.com/articles/3774577",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 15时11分]"
-        },
-        {
           "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
           "url": "https://www.cls.cn/detail/2399163",
           "source": "财联社热门",
           "ranks": [
             2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时06分 ~ 18时41分]"
+        },
+        {
+          "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
+          "url": "https://wallstreetcn.com/articles/3774577",
+          "source": "华尔街见闻",
+          "ranks": [
             1
           ],
           "is_new": false,
