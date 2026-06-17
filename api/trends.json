@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T10:10:07.816766+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-06-17T16:18:10.971665+08:00",
+  "total_titles_processed": 770,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "为什么DeepSeek是AI泡沫斩杀线",
@@ -37,8 +37,41 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 16时18分]"
+        },
+        {
+          "title": "豆包DeepSeek答题两极分化",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85DeepSeek%E7%AD%94%E9%A2%98%E4%B8%A4%E6%9E%81%E5%88%86%E5%8C%96&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时09分 ~ 10时10分]"
+          "time_info": "[16时17分 ~ 16时18分]"
+        },
+        {
+          "title": "Redis 之父为 DeepSeek 抱不平，美国 AI 圈为何再为「蒸馏」开吵？",
+          "url": "https://www.zhihu.com/question/2050271442697188542",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 16时18分]"
+        },
+        {
+          "title": "微软考虑用DeepSeek替换美国AI模型",
+          "url": "https://www.toutiao.com/trending/7652220920047603254/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 16时18分]"
         },
         {
           "title": "曝DeepSeek首轮融资梁文锋出资200亿",
@@ -50,6 +83,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时09分 ~ 10时10分]"
+        },
+        {
+          "title": "美国商务部暂缓将DeepSeek等中企加入限制清单，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3120818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         }
       ]
     },
@@ -118,11 +162,12 @@
           "url": "https://www.cls.cn/detail/2401773",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时09分 ~ 10时10分]"
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 16时18分]"
         }
       ]
     },
