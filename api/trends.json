@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T16:18:10.971665+08:00",
-  "total_titles_processed": 770,
+  "generated_at": "2026-06-17T20:42:57.754297+08:00",
+  "total_titles_processed": 980,
   "failed_sources": [],
   "trends": [
     {
@@ -37,8 +37,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时09分 ~ 16时18分]"
+          "appearance_count": 5,
+          "time_info": "[10时09分 ~ 20时42分]"
         },
         {
           "title": "豆包DeepSeek答题两极分化",
@@ -91,7 +91,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         }
@@ -99,7 +99,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌：Wear OS 7今日起向符合条件的Pixel Watch设备推送，为全天候日常使用提供可靠的平台支持。",
@@ -133,13 +133,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "据华尔街日报：Anthropic、谷歌及其他科技公司承诺投资9.15亿美元以清除空气中的碳。",
+          "url": "https://flash.jin10.com/detail/20260617200030090800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         }
       ]
     },
     {
       "keyword_group": "教育",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "韩剧铁拳教育详解",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%89%A7%E9%93%81%E6%8B%B3%E6%95%99%E8%82%B2%E8%AF%A6%E8%A7%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
         {
           "title": "深观察｜办好人民满意的教育：从“有学上”到“上好学”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33388401",
@@ -150,6 +172,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时09分 ~ 10时10分]"
+        },
+        {
+          "title": "教育部同意：新设立32所本科高校",
+          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%90%8C%E6%84%8F%EF%BC%9A%E6%96%B0%E8%AE%BE%E7%AB%8B32%E6%89%80%E6%9C%AC%E7%A7%91%E9%AB%98%E6%A0%A1",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         }
       ]
     },
