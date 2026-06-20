@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-20T17:55:05.157173+08:00",
-  "total_titles_processed": 675,
+  "generated_at": "2026-06-20T19:48:27.988296+08:00",
+  "total_titles_processed": 779,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
       "match_count": 3,
       "titles": [
+        {
+          "title": "12 岁男孩偷开邻居的车，独自在高速狂飙 6 小时，父亲称「没想到儿子会开车」，家庭教育存在哪些问题？",
+          "url": "https://www.zhihu.com/question/2051001274779301605",
+          "source": "知乎",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时54分 ~ 19时48分]"
+        },
         {
           "title": "工作室发布致歉声明：黄子韬已接受教育、缴纳罚款，涉事车辆未经过非法改装，仅变更车身颜色",
           "url": "https://m.thepaper.cn/newsDetail_forward_33416855",
@@ -18,17 +30,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时11分 ~ 17时55分]"
-        },
-        {
-          "title": "12 岁男孩偷开邻居的车，独自在高速狂飙 6 小时，父亲称「没想到儿子会开车」，家庭教育存在哪些问题？",
-          "url": "https://www.zhihu.com/question/2051001274779301605",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 17时55分]"
         },
         {
           "title": "教育专家黄玉峰点评上海中考作文题",
@@ -53,11 +54,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时11分 ~ 17时55分]"
+          "appearance_count": 4,
+          "time_info": "[14时11分 ~ 19时48分]"
         },
         {
           "title": "挪威将禁止小学生使用生成式人工智能",
@@ -66,7 +68,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         }
@@ -97,6 +99,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
+          "url": "https://wallstreetcn.com/articles/3775105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
         }
       ]
     },
