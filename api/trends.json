@@ -1,8 +1,60 @@
 {
-  "generated_at": "2026-06-20T19:48:27.988296+08:00",
-  "total_titles_processed": 779,
+  "generated_at": "2026-06-20T21:18:37.187262+08:00",
+  "total_titles_processed": 881,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "小学",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "济南一小区配套小学被租给民办高中，区教体局：为盘活国有资产",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33417039",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时11分 ~ 21时18分]"
+        },
+        {
+          "title": "挪威将禁止小学生使用生成式人工智能",
+          "url": "https://flash.jin10.com/detail/20260620160408389800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
+          "title": "清华版大学生小学生对话",
+          "url": "https://s.weibo.com/weibo?q=%E6%B8%85%E5%8D%8E%E7%89%88%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%AF%B9%E8%AF%9D&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        },
+        {
+          "title": "小学生给爸爸打电话说“我爱你”",
+          "url": "https://www.toutiao.com/trending/7653124046502428735/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        }
+      ]
+    },
     {
       "keyword_group": "教育",
       "match_count": 3,
@@ -13,11 +65,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时54分 ~ 19时48分]"
+          "appearance_count": 4,
+          "time_info": "[17时54分 ~ 21时18分]"
         },
         {
           "title": "工作室发布致歉声明：黄子韬已接受教育、缴纳罚款，涉事车辆未经过非法改装，仅变更车身颜色",
@@ -41,36 +94,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时54分 ~ 17时55分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小学",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "济南一小区配套小学被租给民办高中，区教体局：为盘活国有资产",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33417039",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时11分 ~ 19时48分]"
-        },
-        {
-          "title": "挪威将禁止小学生使用生成式人工智能",
-          "url": "https://flash.jin10.com/detail/20260620160408389800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时55分"
         }
       ]
     },
@@ -103,6 +126,23 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek估值接近4000亿元",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%BC%B0%E5%80%BC%E6%8E%A5%E8%BF%914000%E4%BA%BF%E5%85%83%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -113,9 +153,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时48分 ~ 21时18分]"
         }
       ]
     },
