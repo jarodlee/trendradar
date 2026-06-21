@@ -1,182 +1,22 @@
 {
-  "generated_at": "2026-06-20T23:27:07.420409+08:00",
-  "total_titles_processed": 1009,
+  "generated_at": "2026-06-21T10:09:47.342479+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "小学",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "济南一小区配套小学被租给民办高中，区教体局：为盘活国有资产",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33417039",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            11,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时11分 ~ 23时27分]"
-        },
-        {
-          "title": "小学生给爸爸打电话说“我爱你”",
-          "url": "https://www.toutiao.com/trending/7653124046502428735/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时18分 ~ 23时27分]"
-        },
-        {
-          "title": "挪威将禁止小学生使用生成式人工智能",
-          "url": "https://flash.jin10.com/detail/20260620160408389800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时55分"
-        },
-        {
-          "title": "清华版大学生小学生对话",
-          "url": "https://s.weibo.com/weibo?q=%E6%B8%85%E5%8D%8E%E7%89%88%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%AF%B9%E8%AF%9D&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "教育",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "12 岁男孩偷开邻居的车，独自在高速狂飙 6 小时，父亲称「没想到儿子会开车」，家庭教育存在哪些问题？",
-          "url": "https://www.zhihu.com/question/2051001274779301605",
-          "source": "知乎",
-          "ranks": [
-            12,
-            6,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时54分 ~ 23时27分]"
-        },
-        {
-          "title": "工作室发布致歉声明：黄子韬已接受教育、缴纳罚款，涉事车辆未经过非法改装，仅变更车身颜色",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33416855",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时11分 ~ 17时55分]"
-        },
-        {
-          "title": "教育专家黄玉峰点评上海中考作文题",
-          "url": "https://www.toutiao.com/trending/7653386993522704411/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 17时55分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美伊瑞士会谈生变，韩股收跌0.1%，印度IT股大跌，纳指期货跌1%，美元指数站上101关口",
-          "url": "https://wallstreetcn.com/articles/3775074",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 14时11分]"
-        },
-        {
-          "title": "美元指数本周涨约1%",
-          "url": "https://wallstreetcn.com/livenews/3122179",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek估值接近4000亿元",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%BC%B0%E5%80%BC%E6%8E%A5%E8%BF%914000%E4%BA%BF%E5%85%83%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时18分"
-        }
-      ]
-    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
-          "url": "https://wallstreetcn.com/articles/3775105",
-          "source": "华尔街见闻",
+          "title": "谷歌 Gemini 负责人 NoamShazeer 赴 OpenAI，对两家公司有何影响？",
+          "url": "https://www.zhihu.com/question/2050866813181994242",
+          "source": "知乎",
           "ranks": [
-            10
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时48分 ~ 23时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "亚马逊旗下电影部门放弃拍摄有关OpenAI的电影。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3122199",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 14时11分]"
+          "appearance_count": 1,
+          "time_info": "10时09分"
         }
       ]
     }
