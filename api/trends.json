@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-27T00:04:32.267975+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-27T09:50:18.002856+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 3,
       "titles": [
+        {
+          "title": "DeepSeek 宣布所有部门至少扩大一倍，进行大规模招聘，这一举动意味着什么？",
+          "url": "https://www.zhihu.com/question/2053625552725079594",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时04分 ~ 09时50分]"
+        },
         {
           "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
           "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
@@ -19,22 +31,50 @@
           "time_info": "00时04分"
         },
         {
-          "title": "DeepSeek 宣布所有部门至少扩大一倍，进行大规模招聘，这一举动意味着什么？",
-          "url": "https://www.zhihu.com/question/2053625552725079594",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
           "title": "DeepSeek招聘薪资待遇",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%8B%9B%E8%81%98%E8%96%AA%E8%B5%84%E5%BE%85%E9%81%87%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
           "ranks": [
             14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "内存涨价反噬终端需求！苹果涨价+OpenAI IPO推迟引爆亚洲芯片股崩盘",
+          "url": "https://wallstreetcn.com/articles/3775589",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "如何评价 OpenAI 发布 GPT-5.6 系列模型？这次更新最值得关注的是什么？",
+          "url": "https://www.zhihu.com/question/2054058863066886644",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "据CNBC：OpenAI在特朗普政府的要求下，计划限制GPT 5.6的推出。",
+          "url": "https://flash.jin10.com/detail/20260626233456947800",
+          "source": "金十数据",
+          "ranks": [
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -69,23 +109,6 @@
           "source": "知乎",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据CNBC：OpenAI在特朗普政府的要求下，计划限制GPT 5.6的推出。",
-          "url": "https://flash.jin10.com/detail/20260626233456947800",
-          "source": "金十数据",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 1,
