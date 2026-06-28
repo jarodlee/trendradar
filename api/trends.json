@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T10:00:08.685054+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-06-28T14:15:01.223563+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时00分]"
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 14时15分]"
         },
         {
           "title": "DeepSeek开源DSpark框架",
@@ -44,7 +44,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
@@ -67,6 +67,62 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时59分 ~ 10时00分]"
+        },
+        {
+          "title": "海外研究员眼中的中国AI：智谱是“中国Palantir”，MiniMax对标Character AI，豆包是“中国ChatGPT”",
+          "url": "https://wallstreetcn.com/articles/3775673",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时14分 ~ 14时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "因算力供不应求，谷歌限制Meta对Gemini AI模型的使用",
+          "url": "https://flash.jin10.com/detail/20260628133655032800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
+        },
+        {
+          "title": "据英国金融时报：谷歌限制Meta对Gemini的使用，因AI需求挤压算力容量。",
+          "url": "https://flash.jin10.com/detail/20260628120732763800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "教育",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "教育部发布填报志愿诈骗预警",
+          "url": "https://www.douyin.com/hot/2550391",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时14分 ~ 14时15分]"
         }
       ]
     },
@@ -79,11 +135,12 @@
           "url": "https://wallstreetcn.com/articles/3775680",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时00分]"
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 14时15分]"
         }
       ]
     }
