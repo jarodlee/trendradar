@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-06-29T10:02:35.126964+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-29T14:47:36.224277+08:00",
+  "total_titles_processed": 543,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "教育",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "《铁拳教育》很敢拍，观众看得很爽，也很不适",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33445578",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "中央层面树立和践行正确政绩观学习教育工作专班、中央纪委办公厅公开通报广西壮族自治区南宁市、甘肃省酒泉市新城区、浙江省杭州市萧山区3起政绩观偏差问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33472291",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "SK海力士：呼吁为西南地区工人建立优质教育体系。",
+          "url": "https://flash.jin10.com/detail/20260629141738356800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        }
+      ]
+    },
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
@@ -29,11 +68,12 @@
           "url": "https://wallstreetcn.com/articles/3775694",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 14时47分]"
         }
       ]
     },
