@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T19:44:18.152599+08:00",
-  "total_titles_processed": 860,
+  "generated_at": "2026-06-30T21:32:51.051782+08:00",
+  "total_titles_processed": 998,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "教育部披露：高考生篡改7名同学志愿",
@@ -30,6 +30,17 @@
           "time_info": "09时55分"
         },
         {
+          "title": "教育部发布高考招生防诈骗预警",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%83%E9%AB%98%E8%80%83%E6%8B%9B%E7%94%9F%E9%98%B2%E8%AF%88%E9%AA%97%E9%A2%84%E8%AD%A6%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "教育发展“十五五”规划",
           "url": "https://www.douyin.com/hot/2552261",
           "source": "抖音",
@@ -46,11 +57,12 @@
           "source": "百度热搜",
           "ranks": [
             12,
-            1
+            1,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时02分 ~ 19时44分]"
+          "appearance_count": 3,
+          "time_info": "[17时02分 ~ 21时32分]"
         },
         {
           "title": "教育局通报核查河北任泽区让教师周末巡网吧台球厅，为何需要教师上街执勤？这是负责还是「甩锅」？",
@@ -102,8 +114,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时02分 ~ 19时44分]"
+          "appearance_count": 4,
+          "time_info": "[17时02分 ~ 21时32分]"
         },
         {
           "title": "DeepSeek V4定档7月中旬，峰谷API定价同步落地",
@@ -154,8 +166,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时55分 ~ 19时44分]"
+          "appearance_count": 5,
+          "time_info": "[09时55分 ~ 21时32分]"
         },
         {
           "title": "FactSet：公司将与谷歌云推出新的金融运营代理。",
@@ -164,7 +176,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -175,7 +187,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         }
