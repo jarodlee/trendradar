@@ -1,11 +1,7 @@
 {
-  "generated_at": "2026-06-30T17:03:55.199840+08:00",
-  "total_titles_processed": 687,
-  "failed_sources": [
-    "baidu",
-    "wallstreetcn-hot",
-    "thepaper"
-  ],
+  "generated_at": "2026-06-30T19:44:18.152599+08:00",
+  "total_titles_processed": 860,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
@@ -45,6 +41,18 @@
           "time_info": "09时55分"
         },
         {
+          "title": "国务院：探索延长义务教育年限",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8A%A1%E9%99%A2%EF%BC%9A%E6%8E%A2%E7%B4%A2%E5%BB%B6%E9%95%BF%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E5%B9%B4%E9%99%90",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时02分 ~ 19时44分]"
+        },
+        {
           "title": "教育局通报核查河北任泽区让教师周末巡网吧台球厅，为何需要教师上街执勤？这是负责还是「甩锅」？",
           "url": "https://www.zhihu.com/question/2052711823577707174",
           "source": "知乎",
@@ -78,17 +86,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时02分 ~ 17时03分]"
-        },
-        {
-          "title": "国务院：探索延长义务教育年限",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8A%A1%E9%99%A2%EF%BC%9A%E6%8E%A2%E7%B4%A2%E5%BB%B6%E9%95%BF%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E5%B9%B4%E9%99%90",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时02分"
         }
       ]
     },
@@ -96,6 +93,18 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 4,
       "titles": [
+        {
+          "title": "如何评价 deepseek2026 年 6 月 29 日再次调整收费标准？",
+          "url": "https://www.zhihu.com/question/2055040930516824522",
+          "source": "知乎",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时02分 ~ 19时44分]"
+        },
         {
           "title": "DeepSeek V4定档7月中旬，峰谷API定价同步落地",
           "url": "https://wallstreetcn.com/articles/3775761",
@@ -120,17 +129,6 @@
           "time_info": "[09时55分 ~ 13时59分]"
         },
         {
-          "title": "如何评价 deepseek2026 年 6 月 29 日再次调整收费标准？",
-          "url": "https://www.zhihu.com/question/2055040930516824522",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时02分 ~ 17时03分]"
-        },
-        {
           "title": "DeepSeekV4正式版即将上线",
           "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E6%AD%A3%E5%BC%8F%E7%89%88%E5%8D%B3%E5%B0%86%E4%B8%8A%E7%BA%BF",
           "source": "bilibili 热搜",
@@ -145,18 +143,41 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
           "url": "https://wallstreetcn.com/articles/3775727",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 17时02分]"
+          "appearance_count": 4,
+          "time_info": "[09时55分 ~ 19时44分]"
+        },
+        {
+          "title": "FactSet：公司将与谷歌云推出新的金融运营代理。",
+          "url": "https://flash.jin10.com/detail/20260630193124737800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
+          "title": "美国金融数据和分析服务提供商FactSet宣布与谷歌云建立合作关系。",
+          "url": "https://flash.jin10.com/detail/20260630193101223800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         }
       ]
     },
