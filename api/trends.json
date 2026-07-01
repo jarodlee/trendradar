@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T18:36:27.467977+08:00",
-  "total_titles_processed": 937,
+  "generated_at": "2026-07-01T21:29:37.705765+08:00",
+  "total_titles_processed": 1115,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时02分 ~ 18时36分]"
+          "appearance_count": 5,
+          "time_info": "[10时02分 ~ 21时29分]"
         }
       ]
     },
@@ -53,11 +53,12 @@
           "url": "https://www.zhihu.com/question/2054320593491715458",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 18时36分]"
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 21时29分]"
         }
       ]
     },
@@ -100,11 +101,12 @@
           "ranks": [
             20,
             16,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时02分 ~ 18时36分]"
+          "appearance_count": 5,
+          "time_info": "[10时02分 ~ 21时29分]"
         }
       ]
     },
@@ -122,6 +124,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "现货黄金短线拉升20美元，向上触及4040美元/盎司，日内涨0.83%。纽约期金站上4050美元/盎司，日内涨0.28%。美元指数DXY短线走低近10点，报101.45。",
+          "url": "https://flash.jin10.com/detail/20260701212358203800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         }
       ]
     }
