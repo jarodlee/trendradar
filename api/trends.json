@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-07-01T00:13:24.855553+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-01T10:02:43.770615+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "教育",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "教育部发布高考招生防诈骗预警",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%83%E9%AB%98%E8%80%83%E6%8B%9B%E7%94%9F%E9%98%B2%E8%AF%88%E9%AA%97%E9%A2%84%E8%AD%A6%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时13分"
+        },
+        {
+          "title": "中学要求新生填家长职务和车辆价格，东营市教育局责令停止相关信息采集",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33488785",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
@@ -32,19 +60,19 @@
       ]
     },
     {
-      "keyword_group": "教育",
+      "keyword_group": "小学",
       "match_count": 1,
       "titles": [
         {
-          "title": "教育部发布高考招生防诈骗预警",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%83%E9%AB%98%E8%80%83%E6%8B%9B%E7%94%9F%E9%98%B2%E8%AF%88%E9%AA%97%E9%A2%84%E8%AD%A6%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
+          "title": "探索多元中考升学路径再添一地：湖南娄底试点小学入学可直升高中",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33488167",
+          "source": "澎湃新闻",
           "ranks": [
-            3
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时13分"
+          "time_info": "10时02分"
         }
       ]
     },
