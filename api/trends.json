@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T00:13:27.801718+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-02T09:55:01.907157+08:00",
+  "total_titles_processed": 532,
   "failed_sources": [],
   "trends": [
     {
@@ -8,22 +8,23 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "湖南一地试点：小学入学可直升高中",
+          "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E5%9C%B0%E8%AF%95%E7%82%B9%EF%BC%9A%E5%B0%8F%E5%AD%A6%E5%85%A5%E5%AD%A6%E5%8F%AF%E7%9B%B4%E5%8D%87%E9%AB%98%E4%B8%AD",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 09时55分]"
+        },
+        {
           "title": "探索多元中考升学路径再添一地：湖南娄底试点小学入学可直升高中",
           "url": "https://m.thepaper.cn/newsDetail_forward_33488167",
           "source": "澎湃新闻",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
-        },
-        {
-          "title": "湖南一地试点：小学入学可直升高中",
-          "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E5%9C%B0%E8%AF%95%E7%82%B9%EF%BC%9A%E5%B0%8F%E5%AD%A6%E5%85%A5%E5%AD%A6%E5%8F%AF%E7%9B%B4%E5%8D%87%E9%AB%98%E4%B8%AD",
-          "source": "百度热搜",
-          "ranks": [
-            23
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -73,6 +74,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Meta据悉布局AI云业务 拟对外出售算力 挑战亚马逊、微软和谷歌",
+          "url": "https://www.cls.cn/detail/2414683",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 09时55分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "甲骨文的AI焦虑：建了数千亿数据中心，但就怕OpenAI付不起账单",
+          "url": "https://wallstreetcn.com/articles/3775976",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 09时55分]"
         }
       ]
     }
