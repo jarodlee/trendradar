@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-03T16:42:11.521936+08:00",
-  "total_titles_processed": 707,
+  "generated_at": "2026-07-03T19:22:04.917771+08:00",
+  "total_titles_processed": 874,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "教育部：坚决杜绝用手机布置作业",
+          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%9D%9C%E7%BB%9D%E7%94%A8%E6%89%8B%E6%9C%BA%E5%B8%83%E7%BD%AE%E4%BD%9C%E4%B8%9A",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 19时22分]"
+        },
         {
           "title": "教育部开通高校学生资助热线",
           "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%BC%80%E9%80%9A%E9%AB%98%E6%A0%A1%E5%AD%A6%E7%94%9F%E8%B5%84%E5%8A%A9%E7%83%AD%E7%BA%BF",
