@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T21:26:08.452708+08:00",
-  "total_titles_processed": 1009,
+  "generated_at": "2026-07-03T23:46:12.697212+08:00",
+  "total_titles_processed": 1153,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "教育部：坚决杜绝用手机布置作业",
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             2,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时21分 ~ 21时26分]"
+          "appearance_count": 6,
+          "time_info": "[19时21分 ~ 23时46分]"
         },
         {
           "title": "教育部开通高校学生资助热线",
@@ -29,6 +30,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
+        },
+        {
+          "title": "教育部：坚决杜绝用手机布置作业",
+          "url": "https://www.toutiao.com/trending/7658188046671773723/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时45分 ~ 23时46分]"
+        },
+        {
+          "title": "教育部：严禁人籍分离空挂学籍",
+          "url": "https://www.douyin.com/hot/2556675",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时45分 ~ 23时46分]"
         },
         {
           "title": "教育部：严禁暑假集体补课",
@@ -59,7 +82,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         },
@@ -101,6 +124,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小学",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "教育部：严控中小学暑期作业总量",
+          "url": "https://www.toutiao.com/trending/7658243338222469183/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时45分 ~ 23时46分]"
         }
       ]
     }
