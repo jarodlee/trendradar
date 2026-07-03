@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T13:38:41.025685+08:00",
-  "total_titles_processed": 527,
+  "generated_at": "2026-07-03T16:42:11.521936+08:00",
+  "total_titles_processed": 707,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "教育部开通高校学生资助热线",
@@ -14,9 +14,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
+        },
+        {
+          "title": "教育部：严禁暑假集体补课",
+          "url": "https://www.toutiao.com/trending/7657895704732991534/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 16时42分]"
         },
         {
           "title": "家长为摆脱应试教育带孩子去泰国上学，却仍然忍不住「鸡娃」，为什么会这样？泰国的教育环境到底怎么样？",
@@ -36,7 +47,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         }
