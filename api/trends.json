@@ -1,22 +1,68 @@
 {
-  "generated_at": "2026-07-04T09:24:17.808791+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-04T13:32:20.424335+08:00",
+  "total_titles_processed": 502,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "同学被嘲“穿假鞋” 班主任严肃教育",
           "url": "https://www.baidu.com/s?wd=%E5%90%8C%E5%AD%A6%E8%A2%AB%E5%98%B2%E2%80%9C%E7%A9%BF%E5%81%87%E9%9E%8B%E2%80%9D+%E7%8F%AD%E4%B8%BB%E4%BB%BB%E4%B8%A5%E8%82%83%E6%95%99%E8%82%B2",
           "source": "百度热搜",
           "ranks": [
-            10
+            10,
+            20
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 13时32分]"
+        },
+        {
+          "title": "国务院常务会议审议通过《教育发展「十五五」规划》，有何重要意义？",
+          "url": "https://www.zhihu.com/question/2048556548214071542",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时24分"
+          "time_info": "13时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
+          "url": "https://wallstreetcn.com/articles/3776170",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "宇树高管谈具身智能ChatGPT时刻",
+          "url": "https://flash.jin10.com/detail/20260704110855518800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         }
       ]
     }
