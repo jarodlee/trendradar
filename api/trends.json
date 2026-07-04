@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T19:59:32.517640+08:00",
-  "total_titles_processed": 845,
+  "generated_at": "2026-07-04T21:13:06.038571+08:00",
+  "total_titles_processed": 905,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,23 @@
       ]
     },
     {
+      "keyword_group": "小学",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中小学生暑期安全提示请收好",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%9A%91%E6%9C%9F%E5%AE%89%E5%85%A8%E6%8F%90%E7%A4%BA%E8%AF%B7%E6%94%B6%E5%A5%BD",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时12分 ~ 21时13分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -44,11 +61,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时32分 ~ 19时59分]"
+          "appearance_count": 7,
+          "time_info": "[13时32分 ~ 21时13分]"
         }
       ]
     },
