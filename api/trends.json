@@ -1,38 +1,8 @@
 {
-  "generated_at": "2026-07-04T22:55:58.030900+08:00",
-  "total_titles_processed": 1003,
+  "generated_at": "2026-07-05T09:30:03.430902+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "教育",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "同学被嘲“穿假鞋” 班主任严肃教育",
-          "url": "https://www.baidu.com/s?wd=%E5%90%8C%E5%AD%A6%E8%A2%AB%E5%98%B2%E2%80%9C%E7%A9%BF%E5%81%87%E9%9E%8B%E2%80%9D+%E7%8F%AD%E4%B8%BB%E4%BB%BB%E4%B8%A5%E8%82%83%E6%95%99%E8%82%B2",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时24分 ~ 16时15分]"
-        },
-        {
-          "title": "国务院常务会议审议通过《教育发展「十五五」规划》，有何重要意义？",
-          "url": "https://www.zhihu.com/question/2048556548214071542",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        }
-      ]
-    },
     {
       "keyword_group": "小学",
       "match_count": 1,
@@ -45,45 +15,25 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时12分 ~ 22时55分]"
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 09时30分]"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "教育",
       "match_count": 1,
       "titles": [
         {
-          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
-          "url": "https://wallstreetcn.com/articles/3776170",
-          "source": "华尔街见闻",
+          "title": "教育机构员工泄愤删除考生志愿致落榜",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E6%9C%BA%E6%9E%84%E5%91%98%E5%B7%A5%E6%B3%84%E6%84%A4%E5%88%A0%E9%99%A4%E8%80%83%E7%94%9F%E5%BF%97%E6%84%BF%E8%87%B4%E8%90%BD%E6%A6%9C%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
-            7,
-            6,
-            5,
-            4
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时32分 ~ 21时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "宇树高管谈具身智能ChatGPT时刻",
-          "url": "https://flash.jin10.com/detail/20260704110855518800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时32分"
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 09时30分]"
         }
       ]
     }
