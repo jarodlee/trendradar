@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T20:07:13.676073+08:00",
-  "total_titles_processed": 817,
+  "generated_at": "2026-07-05T22:23:02.772084+08:00",
+  "total_titles_processed": 919,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            14
+            14,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时34分 ~ 20时07分]"
+          "appearance_count": 8,
+          "time_info": "[16时34分 ~ 22时23分]"
         },
         {
           "title": "教育机构员工泄愤删除考生志愿致落榜",
@@ -71,11 +72,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时34分 ~ 20时07分]"
+          "appearance_count": 8,
+          "time_info": "[16时34分 ~ 22时23分]"
         }
       ]
     }
