@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T18:55:07.850093+08:00",
-  "total_titles_processed": 748,
+  "generated_at": "2026-07-05T20:07:13.676073+08:00",
+  "total_titles_processed": 817,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时50分 ~ 18时55分]"
+          "appearance_count": 7,
+          "time_info": "[13时50分 ~ 20时07分]"
         },
         {
           "title": "教育机构员工泄愤删除考生志愿致落榜，仅获刑 8 个月，刑期是否过轻？考生被改写的人生谁来赔偿？",
@@ -28,8 +28,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时34分 ~ 18时55分]"
+          "appearance_count": 6,
+          "time_info": "[16时34分 ~ 20时07分]"
         },
         {
           "title": "教育机构员工泄愤删除考生志愿致落榜",
@@ -70,11 +70,12 @@
           "url": "https://wallstreetcn.com/articles/3776218",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时34分 ~ 18时55分]"
+          "appearance_count": 6,
+          "time_info": "[16时34分 ~ 20时07分]"
         }
       ]
     }
