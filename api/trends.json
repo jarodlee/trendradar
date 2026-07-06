@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T14:12:47.071501+08:00",
-  "total_titles_processed": 532,
+  "generated_at": "2026-07-06T19:19:00.970903+08:00",
+  "total_titles_processed": 750,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "专访中国教育学会副会长唐江澎：教育不能只和分数挂钩",
@@ -13,11 +13,23 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            13
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 19时19分]"
+        },
+        {
+          "title": "网红董太太采访的太阳宫月亮宫小少爷平儿，摒弃数理化，不上学，在家学易经奇门遁甲，如何看待这种教育方式？",
+          "url": "https://www.zhihu.com/question/2055157666142541293",
+          "source": "知乎",
+          "ranks": [
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时31分 ~ 14时12分]"
+          "time_info": "[19时18分 ~ 19时19分]"
         },
         {
           "title": "中公教育：公司近期生产经营情况正常，内外部经营环境未发生且未预计将要发生重大变化",
@@ -26,7 +38,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
         },
@@ -37,7 +49,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
         }
@@ -89,7 +101,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
         }
