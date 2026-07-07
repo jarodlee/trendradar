@@ -1,132 +1,67 @@
 {
-  "generated_at": "2026-07-06T22:48:25.643662+08:00",
-  "total_titles_processed": 929,
+  "generated_at": "2026-07-07T09:32:04.653363+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
         {
-          "title": "word删除空白页 义务教育",
-          "url": "https://s.weibo.com/weibo?q=word%E5%88%A0%E9%99%A4%E7%A9%BA%E7%99%BD%E9%A1%B5%20%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2&t=31&band_rank=4&Refer=top",
-          "source": "微博",
+          "title": "深交所：对中公教育相关投资者采取暂停交易措施",
+          "url": "https://www.cls.cn/detail/2418354",
+          "source": "财联社热门",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
-          "title": "专访中国教育学会副会长唐江澎：教育不能只和分数挂钩",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33518991",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            13,
-            10
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时31分 ~ 22时48分]"
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 09时32分]"
         },
         {
           "title": "网红董太太采访的太阳宫月亮宫小少爷平儿，摒弃数理化，不上学，在家学易经奇门遁甲，如何看待这种教育方式？",
           "url": "https://www.zhihu.com/question/2055157666142541293",
           "source": "知乎",
           "ranks": [
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 22时48分]"
-        },
-        {
-          "title": "深交所：对中公教育相关投资者采取暂停交易措施",
-          "url": "https://www.cls.cn/detail/2418354",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
-          "title": "中公教育：公司近期生产经营情况正常，内外部经营环境未发生且未预计将要发生重大变化",
-          "url": "https://wallstreetcn.com/livenews/3129176",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时12分"
-        },
-        {
-          "title": "中公教育突登A股人气榜第一",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%85%AC%E6%95%99%E8%82%B2%E7%AA%81%E7%99%BBA%E8%82%A1%E4%BA%BA%E6%B0%94%E6%A6%9C%E7%AC%AC%E4%B8%80&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
-          "url": "https://wallstreetcn.com/articles/3776218",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时31分 ~ 14时12分]"
+          "time_info": "[09时31分 ~ 09时32分]"
         }
       ]
     },
     {
-      "keyword_group": "人民币",
+      "keyword_group": "小学",
       "match_count": 1,
       "titles": [
         {
-          "title": "中国外汇交易中心（CFETS）：7月3日人民币汇率指数按周涨0.06至102.65。",
-          "url": "https://wallstreetcn.com/livenews/3129058",
-          "source": "华尔街见闻-快讯",
+          "title": "法国一小学生课堂上中暑，家长们自筹资金安装空调，市长担心制造不平等要求拆除，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2056422835661300883",
+          "source": "知乎",
           "ranks": [
-            12
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 09时32分]"
         }
       ]
     },
     {
-      "keyword_group": "美元",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "美元指数DXY站上101，日内涨0.13%。",
-          "url": "https://flash.jin10.com/detail/20260706135901571800",
+          "title": "据华尔街日报：消息人士称，OpenAI、Anthropic和谷歌正向初创企业提供价值数十万美元的算力资源及其他优惠，以争取新的企业客户。",
+          "url": "https://flash.jin10.com/detail/20260707090104070800",
           "source": "金十数据",
           "ranks": [
-            5
+            22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时12分"
+          "time_info": "09时32分"
         }
       ]
     }
