@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T15:18:47.489543+08:00",
-  "total_titles_processed": 860,
+  "generated_at": "2026-07-08T18:03:24.778777+08:00",
+  "total_titles_processed": 1035,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "证监会对安某编造传播涉中公教育虚假信息立案调查",
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 15时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 18时03分]"
         },
         {
           "title": "证监会”闪电“查处！“南京路宝宝总”造谣中公教育被查",
@@ -55,12 +55,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时21分 ~ 09时16分]"
+        },
+        {
+          "title": "中公教育，股价大跌",
+          "url": "https://www.cls.cn/detail/2420176",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
+          "title": "证监会对安某编造传播涉中公教育虚假信息立案调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33536387",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
@@ -98,6 +120,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗跑路，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2058168270499176758",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
@@ -173,7 +206,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -192,8 +225,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "gemini为了偷懒不择手段",
+          "url": "https://s.weibo.com/weibo?q=gemini%E4%B8%BA%E4%BA%86%E5%81%B7%E6%87%92%E4%B8%8D%E6%8B%A9%E6%89%8B%E6%AE%B5&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
         {
           "title": "谷歌发布会定档8月12日，将发布Pixel 11系列手机",
           "url": "https://flash.jin10.com/detail/20260708120738647800",
