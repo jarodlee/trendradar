@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T00:21:21.037021+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-08T09:16:02.073543+08:00",
+  "total_titles_processed": 521,
   "failed_sources": [],
   "trends": [
     {
@@ -12,44 +12,48 @@
           "url": "https://www.cls.cn/detail/2419636",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 09时16分]"
         },
         {
           "title": "证监会：对安某编造传播涉中公教育虚假信息立案调查",
           "url": "https://www.cls.cn/detail/2419566",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 09时16分]"
         },
         {
           "title": "证监会对安某编造传播涉中公教育虚假信息立案调查",
           "url": "https://wallstreetcn.com/articles/3776397",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 09时16分]"
         },
         {
           "title": "证监会对安某编造传播涉中公教育虚假信息立案调查，一句低俗赌约，中公教育离奇涨停，其将承担哪些法律责任？",
           "url": "https://www.zhihu.com/question/2057930097039090211",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 09时16分]"
         }
       ]
     },
@@ -58,15 +62,28 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531570",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 09时16分]"
+        },
+        {
           "title": "DeepSeek被曝自研芯片",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E8%87%AA%E7%A0%94%E8%8A%AF%E7%89%87",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 09时16分]"
         },
         {
           "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
@@ -74,17 +91,6 @@
           "source": "知乎",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33531570",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 1,
