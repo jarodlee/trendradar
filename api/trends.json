@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T18:03:24.778777+08:00",
-  "total_titles_processed": 1035,
+  "generated_at": "2026-07-08T20:11:09.788745+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 18时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 20时11分]"
         },
         {
           "title": "证监会”闪电“查处！“南京路宝宝总”造谣中公教育被查",
@@ -45,6 +45,18 @@
           "time_info": "[00时21分 ~ 09时16分]"
         },
         {
+          "title": "中公教育，股价大跌",
+          "url": "https://www.cls.cn/detail/2420176",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时03分 ~ 20时11分]"
+        },
+        {
           "title": "证监会对安某编造传播涉中公教育虚假信息立案调查，一句低俗赌约，中公教育离奇涨停，其将承担哪些法律责任？",
           "url": "https://www.zhihu.com/question/2057930097039090211",
           "source": "知乎",
@@ -57,32 +69,21 @@
           "time_info": "[00时21分 ~ 09时16分]"
         },
         {
-          "title": "中公教育，股价大跌",
-          "url": "https://www.cls.cn/detail/2420176",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时03分"
-        },
-        {
           "title": "证监会对安某编造传播涉中公教育虚假信息立案调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_33536387",
           "source": "澎湃新闻",
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时03分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时03分 ~ 20时11分]"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
@@ -111,6 +112,17 @@
           "time_info": "[00时21分 ~ 09时16分]"
         },
         {
+          "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗，李博杰称始终履行职责，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2058168270499176758",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时10分 ~ 20时11分]"
+        },
+        {
           "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
           "url": "https://www.zhihu.com/question/2057753624717911009",
           "source": "知乎",
@@ -128,7 +140,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -234,7 +246,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -248,6 +260,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "安庆",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "安徽安庆小伙被北大录取",
+          "url": "https://www.toutiao.com/trending/7660092516071555115/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时10分 ~ 20时11分]"
         }
       ]
     }
