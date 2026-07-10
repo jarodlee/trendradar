@@ -1,113 +1,39 @@
 {
-  "generated_at": "2026-07-10T21:48:16.329179+08:00",
-  "total_titles_processed": 1058,
+  "generated_at": "2026-07-11T00:10:50.386251+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
-          "title": "近期，网络上出现“教师全面硕士化、本科毕业已无法进入教师岗位”“教师需做好失业准备”等传言。经向教育部有关部门核实，上述说法均不属实。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3132020",
-          "source": "华尔街见闻-快讯",
+          "title": "广西贵港教育园区孤岛救援始末",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E8%B4%B5%E6%B8%AF%E6%95%99%E8%82%B2%E5%9B%AD%E5%8C%BA%E5%AD%A4%E5%B2%9B%E6%95%91%E6%8F%B4%E5%A7%8B%E6%9C%AB%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
           "ranks": [
-            11
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时38分"
-        },
-        {
-          "title": "教育部提醒：暑期“研学”“夏令营”消费需谨慎",
-          "url": "https://wallstreetcn.com/livenews/3132017",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时38分"
-        },
-        {
-          "title": "全国教育辟谣平台矩阵正式启动运行",
-          "url": "https://wallstreetcn.com/livenews/3131885",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时54分"
-        },
-        {
-          "title": "教育部提醒：高校招生录取期间警惕“内部指标”“补录名额”等骗局。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3132008",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时38分"
+          "time_info": "00时10分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
           "url": "https://wallstreetcn.com/articles/3776605",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            6,
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时48分 ~ 21时48分]"
-        },
-        {
-          "title": "如何评价 OpenAI 正式推出的 GPT-5.6 系列模型？使用体验如何？",
-          "url": "https://www.zhihu.com/question/2058734226548250080",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时20分 ~ 09时21分]"
-        },
-        {
-          "title": "如何看待 Codex 与 ChatGPT 合并，实际使用体验有什么变化？",
-          "url": "https://www.zhihu.com/question/2058849029027632241",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小学",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "《小学生社交情商漫画》等成为畅销童书，童书榜为何被「鸡汤、速成」书淹没？「伪童书」对孩子会有哪些影响？",
-          "url": "https://www.zhihu.com/question/2057517515299878611",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
+          "time_info": "00时10分"
         }
       ]
     }
