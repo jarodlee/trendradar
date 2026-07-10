@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T09:21:11.120219+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-10T13:48:29.941093+08:00",
+  "total_titles_processed": 533,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "如何评价 OpenAI 正式推出的 GPT-5.6 系列模型？使用体验如何？",
@@ -17,6 +17,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时20分 ~ 09时21分]"
+        },
+        {
+          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
+          "url": "https://wallstreetcn.com/articles/3776605",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小学",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "《小学生社交情商漫画》等成为畅销童书，童书榜为何被「鸡汤、速成」书淹没？「伪童书」对孩子会有哪些影响？",
+          "url": "https://www.zhihu.com/question/2057517515299878611",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
         }
       ]
     }
