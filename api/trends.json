@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T15:02:57.143256+08:00",
-  "total_titles_processed": 807,
+  "generated_at": "2026-07-11T17:12:34.807051+08:00",
+  "total_titles_processed": 930,
   "failed_sources": [],
   "trends": [
     {
@@ -84,11 +84,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33559712",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时14分 ~ 15时02分]"
+          "appearance_count": 5,
+          "time_info": "[09时14分 ~ 17时12分]"
         },
         {
           "title": "当哈佛学生高喊「f*ckAI」，复旦学生已开始考 AI，这反映了东西方教育理念对人工智能的何种差异？",
