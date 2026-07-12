@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T09:16:01.889669+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-12T13:02:14.150647+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时15分 ~ 09时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "苹果起诉OpenAI及两名员工窃取产品机密：曾要求带着“零部件”去面试",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33566535",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
         }
       ]
     }
