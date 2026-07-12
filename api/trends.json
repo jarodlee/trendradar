@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T19:07:56.601994+08:00",
-  "total_titles_processed": 835,
+  "generated_at": "2026-07-12T20:45:29.051759+08:00",
+  "total_titles_processed": 943,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时33分 ~ 19时07分]"
+          "appearance_count": 3,
+          "time_info": "[17时33分 ~ 20时45分]"
         },
         {
           "title": "苹果起诉OpenAI及两名员工窃取产品机密：曾要求带着“零部件”去面试",
@@ -57,6 +58,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时01分 ~ 13时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小学",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "沈阳明日中小学幼儿园停课",
+          "url": "https://www.toutiao.com/trending/7661594067133795866/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         }
       ]
     },
