@@ -1,43 +1,7 @@
 {
-  "generated_at": "2026-07-13T22:44:51.993196+08:00",
-  "total_titles_processed": 1070,
+  "generated_at": "2026-07-14T00:16:49.828209+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
-          "url": "https://wallstreetcn.com/articles/3776720",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时17分 ~ 13时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国外汇交易中心（CFETS）：7月10日人民币汇率指数按周跌0.3至102.35。",
-          "url": "https://wallstreetcn.com/livenews/3132495",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时18分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://git.aqde.net/trendradar/img/news.jpg"
 }
