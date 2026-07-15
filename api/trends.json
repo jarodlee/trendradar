@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T17:46:05.353935+08:00",
-  "total_titles_processed": 841,
+  "generated_at": "2026-07-15T19:18:50.836325+08:00",
+  "total_titles_processed": 973,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek工资待遇太恐怖了",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 17时46分]"
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 19时18分]"
         },
         {
           "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时35分 ~ 17时46分]"
+          "appearance_count": 6,
+          "time_info": "[12时35分 ~ 19时18分]"
         },
         {
           "title": "曝DeepSeek计划明年上市",
@@ -43,15 +44,54 @@
           "time_info": "[12时35分 ~ 15时04分]"
         },
         {
+          "title": "DeepSeek首轮融资落地 腾讯、宁德时代、国家人工智能产业基金悉数入股",
+          "url": "https://www.cls.cn/detail/2427193",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "DeepSeek启动新融资，首轮落空的投资人再度开抢",
           "url": "https://flash.jin10.com/detail/20260715172344196800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英媒：布鲁塞尔加强大科技监管，拟再对谷歌开出巨额罚单",
+          "url": "https://flash.jin10.com/detail/20260715185455276800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
+          "title": "据英国金融时报：布鲁塞尔准备对谷歌实施新一轮罚款，随着对大型科技公司的监管力度加大。",
+          "url": "https://flash.jin10.com/detail/20260715184735484800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         }
       ]
     },
