@@ -1,165 +1,50 @@
 {
-  "generated_at": "2026-07-15T22:51:13.905622+08:00",
-  "total_titles_processed": 1239,
+  "generated_at": "2026-07-16T09:13:14.823192+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
-          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
-          "url": "https://www.zhihu.com/question/2060645375338180828",
+          "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
+          "url": "https://www.zhihu.com/question/2060769193977280048",
           "source": "知乎",
           "ranks": [
-            16,
-            6,
-            8,
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时35分 ~ 22时51分]"
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 09时13分]"
         },
         {
           "title": "DeepSeek工资待遇太恐怖了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&t=31&band_rank=1&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
-            1,
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时45分 ~ 22时51分]"
-        },
-        {
-          "title": "DeepSeek首轮融资落地 腾讯、宁德时代、国家人工智能产业基金悉数入股",
-          "url": "https://www.cls.cn/detail/2427193",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时18分 ~ 22时51分]"
-        },
-        {
-          "title": "曝DeepSeek计划明年上市",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9DDeepSeek%E8%AE%A1%E5%88%92%E6%98%8E%E5%B9%B4%E4%B8%8A%E5%B8%82",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时35分 ~ 15时04分]"
-        },
-        {
-          "title": "DeepSeek启动新融资，首轮落空的投资人再度开抢",
-          "url": "https://flash.jin10.com/detail/20260715172344196800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时46分"
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 09时13分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "英媒：布鲁塞尔加强大科技监管，拟再对谷歌开出巨额罚单",
-          "url": "https://flash.jin10.com/detail/20260715185455276800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "据英国金融时报：布鲁塞尔准备对谷歌实施新一轮罚款，随着对大型科技公司的监管力度加大。",
-          "url": "https://flash.jin10.com/detail/20260715184735484800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI拟进军消费硬件市场：首款无屏智能音箱曝光 未来目标瞄准“手机替代品”",
-          "url": "https://www.cls.cn/detail/2426550",
+          "title": "巴菲特最新访谈：批评当下市场投机潮 揭秘押注谷歌的逻辑",
+          "url": "https://www.cls.cn/detail/2427717",
           "source": "财联社热门",
           "ranks": [
-            13,
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时04分 ~ 12时35分]"
-        },
-        {
-          "title": "微软向销售团队传授“击败”Anthropic和OpenAI的战术",
-          "url": "https://wallstreetcn.com/livenews/3134430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "教育",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何看待全国教育辟谣平台紧急辟谣「教师全面硕士化」、「教师需做好失业准备」?",
-          "url": "https://www.zhihu.com/question/2059323780208636411",
-          "source": "知乎",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时04分 ~ 12时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数短线小幅走低，现报100.94。美股期货短线小幅拉升，纳斯达克100指数期货涨0.5%。美国10年期国债收益率短线走低，现报4.606%。现货黄金短线拉升逾10美元，现报4052.19美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3134371",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时03分"
+          "time_info": "[09时12分 ~ 09时13分]"
         }
       ]
     }
