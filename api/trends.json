@@ -1,8 +1,49 @@
 {
-  "generated_at": "2026-07-16T17:51:35.314352+08:00",
-  "total_titles_processed": 845,
+  "generated_at": "2026-07-16T19:24:00.072343+08:00",
+  "total_titles_processed": 994,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
+          "url": "https://www.zhihu.com/question/2060769193977280048",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时12分 ~ 15时13分]"
+        },
+        {
+          "title": "梁文锋打新长鑫科技",
+          "url": "https://www.toutiao.com/trending/7663049647610400299/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 19时24分]"
+        },
+        {
+          "title": "DeepSeek工资待遇太恐怖了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 09时13分]"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
@@ -14,11 +55,12 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时46分 ~ 17时51分]"
+          "appearance_count": 6,
+          "time_info": "[12时46分 ~ 19时24分]"
         },
         {
           "title": "美国启动特定DRAM设备337调查 三星电子、谷歌、英伟达等被列为被告",
@@ -42,36 +84,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时12分 ~ 15时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
-          "url": "https://www.zhihu.com/question/2060769193977280048",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时12分 ~ 15时13分]"
-        },
-        {
-          "title": "DeepSeek工资待遇太恐怖了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时12分 ~ 09时13分]"
         }
       ]
     },
