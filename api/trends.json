@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T15:13:07.675020+08:00",
-  "total_titles_processed": 671,
+  "generated_at": "2026-07-16T17:51:35.314352+08:00",
+  "total_titles_processed": 845,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时46分 ~ 15时13分]"
+          "appearance_count": 4,
+          "time_info": "[12时46分 ~ 17时51分]"
         },
         {
           "title": "美国启动特定DRAM设备337调查 三星电子、谷歌、英伟达等被列为被告",
@@ -85,7 +86,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         }
