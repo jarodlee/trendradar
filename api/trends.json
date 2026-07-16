@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T21:09:09.120387+08:00",
-  "total_titles_processed": 1137,
+  "generated_at": "2026-07-16T23:23:13.225062+08:00",
+  "total_titles_processed": 1280,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
@@ -26,11 +26,23 @@
           "source": "今日头条",
           "ranks": [
             4,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时23分 ~ 21时09分]"
+          "appearance_count": 6,
+          "time_info": "[19时23分 ~ 23时23分]"
+        },
+        {
+          "title": "梁文锋重仓打新，万亿长鑫被抢疯了",
+          "url": "https://wallstreetcn.com/articles/3777116",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时22分 ~ 23时23分]"
         },
         {
           "title": "DeepSeek工资待遇太恐怖了",
@@ -50,7 +62,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         }
@@ -71,8 +83,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时46分 ~ 21时09分]"
+          "appearance_count": 10,
+          "time_info": "[12时46分 ~ 23时23分]"
         },
         {
           "title": "美国启动特定DRAM设备337调查 三星电子、谷歌、英伟达等被列为被告",
@@ -104,7 +116,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         }
@@ -155,7 +167,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         }
