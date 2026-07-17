@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T19:11:47.497373+08:00",
-  "total_titles_processed": 968,
+  "generated_at": "2026-07-17T20:54:16.762862+08:00",
+  "total_titles_processed": 1095,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时49分 ~ 19时11分]"
+          "appearance_count": 5,
+          "time_info": "[12时49分 ~ 20时54分]"
         },
         {
           "title": "何为AI泡沫？分析师：OpenAI就是“业界雷曼兄弟”，一倒全市场将崩盘！",
@@ -37,7 +38,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         }
