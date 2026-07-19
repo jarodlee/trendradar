@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T17:41:16.693278+08:00",
-  "total_titles_processed": 786,
+  "generated_at": "2026-07-19T19:02:30.265090+08:00",
+  "total_titles_processed": 914,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时56分 ~ 17时41分]"
+          "appearance_count": 6,
+          "time_info": "[12时56分 ~ 19时02分]"
         },
         {
           "title": "DeepSeek V4 正式版即将发布，有哪些值得关注的亮点？",
@@ -43,11 +43,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时19分 ~ 17时41分]"
+          "appearance_count": 4,
+          "time_info": "[15时19分 ~ 19时02分]"
         }
       ]
     },
