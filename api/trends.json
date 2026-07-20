@@ -1,8 +1,64 @@
 {
-  "generated_at": "2026-07-20T16:32:15.606751+08:00",
-  "total_titles_processed": 696,
+  "generated_at": "2026-07-20T19:32:09.973631+08:00",
+  "total_titles_processed": 879,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "教育",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "著名思想史家、教育家张岂之逝世，享年99岁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33617559",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 19时32分]"
+        },
+        {
+          "title": "教育部官宣27个新专业“急用先上”",
+          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%AE%98%E5%AE%A327%E4%B8%AA%E6%96%B0%E4%B8%93%E4%B8%9A%E2%80%9C%E6%80%A5%E7%94%A8%E5%85%88%E4%B8%8A%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
+          "url": "https://wallstreetcn.com/articles/3777339",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时17分"
+        },
+        {
+          "title": "如何看待最近网传的 DeepSeek v4 正式版灰测？",
+          "url": "https://www.zhihu.com/question/2059057378591613636",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 19时32分]"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
@@ -25,40 +81,6 @@
           "source": "知乎",
           "ranks": [
             18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "教育",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "教育部官宣27个新专业“急用先上”",
-          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%AE%98%E5%AE%A327%E4%B8%AA%E6%96%B0%E4%B8%93%E4%B8%9A%E2%80%9C%E6%80%A5%E7%94%A8%E5%85%88%E4%B8%8A%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
-          "url": "https://wallstreetcn.com/articles/3777339",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 1,
