@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T09:14:48.857435+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-07-21T12:54:48.844788+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
@@ -40,22 +40,52 @@
           "url": "https://www.cls.cn/detail/2431896",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
+          "appearance_count": 2,
+          "time_info": "[09时14分 ~ 12时54分]"
         },
         {
           "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
           "url": "https://wallstreetcn.com/articles/3777467",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时14分 ~ 12时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI 负责人称 Kimi 开源是减速主义，他的说法有道理吗？开源对 AI 的发展能带来什么？",
+          "url": "https://www.zhihu.com/question/2062575282591209175",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时14分"
+          "time_info": "12时54分"
+        },
+        {
+          "title": "OpenAI负责人抨击Kimi开源",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
         }
       ]
     },
@@ -68,11 +98,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33621312",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
+          "appearance_count": 2,
+          "time_info": "[09时14分 ~ 12时54分]"
         }
       ]
     }
