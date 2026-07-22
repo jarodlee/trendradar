@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T18:09:59.015555+08:00",
-  "total_titles_processed": 848,
+  "generated_at": "2026-07-22T20:19:14.434279+08:00",
+  "total_titles_processed": 994,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
@@ -16,8 +16,20 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时54分 ~ 20时19分]"
+        },
+        {
+          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
+          "url": "https://wallstreetcn.com/articles/3777627",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时54分 ~ 18时09分]"
+          "time_info": "[18时09分 ~ 20时19分]"
         },
         {
           "title": "OpenAI负责人抨击Kimi开源",
@@ -45,15 +57,15 @@
           "time_info": "[15时27分 ~ 18时09分]"
         },
         {
-          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
-          "url": "https://wallstreetcn.com/articles/3777627",
-          "source": "华尔街见闻",
+          "title": "市场消息：OpenAI将推出面向企业的新软件OpenAI Presence。",
+          "url": "https://flash.jin10.com/detail/20260722200848203800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时09分"
+          "time_info": "20时19分"
         }
       ]
     },
@@ -68,7 +80,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -92,7 +104,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         }
@@ -103,6 +115,17 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "吧友做梗图催更DeepSeekV4",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356411&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%81%9A%E6%A2%97%E5%9B%BE%E5%82%AC%E6%9B%B4DeepSeekV4",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时09分 ~ 20时19分]"
+        },
+        {
           "title": "复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求",
           "url": "https://wallstreetcn.com/articles/3777510",
           "source": "华尔街见闻",
@@ -112,17 +135,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌财报前夜，德银力挺：别光盯着Capex，真正的惊喜可能来自谷歌云",
+          "url": "https://wallstreetcn.com/articles/3777555",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时13分 ~ 15时27分]"
         },
         {
-          "title": "吧友做梗图催更DeepSeekV4",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356411&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%81%9A%E6%A2%97%E5%9B%BE%E5%82%AC%E6%9B%B4DeepSeekV4",
-          "source": "贴吧",
+          "title": "谷歌平价Gemini三箭齐发，网安模型对标Anthropic Mythos，旗舰3.5 Pro仍难产",
+          "url": "https://wallstreetcn.com/articles/3777594",
+          "source": "华尔街见闻",
           "ranks": [
-            14
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时18分 ~ 20时19分]"
         }
       ]
     },
@@ -138,26 +179,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时27分 ~ 18时09分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌财报前夜，德银力挺：别光盯着Capex，真正的惊喜可能来自谷歌云",
-          "url": "https://wallstreetcn.com/articles/3777555",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时13分 ~ 15时27分]"
+          "appearance_count": 4,
+          "time_info": "[15时27分 ~ 20时19分]"
         }
       ]
     }
