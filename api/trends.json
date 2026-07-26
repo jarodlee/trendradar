@@ -1,115 +1,33 @@
 {
-  "generated_at": "2026-07-25T22:53:42.023831+08:00",
-  "total_titles_processed": 1075,
+  "generated_at": "2026-07-26T09:20:16.853076+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "keyword_group": "教育",
+      "match_count": 2,
       "titles": [
         {
-          "title": "消息称，OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
-          "url": "https://wallstreetcn.com/livenews/3139736",
+          "title": "印度总统府宣布：总统接受教育部长Pradhan的辞呈，由部长Joshi兼管教育部。",
+          "url": "https://wallstreetcn.com/livenews/3139783",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时58分 ~ 21时12分]"
-        },
-        {
-          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时17分 ~ 09时18分]"
-        },
-        {
-          "title": "据社交媒体信息：OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
-          "url": "https://flash.jin10.com/detail/20260725172016965800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时58分 ~ 19时59分]"
-        },
-        {
-          "title": "OpenAI失控中国大模型救场",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%A4%B1%E6%8E%A7%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%95%91%E5%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时17分 ~ 09时18分]"
-        },
-        {
-          "title": "ChatGPT崩了",
-          "url": "https://s.weibo.com/weibo?q=ChatGPT%E5%B4%A9%E4%BA%86&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "教育",
-      "match_count": 3,
-      "titles": [
+          "time_info": "09时20分"
+        },
         {
           "title": "马克龙致电王虹,硬吹法国教育",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356472&amp;topic_name=%E9%A9%AC%E5%85%8B%E9%BE%99%E8%87%B4%E7%94%B5%E7%8E%8B%E8%99%B9%2C%E7%A1%AC%E5%90%B9%E6%B3%95%E5%9B%BD%E6%95%99%E8%82%B2",
           "source": "贴吧",
           "ranks": [
-            12,
-            19,
-            22,
-            23,
-            24,
-            25,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时17分 ~ 22时53分]"
-        },
-        {
-          "title": "中国基础教育 自信从何而来？",
-          "url": "https://www.toutiao.com/trending/7665393637421776939/",
-          "source": "今日头条",
-          "ranks": [
-            3
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时53分"
-        },
-        {
-          "title": "小猫咬主人然后被她妈妈教育了",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%8C%AB%E5%92%AC%E4%B8%BB%E4%BA%BA%E7%84%B6%E5%90%8E%E8%A2%AB%E5%A5%B9%E5%A6%88%E5%A6%88%E6%95%99%E8%82%B2%E4%BA%86&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时59分"
+          "time_info": "09时20分"
         }
       ]
     },
@@ -118,33 +36,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "广东中山全市中小学停课",
-          "url": "https://www.toutiao.com/trending/7666326918291095558/",
-          "source": "今日头条",
+          "title": "平均每天减少22所小学",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%B3%E5%9D%87%E6%AF%8F%E5%A4%A9%E5%87%8F%E5%B0%9122%E6%89%80%E5%B0%8F%E5%AD%A6",
+          "source": "百度热搜",
           "ranks": [
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时59分 ~ 21时12分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数24日上涨",
-          "url": "https://flash.jin10.com/detail/20260725053410066800",
-          "source": "金十数据",
-          "ranks": [
-            27
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时18分"
+          "time_info": "09时20分"
         }
       ]
     }
