@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T19:15:00.057909+08:00",
-  "total_titles_processed": 817,
+  "generated_at": "2026-07-26T20:49:23.192454+08:00",
+  "total_titles_processed": 912,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时58分 ~ 19时15分]"
+          "appearance_count": 4,
+          "time_info": "[17时58分 ~ 20时49分]"
         },
         {
           "title": "不满谷歌被重罚，特朗普威胁对欧盟征收巨额关税",
