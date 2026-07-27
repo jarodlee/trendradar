@@ -1,144 +1,50 @@
 {
-  "generated_at": "2026-07-26T22:21:10.092605+08:00",
-  "total_titles_processed": 990,
+  "generated_at": "2026-07-27T09:24:24.552890+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "如何看待谷歌豪赌 AI ，自由现金流数十年来首次转负？",
-          "url": "https://www.zhihu.com/question/2063587044526404438",
-          "source": "知乎",
-          "ranks": [
-            16,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时58分 ~ 20时49分]"
-        },
-        {
-          "title": "不满谷歌被重罚，特朗普威胁对欧盟征收巨额关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33658424",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时58分"
-        },
-        {
-          "title": "英伟达“开放权重模型”公开信联署方翻倍至50个 谷歌等加入",
-          "url": "https://flash.jin10.com/detail/20260726111836175800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "教育",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "印度总统府宣布：总统接受教育部长Pradhan的辞呈，由部长Joshi兼管教育部。",
-          "url": "https://wallstreetcn.com/livenews/3139783",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            16,
-            25,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时20分 ~ 19时15分]"
-        },
-        {
-          "title": "马克龙致电王虹,硬吹法国教育",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356472&amp;topic_name=%E9%A9%AC%E5%85%8B%E9%BE%99%E8%87%B4%E7%94%B5%E7%8E%8B%E8%99%B9%2C%E7%A1%AC%E5%90%B9%E6%B3%95%E5%9B%BD%E6%95%99%E8%82%B2",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时20分"
-        }
-      ]
-    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
         {
-          "title": "OpenAI产品负责人Tibo：ChatGPT Work的活跃用户数量正式超越Codex。",
-          "url": "https://flash.jin10.com/detail/20260726120623343800",
-          "source": "金十数据",
+          "title": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33662817",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时16分"
+          "time_info": "09时24分"
         },
         {
-          "title": "三星李在镕与OpenAI据悉磋商AI与半导体领域合作方案",
-          "url": "https://flash.jin10.com/detail/20260726125707233800",
-          "source": "金十数据",
+          "title": "知情人士称，英伟达正就为OpenAI俄亥俄州数据中心项目提供约2500亿美元财务担保进行谈判。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3139891",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时02分"
+          "time_info": "09时24分"
         }
       ]
     },
     {
-      "keyword_group": "小学",
+      "keyword_group": "人民币",
       "match_count": 1,
       "titles": [
         {
-          "title": "平均每天减少22所小学",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%B3%E5%9D%87%E6%AF%8F%E5%A4%A9%E5%87%8F%E5%B0%9122%E6%89%80%E5%B0%8F%E5%AD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时20分 ~ 16时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "交流会纪要外泄影响DeepSeek融资？内部人士：不可信",
-          "url": "https://wallstreetcn.com/livenews/3139801",
+          "title": "中国外汇交易中心（CFETS）：7月24日人民币汇率指数按周涨0.33至102.75。",
+          "url": "https://wallstreetcn.com/livenews/3139911",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            14,
-            15,
-            17
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时16分 ~ 19时15分]"
+          "appearance_count": 1,
+          "time_info": "09时24分"
         }
       ]
     }
