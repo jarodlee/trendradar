@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T12:54:37.573448+08:00",
-  "total_titles_processed": 510,
+  "generated_at": "2026-07-29T15:36:13.741780+08:00",
+  "total_titles_processed": 683,
   "failed_sources": [],
   "trends": [
     {
@@ -25,7 +25,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -58,9 +58,26 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "教育",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "王虹的经历是不是说明了，教育和环境对一个人发展的影响其实比很多人认为的大的多？",
+          "url": "https://www.zhihu.com/question/2064984398307578588",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时35分 ~ 15时36分]"
         }
       ]
     },
