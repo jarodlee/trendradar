@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-30T09:07:58.827507+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-30T12:42:32.707346+08:00",
+  "total_titles_processed": 510,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
       "match_count": 2,
       "titles": [
+        {
+          "title": "1岁半女童熟睡时遭3岁男孩9次拿被褥捂住头，男孩家长：会对孩子开展教育",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33680950",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 12时42分]"
+        },
         {
           "title": "教育部长被迫下台，莫迪政府遭遇空前挑战",
           "url": "https://news.ifeng.com/c/8vA8gE05sFB",
@@ -17,34 +29,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
-        },
-        {
-          "title": "1岁半女童熟睡时遭3岁男孩9次拿被褥捂住头，男孩家长：会对孩子开展教育",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33680950",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
           "url": "https://www.zhihu.com/question/2065583157664018461",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 12时42分]"
+        },
+        {
+          "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
+          "url": "https://www.zhihu.com/question/2065729146383071132",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时07分"
+          "time_info": "12时42分"
         }
       ]
     }
