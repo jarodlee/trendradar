@@ -1,130 +1,50 @@
 {
-  "generated_at": "2026-07-30T22:58:46.624409+08:00",
-  "total_titles_processed": 1190,
+  "generated_at": "2026-07-31T09:20:54.301403+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
-          "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
-          "url": "https://www.zhihu.com/question/2065583157664018461",
-          "source": "知乎",
-          "ranks": [
-            12,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时07分 ~ 20时20分]"
-        },
-        {
-          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
-          "url": "https://www.cls.cn/detail/2441076",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时20分 ~ 22时58分]"
-        },
-        {
-          "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
-          "url": "https://www.zhihu.com/question/2065729146383071132",
-          "source": "知乎",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 15时24分]"
-        },
-        {
-          "title": "如何评价翁荔因病离职后火速入职 OpenAI？",
-          "url": "https://www.zhihu.com/question/2066073475731690339",
+          "title": "如何看待 OpenAI 将 GPT-5.6Luna 和 Terra 价格大幅度下调？大模型会进入价格战时代吗？",
+          "url": "https://www.zhihu.com/question/2066333638568972760",
           "source": "知乎",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小学",
-      "match_count": 3,
-      "titles": [
+          "time_info": "09时20分"
+        },
         {
-          "title": "一道小学数学题难住3名医学博士",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E9%81%93%E5%B0%8F%E5%AD%A6%E6%95%B0%E5%AD%A6%E9%A2%98%E9%9A%BE%E4%BD%8F3%E5%90%8D%E5%8C%BB%E5%AD%A6%E5%8D%9A%E5%A3%AB",
+          "title": "OpenAI大砍两款AI模型价格",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E5%A4%A7%E7%A0%8D%E4%B8%A4%E6%AC%BEAI%E6%A8%A1%E5%9E%8B%E4%BB%B7%E6%A0%BC",
           "source": "百度热搜",
           "ranks": [
-            26,
-            8
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时24分 ~ 18时07分]"
-        },
-        {
-          "title": "2034杯小学生足球大会",
-          "url": "https://search.bilibili.com/all?keyword=2034%E6%9D%AF%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%B6%B3%E7%90%83%E5%A4%A7%E4%BC%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时20分 ~ 22时58分]"
-        },
-        {
-          "title": "小学生球赛为啥引来3500万人围观",
-          "url": "https://www.toutiao.com/trending/7667996775479836710/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时58分"
+          "time_info": "09时20分"
         }
       ]
     },
     {
-      "keyword_group": "教育",
-      "match_count": 2,
+      "keyword_group": "美元",
+      "match_count": 1,
       "titles": [
         {
-          "title": "1岁半女童熟睡时遭3岁男孩9次拿被褥捂住头，男孩家长：会对孩子开展教育",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33680950",
-          "source": "澎湃新闻",
+          "title": "大奇迹日！美通胀降温与微软大涨刺激，美芯片指数暴涨8%，纳指大反弹，日元急涨美元跳水",
+          "url": "https://wallstreetcn.com/articles/3778287",
+          "source": "华尔街见闻",
           "ranks": [
-            14,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时07分 ~ 15时24分]"
-        },
-        {
-          "title": "教育部长被迫下台，莫迪政府遭遇空前挑战",
-          "url": "https://news.ifeng.com/c/8vA8gE05sFB",
-          "source": "凤凰网",
-          "ranks": [
-            8
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时07分"
+          "time_info": "09时20分"
         }
       ]
     }
