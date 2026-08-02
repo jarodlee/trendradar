@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-08-02T17:49:09.604348+08:00",
-  "total_titles_processed": 709,
-  "failed_sources": [
-    "wallstreetcn-quick"
-  ],
+  "generated_at": "2026-08-02T19:09:29.275142+08:00",
+  "total_titles_processed": 796,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
@@ -14,11 +12,12 @@
           "url": "https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E9%9F%A9%E5%9B%BD%E7%AA%81%E7%84%B6%E5%AE%A3%E7%A7%B0%E6%9C%89%E5%AA%B2%E7%BE%8EDeepSeek%E5%A4%A7%E6%A8%A1%E5%9E%8B&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
-            2
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 17时49分]"
+          "appearance_count": 3,
+          "time_info": "[17时48分 ~ 19时09分]"
         },
         {
           "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
@@ -68,8 +67,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时19分 ~ 17时49分]"
+          "appearance_count": 7,
+          "time_info": "[09时19分 ~ 19时09分]"
         },
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -79,11 +78,12 @@
             4,
             8,
             12,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时19分 ~ 17时49分]"
+          "appearance_count": 7,
+          "time_info": "[09时19分 ~ 19时09分]"
         },
         {
           "title": "OpenAI的10项数学突破含金量多高",
@@ -114,6 +114,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "如何看待房主任在二女儿生日宴诉苦被指愧疚式教育？大女儿说其当年坚持说是为了女儿，实则为自己，你怎么看？",
+          "url": "https://www.zhihu.com/question/2067018457934197978",
+          "source": "知乎",
+          "ranks": [
+            4,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时04分 ~ 19时09分]"
+        },
+        {
           "title": "女儿说房主任愧疚式教育",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E8%AF%B4%E6%88%BF%E4%B8%BB%E4%BB%BB%E6%84%A7%E7%96%9A%E5%BC%8F%E6%95%99%E8%82%B2%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -123,18 +136,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时19分 ~ 09时20分]"
-        },
-        {
-          "title": "如何看待房主任在二女儿生日宴诉苦被指愧疚式教育？大女儿说其当年坚持说是为了女儿，实则为自己，你怎么看？",
-          "url": "https://www.zhihu.com/question/2067018457934197978",
-          "source": "知乎",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时04分 ~ 17时49分]"
         }
       ]
     },
@@ -148,11 +149,29 @@
           "source": "百度热搜",
           "ranks": [
             15,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时57分 ~ 17时49分]"
+          "appearance_count": 4,
+          "time_info": "[15时57分 ~ 19时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Gemini直播",
+          "url": "https://s.weibo.com/weibo?q=Gemini%E7%9B%B4%E6%92%AD&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         }
       ]
     }
