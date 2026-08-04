@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T15:28:19.259482+08:00",
-  "total_titles_processed": 671,
+  "generated_at": "2026-08-04T18:23:55.228684+08:00",
+  "total_titles_processed": 853,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
@@ -43,24 +43,25 @@
           "time_info": "09时12分"
         },
         {
+          "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
+          "url": "https://www.zhihu.com/question/2067873642554156045",
+          "source": "知乎",
+          "ranks": [
+            12,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 18时23分]"
+        },
+        {
           "title": "DeepSeek斩杀线",
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%96%A9%E6%9D%80%E7%BA%BF&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
             6,
             18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 15时28分]"
-        },
-        {
-          "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
-          "url": "https://www.zhihu.com/question/2067873642554156045",
-          "source": "知乎",
-          "ranks": [
-            12,
-            6
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -76,6 +77,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
+        },
+        {
+          "title": "DeepSeek低价风暴打服硅谷",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E4%BD%8E%E4%BB%B7%E9%A3%8E%E6%9A%B4%E6%89%93%E6%9C%8D%E7%A1%85%E8%B0%B7",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "OpenAI等巨头大幅降价对标DeepSeek",
@@ -106,9 +118,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
+        },
+        {
+          "title": "DeepSeek斩杀了谁",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%A9%E6%9D%80%E4%BA%86%E8%B0%81",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         }
       ]
     },
@@ -135,9 +158,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时28分 ~ 18时23分]"
         }
       ]
     },
@@ -150,11 +173,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E9%97%A8%E5%8F%A3%E2%80%9C%E4%B8%80%E6%A0%B9%E6%9D%86%E9%95%BF%E6%A4%85%E2%80%9D%E8%B5%B0%E7%BA%A2",
           "source": "百度热搜",
           "ranks": [
-            27
+            27,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时28分 ~ 18时23分]"
         }
       ]
     },
@@ -169,11 +193,12 @@
           "ranks": [
             10,
             13,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 15时28分]"
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 18时23分]"
         }
       ]
     }
