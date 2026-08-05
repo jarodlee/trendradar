@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T20:31:03.751359+08:00",
-  "total_titles_processed": 1011,
+  "generated_at": "2026-08-05T23:05:48.246962+08:00",
+  "total_titles_processed": 1167,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时57分 ~ 20时31分]"
+          "appearance_count": 4,
+          "time_info": "[18时57分 ~ 23时05分]"
         },
         {
           "title": "DeepSeek干完活自己写了个游戏",
@@ -98,7 +99,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "苹果状告OpenAI，反遭嘲讽：律师连邮件都发不对",
@@ -110,6 +111,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时50分 ~ 18时57分]"
+        },
+        {
+          "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
+          "url": "https://www.zhihu.com/question/2068265537105302957",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         },
         {
           "title": "OpenAI降价,老日高喊中国万岁",
