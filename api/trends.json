@@ -1,52 +1,34 @@
 {
-  "generated_at": "2026-08-05T15:32:00.294698+08:00",
-  "total_titles_processed": 676,
+  "generated_at": "2026-08-05T18:57:51.634065+08:00",
+  "total_titles_processed": 873,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "教育",
-      "match_count": 3,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 4,
       "titles": [
         {
-          "title": "广东一事业单位笔试第一考生被第二名花钱劝弃考，教育局已开展核查，反映了哪些教育管理问题？",
-          "url": "https://www.zhihu.com/question/2068177634983515593",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时50分 ~ 15时32分]"
-        },
-        {
-          "title": "教育部规定义务教育阶段每名学生每学期至少完成 1 项科学探究任务，这将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2068031793542984696",
+          "title": "梁文锋会不会成为中国AI里程碑人物？",
+          "url": "https://www.zhihu.com/question/10315979917",
           "source": "知乎",
           "ranks": [
             7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 15时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         },
         {
-          "title": "教育局回应笔试第一被传话劝弃考",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E7%AC%94%E8%AF%95%E7%AC%AC%E4%B8%80%E8%A2%AB%E4%BC%A0%E8%AF%9D%E5%8A%9D%E5%BC%83%E8%80%83%23&t=31&band_rank=7&Refer=top",
+          "title": "DeepSeek干完活自己写了个游戏",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B9%B2%E5%AE%8C%E6%B4%BB%E8%87%AA%E5%B7%B1%E5%86%99%E4%BA%86%E4%B8%AA%E6%B8%B8%E6%88%8F&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
-            7
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
+          "time_info": "18时57分"
+        },
         {
           "title": "DeepSeek重启融资 投前估值5000亿元",
           "url": "https://www.toutiao.com/trending/7670354038151450166/",
@@ -72,6 +54,47 @@
       ]
     },
     {
+      "keyword_group": "教育",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "广东一事业单位笔试第一考生被第二名花钱劝弃考，教育局已开展核查，反映了哪些教育管理问题？",
+          "url": "https://www.zhihu.com/question/2068177634983515593",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 18时57分]"
+        },
+        {
+          "title": "教育部规定义务教育阶段每名学生每学期至少完成 1 项科学探究任务，这将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2068031793542984696",
+          "source": "知乎",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时31分 ~ 18时57分]"
+        },
+        {
+          "title": "教育局回应笔试第一被传话劝弃考",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E7%AC%94%E8%AF%95%E7%AC%AC%E4%B8%80%E8%A2%AB%E4%BC%A0%E8%AF%9D%E5%8A%9D%E5%BC%83%E8%80%83%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -83,8 +106,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时50分 ~ 15时32分]"
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 18时57分]"
         },
         {
           "title": "OpenAI降价,老日高喊中国万岁",
