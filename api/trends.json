@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-08-05T12:50:30.413743+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2026-08-05T15:32:00.294698+08:00",
+  "total_titles_processed": 676,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "广东一事业单位笔试第一考生被第二名花钱劝弃考，教育局已开展核查，反映了哪些教育管理问题？",
           "url": "https://www.zhihu.com/question/2068177634983515593",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时50分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 15时32分]"
+        },
+        {
+          "title": "教育部规定义务教育阶段每名学生每学期至少完成 1 项科学探究任务，这将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2068031793542984696",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时31分 ~ 15时32分]"
         },
         {
           "title": "教育局回应笔试第一被传话劝弃考",
@@ -42,7 +54,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
         },
@@ -53,7 +65,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
         }
@@ -70,9 +82,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时50分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 15时32分]"
         },
         {
           "title": "OpenAI降价,老日高喊中国万岁",
