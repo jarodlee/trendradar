@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-08T12:02:00.658078+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2026-08-08T12:56:11.151328+08:00",
+  "total_titles_processed": 563,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
+          "url": "https://www.zhihu.com/question/2068108635620774765",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时47分 ~ 12时56分]"
+        },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
           "url": "https://m.thepaper.cn/newsDetail_forward_33739348",
@@ -16,19 +28,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时37分 ~ 12时02分]"
+          "appearance_count": 6,
+          "time_info": "[08时37分 ~ 12时56分]"
         },
         {
-          "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
-          "url": "https://www.zhihu.com/question/2068108635620774765",
-          "source": "知乎",
+          "title": "梁文锋为何重仓宇树科技",
+          "url": "https://www.toutiao.com/trending/7671445304096345619/",
+          "source": "今日头条",
           "ranks": [
-            7
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时47分 ~ 12时02分]"
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 12时56分]"
         },
         {
           "title": "如何评价网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午？为什么会出现这样的现象？",
@@ -64,11 +76,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时47分 ~ 12时02分]"
+          "appearance_count": 5,
+          "time_info": "[10时47分 ~ 12时56分]"
         },
         {
           "title": "佛山一中学教师招聘笔试前13名被淘汰、后5名进体检名单？市教育局通报",
@@ -77,11 +90,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时37分 ~ 12时02分]"
+          "appearance_count": 6,
+          "time_info": "[08时37分 ~ 12时56分]"
         }
       ]
     },
@@ -95,11 +109,12 @@
           "source": "贴吧",
           "ranks": [
             17,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时37分 ~ 12时02分]"
+          "appearance_count": 6,
+          "time_info": "[08时37分 ~ 12时56分]"
         }
       ]
     },
@@ -114,11 +129,12 @@
           "ranks": [
             1,
             13,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时37分 ~ 12时02分]"
+          "appearance_count": 4,
+          "time_info": "[08时37分 ~ 12时56分]"
         }
       ]
     }
