@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T19:17:47.707001+08:00",
-  "total_titles_processed": 964,
+  "generated_at": "2026-08-08T20:19:38.856559+08:00",
+  "total_titles_processed": 1053,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             7,
             5,
             4,
-            3
+            3,
+            16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时47分 ~ 19时17分]"
+          "appearance_count": 15,
+          "time_info": "[10时47分 ~ 20时19分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
@@ -32,8 +33,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时37分 ~ 19时17分]"
+          "appearance_count": 16,
+          "time_info": "[08时37分 ~ 20时19分]"
         },
         {
           "title": "梁文锋为何重仓宇树科技",
@@ -95,8 +96,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时47分 ~ 19时17分]"
+          "appearance_count": 15,
+          "time_info": "[10时47分 ~ 20时19分]"
         },
         {
           "title": "佛山一中学教师招聘笔试前13名被淘汰、后5名进体检名单？市教育局通报",
@@ -128,11 +129,12 @@
             23,
             24,
             26,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时37分 ~ 19时17分]"
+          "appearance_count": 16,
+          "time_info": "[08时37分 ~ 20时19分]"
         }
       ]
     },
