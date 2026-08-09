@@ -1,187 +1,67 @@
 {
-  "generated_at": "2026-08-08T22:21:32.040530+08:00",
-  "total_titles_processed": 1203,
+  "generated_at": "2026-08-09T08:39:24.718156+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
-          "url": "https://www.zhihu.com/question/2068108635620774765",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5,
-            4,
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时47分 ~ 20时19分]"
-        },
-        {
-          "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33739348",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            16,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时37分 ~ 21时36分]"
-        },
-        {
-          "title": "梁文锋为何重仓宇树科技",
-          "url": "https://www.toutiao.com/trending/7671445304096345619/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 12时56分]"
-        },
-        {
-          "title": "梁文锋为什么投王兴兴",
-          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8A%95%E7%8E%8B%E5%85%B4%E5%85%B4",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时33分 ~ 14时29分]"
-        },
-        {
-          "title": "如何评价网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午？为什么会出现这样的现象？",
-          "url": "https://www.zhihu.com/question/2068108635620774765",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时37分"
-        },
-        {
-          "title": "梁文锋 只想用座机",
-          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B+%E5%8F%AA%E6%83%B3%E7%94%A8%E5%BA%A7%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "教育",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "佛山一中学招聘前 13 名考生均被淘汰，后 5 名反进体检，教育局已成立调查组，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2069064416709063399",
-          "source": "知乎",
-          "ranks": [
-            6,
-            2,
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时47分 ~ 22时21分]"
-        },
-        {
-          "title": "佛山一中学教师招聘笔试前13名被淘汰、后5名进体检名单？市教育局通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33736773",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时37分 ~ 14时29分]"
-        }
-      ]
-    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
         {
-          "title": "核心团队跑路,Gemini陷大危机",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
-          "source": "贴吧",
+          "title": "伯克希尔Q2净利润翻倍，单季回购规模创5年来最大，谷歌进入前五大持仓 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778993",
+          "source": "华尔街见闻",
           "ranks": [
-            17,
-            21,
-            23,
-            24,
-            26,
-            27,
-            30
+            3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时37分 ~ 20时19分]"
+          "appearance_count": 1,
+          "time_info": "08时39分"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
           "url": "https://wallstreetcn.com/livenews/3147006",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            12
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时36分 ~ 22时21分]"
+          "appearance_count": 1,
+          "time_info": "08时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
+          "url": "https://www.zhihu.com/question/2068108635620774765",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时39分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "OpenAI首席执行官Altman称：正推进Astra全面开放使用。",
-          "url": "https://wallstreetcn.com/livenews/3146942",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13,
-            19,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时37分 ~ 14时29分]"
-        },
         {
           "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
           "url": "https://wallstreetcn.com/articles/3778988",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时36分 ~ 22时21分]"
+          "appearance_count": 1,
+          "time_info": "08时39分"
         }
       ]
     }
