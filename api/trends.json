@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T16:02:08.176832+08:00",
-  "total_titles_processed": 936,
+  "generated_at": "2026-08-11T16:50:19.699269+08:00",
+  "total_titles_processed": 1028,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时41分 ~ 16时02分]"
+          "appearance_count": 4,
+          "time_info": "[14时41分 ~ 16时50分]"
         },
         {
           "title": "如何评价即将发布的 DeepSeek-V4 Pro 正式版，有哪些亮点？",
@@ -37,7 +37,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         }
@@ -59,8 +59,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时40分 ~ 16时02分]"
+          "appearance_count": 9,
+          "time_info": "[08时40分 ~ 16时50分]"
         }
       ]
     },
