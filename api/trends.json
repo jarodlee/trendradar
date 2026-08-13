@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T11:20:19.806126+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-08-13T13:25:57.281771+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时48分 ~ 11时20分]"
+          "appearance_count": 3,
+          "time_info": "[08时48分 ~ 13时25分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
+          "url": "https://www.cls.cn/detail/2452920",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时48分 ~ 13时25分]"
         },
         {
           "title": "DeepSeek重磅更新 V4Pro正式版上线",
@@ -30,30 +43,6 @@
           "time_info": "08时48分"
         },
         {
-          "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
-          "url": "https://www.cls.cn/detail/2452920",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时48分 ~ 11时20分]"
-        },
-        {
-          "title": "DeepSeek V4 Pro正式版上线",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时48分 ~ 11时20分]"
-        },
-        {
           "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
           "url": "https://wallstreetcn.com/articles/3779306",
           "source": "华尔街见闻",
@@ -62,8 +51,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时48分 ~ 11时20分]"
+          "appearance_count": 3,
+          "time_info": "[08时48分 ~ 13时25分]"
         },
         {
           "title": "Deepseek V4Pro 正式版发布，相比 Claude Fable 5 等模型，性能如何？性价比高吗？",
@@ -71,7 +60,20 @@
           "source": "知乎",
           "ranks": [
             5,
-            11
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时48分 ~ 13时25分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版上线",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -117,7 +119,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -128,7 +130,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -158,8 +160,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时48分 ~ 11时20分]"
+          "appearance_count": 3,
+          "time_info": "[08时48分 ~ 13时25分]"
         }
       ]
     },
@@ -172,11 +174,12 @@
           "url": "https://wallstreetcn.com/articles/3779285",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时48分 ~ 11时20分]"
+          "appearance_count": 3,
+          "time_info": "[08时48分 ~ 13时25分]"
         }
       ]
     }
