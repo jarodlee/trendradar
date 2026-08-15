@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-15T11:27:50.662193+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2026-08-15T15:20:24.500251+08:00",
+  "total_titles_processed": 676,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             9,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时27分 ~ 11时27分]"
+          "appearance_count": 4,
+          "time_info": "[08时27分 ~ 15时20分]"
         },
         {
           "title": "DeepSeek Harness实测",
@@ -27,11 +28,12 @@
           "ranks": [
             13,
             16,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时27分 ~ 11时27分]"
+          "appearance_count": 4,
+          "time_info": "[08时27分 ~ 15时20分]"
         },
         {
           "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
@@ -51,9 +53,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        },
+        {
+          "title": "如何看待 DeepSeek-V4 Pro 正式版疑似过拟合 DeepSeek Harness 的极简模式？",
+          "url": "https://www.zhihu.com/question/2071773348753945432",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         },
         {
           "title": "读懂DeepSeek开源背后的野心",
